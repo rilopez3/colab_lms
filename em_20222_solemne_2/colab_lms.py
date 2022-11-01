@@ -2,10 +2,11 @@ import io, sys, traceback, hashlib, urllib.request
 
 def get_case(preg):
   cases = {}
-  with open('cases_urls.txt', 'r') as f:
-    for l in f.readlines():
-      l = l.strip().split(',')
-      cases[l[0]] = l[1]
+  f = urllib.request.urlopen('p1,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_urls.txt')
+  for l in f.readlines():
+    l = l.decode("utf-8")
+    l = l.strip().split(',')
+    cases[l[0]] = l[1]
   if preg in cases:
     return cases[preg]
   return None
