@@ -1,0 +1,101 @@
+#FPregunta 3
+#PCase 1
+%CODE
+print(mover_unidades([7,7,7,7,7,7],4,2,2))
+%OUTPUT
+[7, 7, 9, 7, 5, 7]
+#PCase 2
+%CODE
+print(mover_unidades([3,3,3,3,3,3,3,3,3],0,2,4))
+%OUTPUT
+[-1, 3, 7, 3, 3, 3, 3, 3, 3]
+#PCase 3
+%CODE
+print(mover_unidades([9,9,9,9,9],4,2,4))
+%OUTPUT
+[9, 9, 13, 9, 5]
+#PCase 4
+%CODE
+print(mover_unidades([8,8,8,8],0,2,4))
+%OUTPUT
+[4, 8, 12, 8]
+#PCase 5
+%CODE
+print(mover_unidades([6,6,6,6],3,1,2))
+%OUTPUT
+[6, 8, 6, 4]
+#PCase 6
+%CODE
+print(mover_unidades([3,3,3,3,3,3,3,3],6,5,2))
+%OUTPUT
+[3, 3, 3, 3, 3, 5, 1, 3]
+#PCase 7
+%CODE
+print(mover_unidades([5,5,5,5,5],4,0,4))
+%OUTPUT
+[9, 5, 5, 5, 1]
+#PCase 8
+%CODE
+print(mover_unidades([2,2,2,2],3,1,4))
+%OUTPUT
+[2, 6, 2, -2]
+#PCase 9
+%CODE
+print(mover_unidades([5,5,5,5,5,5],5,0,5))
+%OUTPUT
+[10, 5, 5, 5, 5, 0]
+#PCase 10
+%CODE
+print(mover_unidades([3,3,3,3],1,0,2))
+%OUTPUT
+[5, 1, 3, 3]
+#SCase 1
+%CODE
+print(mover_unidades([5,5,5,5,5,5,5,5,5],4,8,2))
+%OUTPUT
+b65521135668919e1cd1978c6ed792a8
+#SCase 2
+%CODE
+print(mover_unidades([10,10,10,10,10,10,10],0,1,9))
+%OUTPUT
+b18a9527d2e76be9d22333fe4fdb78b8
+#SCase 3
+%CODE
+print(mover_unidades([8,8,8,8,8,8,8],4,0,2))
+%OUTPUT
+53be73e17bc2566bcfd7be33d26e40cb
+#SCase 4
+%CODE
+print(mover_unidades([22,22,22,22,22,22,22],5,1,14))
+%OUTPUT
+685fe869b9bcdd26b374d13578e0512b
+#SCase 5
+%CODE
+print(mover_unidades([13,13,13,13,13,13,13,13,13,13],6,9,1))
+%OUTPUT
+34820bc020e2488a9be60226dbb361b1
+#SCase 6
+%CODE
+print(mover_unidades([14,14,14,14,14,14,14],3,1,10))
+%OUTPUT
+fff6f08c2be6def1f5859a508669bd9d
+#SCase 7
+%CODE
+print(mover_unidades([28,28,28,28,28,28,28,28],5,3,3))
+%OUTPUT
+c3d93671e865c93a66d07c119daf5aa3
+#SCase 8
+%CODE
+print(mover_unidades([13,13,13,13,13,13,13,13,13,13,13,13,13],7,12,2))
+%OUTPUT
+935c75acbe181dc86b61b1fdbcbaad03
+#SCase 9
+%CODE
+print(mover_unidades([8,8,8,8,8,8,8,8,8,8,8,8,8],6,4,5))
+%OUTPUT
+b2d22d29dd69b0cada01b31f16543157
+#SCase 10
+%CODE
+print(mover_unidades([6,6,6,6,6,6,6,6,6,6,6],7,3,5))
+%OUTPUT
+eb27fe71f316652590191f7add5b0792
