@@ -1,0 +1,3 @@
+path,filename,nombre,correo_escuela_militar,pub_ok,pub_total,sec_ok,sec_total
+raw\test_2.ipynb,test_2.ipynb,test2,asd2@asd.cl,20,50,20,50
+raw\test\test_1.ipynb,test_1.ipynb,test,asd@asd.cl,10,50,10,50
