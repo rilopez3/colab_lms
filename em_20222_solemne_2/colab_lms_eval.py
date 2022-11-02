@@ -11,7 +11,7 @@ def get_case(preg):
   return None
 
 def clean_exec():
-  var_clean = ['nombre','correo_escuela_militar','crear_tropas','agregar_unidades','mover_unidades','total_unidades','reasignar_unidades']
+  var_clean = evaluation_variables()
   clean_text = ''
   for i in var_clean:
     clean_text += i + '= None\n'
@@ -43,7 +43,7 @@ def eval_preg(preg):
   return None
 
 def evaluation_variables():
-  return ['nombre','correo_escuela_militar']
+  return ['nombre','correo_escuela_militar','seccion']
 
 def get_variables():
   var_to_get = evaluation_variables()

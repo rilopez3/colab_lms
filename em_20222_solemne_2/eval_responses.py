@@ -2,7 +2,9 @@ import glob
 
 from json import load
 from datetime import datetime
-debug = True
+
+debug = False
+
 protected = ['In', 'Out', 'get_ipython', 'exit', 'quit', 'glob', 'i', 'io', 'sys', 'traceback', 'hashlib',
              'urllib', 'get_case', 'run_case', 'read_cases', 'run_test', 'clean_exec', 'eval_preg',
              'get_variables', 'eval_case', 'get_preg', 'protected', 'clean_globals',
@@ -34,6 +36,7 @@ with open('res/results '+ (str(datetime.now()).replace('-','_').replace(':','')[
 
         filename = filepath.split('\\')[-1]
 
+        exec(clean_exec())
         if debug:
             print('VARIABLES GLOBALES NONEADAS', flush=True)
         globales = list(globals().keys())
