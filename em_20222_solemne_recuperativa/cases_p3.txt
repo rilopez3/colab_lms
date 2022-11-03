@@ -1,0 +1,101 @@
+#FPregunta 3
+#PCase 1
+%CODE
+print(cantidad_reprobados([2.19, 2.53, 6.59, 4.1, 5.49, 4.11, 6.17, 6.3]))
+%OUTPUT
+2
+#PCase 2
+%CODE
+print(cantidad_reprobados([3.93, 3.84, 4.08, 6.14, 6.68, 6.91, 4.4, 2.05, 1.14, 5.0, 3.31, 5.35, 7.0, 2.5, 6.69, 3.7, 4.54, 6.6]))
+%OUTPUT
+7
+#PCase 3
+%CODE
+print(cantidad_reprobados([2.16, 5.12, 2.65, 3.54, 2.34, 5.66, 6.94, 2.96, 5.06, 5.22, 2.57, 3.29, 2.81, 5.85, 1.79, 4.16, 1.82, 5.92, 6.3]))
+%OUTPUT
+10
+#PCase 4
+%CODE
+print(cantidad_reprobados([2.44, 2.42, 4.36, 4.08, 2.29]))
+%OUTPUT
+3
+#PCase 5
+%CODE
+print(cantidad_reprobados([6.79, 1.68, 5.62, 3.55, 4.33, 6.74, 1.09, 6.73, 4.45, 3.02, 5.88, 3.86]))
+%OUTPUT
+5
+#PCase 6
+%CODE
+print(cantidad_reprobados([4.8, 1.58, 6.46, 4.4, 4.82, 6.2, 6.24, 1.1, 5.98, 2.47, 4.62, 2.99, 5.53, 1.68, 2.53, 1.01, 6.2, 5.15]))
+%OUTPUT
+7
+#PCase 7
+%CODE
+print(cantidad_reprobados([2.6, 5.64, 5.47, 1.89, 4.83, 2.31, 3.88, 6.58, 2.51, 3.19, 4.43, 5.0, 5.87, 1.39, 5.04, 4.93, 6.81, 1.78]))
+%OUTPUT
+8
+#PCase 8
+%CODE
+print(cantidad_reprobados([2.18, 2.02, 1.68, 6.66, 4.79, 1.5, 2.53, 2.61, 2.64, 6.59, 4.64, 3.81, 5.93]))
+%OUTPUT
+8
+#PCase 9
+%CODE
+print(cantidad_reprobados([2.5, 5.83, 5.58, 4.4, 6.83, 2.96, 4.25, 6.98, 3.74, 6.21, 2.81, 3.4, 2.94, 1.78]))
+%OUTPUT
+7
+#PCase 10
+%CODE
+print(cantidad_reprobados([4.06, 4.79, 6.02, 5.35, 2.08, 5.17, 6.79, 1.07, 4.4, 3.67, 5.57, 6.89, 1.97]))
+%OUTPUT
+4
+#SCase 1
+%CODE
+print(cantidad_reprobados([4.08, 4.76, 2.98, 5.07, 4.87]))
+%OUTPUT
+c4ca4238a0b923820dcc509a6f75849b
+#SCase 2
+%CODE
+print(cantidad_reprobados([5.24, 1.72, 1.57, 6.82, 2.08, 6.68, 6.23, 1.77]))
+%OUTPUT
+a87ff679a2f3e71d9181a67b7542122c
+#SCase 3
+%CODE
+print(cantidad_reprobados([6.97, 1.16, 6.23, 3.76, 6.13, 3.43, 6.78, 5.28, 3.32, 5.0, 2.68, 2.31, 2.9, 1.1]))
+%OUTPUT
+c9f0f895fb98ab9159f51fd0297e236d
+#SCase 4
+%CODE
+print(cantidad_reprobados([1.14, 6.89, 1.43, 6.95, 6.75, 4.46, 2.06]))
+%OUTPUT
+eccbc87e4b5ce2fe28308fd9f2a7baf3
+#SCase 5
+%CODE
+print(cantidad_reprobados([3.01, 2.69, 2.5, 3.44, 2.21, 4.4, 6.96, 4.96, 1.95, 3.31, 2.54, 3.23]))
+%OUTPUT
+45c48cce2e2d7fbdea1afc51c7c6ad26
+#SCase 6
+%CODE
+print(cantidad_reprobados([4.44, 4.71, 2.45, 3.06, 6.96, 6.17, 3.51, 6.21, 3.77, 3.41, 2.05, 3.3, 3.75]))
+%OUTPUT
+c9f0f895fb98ab9159f51fd0297e236d
+#SCase 7
+%CODE
+print(cantidad_reprobados([4.99, 1.5, 5.03, 2.49, 6.21, 2.78, 6.91, 6.52, 2.35, 5.48]))
+%OUTPUT
+a87ff679a2f3e71d9181a67b7542122c
+#SCase 8
+%CODE
+print(cantidad_reprobados([4.18, 6.35, 6.57, 4.82, 1.67, 6.63, 5.83, 2.2, 2.27, 4.46, 3.85, 2.52, 1.79, 6.87, 1.55]))
+%OUTPUT
+8f14e45fceea167a5a36dedd4bea2543
+#SCase 9
+%CODE
+print(cantidad_reprobados([2.75, 6.11, 4.85, 4.25, 3.77, 4.56]))
+%OUTPUT
+c81e728d9d4c2f636f067f89cc14862c
+#SCase 10
+%CODE
+print(cantidad_reprobados([6.54, 1.82, 4.64, 3.17, 4.99, 2.84, 5.45, 6.69, 4.7, 6.04]))
+%OUTPUT
+eccbc87e4b5ce2fe28308fd9f2a7baf3

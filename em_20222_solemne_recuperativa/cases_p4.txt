@@ -1,0 +1,101 @@
+#FPregunta 2
+#PCase 1
+%CODE
+print(promedio_curso([4.58, 6.59, 5.26, 5.35, 3.45, 4.42, 3.98, 3.06, 3.46, 5.05]))
+%OUTPUT
+4.52
+#PCase 2
+%CODE
+print(promedio_curso([5.43, 1.72, 4.79, 3.08, 5.85, 4.26, 2.88, 3.56, 4.34, 6.27]))
+%OUTPUT
+4.217999999999999
+#PCase 3
+%CODE
+print(promedio_curso([3.29, 1.32, 5.44, 2.46, 2.62, 4.81, 6.3, 6.87, 2.29, 1.65]))
+%OUTPUT
+3.7049999999999996
+#PCase 4
+%CODE
+print(promedio_curso([3.72, 6.93, 3.85, 5.96, 2.13, 5.91, 6.72, 6.17, 5.97, 3.69]))
+%OUTPUT
+5.1049999999999995
+#PCase 5
+%CODE
+print(promedio_curso([3.41, 1.77, 4.38, 5.72, 5.68, 6.32, 5.63, 3.46, 2.92, 6.26]))
+%OUTPUT
+4.555
+#PCase 6
+%CODE
+print(promedio_curso([2.5, 6.88, 6.86, 6.41, 2.16, 2.31, 3.33, 1.32, 4.39, 5.69]))
+%OUTPUT
+4.185
+#PCase 7
+%CODE
+print(promedio_curso([5.53, 6.97, 5.14, 2.77, 3.68, 4.17, 3.7, 1.11, 6.69, 3.7]))
+%OUTPUT
+4.346
+#PCase 8
+%CODE
+print(promedio_curso([2.91, 5.12, 2.42, 2.26, 2.98, 5.81, 5.58, 1.67, 3.69, 3.38]))
+%OUTPUT
+3.582
+#PCase 9
+%CODE
+print(promedio_curso([6.1, 4.59, 1.65, 3.74, 6.5, 4.79, 1.54, 2.61, 5.63, 5.12]))
+%OUTPUT
+4.226999999999999
+#PCase 10
+%CODE
+print(promedio_curso([2.12, 5.39, 4.26, 3.65, 4.44, 5.92, 3.35, 3.04, 6.93, 2.65]))
+%OUTPUT
+4.175
+#SCase 1
+%CODE
+print(promedio_curso([2.51, 5.32, 5.29, 3.07, 3.68, 3.34, 5.99, 5.99, 3.78, 3.9]))
+%OUTPUT
+92cdeee1f560dd7e4cc5cb7bc5341f6e
+#SCase 2
+%CODE
+print(promedio_curso([4.44, 2.27, 1.4, 6.93, 5.73, 6.72, 4.0, 2.43, 4.55, 3.32]))
+%OUTPUT
+d31ca8e2f983c3c3ef543738a600359c
+#SCase 3
+%CODE
+print(promedio_curso([6.09, 4.08, 2.66, 3.96, 1.12, 3.49, 6.93, 1.84, 5.75, 3.77]))
+%OUTPUT
+3bf5d31253354a389958fc6578e1b1bc
+#SCase 4
+%CODE
+print(promedio_curso([5.79, 1.19, 3.02, 6.06, 1.81, 6.98, 1.48, 1.86, 1.32, 2.86]))
+%OUTPUT
+f67df4f40928951fac0dbdd24b442751
+#SCase 5
+%CODE
+print(promedio_curso([4.76, 1.86, 3.76, 6.02, 2.81, 1.94, 2.88, 3.29, 2.21, 5.49]))
+%OUTPUT
+d06a493a8aa2c225accf87d73983a7c4
+#SCase 6
+%CODE
+print(promedio_curso([5.85, 6.0, 6.47, 1.25, 2.08, 5.52, 3.52, 2.82, 6.6, 1.92]))
+%OUTPUT
+4f850030c0b8d086258a16de7abfa299
+#SCase 7
+%CODE
+print(promedio_curso([3.36, 3.46, 6.79, 4.88, 5.6, 3.0, 6.09, 1.89, 5.69, 5.08]))
+%OUTPUT
+9c42c685ab907a34a47e23194fe80f61
+#SCase 8
+%CODE
+print(promedio_curso([5.33, 4.76, 6.27, 2.18, 1.9, 6.73, 2.11, 4.92, 1.65, 5.18]))
+%OUTPUT
+6daa6cf476d48dafeb99f094d1e37cd4
+#SCase 9
+%CODE
+print(promedio_curso([5.2, 3.91, 1.17, 2.45, 4.67, 2.68, 3.65, 1.26, 4.59, 5.39]))
+%OUTPUT
+1ef59f19c379c4f38a2c58160524b233
+#SCase 10
+%CODE
+print(promedio_curso([3.6, 5.13, 6.93, 6.11, 6.34, 1.07, 6.3, 3.62, 6.62, 6.79]))
+%OUTPUT
+c91f14501ed4d951148819be2e388ff8

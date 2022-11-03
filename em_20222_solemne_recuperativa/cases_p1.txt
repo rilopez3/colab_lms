@@ -1,0 +1,101 @@
+#FPregunta 1
+#PCase 1
+%CODE
+print(nombre_alumno(['Sanchez', 'Gomez', 'Martin', 'Gomez', 'Ruiz', 'Romero', 'Gomez'], 3))
+%OUTPUT
+Gomez
+#PCase 2
+%CODE
+print(nombre_alumno(['Munoz', 'Rodriguez', 'Perez', 'Garcia', 'Rodriguez', 'Martinez', 'Garcia', 'Garcia', 'Lopez', 'Moreno', 'Munoz', 'Martinez'], 5))
+%OUTPUT
+Martinez
+#PCase 3
+%CODE
+print(nombre_alumno(['Diaz', 'Diaz', 'Fernandez', 'Alvarez', 'Garcia', 'Munoz', 'Moreno', 'Fernandez', 'Munoz', 'Ruiz', 'Martinez', 'Alonso', 'Fernandez', 'Romero', 'Hernandez'], 2))
+%OUTPUT
+Fernandez
+#PCase 4
+%CODE
+print(nombre_alumno(['Rodriguez', 'Alonso', 'Gomez', 'Fernandez', 'Garcia', 'Gomez', 'Alvarez', 'Gonzalez', 'Munoz', 'Lopez', 'Perez', 'Sanchez', 'Gomez', 'Ruiz', 'Alvarez', 'Gutierrez', 'Romero', 'Romero', 'Lopez'], 2))
+%OUTPUT
+Gomez
+#PCase 5
+%CODE
+print(nombre_alumno(['Romero', 'Diaz', 'Gonzalez', 'Munoz', 'Gomez'], 0))
+%OUTPUT
+Romero
+#PCase 6
+%CODE
+print(nombre_alumno(['Garcia', 'Sanchez', 'Rodriguez', 'Hernandez', 'Hernandez', 'Garcia', 'Perez', 'Munoz', 'Garcia', 'Moreno', 'Lopez', 'Perez', 'Moreno', 'Alvarez', 'Fernandez', 'Alvarez', 'Fernandez', 'Perez', 'Munoz'], 10))
+%OUTPUT
+Lopez
+#PCase 7
+%CODE
+print(nombre_alumno(['Diaz', 'Gutierrez', 'Ruiz', 'Gutierrez', 'Lopez', 'Rodriguez', 'Jimenez', 'Jimenez', 'Alonso', 'Rodriguez', 'Sanchez', 'Ruiz', 'Martinez', 'Ruiz', 'Fernandez', 'Jimenez', 'Diaz', 'Ruiz', 'Rodriguez'], 5))
+%OUTPUT
+Rodriguez
+#PCase 8
+%CODE
+print(nombre_alumno(['Alvarez', 'Gutierrez', 'Jimenez', 'Romero', 'Gutierrez', 'Gomez', 'Hernandez', 'Moreno', 'Ruiz', 'Lopez', 'Hernandez', 'Sanchez'], 8))
+%OUTPUT
+Ruiz
+#PCase 9
+%CODE
+print(nombre_alumno(['Alonso', 'Jimenez', 'Perez', 'Lopez', 'Hernandez', 'Munoz', 'Moreno', 'Jimenez', 'Moreno', 'Lopez', 'Hernandez'], 10))
+%OUTPUT
+Hernandez
+#PCase 10
+%CODE
+print(nombre_alumno(['Rodriguez', 'Jimenez', 'Lopez', 'Martinez', 'Alvarez', 'Lopez', 'Rodriguez', 'Gomez'], 4))
+%OUTPUT
+Alvarez
+#SCase 1
+%CODE
+print(nombre_alumno(['Alvarez', 'Rodriguez', 'Gonzalez', 'Moreno', 'Gomez', 'Alonso', 'Alonso', 'Moreno', 'Lopez', 'Perez', 'Alvarez', 'Ruiz', 'Gonzalez', 'Rodriguez', 'Hernandez'], 1))
+%OUTPUT
+3c31a642927cf90adfce8e94bc3ab80e
+#SCase 2
+%CODE
+print(nombre_alumno(['Gonzalez', 'Hernandez', 'Gomez', 'Jimenez', 'Diaz', 'Alvarez', 'Hernandez', 'Garcia', 'Hernandez', 'Gonzalez', 'Romero', 'Sanchez', 'Diaz', 'Sanchez', 'Gutierrez', 'Martin', 'Rodriguez'], 10))
+%OUTPUT
+abcde0e7c550cceda7b4c99c43c7ff89
+#SCase 3
+%CODE
+print(nombre_alumno(['Lopez', 'Perez', 'Jimenez', 'Garcia', 'Gutierrez', 'Gonzalez', 'Ruiz', 'Rodriguez', 'Alvarez', 'Sanchez'], 9))
+%OUTPUT
+0edfd99ad72057d07ca45e03a385bc65
+#SCase 4
+%CODE
+print(nombre_alumno(['Jimenez', 'Alvarez', 'Ruiz', 'Hernandez', 'Jimenez', 'Fernandez', 'Fernandez', 'Hernandez', 'Munoz', 'Martin', 'Alvarez', 'Gutierrez', 'Perez', 'Fernandez', 'Alvarez', 'Sanchez', 'Jimenez', 'Alvarez'], 9))
+%OUTPUT
+81d6f316d169150d0e8733866c38684d
+#SCase 5
+%CODE
+print(nombre_alumno(['Gonzalez', 'Munoz', 'Diaz', 'Moreno', 'Munoz', 'Diaz', 'Lopez', 'Romero', 'Martin', 'Diaz', 'Martinez', 'Hernandez', 'Romero', 'Perez', 'Romero', 'Romero', 'Romero'], 6))
+%OUTPUT
+da4660701a8f38bf4956342c95d87d21
+#SCase 6
+%CODE
+print(nombre_alumno(['Perez', 'Ruiz', 'Martin', 'Ruiz', 'Hernandez', 'Diaz', 'Munoz', 'Martin', 'Gonzalez', 'Alonso', 'Romero', 'Alonso', 'Martinez', 'Romero', 'Lopez', 'Martinez', 'Gutierrez'], 15))
+%OUTPUT
+67d36db472159fcb8c55e03a052bcb74
+#SCase 7
+%CODE
+print(nombre_alumno(['Jimenez', 'Gutierrez', 'Ruiz', 'Ruiz', 'Diaz', 'Gomez', 'Alonso', 'Gutierrez'], 0))
+%OUTPUT
+08011326e9c1b2a00c3391948b1e8442
+#SCase 8
+%CODE
+print(nombre_alumno(['Alonso', 'Romero', 'Munoz', 'Alvarez', 'Ruiz', 'Perez', 'Romero', 'Garcia', 'Gonzalez', 'Martinez', 'Ruiz', 'Garcia', 'Hernandez', 'Sanchez', 'Jimenez', 'Munoz', 'Fernandez'], 7))
+%OUTPUT
+7013dd8caf235788ddedee06ff8ad0ed
+#SCase 9
+%CODE
+print(nombre_alumno(['Diaz', 'Gutierrez', 'Rodriguez', 'Rodriguez', 'Lopez', 'Ruiz', 'Perez', 'Ruiz', 'Garcia', 'Alvarez', 'Alvarez'], 0))
+%OUTPUT
+325ba0be16b1db8711e860e8d0c91542
+#SCase 10
+%CODE
+print(nombre_alumno(['Perez', 'Jimenez', 'Gonzalez', 'Hernandez', 'Martin', 'Diaz', 'Perez', 'Martin', 'Gomez', 'Gonzalez'], 8))
+%OUTPUT
+5e4f5f9dcb97db3bf3c9093f518fade4

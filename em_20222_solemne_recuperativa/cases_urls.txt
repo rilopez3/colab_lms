@@ -1,0 +1,5 @@
+p1,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_recuperativa/cases_p1.txt
+p2,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_recuperativa/cases_p2.txt
+p3,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_recuperativa/cases_p3.txt
+p4,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_recuperativa/cases_p4.txt
+p5,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_recuperativa/cases_p5.txt
