@@ -2,7 +2,7 @@ import io, sys, traceback, hashlib, urllib.request
 
 def get_case(preg):
   cases = {}
-  f = urllib.request.urlopen('https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_urls.txt')
+  f = urllib.request.urlopen('https://tinyurl.com/yd6ryv7j')
   for l in f.readlines():
     l = l.decode("utf-8")
     l = l.strip().split(',')
