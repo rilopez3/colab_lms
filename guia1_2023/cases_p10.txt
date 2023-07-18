@@ -1,4 +1,4 @@
-#PCase 1
+#PCase 10
 %CODE
 cajero(23000)
 %OUTPUT
