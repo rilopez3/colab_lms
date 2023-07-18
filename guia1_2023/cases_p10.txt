@@ -1,51 +1,50 @@
-#FPregunta 10
 #PCase 1
 %CODE
-print(cajero(23000))
+cajero(23000)
 %OUTPUT
 1 de $20,000 ; 0 de $10,000 ; 0 de $5,000 ; 1 de $2,000 ; 1 de $1,000
 #PCase 2
 %CODE
-print(cajero(38000))
+cajero(38000)
 %OUTPUT
 1 de $20,000 ; 1 de $10,000 ; 1 de $5,000 ; 1 de $2,000 ; 1 de $1,000
 #PCase 3
 %CODE
-print(cajero(52000))
+cajero(30000)
 %OUTPUT
-2 de $20,000 ; 1 de $10,000 ; 0 de $5,000 ; 1 de $2,000 ; 0 de $1,000
+1 de $20,000 ; 1 de $10,000 ; 0 de $5,000 ; 0 de $2,000 ; 0 de $1,000
 #PCase 4
 %CODE
-print(cajero(4000))
+cajero(7000)
 %OUTPUT
-0 de $20,000 ; 0 de $10,000 ; 0 de $5,000 ; 2 de $2,000 ; 0 de $1,000
+0 de $20,000 ; 0 de $10,000 ; 1 de $5,000 ; 1 de $2,000 ; 0 de $1,000
 #PCase 5
 %CODE
-print(cajero(51000))
+cajero(87000)
 %OUTPUT
-2 de $20,000 ; 1 de $10,000 ; 0 de $5,000 ; 0 de $2,000 ; 1 de $1,000
+4 de $20,000 ; 0 de $10,000 ; 1 de $5,000 ; 1 de $2,000 ; 0 de $1,000
 #SCase 1
 %CODE
-print(cajero(73000))
+cajero(63000)
 %OUTPUT
-2b5a5f30e3e457de699624fb962d699d
+88cdf3cb86cdcc2c8bc2573ef3391882
 #SCase 2
 %CODE
-print(cajero(114000))
+cajero(88000)
 %OUTPUT
-e7aa9474dd24e00fcdeafbea39afaf0b
+305b386abbff238a83c8dabe40501e11
 #SCase 3
 %CODE
-print(cajero(59000))
+cajero(114000)
 %OUTPUT
-19f1dfae47d2cfea245e90534b2c7665
+e7aa9474dd24e00fcdeafbea39afaf0b
 #SCase 4
 %CODE
-print(cajero(19000))
+cajero(116000)
 %OUTPUT
-bdad297454bc1ab58dd84ca06fbeff7e
+eaf331de7bfe5d9cefe0e4692d737997
 #SCase 5
 %CODE
-print(cajero(90000))
+cajero(88000)
 %OUTPUT
-0d315e1b05d7bb870f13dfc5daf67f3b
+305b386abbff238a83c8dabe40501e11
