@@ -3,64 +3,49 @@
 %CODE
 descomposicion(301)
 %OUTPUT
-El numero tiene
-3 centenas
-0 decenas
-1 unidades
+El numero tiene ; 3 centenas ; 0 decenas ; 1 unidades
 #PCase 2
 %CODE
-descomposicion(801)
+descomposicion(502)
 %OUTPUT
-El numero tiene
-8 centenas
-0 decenas
-1 unidades
+El numero tiene ; 5 centenas ; 0 decenas ; 2 unidades
 #PCase 3
 %CODE
-descomposicion(934)
+descomposicion(194)
 %OUTPUT
-El numero tiene
-9 centenas
-3 decenas
-4 unidades
+El numero tiene ; 1 centenas ; 9 decenas ; 4 unidades
 #PCase 4
 %CODE
-descomposicion(67)
+descomposicion(962)
 %OUTPUT
-El numero tiene
-0 centenas
-6 decenas
-7 unidades
+El numero tiene ; 9 centenas ; 6 decenas ; 2 unidades
 #PCase 5
 %CODE
-descomposicion(571)
+descomposicion(364)
 %OUTPUT
-El numero tiene
-5 centenas
-7 decenas
-1 unidades
+El numero tiene ; 3 centenas ; 6 decenas ; 4 unidades
 #SCase 1
 %CODE
-descomposicion(497)
+descomposicion(78)
 %OUTPUT
-f3478518498bfb2787179fad2518203e
+98367abef11ec8902881d840de542501
 #SCase 2
 %CODE
-descomposicion(470)
+descomposicion(402)
 %OUTPUT
-3fef66dcad6d7d20b643d0692afe754d
+27393cecaaf10bfc9fc9bfda7823b49e
 #SCase 3
 %CODE
-descomposicion(894)
+descomposicion(657)
 %OUTPUT
-2cd247886d7183f45e25f7d92edd6d6c
+8def63a691edc243ea749dfea315ebc8
 #SCase 4
 %CODE
-descomposicion(185)
+descomposicion(803)
 %OUTPUT
-1475f21adca0fc315e49435061d4e0fa
+87d8c36414bff37fcd112682061d9149
 #SCase 5
 %CODE
-descomposicion(823)
+descomposicion(248)
 %OUTPUT
-3e92ca7509007bf73415d32ef2d9739d
+0f2ef20cb2a785968b80e16337a39e6d
