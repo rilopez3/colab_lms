@@ -1,0 +1,66 @@
+#FPregunta 8
+#PCase 1
+%CODE
+descomposicion(301)
+%OUTPUT
+El numero tiene
+3 centenas
+0 decenas
+1 unidades
+#PCase 2
+%CODE
+descomposicion(801)
+%OUTPUT
+El numero tiene
+8 centenas
+0 decenas
+1 unidades
+#PCase 3
+%CODE
+descomposicion(934)
+%OUTPUT
+El numero tiene
+9 centenas
+3 decenas
+4 unidades
+#PCase 4
+%CODE
+descomposicion(67)
+%OUTPUT
+El numero tiene
+0 centenas
+6 decenas
+7 unidades
+#PCase 5
+%CODE
+descomposicion(571)
+%OUTPUT
+El numero tiene
+5 centenas
+7 decenas
+1 unidades
+#SCase 1
+%CODE
+descomposicion(497)
+%OUTPUT
+f3478518498bfb2787179fad2518203e
+#SCase 2
+%CODE
+descomposicion(470)
+%OUTPUT
+3fef66dcad6d7d20b643d0692afe754d
+#SCase 3
+%CODE
+descomposicion(894)
+%OUTPUT
+2cd247886d7183f45e25f7d92edd6d6c
+#SCase 4
+%CODE
+descomposicion(185)
+%OUTPUT
+1475f21adca0fc315e49435061d4e0fa
+#SCase 5
+%CODE
+descomposicion(823)
+%OUTPUT
+3e92ca7509007bf73415d32ef2d9739d

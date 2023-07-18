@@ -1,0 +1,10 @@
+p1,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p1.txt
+p2,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p2.txt
+p3,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p3.txt
+p4,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p4.txt
+p5,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p5.txt
+p6,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p6.txt
+p7,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p7.txt
+p8,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p8.txt
+p9,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p9.txt
+p10,https://raw.githubusercontent.com/rilopez3/colab_lms/main/em_20222_solemne_2/cases_p10.txt

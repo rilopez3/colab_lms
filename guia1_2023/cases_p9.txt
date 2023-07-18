@@ -1,0 +1,51 @@
+#FPregunta 9
+#PCase 1
+%CODE
+palindromo(343)
+%OUTPUT
+El número ingresado no tiene cuatro dígitos
+#PCase 2
+%CODE
+palindromo(1551)
+%OUTPUT
+¡ El número ingresado tiene cuatro dígitos, y si es un palíndromo !
+#PCase 3
+%CODE
+palindromo(8594)
+%OUTPUT
+El número ingresado tiene cuatro dígitos, pero no es palíndromo
+#PCase 4
+%CODE
+palindromo(1534)
+%OUTPUT
+El número ingresado tiene cuatro dígitos, pero no es palíndromo
+#PCase 5
+%CODE
+palindromo(2593)
+%OUTPUT
+El número ingresado tiene cuatro dígitos, pero no es palíndromo
+#SCase 1
+%CODE
+palindromo(2527)
+%OUTPUT
+a498ce77c92325d9179c6c69c1e853ef
+#SCase 2
+%CODE
+palindromo(8172)
+%OUTPUT
+a498ce77c92325d9179c6c69c1e853ef
+#SCase 3
+%CODE
+palindromo(5995)
+%OUTPUT
+7e3d23fa137a1b9b641873af0236d77f
+#SCase 4
+%CODE
+palindromo(2544)
+%OUTPUT
+a498ce77c92325d9179c6c69c1e853ef
+#SCase 5
+%CODE
+palindromo(3947)
+%OUTPUT
+a498ce77c92325d9179c6c69c1e853ef

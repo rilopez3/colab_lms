@@ -1,0 +1,41 @@
+#FPregunta 1
+#PCase 1
+%CODE
+calculo_area(5)
+%OUTPUT
+El área del círculo es 78.5
+#PCase 2
+%CODE
+calculo_area(10)
+%OUTPUT
+El área del círculo es 314.0
+#PCase 3
+%CODE
+calculo_area(100)
+%OUTPUT
+El área del círculo es 31400.0
+#PCase 4
+%CODE
+calculo_area(101)
+%OUTPUT
+El área del círculo es 32031.1
+#SCase 1
+%CODE
+calculo_area(1)
+%OUTPUT
+ef3e95fdba24738101917aa2c08f279c
+#SCase 2
+%CODE
+calculo_area(0)
+%OUTPUT
+cddad77896777585eeb2b29092e6a63f
+#SCase 3
+%CODE
+calculo_area(167)
+%OUTPUT
+a6adbfaf903ad712d659bbd34c1f0f5c
+#SCase 4
+%CODE
+calculo_area(98)
+%OUTPUT
+1700f16a4b635189c6fd722cfa0caa53

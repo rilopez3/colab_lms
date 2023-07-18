@@ -1,0 +1,41 @@
+#FPregunta 7
+#PCase 1
+%CODE
+division(11, 5)
+%OUTPUT
+La división de 11 entre 5 da como resultado 2 y tiene como resto 1
+#PCase 2
+%CODE
+division(100, 2)
+%OUTPUT
+La división de 100 entre 2 da como resultado 50 y tiene como resto 0
+#PCase 3
+%CODE
+division(500, 26)
+%OUTPUT
+La división de 500 entre 26 da como resultado 19 y tiene como resto 6
+#PCase 4
+%CODE
+division(25, 500)
+%OUTPUT
+La división de 25 entre 500 da como resultado 0 y tiene como resto 25
+#SCase 1
+%CODE
+division(0, 10)
+%OUTPUT
+0de8444f7d8c672919446c3b4403f121
+#SCase 2
+%CODE
+division(9839237, 298)
+%OUTPUT
+3e022f75ab37308720165123fa82f9e0
+#SCase 3
+%CODE
+division(93284279847329485, 72837423)
+%OUTPUT
+8bdd0b585111ac672709ab15a825adcf
+#SCase 4
+%CODE
+division(932840293485093248503945, 23283723823)
+%OUTPUT
+e6cd37f4768107ae0c79dd3a50ab6321

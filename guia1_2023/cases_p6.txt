@@ -1,0 +1,41 @@
+#FPregunta 6
+#PCase 1
+%CODE
+es_par(40)
+%OUTPUT
+¡El número 40 es par!, pero no es divisible por 3
+#PCase 2
+%CODE
+es_par(30)
+%OUTPUT
+¡El número 30 es par y es divisible por 3!
+#PCase 3
+%CODE
+es_par(15)
+%OUTPUT
+El número 15 no es par, pero es divisible por 3
+#PCase 4
+%CODE
+es_par(101)
+%OUTPUT
+El número 101 no es par y tampoco es divisible por 3 :c
+#SCase 1
+%CODE
+es_par(0)
+%OUTPUT
+19a1c44354d704443fa224ecb6b7748b
+#SCase 2
+%CODE
+es_par(1)
+%OUTPUT
+f9ea80c9233050c664cbb74a7fd1a579
+#SCase 3
+%CODE
+es_par(99)
+%OUTPUT
+01bf332b16d148b2afc315fe8c528cb3
+#SCase 4
+%CODE
+es_par(39840923480598340980)
+%OUTPUT
+a11bf7ff31f59df1d7930ff253df891a

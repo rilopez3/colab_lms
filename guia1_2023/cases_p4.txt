@@ -1,0 +1,41 @@
+#FPregunta 4
+#PCase 1
+%CODE
+temperatura("fahrenheit", 50.0)
+%OUTPUT
+50.0 grados Fahrenheit equivalen a 10.0 grados Celsius
+#PCase 2
+%CODE
+temperatura("celsius", 50.0)
+%OUTPUT
+50.0 grados Celsius equivalen a 122.0 grados Fahrenheit
+#PCase 3
+%CODE
+temperatura("celsius", 10.0)
+%OUTPUT
+10.0 grados Celsius equivalen a 50.0 grados Fahrenheit
+#PCase 4
+%CODE
+temperatura("fahrenheit", 100.0)
+%OUTPUT
+100.0 grados Fahrenheit equivalen a 37.77777777777778 grados Celsius
+#SCase 1
+%CODE
+temperatura("celsius", 150.0)
+%OUTPUT
+275db0e5c72d942dbf59ce9098c16a9f
+#SCase 2
+%CODE
+temperatura("fahrenheit", 43.0)
+%OUTPUT
+1c8fa69d544fdb37489aaa47914b5c58
+#SCase 3
+%CODE
+temperatura("fahrenheit", 90.0)
+%OUTPUT
+2b094816588f65f6267fc932c5e32e49
+#SCase 4
+%CODE
+temperatura("celsius", 0.0)
+%OUTPUT
+3c88fdcc35b9d35b266c62003352ca70

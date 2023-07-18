@@ -1,0 +1,41 @@
+#FPregunta 2
+#PCase 1
+%CODE
+area_perimetro("perimetro", 5)
+%OUTPUT
+El perímetro del círculo es 31.4
+#PCase 2
+%CODE
+area_perimetro("area", 5)
+%OUTPUT
+El área del círculo es 78.5
+#PCase 3
+%CODE
+area_perimetro("perimetro", 100)
+%OUTPUT
+El perímetro del círculo es 628.0
+#PCase 4
+%CODE
+area_perimetro("area", 40)
+%OUTPUT
+El área del círculo es 5024.0
+#SCase 1
+%CODE
+area_perimetro("area", 1)
+%OUTPUT
+ef3e95fdba24738101917aa2c08f279c
+#SCase 2
+%CODE
+area_perimetro("perimetro", 998)
+%OUTPUT
+4c27e772c351e0b466f4a8eaab1eefce
+#SCase 3
+%CODE
+area_perimetro("area", 938)
+%OUTPUT
+bedc288f5e83264c2530fe70fe4bd759
+#SCase 4
+%CODE
+area_perimetro("perimetro", 897)
+%OUTPUT
+cccdf5b281a2d0e4a97bc2f07c2db080

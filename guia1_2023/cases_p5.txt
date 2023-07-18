@@ -1,0 +1,51 @@
+#FPregunta 5
+#PCase 1
+%CODE
+reloj(10, 1, 50)
+%OUTPUT
+La nueva hora es 10 con 51 minutos
+#PCase 2
+%CODE
+reloj(15, 10, 598)
+%OUTPUT
+La nueva hora es 1 con 8 minutos
+#PCase 3
+%CODE
+reloj(22, 7, 93)
+%OUTPUT
+La nueva hora es 23 con 40 minutos
+#PCase 4
+%CODE
+reloj(22, 45, 480)
+%OUTPUT
+La nueva hora es 6 con 45 minutos
+#PCase 5
+%CODE
+reloj(12, 19, 184)
+%OUTPUT
+La nueva hora es 15 con 23 minutos
+#SCase 1
+%CODE
+reloj(7, 30, 740)
+%OUTPUT
+cae130dbeb488d602b09f0442d24ae3c
+#SCase 2
+%CODE
+reloj(11, 35, 490)
+%OUTPUT
+9097dccfc2d0421e6ce5eff2882a6d4a
+#SCase 3
+%CODE
+reloj(13, 3, 493)
+%OUTPUT
+9a9de41b9845bf6b0fe8fca185a76891
+#SCase 4
+%CODE
+reloj(8, 40, 699)
+%OUTPUT
+f82bbcc3044706708e9f9f5421368206
+#SCase 5
+%CODE
+reloj(0, 16, 732)
+%OUTPUT
+979e95b20d359c99574b634c5c83a6eb

@@ -1,0 +1,41 @@
+#FPregunta 3
+#PCase 1
+%CODE
+menor_numero(20, 30, 10)
+%OUTPUT
+El menor número es 10
+#PCase 2
+%CODE
+menor_numero(1, 3, 2)
+%OUTPUT
+El menor número es 1
+#PCase 3
+%CODE
+menor_numero(99, 51, 50)
+%OUTPUT
+El menor número es 50
+#PCase 4
+%CODE
+menor_numero(44, 45, 43)
+%OUTPUT
+El menor número es 43
+#SCase 1
+%CODE
+menor_numero(1000001, 1000, 10000000)
+%OUTPUT
+abdf26d86de39b7d7f8b53b2e3e53c75
+#SCase 2
+%CODE
+menor_numero(9812, 12, 820)
+%OUTPUT
+cebb67e28da8a26135926f1bd899867c
+#SCase 3
+%CODE
+menor_numero(10, 0, 1)
+%OUTPUT
+cbe031e35f3b0495aac13e0fa1a0aebe
+#SCase 4
+%CODE
+menor_numero(0, 90800980, 38)
+%OUTPUT
+cbe031e35f3b0495aac13e0fa1a0aebe
