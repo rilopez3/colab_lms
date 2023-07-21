@@ -26,9 +26,9 @@ temperatura("celsius", 150.0)
 275db0e5c72d942dbf59ce9098c16a9f
 #SCase 2
 %CODE
-temperatura("fahrenheit", 43.0)
+temperatura("fahrenheit", 44.0)
 %OUTPUT
-1c8fa69d544fdb37489aaa47914b5c58
+bafde5c67628565201c95bd86adfd6a4
 #SCase 3
 %CODE
 temperatura("fahrenheit", 90.0)
