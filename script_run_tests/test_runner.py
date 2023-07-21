@@ -1,6 +1,7 @@
-import io, sys, hashlib
+import io, sys, hashlib, urllib
 
-PATH_TESTS = "../../tests/" # link a la carpeta tests de github
+# PATH_TESTS = "../../tests/" # Para correr en local
+PATH_TESTS = "https://raw.githubusercontent.com/rilopez3/colab_lms/test/tests/" # Link a la raiz de la carpeta de tests
 
 def get_cell(pregunta):
   
@@ -58,13 +59,24 @@ def get_tests_cases(colab, pregunta):
   i = 1
   
   while tests_in_folder:
+    test_path = path + str(i) + "/input.txt"
     try:
-      with open(path + str(i) + "/input.txt") as input_stream:
-        input_lines = input_stream.readlines()
+      # Para correr en local
+      # with open(path + str(i) + "/input.txt") as input_stream:
+        # input_lines = input_stream.readlines()
+        # case_type = input_lines.pop(0)
+      # with open(path + str(i) + "/output.txt") as output_stream:
+        # output_lines = output_stream.readlines()
+      
+      # Para correr en línea
+      with urllib.request.urlopen(path + str(i) + "/input.txt") as input_stream:
+        input_lines = input_stream.read().decode().splitlines()
         case_type = input_lines.pop(0)
-      with open(path + str(i) + "/output.txt") as output_stream:
-        output_lines = output_stream.readlines()
+      with urllib.request.urlopen(path + str(i) + "/output.txt") as output_stream:
+        output_lines = output_stream.read().decode().splitlines()
+      
       tests_cases[i]= {'case_type': case_type.strip()[1],'input': clean_list_file(input_lines), 'output': clean_list_file(output_lines)}
+      
     except:
       tests_in_folder = False
     i += 1
