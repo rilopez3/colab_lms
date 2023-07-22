@@ -46,6 +46,7 @@ Esta es la función que reconoce la tarea y el número de la pregunta y corre lo
 
 ### Tests
 Como te habrás dado cuenta, los tests para cierto colab se encuentran en la ruta ```../tests/codigo_evaluacion/pregunta```, y, dentro de esta carpeta, cada tests estará dentro de una carpeta, cuyo nombre será el número del test. **La numeración comienza desde el 1 en adelante** y, de forma obligatoria, **los nombres de las capetas deben ser solo números**.
+
 Dentro de la carpeta de cada test, **deberán existir como mínimo 2 archivos: ```input.txt``` y ```output.txt```**, los cuales serán, valga la redundancia, el input que se le entregará al código del estudiante y el output esperado luego de ejecutarlo. 
 
 #### Tests Públicos y Secretos
@@ -74,5 +75,11 @@ Para correr este escript, deberás utilizar el siguiente comando:
 python encode_secret_tests -p path_al_archivo_output.txt
 ```
 (en mac funciona con ```python3```)
+
+
+### Ejecución por Parte del Estudiante
+Para que el run tests funcione en el colab correctamente, el estudiante deberá ejecutar la celda que contiene su código primero en el colab y, posterior a eso, correr los tests.
+
+En caso de existir algún problema con la actualización de los tests en caso de cambio de códugo del estudiante, se sugiere reiniciar el kernel del colab.
 
 
