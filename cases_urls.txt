@@ -1,0 +1,5 @@
+P1,https://raw.githubusercontent.com/rilopez3/colab_lms/main_run_tests/tests/cases_p1.txt
+P2,https://raw.githubusercontent.com/rilopez3/colab_lms/main_run_tests/tests/cases_p2.txt
+P3,https://raw.githubusercontent.com/rilopez3/colab_lms/main_run_tests/tests/cases_p3.txt
+P4,https://raw.githubusercontent.com/rilopez3/colab_lms/main_run_tests/tests/cases_p4.txt
+P5,https://raw.githubusercontent.com/rilopez3/colab_lms/main_run_tests/tests/cases_p5.txt

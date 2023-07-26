@@ -1,0 +1,32 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,2
+%CODE
+%OUTPUT
+3
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+8,9
+%CODE
+%OUTPUT
+17
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+3,8
+%CODE
+%OUTPUT
+166d77ac1b46a1ec38aa35ab7e628ab5
