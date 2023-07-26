@@ -1,5 +1,5 @@
 global DEBUG_LOCAL
-DEBUG_LOCAL = 1
+DEBUG_LOCAL = False
 PATH_CASES = 'https://raw.githubusercontent.com/rilopez3/colab_lms/main_run_tests/cases_urls.txt'
 
 ###################################################################################################################################
