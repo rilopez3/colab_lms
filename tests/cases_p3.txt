@@ -1,0 +1,122 @@
+%PREG
+Pregunta 3
+%NAME
+Case 1
+%TYPE
+publico
+%OUTPUT
+ALERTA : Sistema funcionando en condiciones normales
+%NAME
+Case 2
+%TYPE
+publico
+%OUTPUT
+ALERTA : active freno de emergencia
+%NAME
+Case 3
+%TYPE
+publico
+%OUTPUT
+ALERTA : acelerar
+%NAME
+Case 4
+%TYPE
+publico
+%OUTPUT
+ALERTA : Sistema funcionando en condiciones normales
+%NAME
+Case 5
+%TYPE
+publico
+%OUTPUT
+ALERTA : acelerar
+%NAME
+Case 6
+%TYPE
+publico
+%OUTPUT
+ALERTA : acelerar
+%NAME
+Case 7
+%TYPE
+publico
+%OUTPUT
+ALERTA : acelerar
+%NAME
+Case 8
+%TYPE
+publico
+%OUTPUT
+ALERTA : active freno de emergencia
+%NAME
+Case 9
+%TYPE
+publico
+%OUTPUT
+ALERTA : active freno de emergencia
+%NAME
+Case 10
+%TYPE
+publico
+%OUTPUT
+ALERTA : acelerar
+%NAME
+Case 1
+%TYPE
+secreto
+%OUTPUT
+860fed6c16806c6bbbc490e39182b474
+%NAME
+Case 2
+%TYPE
+secreto
+%OUTPUT
+55a3afcacb2e5286fe3d4a4a948d11d0
+%NAME
+Case 3
+%TYPE
+secreto
+%OUTPUT
+55a3afcacb2e5286fe3d4a4a948d11d0
+%NAME
+Case 4
+%TYPE
+secreto
+%OUTPUT
+55a3afcacb2e5286fe3d4a4a948d11d0
+%NAME
+Case 5
+%TYPE
+secreto
+%OUTPUT
+55a3afcacb2e5286fe3d4a4a948d11d0
+%NAME
+Case 6
+%TYPE
+secreto
+%OUTPUT
+55a3afcacb2e5286fe3d4a4a948d11d0
+%NAME
+Case 7
+%TYPE
+secreto
+%OUTPUT
+5050c598c5abf420cf060fca2a77c9f9
+%NAME
+Case 8
+%TYPE
+secreto
+%OUTPUT
+55a3afcacb2e5286fe3d4a4a948d11d0
+%NAME
+Case 9
+%TYPE
+secreto
+%OUTPUT
+860fed6c16806c6bbbc490e39182b474
+%NAME
+Case 10
+%TYPE
+secreto
+%OUTPUT
+860fed6c16806c6bbbc490e39182b474
