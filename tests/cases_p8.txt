@@ -109,7 +109,7 @@ secreto
 Carlos,10,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,
 %CODE
 %OUTPUT
-bf286814c8c31733dd35a2dcf9584ca2
+b700d7796e266c8f3a3863136812cfb1
 %NAME
 Case 2
 %TYPE
@@ -119,17 +119,17 @@ secreto
 Isabella,4,en el blanco,en el blanco,en el blanco,en el blanco,
 %CODE
 %OUTPUT
-bfdeb7b8c93fef2af5a9eebd0b1b89c1
+6ab127f0ac04b1b438a9118e83a0c585
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-David,2,fallo,en el blanco
+David,2,fallo,en el blanco,
 %CODE
 %OUTPUT
-512a53e3fc4c49c048d637b4726addf9
+f16170578ed7c742d904313fa5c4912c
 %NAME
 Case 4
 %TYPE
@@ -139,7 +139,7 @@ secreto
 Jorge,5,en el blanco,en el blanco,en el blanco,fallo,en el blanco,
 %CODE
 %OUTPUT
-3f98c70b3016e07cec0d7e358e5360ed
+dce6d1da752b124ad9dd1f6320190d66
 %NAME
 Case 5
 %TYPE
@@ -149,7 +149,7 @@ secreto
 Valentina,6,fallo,fallo,en el blanco,fallo,en el blanco,en el blanco,
 %CODE
 %OUTPUT
-fcfa877918383ae5b53c7f5e4c9d1ce1
+32e471809e4683a7f989d95177e8f715
 %NAME
 Case 6
 %TYPE
@@ -159,7 +159,7 @@ secreto
 Roberto,3,fallo,fallo,fallo,
 %CODE
 %OUTPUT
-9ff46d6197e400ebbaec22cf9ec96866
+d97ee8df7e8b92d32a2ab8e381c4f8e6
 %NAME
 Case 7
 %TYPE
@@ -169,7 +169,7 @@ secreto
 Gabriela,2,fallo,en el blanco,
 %CODE
 %OUTPUT
-89dcb0d13cb24eeba1a2bdc14d79301d
+dbde9d69eb0ec556c1309d7d582bfcab
 %NAME
 Case 8
 %TYPE
@@ -179,7 +179,7 @@ secreto
 Camilo,4,en el blanco,fallo,en el blanco,fallo,
 %CODE
 %OUTPUT
-b20219eb3478cd9fed4b3f8feed58922
+a36cc0fc60843824d26fb98e75d8bdf4
 %NAME
 Case 9
 %TYPE
@@ -189,7 +189,7 @@ secreto
 Luisa,5,en el blanco,en el blanco,en el blanco,en el blanco,en el blanco,
 %CODE
 %OUTPUT
-5534f5dec361ae4db17902ff32742beb
+36ac21f2abc5ac2fa20c2478ff52c190
 %NAME
 Case 10
 %TYPE
@@ -199,4 +199,4 @@ secreto
 Fernando,7,fallo,fallo,fallo,fallo,fallo,fallo,fallo,
 %CODE
 %OUTPUT
-452927e38aae450038e32c379225e5b8
+9d75070e2b369ca2efaaab116c2e280c

@@ -6,7 +6,7 @@ Case 1
 publico
 %PRECODE
 %INPUT
-contrasena1,contrasena2,abc,holamundo,contrasena1
+contrasena1,contrasena2,abc,holamundo,contrasena1,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -21,7 +21,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-a,a
+a,a,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -33,7 +33,7 @@ Case 3
 publico
 %PRECODE
 %INPUT
-password123,password123
+password123,password123,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -45,7 +45,7 @@ Case 4
 publico
 %PRECODE
 %INPUT
-secreto,SECRETO,secreto
+secreto,SECRETO,secreto,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -58,7 +58,7 @@ Case 5
 publico
 %PRECODE
 %INPUT
-aA1!aA1!aA1!aA1!aA1!,aA1!aA1!aA1!aA1!aA1!
+aA1!aA1!aA1!aA1!aA1!,aA1!aA1!aA1!aA1!aA1!,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -70,7 +70,7 @@ Case 6
 publico
 %PRECODE
 %INPUT
-passw0rd!,password!,passw0rd!
+passw0rd!,password!,passw0rd!,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -83,7 +83,7 @@ Case 7
 publico
 %PRECODE
 %INPUT
-abcABC123!@#,abcABC123!@#
+abcABC123!@#,abcABC123!@#,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -95,7 +95,7 @@ Case 8
 publico
 %PRECODE
 %INPUT
-test,test123,test123,test123,test,test,test,test,test
+test,test123,test123,test123,test,test,test,test,test,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -110,7 +110,7 @@ Case 9
 publico
 %PRECODE
 %INPUT
-!@#$%^&*()_+,!@#$%^&*()_+
+!@#$%^&*()_+,!@#$%^&*()_+,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -122,7 +122,7 @@ Case 10
 publico
 %PRECODE
 %INPUT
-password,Password,password
+password,Password,password,
 %CODE
 %OUTPUT
 Escriba la contraseña:
@@ -135,7 +135,7 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-test1,test2,test3,test1
+test1,test2,test3,test1,
 %CODE
 %OUTPUT
 e7635537776be70751a968571ae334a3
@@ -145,7 +145,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-p4$$w0rd,P4$$W0RD,p4$$w0rd
+p4$$w0rd,P4$$W0RD,p4$$w0rd,
 %CODE
 %OUTPUT
 114a2e9168ac7642862ef524d9fe9958
@@ -155,7 +155,7 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-abcdefgh,hgfedcba,abcdefgh
+abcdefgh,hgfedcba,abcdefgh,
 %CODE
 %OUTPUT
 114a2e9168ac7642862ef524d9fe9958
@@ -165,7 +165,7 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-password,hello,hello,world,world,1234,1234,world,world,world,!@#$%^&*(),!@#$%^&*(),password
+password,hello,hello,world,world,1234,1234,world,world,world,!@#$%^&*(),!@#$%^&*(),password,
 %CODE
 %OUTPUT
 0c75f74dceacfb70f5a356e90a2a6187
@@ -175,7 +175,7 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-qwerty123,asdfg456,asdfg456,zxcvbn789,zxcvbn789,poiuytrewq,poiuytrewq,lkjhgfdsa,lkjhgfdsa,mnbvcxz,mnbvcxz,qwerty123
+qwerty123,asdfg456,asdfg456,zxcvbn789,zxcvbn789,poiuytrewq,poiuytrewq,lkjhgfdsa,lkjhgfdsa,mnbvcxz,mnbvcxz,qwerty123,
 %CODE
 %OUTPUT
 3508e45a20b04eb4410a0de683baa441
@@ -185,7 +185,7 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-1a2b3c,4d5e6f,4d5e6f,7g8h9i,7g8h9i,jklmno,jklmno,pqrst,pqrst,uvwxy,uvwxy,z!@#,z!@#,1a2b3c
+1a2b3c,4d5e6f,4d5e6f,7g8h9i,7g8h9i,jklmno,jklmno,pqrst,pqrst,uvwxy,uvwxy,z!@#,z!@#,1a2b3c,
 %CODE
 %OUTPUT
 2fb62a51937368c96c13d27f5bfd9b0c
@@ -195,7 +195,7 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#
+contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#,
 %CODE
 %OUTPUT
 e7635537776be70751a968571ae334a3
@@ -205,7 +205,7 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#
+contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#,
 %CODE
 %OUTPUT
 e7635537776be70751a968571ae334a3
@@ -215,7 +215,7 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,lakefjñlkejf,alkdalksfj,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abc,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%ab,$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA
+7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,lakefjñlkejf,alkdalksfj,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abc,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%ab,$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,
 %CODE
 %OUTPUT
 c57b08460d2282690c38d81ae92f0c94
@@ -225,7 +225,7 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-test1,test2,test3,test1,test1
+test1,test2,test3,test1,test1,
 %CODE
 %OUTPUT
 e7635537776be70751a968571ae334a3
