@@ -103,7 +103,7 @@ PAR
 %NAME
 Case 1
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 7870
@@ -112,7 +112,7 @@ publico
 %NAME
 Case 2
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 -4421
@@ -121,7 +121,7 @@ publico
 %NAME
 Case 3
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 648
@@ -130,7 +130,7 @@ publico
 %NAME
 Case 4
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 -2234
@@ -139,7 +139,7 @@ e20a2b2e7cdedea5d57d1a777cbb149b
 %NAME
 Case 5
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 5136
@@ -148,7 +148,7 @@ publico
 %NAME
 Case 6
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 -2349
@@ -157,7 +157,7 @@ publico
 %NAME
 Case 7
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 -4044
@@ -166,7 +166,7 @@ e20a2b2e7cdedea5d57d1a777cbb149b
 %NAME
 Case 8
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 -8533
@@ -175,7 +175,7 @@ publico
 %NAME
 Case 9
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 -1263
@@ -184,7 +184,7 @@ publico
 %NAME
 Case 10
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 -4357
