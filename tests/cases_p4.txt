@@ -1,0 +1,182 @@
+%PREG
+Pregunta 4
+%NAME
+Case 1
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+57
+La decodificación es 22
+%NAME
+Case 2
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+0
+La decodificación es 9
+%NAME
+Case 3
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+-450
+La decodificación es 22
+%NAME
+Case 4
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+51
+La decodificación es 14
+%NAME
+Case 5
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+350
+La decodificación es 43
+%NAME
+Case 6
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+780
+La decodificación es 64
+%NAME
+Case 7
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+480
+La decodificación es 14
+%NAME
+Case 8
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+-594
+La decodificación es 64
+%NAME
+Case 9
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+-305
+La decodificación es 1
+%NAME
+Case 10
+%TYPE
+publico
+%OUTPUT
+%PRECODE
+%INPUT
+4
+La decodificación es 4
+%NAME
+Case 1
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+-486
+f04415f62442ad1190b5bea1a80172b4
+%NAME
+Case 2
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+9
+1be311ac78ca17206f207c5de8ad511c
+%NAME
+Case 3
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+-3
+2940d67258ebd3d3fc9bac91e8303c63
+%NAME
+Case 4
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+-9
+e3f8540da5b64512fd99c87c1559b5e2
+%NAME
+Case 5
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+-574
+2a81184d0a12e49cc03789a952677641
+%NAME
+Case 6
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+-546
+683c6ee8bac405270ee6481cce815382
+%NAME
+Case 7
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+-162
+f33b1fdc472c5af0d4533f8f305d633d
+%NAME
+Case 8
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+-672
+a45ae4d3faa9e5bce0194cec987e1e0f
+%NAME
+Case 9
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+350
+a061dfc01a00aef3a2afec7fc21805c8
+%NAME
+Case 10
+%TYPE
+secreto
+%OUTPUT
+%PRECODE
+%INPUT
+6
+784196c2d01f63bfa18a3f6173d6dd9e
