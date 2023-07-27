@@ -8,7 +8,7 @@ publico
 %INPUT
 57
 %OUTPUT
-La decodificación es 22
+Al decodificar resulta 22
 %NAME
 Case 2
 %TYPE
@@ -17,166 +17,166 @@ publico
 %INPUT
 0
 %OUTPUT
-La decodificación es 9
+Al decodificar resulta 9
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
--8
+-720
 %OUTPUT
-La decodificación es 17
+Al decodificar resulta 15
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
--328
+6
 %OUTPUT
-La decodificación es 64
+Al decodificar resulta 14
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
--3
+-837
 %OUTPUT
-La decodificación es 24
+Al decodificar resulta 22
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
--100
+-64
 %OUTPUT
-La decodificación es 22
+Al decodificar resulta 59
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
--240
+201
 %OUTPUT
-La decodificación es 40
+Al decodificar resulta 0
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
--108
+0
 %OUTPUT
-La decodificación es 15
+Al decodificar resulta 9
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
--258
+174
 %OUTPUT
-La decodificación es 25
+Al decodificar resulta 66
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-61
+-500
 %OUTPUT
-La decodificación es 1
+Al decodificar resulta 40
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-352
+-108
 %OUTPUT
-480e83802325b25e08fa349e87d90475
+4f3fe8ee6dc14d73799080d8db7f5cc0
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
--624
+4
 %OUTPUT
-5cd75fffbafd440dec3c4a9ef8ed51c1
+606f51dcc5d38b59a8589832c61cfc42
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
--10
+0
 %OUTPUT
-7737069639e85a9288acb4636a0443d5
+e03d85311cd1c005003121074f7cae2b
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
--156
+0
 %OUTPUT
-19fc0355b49073a1a26f921cbc2ddba8
+e03d85311cd1c005003121074f7cae2b
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
--378
+-231
 %OUTPUT
-094f95558f66dbae99f5f55e5ea9dbf4
+dd967e36aa9ce2da8a9bf8e786d815ec
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-0
+-752
 %OUTPUT
-0a8267ba8822c82203f66f96cd970d1c
+13a777c415ba1e9dddc4bfbd5422d7ad
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
--700
+488
 %OUTPUT
-baa85bfcec0794d3c4716954da82495e
+a14ef9e1e883c1866c98cf201f199763
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
--256
+-4
 %OUTPUT
-4c735c9e126e9af7998e79a638476028
+95a6488b4262d7fe7ac2ae924c28cdb4
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-364
+672
 %OUTPUT
-19c352f9f60a1bbb19b881891ec22570
+f25c4347778fb91e4d4e5c92fc3145fe
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
--1
+308
 %OUTPUT
-384515c9d8d1707d4a5982b830d44471
+0cf098136d5fae27a02853c081705d67
