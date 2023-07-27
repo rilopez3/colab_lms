@@ -1,0 +1,202 @@
+%PREG
+Pregunta 8
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+Pedro,3,en el blanco,fallo,fallo
+%CODE
+%OUTPUT
+Pedro falló la prueba :c
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+Max,4,en el blanco,fallo,fallo,en el blanco
+%CODE
+%OUTPUT
+Max ha dado a la liana 2 veces
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+Ana,2,en el blanco,en el blanco
+%CODE
+%OUTPUT
+Ana ha dado a la liana 2 veces
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+María,5,en el blanco,fallo,fallo,fallo,en el blanco
+%CODE
+%OUTPUT
+María ha dado a la liana 2 veces
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+Juan,4,en el blanco,en el blanco,en el blanco,en el blanco
+%CODE
+%OUTPUT
+Juan ha dado a la liana 4 veces
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+Carlos,3,fallo,fallo,fallo
+%CODE
+%OUTPUT
+Carlos falló la prueba :c
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+Andrea,6,en el blanco,en el blanco,en el blanco,fallo,en el blanco,en el blanco
+%CODE
+%OUTPUT
+Andrea ha dado a la liana 5 veces
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+Diego,8,en el blanco,en el blanco,fallo,en el blanco,fallo,en el blanco,en el blanco,en el blanco
+%CODE
+%OUTPUT
+Diego ha dado a la liana 6 veces
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+Marcela,7,en el blanco,fallo,en el blanco,fallo,fallo,en el blanco,fallo
+%CODE
+%OUTPUT
+Marcela ha dado a la liana 3 veces
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+Sergio,3,fallo,fallo,en el blanco
+%CODE
+%OUTPUT
+Sergio falló la prueba :c
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Carlos,10,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo
+%CODE
+%OUTPUT
+bf286814c8c31733dd35a2dcf9584ca2
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Isabella,4,en el blanco,en el blanco,en el blanco,en el blanco
+%CODE
+%OUTPUT
+bfdeb7b8c93fef2af5a9eebd0b1b89c1
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+David,2,fallo,en el blanco
+%CODE
+%OUTPUT
+512a53e3fc4c49c048d637b4726addf9
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Jorge,5,en el blanco,en el blanco,en el blanco,fallo,en el blanco
+%CODE
+%OUTPUT
+3f98c70b3016e07cec0d7e358e5360ed
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Valentina,6,fallo,fallo,en el blanco,fallo,en el blanco,en el blanco
+%CODE
+%OUTPUT
+fcfa877918383ae5b53c7f5e4c9d1ce1
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Roberto,3,fallo,fallo,fallo
+%CODE
+%OUTPUT
+9ff46d6197e400ebbaec22cf9ec96866
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Gabriela,2,fallo,en el blanco
+%CODE
+%OUTPUT
+89dcb0d13cb24eeba1a2bdc14d79301d
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Camilo,4,en el blanco,fallo,en el blanco,fallo
+%CODE
+%OUTPUT
+b20219eb3478cd9fed4b3f8feed58922
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Luisa,5,en el blanco,en el blanco,en el blanco,en el blanco,en el blanco
+%CODE
+%OUTPUT
+5534f5dec361ae4db17902ff32742beb
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Fernando,7,fallo,fallo,fallo,fallo,fallo,fallo,fallo
+%CODE
+%OUTPUT
+452927e38aae450038e32c379225e5b8

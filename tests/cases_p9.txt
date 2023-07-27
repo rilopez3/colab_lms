@@ -1,0 +1,234 @@
+%PREG
+Pregunta 9
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+0,11
+%CODE
+%OUTPUT
+1
+3
+5
+7
+9
+11
+La suma de los números impares es 36
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+10,20
+%CODE
+%OUTPUT
+11
+13
+15
+17
+19
+La suma de los números impares es 75
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+10,11
+%CODE
+%OUTPUT
+11
+La suma de los números impares es 11
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+10,10
+%CODE
+%OUTPUT
+La suma de los números impares es 0
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+-5,5
+%CODE
+%OUTPUT
+-5
+-3
+-1
+1
+3
+5
+La suma de los números impares es 0
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+-10,0
+%CODE
+%OUTPUT
+-9
+-7
+-5
+-3
+-1
+La suma de los números impares es -25
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+11,12
+%CODE
+%OUTPUT
+11
+La suma de los números impares es 11
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,3
+%CODE
+%OUTPUT
+1
+3
+La suma de los números impares es 4
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,1
+%CODE
+%OUTPUT
+1
+La suma de los números impares es 1
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+-20,-10
+%CODE
+%OUTPUT
+-19
+-17
+-15
+-13
+-11
+La suma de los números impares es -75
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+2,2
+%CODE
+%OUTPUT
+bdd173e9d6aa9e3780a66f0415267a31
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+100,1000
+%CODE
+%OUTPUT
+f171aef8bc4bcd657af1df252927e2c0
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+-100,100
+%CODE
+%OUTPUT
+9e216bca7f27973f62737ff561a0fdee
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+-1000,-500
+%CODE
+%OUTPUT
+a4491025f4e324838ed2e73aff735f95
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+-50,-30
+%CODE
+%OUTPUT
+e396107fc888364a29b771d888dc0408
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+10000,100000
+%CODE
+%OUTPUT
+5794089ebf8249bda6f71f7355837fad
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+199,203
+%CODE
+%OUTPUT
+ecc7d1587d96695c8acc5152ca2161c8
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+-3,-1
+%CODE
+%OUTPUT
+9d637919d24297e5400e67120eeafa59
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+123,321
+%CODE
+%OUTPUT
+53ec0741022479593d0d53a2b9a5c285
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+-20,10
+%CODE
+%OUTPUT
+ecca7fbeea90f19da0d4854e5bd86208

@@ -1,0 +1,227 @@
+%PREG
+Pregunta 10
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+8,4,7,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 6.3
+El mayor número fue 8
+El menor número fue 4
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+10000,10000,10000,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 10000.0
+El mayor número fue 10000
+El menor número fue 10000
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,2,3,4,5,6,7,8,9,10,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 5.5
+El mayor número fue 10
+El menor número fue 1
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+99,101,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 100.0
+El mayor número fue 101
+El menor número fue 99
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,2,3,4,5,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 3.0
+El mayor número fue 5
+El menor número fue 1
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+10000,1,1,1,1,1,1,1,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 1250.9
+El mayor número fue 10000
+El menor número fue 1
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+5000,5000,5000,5000,5000,5000,5000,5000,5000,5000,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 5000.0
+El mayor número fue 5000
+El menor número fue 5000
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+5
+4
+3
+2
+1
+fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 3.0
+El mayor número fue 5
+El menor número fue 1
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+-10,0,10,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 0.0
+El mayor número fue 10
+El menor número fue -10
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+9999,10000,fin
+%CODE
+%OUTPUT
+El promedio obtenido es de 9999.5
+El mayor número fue 10000
+El menor número fue 9999
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1,1,2,2,3,3,fin
+%CODE
+%OUTPUT
+bf69f9e11131b4d5a8c957bd1d493c1f
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,fin
+%CODE
+%OUTPUT
+cd5b17417a89eebbe0ef22b642a1790d
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+10,1000,100,10000,1,fin
+%CODE
+%OUTPUT
+d0ec68f16a2bc592301614e7923adffd
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+9876,1234,fin
+%CODE
+%OUTPUT
+a8d78243f19be3e436462cdcbfd97636
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+999,998,997,996,995,fin
+%CODE
+%OUTPUT
+963839a1a571e18a0d81abdaa39c4fd9
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+7,3,5,1,9,fin
+%CODE
+%OUTPUT
+b836355e9533db49fb3f12c713756bb5
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+50,60,70,80,90,100,fin
+%CODE
+%OUTPUT
+225fa5961169d1157bf77f04c63069cd
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+543,123,876,fin
+%CODE
+%OUTPUT
+cd6a992a71aedd1677a8b9345671b0c1
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+45,23,67,89,12,56,fin
+%CODE
+%OUTPUT
+545728c47c5dee29db16f06b154bac40
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+987,543,210,1234,789,567,876,654,fin
+%CODE
+%OUTPUT
+ca73b197632af795a5af7bfbaae643bc

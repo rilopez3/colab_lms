@@ -1,0 +1,231 @@
+%PREG
+Pregunta 7
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+contrasena1,contrasena2,abc,holamundo,contrasena1
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Contraseña confirmada.
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+a,a
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Contraseña confirmada.
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+password123,password123
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Contraseña confirmada.
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+secreto,SECRETO,secreto
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Contraseña confirmada.
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+aA1!aA1!aA1!aA1!aA1!,aA1!aA1!aA1!aA1!aA1!
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Contraseña confirmada.
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+passw0rd!,password!,passw0rd!
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Contraseña confirmada.
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+abcABC123!@#,abcABC123!@#
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Contraseña confirmada.
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+test,test123,test123,test123,test,test,test,test,test
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Contraseña confirmada.
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+!@#$%^&*()_+,!@#$%^&*()_+
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Contraseña confirmada.
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+password,Password,password
+%CODE
+%OUTPUT
+Escriba la contraseña:
+Escriba de nuevo su contraseña:
+Las contraseñas no coinciden. Inténtelo de nuevo.
+Contraseña confirmada.
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+test1,test2,test3,test1
+%CODE
+%OUTPUT
+e7635537776be70751a968571ae334a3
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+p4$$w0rd,P4$$W0RD,p4$$w0rd
+%CODE
+%OUTPUT
+114a2e9168ac7642862ef524d9fe9958
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+abcdefgh,hgfedcba,abcdefgh
+%CODE
+%OUTPUT
+114a2e9168ac7642862ef524d9fe9958
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+password,hello,hello,world,world,1234,1234,world,world,world,!@#$%^&*(),!@#$%^&*(),password
+%CODE
+%OUTPUT
+0c75f74dceacfb70f5a356e90a2a6187
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+qwerty123,asdfg456,asdfg456,zxcvbn789,zxcvbn789,poiuytrewq,poiuytrewq,lkjhgfdsa,lkjhgfdsa,mnbvcxz,mnbvcxz,qwerty123
+%CODE
+%OUTPUT
+3508e45a20b04eb4410a0de683baa441
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1a2b3c,4d5e6f,4d5e6f,7g8h9i,7g8h9i,jklmno,jklmno,pqrst,pqrst,uvwxy,uvwxy,z!@#,z!@#,1a2b3c
+%CODE
+%OUTPUT
+2fb62a51937368c96c13d27f5bfd9b0c
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#
+%CODE
+%OUTPUT
+e7635537776be70751a968571ae334a3
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#
+%CODE
+%OUTPUT
+e7635537776be70751a968571ae334a3
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,lakefjñlkejf,alkdalksfj,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abc,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%ab,$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA
+%CODE
+%OUTPUT
+c57b08460d2282690c38d81ae92f0c94
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+test1,test2,test3,test1,test1
+%CODE
+%OUTPUT
+e7635537776be70751a968571ae334a3
