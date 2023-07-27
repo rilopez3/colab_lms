@@ -5,118 +5,178 @@ Case 1
 %TYPE
 publico
 %OUTPUT
+%PRECODE
+%INPUT
+5,5
 ALERTA : Sistema funcionando en condiciones normales
 %NAME
 Case 2
 %TYPE
 publico
 %OUTPUT
-ALERTA : active freno de emergencia
+%PRECODE
+%INPUT
+0,10
+ALERTA : temperatura insuficiente para operar
 %NAME
 Case 3
 %TYPE
 publico
 %OUTPUT
-ALERTA : acelerar
+%PRECODE
+%INPUT
+44,-25
+ALERTA : active freno de emergencia
 %NAME
 Case 4
 %TYPE
 publico
 %OUTPUT
-ALERTA : Sistema funcionando en condiciones normales
+%PRECODE
+%INPUT
+4,-49
+ALERTA : active freno de emergencia
 %NAME
 Case 5
 %TYPE
 publico
 %OUTPUT
+%PRECODE
+%INPUT
+-38,-18
 ALERTA : acelerar
 %NAME
 Case 6
 %TYPE
 publico
 %OUTPUT
-ALERTA : acelerar
+%PRECODE
+%INPUT
+42,-9
+ALERTA : Sistema funcionando en condiciones normales
 %NAME
 Case 7
 %TYPE
 publico
 %OUTPUT
-ALERTA : acelerar
+%PRECODE
+%INPUT
+6,13
+ALERTA : Sistema funcionando en condiciones normales
 %NAME
 Case 8
 %TYPE
 publico
 %OUTPUT
-ALERTA : active freno de emergencia
+%PRECODE
+%INPUT
+41,-7
+ALERTA : Sistema funcionando en condiciones normales
 %NAME
 Case 9
 %TYPE
 publico
 %OUTPUT
-ALERTA : active freno de emergencia
+%PRECODE
+%INPUT
+-40,43
+ALERTA : acelerar
 %NAME
 Case 10
 %TYPE
 publico
 %OUTPUT
-ALERTA : acelerar
+%PRECODE
+%INPUT
+41,-41
+ALERTA : active freno de emergencia
 %NAME
 Case 1
 %TYPE
 secreto
 %OUTPUT
+%PRECODE
+%INPUT
+-47,-6
 860fed6c16806c6bbbc490e39182b474
 %NAME
 Case 2
 %TYPE
 secreto
 %OUTPUT
-55a3afcacb2e5286fe3d4a4a948d11d0
+%PRECODE
+%INPUT
+6,19
+860fed6c16806c6bbbc490e39182b474
 %NAME
 Case 3
 %TYPE
 secreto
 %OUTPUT
-55a3afcacb2e5286fe3d4a4a948d11d0
+%PRECODE
+%INPUT
+5,28
+5050c598c5abf420cf060fca2a77c9f9
 %NAME
 Case 4
 %TYPE
 secreto
 %OUTPUT
+%PRECODE
+%INPUT
+-28,34
 55a3afcacb2e5286fe3d4a4a948d11d0
 %NAME
 Case 5
 %TYPE
 secreto
 %OUTPUT
-55a3afcacb2e5286fe3d4a4a948d11d0
+%PRECODE
+%INPUT
+5,34
+5050c598c5abf420cf060fca2a77c9f9
 %NAME
 Case 6
 %TYPE
 secreto
 %OUTPUT
+%PRECODE
+%INPUT
+-8,-48
 55a3afcacb2e5286fe3d4a4a948d11d0
 %NAME
 Case 7
 %TYPE
 secreto
 %OUTPUT
-5050c598c5abf420cf060fca2a77c9f9
+%PRECODE
+%INPUT
+-33,18
+55a3afcacb2e5286fe3d4a4a948d11d0
 %NAME
 Case 8
 %TYPE
 secreto
 %OUTPUT
-55a3afcacb2e5286fe3d4a4a948d11d0
+%PRECODE
+%INPUT
+42,43
+5050c598c5abf420cf060fca2a77c9f9
 %NAME
 Case 9
 %TYPE
 secreto
 %OUTPUT
-860fed6c16806c6bbbc490e39182b474
+%PRECODE
+%INPUT
+9,46
+5050c598c5abf420cf060fca2a77c9f9
 %NAME
 Case 10
 %TYPE
 secreto
 %OUTPUT
-860fed6c16806c6bbbc490e39182b474
+%PRECODE
+%INPUT
+48,-27
+5050c598c5abf420cf060fca2a77c9f9
