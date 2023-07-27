@@ -11,9 +11,9 @@ contrasena1,contrasena2,abc,holamundo,contrasena1,
 %OUTPUT
 Escriba la contraseña:
 Escriba de nuevo su contraseña:
-Las contraseñas no coinciden. Inténtelo de nuevo.
-Las contraseñas no coinciden. Inténtelo de nuevo.
-Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
 Contraseña confirmada.
 %NAME
 Case 2
@@ -50,7 +50,7 @@ secreto,SECRETO,secreto,
 %OUTPUT
 Escriba la contraseña:
 Escriba de nuevo su contraseña:
-Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
 Contraseña confirmada.
 %NAME
 Case 5
@@ -75,7 +75,7 @@ passw0rd!,password!,passw0rd!,
 %OUTPUT
 Escriba la contraseña:
 Escriba de nuevo su contraseña:
-Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
 Contraseña confirmada.
 %NAME
 Case 7
@@ -100,9 +100,9 @@ test,test123,test123,test123,test,test,test,test,test,
 %OUTPUT
 Escriba la contraseña:
 Escriba de nuevo su contraseña:
-Las contraseñas no coinciden. Inténtelo de nuevo.
-Las contraseñas no coinciden. Inténtelo de nuevo.
-Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
 Contraseña confirmada.
 %NAME
 Case 9
@@ -127,7 +127,7 @@ password,Password,password,
 %OUTPUT
 Escriba la contraseña:
 Escriba de nuevo su contraseña:
-Las contraseñas no coinciden. Inténtelo de nuevo.
+Las contraseñas no coinciden. Intentelo de nuevo.
 Contraseña confirmada.
 %NAME
 Case 1
@@ -138,7 +138,7 @@ secreto
 test1,test2,test3,test1,
 %CODE
 %OUTPUT
-e7635537776be70751a968571ae334a3
+f9bf59310301815bb126bf543d7824c4
 %NAME
 Case 2
 %TYPE
@@ -148,7 +148,7 @@ secreto
 p4$$w0rd,P4$$W0RD,p4$$w0rd,
 %CODE
 %OUTPUT
-114a2e9168ac7642862ef524d9fe9958
+ce0c75077b2f87fe5bc22ae3e47079a5
 %NAME
 Case 3
 %TYPE
@@ -158,7 +158,7 @@ secreto
 abcdefgh,hgfedcba,abcdefgh,
 %CODE
 %OUTPUT
-114a2e9168ac7642862ef524d9fe9958
+ce0c75077b2f87fe5bc22ae3e47079a5
 %NAME
 Case 4
 %TYPE
@@ -168,7 +168,7 @@ secreto
 password,hello,hello,world,world,1234,1234,world,world,world,!@#$%^&*(),!@#$%^&*(),password,
 %CODE
 %OUTPUT
-0c75f74dceacfb70f5a356e90a2a6187
+dffdfea52f02f84b3e6203f342c48025
 %NAME
 Case 5
 %TYPE
@@ -178,7 +178,7 @@ secreto
 qwerty123,asdfg456,asdfg456,zxcvbn789,zxcvbn789,poiuytrewq,poiuytrewq,lkjhgfdsa,lkjhgfdsa,mnbvcxz,mnbvcxz,qwerty123,
 %CODE
 %OUTPUT
-3508e45a20b04eb4410a0de683baa441
+d91419b0916421ac5d7c0ca4a0e73139
 %NAME
 Case 6
 %TYPE
@@ -188,7 +188,7 @@ secreto
 1a2b3c,4d5e6f,4d5e6f,7g8h9i,7g8h9i,jklmno,jklmno,pqrst,pqrst,uvwxy,uvwxy,z!@#,z!@#,1a2b3c,
 %CODE
 %OUTPUT
-2fb62a51937368c96c13d27f5bfd9b0c
+cb5a3c3c77c194d905a3570b7653fe6c
 %NAME
 Case 7
 %TYPE
@@ -198,7 +198,7 @@ secreto
 contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#contrasena123456!@#,
 %CODE
 %OUTPUT
-e7635537776be70751a968571ae334a3
+f9bf59310301815bb126bf543d7824c4
 %NAME
 Case 8
 %TYPE
@@ -208,7 +208,7 @@ secreto
 contrasena123456!@#,lakefjñlkejf,alkdalksfj,contrasena123456!@#,
 %CODE
 %OUTPUT
-e7635537776be70751a968571ae334a3
+f9bf59310301815bb126bf543d7824c4
 %NAME
 Case 9
 %TYPE
@@ -218,7 +218,7 @@ secreto
 7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,lakefjñlkejf,alkdalksfj,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abc,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%ab,$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,7$%abcABC123!@#xyzXYZ987$%abcABC123!@#xyzXYZ987$%abcA,
 %CODE
 %OUTPUT
-c57b08460d2282690c38d81ae92f0c94
+56cb4295e8c6cdc264e2f9180f50c536
 %NAME
 Case 10
 %TYPE
@@ -228,4 +228,4 @@ secreto
 test1,test2,test3,test1,test1,
 %CODE
 %OUTPUT
-e7635537776be70751a968571ae334a3
+f9bf59310301815bb126bf543d7824c4

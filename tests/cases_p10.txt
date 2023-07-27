@@ -10,8 +10,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 6.3
-El mayor número fue 8
-El menor número fue 4
+El mayor numero fue 8
+El menor numero fue 4
 %NAME
 Case 2
 %TYPE
@@ -22,8 +22,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 10000.0
-El mayor número fue 10000
-El menor número fue 10000
+El mayor numero fue 10000
+El menor numero fue 10000
 %NAME
 Case 3
 %TYPE
@@ -34,8 +34,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 5.5
-El mayor número fue 10
-El menor número fue 1
+El mayor numero fue 10
+El menor numero fue 1
 %NAME
 Case 4
 %TYPE
@@ -46,8 +46,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 100.0
-El mayor número fue 101
-El menor número fue 99
+El mayor numero fue 101
+El menor numero fue 99
 %NAME
 Case 5
 %TYPE
@@ -58,8 +58,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 3.0
-El mayor número fue 5
-El menor número fue 1
+El mayor numero fue 5
+El menor numero fue 1
 %NAME
 Case 6
 %TYPE
@@ -70,8 +70,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 1250.9
-El mayor número fue 10000
-El menor número fue 1
+El mayor numero fue 10000
+El menor numero fue 1
 %NAME
 Case 7
 %TYPE
@@ -82,8 +82,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 5000.0
-El mayor número fue 5000
-El menor número fue 5000
+El mayor numero fue 5000
+El menor numero fue 5000
 %NAME
 Case 8
 %TYPE
@@ -94,8 +94,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 3.0
-El mayor número fue 5
-El menor número fue 1
+El mayor numero fue 5
+El menor numero fue 1
 %NAME
 Case 9
 %TYPE
@@ -106,8 +106,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 0.0
-El mayor número fue 10
-El menor número fue -10
+El mayor numero fue 10
+El menor numero fue -10
 %NAME
 Case 10
 %TYPE
@@ -118,8 +118,8 @@ publico
 %CODE
 %OUTPUT
 El promedio obtenido es de 9999.5
-El mayor número fue 10000
-El menor número fue 9999
+El mayor numero fue 10000
+El menor numero fue 9999
 %NAME
 Case 1
 %TYPE
@@ -129,7 +129,7 @@ secreto
 1,1,2,2,3,3,fin,
 %CODE
 %OUTPUT
-bf69f9e11131b4d5a8c957bd1d493c1f
+8550e59f45cf92844515711bfa920bf0
 %NAME
 Case 2
 %TYPE
@@ -139,7 +139,7 @@ secreto
 5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,fin,
 %CODE
 %OUTPUT
-cd5b17417a89eebbe0ef22b642a1790d
+af42a95468a7a4dbe29bd576ee1c65cf
 %NAME
 Case 3
 %TYPE
@@ -149,7 +149,7 @@ secreto
 10,1000,100,10000,1,fin,
 %CODE
 %OUTPUT
-d0ec68f16a2bc592301614e7923adffd
+6e1e2c3e626072d69cf6be297b35c180
 %NAME
 Case 4
 %TYPE
@@ -159,7 +159,7 @@ secreto
 9876,1234,fin,
 %CODE
 %OUTPUT
-a8d78243f19be3e436462cdcbfd97636
+c90b866850b4ec5ce4b554ae210a827a
 %NAME
 Case 5
 %TYPE
@@ -169,7 +169,7 @@ secreto
 999,998,997,996,995,fin,
 %CODE
 %OUTPUT
-963839a1a571e18a0d81abdaa39c4fd9
+21679f068098a2b8066382213169c407
 %NAME
 Case 6
 %TYPE
@@ -179,7 +179,7 @@ secreto
 7,3,5,1,9,fin,
 %CODE
 %OUTPUT
-b836355e9533db49fb3f12c713756bb5
+372fbc03b12b4d0097608ce452165519
 %NAME
 Case 7
 %TYPE
@@ -189,7 +189,7 @@ secreto
 50,60,70,80,90,100,fin,
 %CODE
 %OUTPUT
-225fa5961169d1157bf77f04c63069cd
+83d33ba38bb6f9dab209e8a6b3674472
 %NAME
 Case 8
 %TYPE
@@ -199,7 +199,7 @@ secreto
 543,123,876,fin,
 %CODE
 %OUTPUT
-cd6a992a71aedd1677a8b9345671b0c1
+a93322277da96ffc02a9b26b56aca6a5
 %NAME
 Case 9
 %TYPE
@@ -209,7 +209,7 @@ secreto
 45,23,67,89,12,56,fin,
 %CODE
 %OUTPUT
-545728c47c5dee29db16f06b154bac40
+8af9a0a78f6cac1eb06f89e684c554bd
 %NAME
 Case 10
 %TYPE
@@ -219,4 +219,4 @@ secreto
 987,543,210,1234,789,567,876,654,fin,
 %CODE
 %OUTPUT
-ca73b197632af795a5af7bfbaae643bc
+dc708c2ab38c54d6b31cb6f68b7ae5cf

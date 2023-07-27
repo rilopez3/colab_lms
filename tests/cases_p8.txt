@@ -9,7 +9,7 @@ publico
 Pedro,3,en el blanco,fallo,fallo,
 %CODE
 %OUTPUT
-Pedro falló la prueba :c
+Pedro fallo la prueba :c
 %NAME
 Case 2
 %TYPE
@@ -59,7 +59,7 @@ publico
 Carlos,3,fallo,fallo,fallo,
 %CODE
 %OUTPUT
-Carlos falló la prueba :c
+Carlos fallo la prueba :c
 %NAME
 Case 7
 %TYPE
@@ -99,7 +99,7 @@ publico
 Sergio,3,fallo,fallo,en el blanco,
 %CODE
 %OUTPUT
-Sergio falló la prueba :c
+Sergio fallo la prueba :c
 %NAME
 Case 1
 %TYPE
@@ -109,7 +109,7 @@ secreto
 Carlos,10,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,
 %CODE
 %OUTPUT
-b700d7796e266c8f3a3863136812cfb1
+24bec3f559ee20aaf7dfb339d9b0d5d0
 %NAME
 Case 2
 %TYPE
@@ -129,7 +129,7 @@ secreto
 David,2,fallo,en el blanco,
 %CODE
 %OUTPUT
-f16170578ed7c742d904313fa5c4912c
+3171fe5cd0aaae6ac37b03cf4cd59782
 %NAME
 Case 4
 %TYPE
@@ -159,7 +159,7 @@ secreto
 Roberto,3,fallo,fallo,fallo,
 %CODE
 %OUTPUT
-d97ee8df7e8b92d32a2ab8e381c4f8e6
+264f7c111ff79e1ed0587f2837387c6e
 %NAME
 Case 7
 %TYPE
@@ -169,7 +169,7 @@ secreto
 Gabriela,2,fallo,en el blanco,
 %CODE
 %OUTPUT
-dbde9d69eb0ec556c1309d7d582bfcab
+a55cf3db045e3a7ad0a2f5d35e5c5ecb
 %NAME
 Case 8
 %TYPE
@@ -199,4 +199,4 @@ secreto
 Fernando,7,fallo,fallo,fallo,fallo,fallo,fallo,fallo,
 %CODE
 %OUTPUT
-9d75070e2b369ca2efaaab116c2e280c
+637930bf769d669fa183150893b17627
