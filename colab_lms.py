@@ -89,6 +89,8 @@ def run_test(preg):
     t_sec = 0
     student_code = get_student_code(preg)
 
+    assert student_code, "Error al cargar la respuesta del estudiante.\nVERIFICA QUE LA PRIMERA LINEA DE LA CELDA DONDE SE ENCUENTRA TU RESPUESTA ES "# <P$>", DONDE $ ES EL NUMERO DE LA PREGUNTA. \nFAVOR CONTACTAR A COORDINACION"
+
     if cases['PREG']:
       print_system('<div class="title_preg">'+cases['PREG']+'</div>')
     if cases['CASES']:
@@ -257,9 +259,9 @@ def redirect_io(code):
 # Obtener codigo del estudiante
 def get_student_code(pregunta):
   all_cells = list(get_ipython().history_manager.get_range())
-  student_code = ''
+  student_code = None
   for cell in all_cells[::-1]:
-    if cell[2].strip().startswith(f'# <{pregunta}>'):
+    if cell[2].strip().startswith(f'# <{pregunta}>') or cell[2].strip().startswith(f'#<{pregunta}>'):
       student_code = redirect_io(cell[2])
       break
   return student_code
