@@ -3,7 +3,6 @@ DEBUG_LOCAL = False
 PATH_CASES = 'https://raw.githubusercontent.com/rilopez3/colab_lms/guia2_2023/cases_urls.txt'
 
 ###################################################################################################################################
-
 import io, sys, traceback, hashlib, urllib.request
 from IPython.core.display import display, HTML
 
@@ -69,124 +68,151 @@ def read_cases(fileurl):
           lineas.append(l)
       cases = parse_case(lineas)
     except Exception as e:
-      print(e)
+      print(traceback.format_exc())
   return cases
 
 # Corre el test de una pregunta
 def run_test(preg):
-  global SYSTEM_OUTPUT_CONTROL
-  ##############################################################################
-  SYSTEM_OUTPUT_CONTROL = '<div style="width:600px;">'
-  print_system('<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>')
+  try:
+    global SYSTEM_OUTPUT_CONTROL
+    ##############################################################################
+    SYSTEM_OUTPUT_CONTROL = '<div class="output_cont">'
+    print_system('<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>')
+    print_system('<script src="https://code.jquery.com/jquery-3.7.0.slim.min.js"></script>')
 
+    cases = read_cases(get_case_path(preg))
+    assert len(cases) > 0, "Error al cargar los cases.\nFAVOR CONTACTAR A COORDINACION"
 
-  cases = read_cases(get_case_path(preg))
-  pub = 0
-  t_pub = 0
-  sec = 0
-  t_sec = 0
-  student_code = get_student_code(preg)
+    pub = 0
+    t_pub = 0
+    sec = 0
+    t_sec = 0
+    student_code = get_student_code(preg)
 
-  if cases['PREG']:
-    print_system('<div class="title_preg">'+cases['PREG']+'</div>')
-  if cases['CASES']:
-    for case in cases['CASES']:
-      if case['TYPE'].lower() == 'publico':
-        pub += run_case(case, student_code)
-        t_pub += 1
-      elif case['TYPE'].lower() == 'secreto':
-        sec += run_case(case, student_code)
-        t_sec += 1
+    if cases['PREG']:
+      print_system('<div class="title_preg">'+cases['PREG']+'</div>')
+    if cases['CASES']:
+      for case in cases['CASES']:
+        if case['TYPE'].lower() == 'publico':
+          pub += run_case(case, student_code)
+          t_pub += 1
+        elif case['TYPE'].lower() == 'secreto':
+          sec += run_case(case, student_code)
+          t_sec += 1
 
-    total_pub = 'PUBLICOS = '+str(pub)+'/'+str(t_pub)
-    total_sec = 'SECRETOS = '+str(sec)+'/'+str(t_sec)
+      total_pub = 'PUBLICOS = '+str(pub)+'/'+str(t_pub)
+      total_sec = 'SECRETOS = '+str(sec)+'/'+str(t_sec)
 
-    print_system('''<div class="res_preg"><p>RESULTADO</p>
-      <li>''' + total_pub + '''</li>
-      <li>''' + total_sec + '''</li></div>''')
-  else:
-    print_system('<div class="error"><p>Error en archivo de cases, informar a soporte.</p></div>')
+      print_system('''<div class="res_preg"><p>RESULTADO</p>
+        <li>''' + total_pub + '''</li>
+        <li>''' + total_sec + '''</li></div>''')
+    else:
+      print_system('<div class="error"><p>Error en archivo de cases, informar a soporte.</p></div>')
 
-  print_system('''<style>
-    .title_preg{
-      font-weight: bold;
+    print_system('''<style>
+      .output_cont{
+        width:600px;
+        background:white;
+        padding: 10px;
+      }
+      .title_preg{
+        font-weight: bold;
         font-size: 20px;
         text-align: center;
-        border-top: 2px solid black;
         padding: 20px;
         border-bottom: 1px solid black;
-    }
-    .section_case {
+        color: #1e1e1e;
+      }
+      .section_case {
         border-bottom: 1px solid black;
         padding: 5px 20px;
-        color: #545353;
-    }
-    .section_case p{
+        color: #1e1e1e;
+      }
+      .section_case p{
         font-size: 14px;
         font-weight: bold;
-    }
-    .section_case li{
-      font-size: 12px;
+        color: #1e1e1e;
+      }
+      .section_case li{
+        font-size: 12px;
         list-style-type: disclosure-closed;
         padding-left: 10px;
-    }
-    .res_preg{
-        border-bottom: 1px solid black;
+      }
+      .res_preg{
         padding: 5px 20px;
-      font-size: 15px;
-    }
-    .res_preg p{
+        font-size: 15px;
+        color: #1e1e1e;
+      }
+      .res_preg p{
         font-weight: bold;
         text-align: center;
-    }
-    .res_preg li{
-      list-style-type: none;
+      }
+      .res_preg li{
+        list-style-type: none;
         padding-left: 10px;
         text-align: center;
         font-weight: bold;
-    }
-    .mode_hidden{
-      display: none;
-    }
-    .cluster_title{
-      font-size: 16px;
-      font-weight: bold;
-      padding: 7px;
-      font-style: italic;
-      border-bottom: 1px solid black;
-      cursor: pointer;
-      user-select: none;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      -ms-user-select: none;
-      display: flex;
-      justify-content: space-between;
-    }
-    .cluster_title span:first-child {
-        align-self: flex-start;
-    }
-    .cluster_title span:last-child {
-        align-self: flex-end;
-    }
-        </style>
-        <script>
-    function toggle_case(element) {
-        let nextElement = element.nextElementSibling;
-        if(nextElement && nextElement.classList.contains('case_cluster')) {
-            nextElement.classList.toggle('mode_hidden');
+      }
+      .mode_hidden{
+        display: none;
+      }
+      .cluster_title{
+        font-size: 16px;
+        font-weight: bold;
+        padding: 7px;
+        font-style: italic;
+        border-bottom: 1px solid black;
+        cursor: pointer;
+        user-select: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        display: flex;
+        justify-content: space-between;
+        color: #1e1e1e;
+      }
+      .cluster_title span:first-child {
+          align-self: flex-start;
+      }
+      .cluster_title span:last-child {
+          align-self: flex-end;
+      }
+      .raw_case{
+        cursor:pointer;
+        font-weight: bold;    
+        margin: 5px 0;
+        font-size: 12px;
+      }
+      .raw_text{
+        word-wrap: break-word;
+        font-weight: lighter;
+      }
+      .raw_hidden{
+        display: none;
+        overflow: hidden;
+        word-wrap: unset;
+      }
+          </style>
+          <script>
+
+      $(".raw_case").click(function() {
+          $(this).find(".raw_text").toggleClass('raw_hidden')
+      });
+
+      $(".cluster_title").click(function() {
+        let $nextElement = $(this).next();
+        if($nextElement && $nextElement.hasClass('case_cluster')) {
+            $nextElement.toggleClass('mode_hidden');
         }
-        var iconElement = element.querySelector("#toggleIcon");
-        if (iconElement.classList.contains('fa-chevron-down')) {
-            iconElement.classList.remove('fa-chevron-down');
-            iconElement.classList.add('fa-chevron-up');
-        } else {
-            iconElement.classList.remove('fa-chevron-up');
-            iconElement.classList.add('fa-chevron-down');
-        }
-    }
-    </script>''')
-  print_system('</div>')
-  display(HTML(SYSTEM_OUTPUT_CONTROL))
+        let $iconElement = $(this).find("#toggleIcon");
+        $iconElement.toggleClass('fa-chevron-down fa-chevron-up');
+      });
+
+      </script>''')
+    print_system('</div>')
+    display(HTML(SYSTEM_OUTPUT_CONTROL))
+  except Exception as e:
+    print(traceback.format_exc())
 
 # Conversor dinamico a formato str
 def push_str(val):
@@ -248,10 +274,11 @@ def run_case(case, student_code):
   INTERNAL_COUNTER_INPUT = 0
   STUDENT_OUTPUT_CONTROL = ''
 
-  print_system('<div class="case_title cluster_title" onclick="toggle_case(this)">')
+  print_system('<div class="cluster_title">')
   print_system('<span>'+case['NAME'].upper() + ' ' + case['TYPE'].upper()+'</span>')
 
   estado = 0
+  estado_msg = 'ERROR'
   error_message = None
   try:
     exec(case['PRECODE'])
@@ -262,26 +289,26 @@ def run_case(case, student_code):
       STUDENT_OUTPUT_CONTROL = hashlib.md5( STUDENT_OUTPUT_CONTROL.encode()).hexdigest()
       case['OUTPUT'] = case['OUTPUT'].strip()
 
-    estado = 1 if STUDENT_OUTPUT_CONTROL == case['OUTPUT'] else 0
-    print_system('<span>ESTADO - ', 'OK' if estado else 'Incorrecto','</span>')
-
-    if case['TYPE'].lower() == 'publico':
-      print_system('<i id="toggleIcon" class="fas fa-chevron-down"></i>')
-    else:
-      print_system('<i class="fas fa-chevron-down"></i>')
-
+    estado, estado_msg = [1 ,'CORRECTO'] if STUDENT_OUTPUT_CONTROL == case['OUTPUT'] else [0 , 'INCORRECTO']
 
   except Exception as e:
     error_message = traceback.format_exc()
 
+  print_system('<span>ESTADO - ', estado_msg,'</span>')
+
+  if case['TYPE'].lower() == 'publico':
+    print_system('<i id="toggleIcon" class="fas fa-chevron-down"></i>')
+  else:
+    print_system('<i class="fas fa-chevron-down"></i>')
+
   print_system('</div>')
 
   if error_message:
+    print_system('<div class="case_cluster mode_hidden">')
     print_system('<div class="section_case"><p>ERROR</p>')
     print_system('<span>', error_message,'</span>')
     print_system('</div>')
-
-
+    print_system('</div>')
 
   if case['TYPE'].lower() == 'publico':
     print_system('<div class="case_cluster mode_hidden">')
@@ -299,13 +326,15 @@ def run_case(case, student_code):
       print_system('</div>')
 
     print_system('<div class="section_case"><p>RECIBIDO</p>')
-    for i in STUDENT_OUTPUT_CONTROL.strip().split('\n'):
+    for i in STUDENT_OUTPUT_CONTROL.split('\n'):
       print_system('<li>', i,'</li>')
+    print_system('<div class="raw_case">Texto sin formato:<div class="raw_text raw_hidden">',repr(STUDENT_OUTPUT_CONTROL),'</div></div>')
     print_system('</div>')
 
     print_system('<div class="section_case"><p>ESPERADO</p>')
-    for i in case['OUTPUT'].strip().split('\n'):
+    for i in case['OUTPUT'].split('\n'):
       print_system('<li>', i,'</li>')
+    print_system('<div class="raw_case">Texto sin formato:<div class="raw_text raw_hidden">',repr(case['OUTPUT']),'</div></div>')
     print_system('</div>')
 
     print_system('</div>')
