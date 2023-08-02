@@ -6,100 +6,99 @@ Case 1
 publico
 %PRECODE
 %INPUT
-hola,como estas,ATENTO,Camaron que se duerme; se l,pasando por aqui,contando ovejas,ATENTO,o lleva la corriente.,sigo entregando,inputs,fin,
-%CODE
+hola,como estas,ATENTO,Camaron que se duerme se l,pasando por aqui,contando ovejas,ATENTO,o lleva la corriente,sigo entregando,inputs,fin,%CODE
 %OUTPUT
-Camaron que se duerme, se lo lleva la corriente.
+Camaron que se duerme se lo lleva la corriente
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-al oculista,nosotros que somos,; no de lo q,ATENTO,Más vale tarde; porque por la mañana d,nunca veo, dura. Despu,contando ovejas, vago;,seas no viene,ATENTO,uermo.,s que so,Edición,agrego a la comida.,fin,
+al oculista,nosotros que somos, no de lo q,ATENTO,Mas vale tarde porque por la mañana d,nunca veo, dura Despu,contando ovejas, vago,seas no viene,ATENTO,uermo,s que so,Edición,agrego a la comida,fin,
 %CODE
 %OUTPUT
-Más vale tarde; porque por la mañana duermo.
+Mas vale tarde porque por la mañana duermo
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-Me hago responsable,de lo que digo;,no de lo que entiendas.,nosotros que somos,ATENTO,Estado civil:,Odio ser bipolar;,es una sensación,fantástica.,Enamorarse está bien, pero mejor es comer croquetas.,ATENTO, Cansada.,fin,
+Me hago responsable,de lo que digo,no de lo que entiendas,nosotros que somos,ATENTO,Estado civil  ,Odio ser bipolar,es una sensación,fantástica,Enamorarse está bien, pero mejor es comer croquetas,ATENTO, Cansada,fin,
 %CODE
 %OUTPUT
-Estado civil: Cansada.
+Estado civil   Cansada
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-ATENTO,¿Felicidad? Felicidad es,ATENTO, ver una señal de wifi sin contraseña.,fin,
+ATENTO,¿Felicidad? Felicidad es,ATENTO, ver una señal de wifi sin contraseña,fin,
 %CODE
 %OUTPUT
-¿Felicidad? Felicidad es ver una señal de wifi sin contraseña.
+¿Felicidad? Felicidad es ver una señal de wifi sin contraseña
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-Si buscas una mano,que te ayude...,¡Búscala al final,de tu brazo!,ATENTO,Hay dos palabras que te abrirán muchas puertas:,ATENTO, Tire y Empuje.,¡Corre a por tus sueños!,Si no los alcanzas;,por lo menos haces deporte.,fin,
+Si buscas una mano,que te ayude,¡Búscala al final,de tu brazo!,ATENTO,Hay dos palabras que te abriran muchas puertas  ,ATENTO, Tire y Empuje,¡Corre a por tus sueños!,Si no los alcanzas,por lo menos haces deporte,fin,
 %CODE
 %OUTPUT
-Hay dos palabras que te abrirán muchas puertas: Tire y Empuje.
+Hay dos palabras que te abriran muchas puertas   Tire y Empuje
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-ATENTO,Me voy a hacer un trío…,No soy vago;,estoy en modo,ahorro de energía.,ATENTO, Mi almohada; mi cama y yo.,Un día sin sol es;,ya sabes;,de noche.,fin,
+ATENTO,Me voy a hacer un trio       ,No soy vago,estoy en modo,ahorro de energía,ATENTO, Mi almohada mi cama y yo,Un día sin sol es,ya sabes,de noche,fin,
 %CODE
 %OUTPUT
-Me voy a hacer un trío… Mi almohada; mi cama y yo.
+Me voy a hacer un trio        Mi almohada mi cama y yo
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-Yo tenía un lado dulce...,hasta que me lo comí.,Una conciencia limpia es por lo general;,una señal de mala memoria.,ATENTO,El silencio es oro.,ATENTO, A menos que tengas hijos; ahí se convierte en sospecha.,No todas las obras de arte están en museos;,por ejemplo;,yo estoy en mi casa.,fin,
+Yo tenía un lado dulce,hasta que me lo comí,Una conciencia limpia es por lo general,una señal de mala memoria,ATENTO,El silencio es oro  ,ATENTO, A menos que tengas hijos ahi se convierte en sospecha,No todas las obras de arte están en museos,por ejemplo,yo estoy en mi casa,fin,
 %CODE
 %OUTPUT
-El silencio es oro. A menos que tengas hijos; ahí se convierte en sospecha.
+El silencio es oro   A menos que tengas hijos ahi se convierte en sospecha
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-Si buscas una mano que te ayude...,¡Búscala al final de tu brazo!,Lo más cerca que una persona llega a la perfección,es el día que rellena una solicitud de empleo.,ATENTO,Cuando la vida te da limones;,Nunca dejes para mañana,lo que puedas hacer pasado mañana.,ATENTO, arrójaselos a alguien a los ojos.,Siempre recuerda que tú eres único.,Absolutamente igual que todos los demás.,fin,
+Si buscas una mano que te ayude,¡Búscala al final de tu brazo!,Lo más cerca que una persona llega a la perfección,es el día que rellena una solicitud de empleo,ATENTO,Cuando la vida te da limones    ,Nunca dejes para mañana,lo que puedas hacer pasado mañana,ATENTO, arrojaselos a alguien a los ojos,Siempre recuerda que tú eres único,Absolutamente igual que todos los demás,fin,
 %CODE
 %OUTPUT
-Cuando la vida te da limones; arrójaselos a alguien a los ojos.
+Cuando la vida te da limones     arrojaselos a alguien a los ojos
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-ATENTO,Tus ojos son como IKEA. ,ATENTO,Estoy totalmente perdida en ellos.,Me gustas más que,dormir hasta tarde.,fin,
+ATENTO,Tus ojos son como IKEA  ,ATENTO,estoy totalmente perdida en ellos,Me gustas más que,dormir hasta tarde,fin,
 %CODE
 %OUTPUT
-Tus ojos son como IKEA. Estoy totalmente perdida en ellos.
+Tus ojos son como IKEA  estoy totalmente perdida en ellos
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-Frases para "ligar":,Si yo fuese tú;,estaría conmigo.,ATENTO,Oye, ¿te presentas a las elecciones?,Seguramente no soy la persona más guapa del local;,pero soy la única que se ha atrevido a hablarte.,No sé lo que somos;,pero no quiero que nunca lo dejemos de ser,ATENTO, Porque eres un partidazo.,He decidido,gastar la batería de mi móvil contigo.,fin,
+Frases para "ligar",Si yo fuese tú,estaría conmigo,ATENTO,Oye ¿te presentas a las elecciones?,Seguramente no soy la persona más guapa del local,pero soy la única que se ha atrevido a hablarte,No sé lo que somos,pero no quiero que nunca lo dejemos de ser,ATENTO, Porque eres un partidazo,He decidido,gastar la batería de mi móvil contigo,fin,
 %CODE
 %OUTPUT
-Oye, ¿te presentas a las elecciones? Porque eres un partidazo.
+Oye ¿te presentas a las elecciones? Porque eres un partidazo
 %NAME
 Case 1
 %TYPE
