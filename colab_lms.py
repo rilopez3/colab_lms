@@ -259,12 +259,10 @@ def redirect_io(code):
 # Obtener codigo del estudiante
 def get_student_code(pregunta):
   all_cells = list(get_ipython().history_manager.get_range())
-  student_code = None
   for cell in all_cells[::-1]:
     if cell[2].strip().startswith(f'# <{pregunta}>') or cell[2].strip().startswith(f'#<{pregunta}>'):
-      student_code = redirect_io(cell[2])
-      break
-  return clean_code(student_code)
+      return clean_code(redirect_io(cell[2]))
+  return None
 
 # Limpia caracteres unicode
 def clean_code(student_code):
