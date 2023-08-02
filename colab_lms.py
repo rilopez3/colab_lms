@@ -220,6 +220,8 @@ def run_test(preg):
 def push_str(val):
   if type(val) == type(1):
     return str(val)
+  if type(val) == type(0.5):
+    return str(val)
   if type(val) == type([]):
     return '[' + ', '.join([ push_str(i) for i in val ]) + ']'
   if type(val) == type(True):
