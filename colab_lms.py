@@ -259,7 +259,7 @@ def get_student_code(pregunta):
   all_cells = list(get_ipython().history_manager.get_range())
   student_code = ''
   for cell in all_cells[::-1]:
-    if cell[2].startswith(f'# <{pregunta}>'):
+    if cell[2].strip().startswith(f'# <{pregunta}>'):
       student_code = redirect_io(cell[2])
       break
   return student_code
