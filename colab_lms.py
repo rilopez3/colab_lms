@@ -268,7 +268,9 @@ def get_student_code(pregunta):
 
 # Limpia caracteres unicode
 def clean_code(student_code):
-  to_clean = ['\xa0',' ']
+  to_clean = [ 
+    ['\xa0',' '],
+  ]
   for row in to_clean:
     student_code = student_code.replace(row[0], row[1])
   return student_code
