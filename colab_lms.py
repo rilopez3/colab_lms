@@ -1,6 +1,6 @@
 global DEBUG_LOCAL
 DEBUG_LOCAL = False
-PATH_CASES = 'https://raw.githubusercontent.com/rilopez3/colab_lms/guia2_2023/cases_urls.txt'
+PATH_CASES = 'https://raw.githubusercontent.com/rilopez3/colab_lms/guia3_2023/cases_urls.txt'
 
 ###################################################################################################################################
 import io, sys, traceback, hashlib, urllib.request
