@@ -264,6 +264,13 @@ def get_student_code(pregunta):
     if cell[2].strip().startswith(f'# <{pregunta}>') or cell[2].strip().startswith(f'#<{pregunta}>'):
       student_code = redirect_io(cell[2])
       break
+  return clean_code(student_code)
+
+# Limpia caracteres unicode
+def clean_code(student_code):
+  to_clean = ['\xa0',' ']
+  for row in to_clean:
+    student_code = student_code.replace(row[0], row[1])
   return student_code
 
 def run_case(case, student_code):
