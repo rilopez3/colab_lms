@@ -357,6 +357,19 @@ def run_case(case, student_code):
     print_system('<div class="raw_case">Texto sin formato:<div class="raw_text raw_hidden">',repr(case['OUTPUT']),'</div></div>')
     print_system('</div>')
 
+
+  if case['TYPE'].lower() == 'secreto':
+    print_system('<div class="case_cluster mode_hidden">')
+
+    if( case['INPUT'].strip() != '' ):
+      print_system('<div class="section_case"><p>INPUT</p>')
+      for i in case['INPUT'].strip().split(','):
+        print_system('<li>', i,'</li>')
+      print_system('</div>')
+      
+    print_system('</div>')
+
+
     if not estado:
       diferencias = char_diff_checker(STUDENT_OUTPUT_CONTROL, case['OUTPUT'])
       print_system('<div class="section_case"><p>DIFERENCIAS</p>')
