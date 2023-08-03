@@ -350,5 +350,17 @@ def run_case(case, student_code):
 
     print_system('</div>')
 
+  if case['TYPE'].lower() == 'secreto':
+    print_system('<div class="case_cluster mode_hidden">')
+
+    if( case['INPUT'].strip() != '' ):
+      print_system('<div class="section_case"><p>INPUT</p>')
+      for i in case['INPUT'].strip().split(','):
+        print_system('<li>', i,'</li>')
+      print_system('</div>')
+      
+    print_system('</div>')
+
+
 
   return estado
