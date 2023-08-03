@@ -1,3 +1,4 @@
+import diff_match_patch as dmp_module
 global DEBUG_LOCAL
 DEBUG_LOCAL = False
 PATH_CASES = 'https://raw.githubusercontent.com/rilopez3/colab_lms/guia3_2023/cases_urls.txt'
@@ -194,6 +195,14 @@ def run_test(preg):
         overflow: hidden;
         word-wrap: unset;
       }
+      .missing_text{
+        background: #70da7075;
+        color: darkgreen;
+      }
+      .extra_text{
+        background: #da707075;
+        color: #5e0000;
+      }
           </style>
           <script>
 
@@ -348,7 +357,32 @@ def run_case(case, student_code):
     print_system('<div class="raw_case">Texto sin formato:<div class="raw_text raw_hidden">',repr(case['OUTPUT']),'</div></div>')
     print_system('</div>')
 
+    if not estado:
+      diferencias = char_diff_checker(STUDENT_OUTPUT_CONTROL, case['OUTPUT'])
+      print_system('<div class="section_case"><p>DIFERENCIAS</p>')
+      print_system('<div>Los caracteres en color rojo corresponden a los que sobran en tu respuesta, mientras que los caracteres en las zonas verdes son aquellos que faltan.</div><hr>')
+      print_system(diferencias.replace('\n','<br>'))
+      print_system('<br></div>')
+
+
     print_system('</div>')
 
 
   return estado
+
+def char_diff_checker(student_code, esperado):
+    dmp = dmp_module.diff_match_patch()
+
+    diffs = dmp.diff_main(student_code, esperado)
+    dmp.diff_cleanupSemantic(diffs)
+
+    diff_result = ''
+    for op, data in diffs:
+        if op == dmp.DIFF_EQUAL:
+            diff_result += data
+        elif op == dmp.DIFF_DELETE:
+            diff_result += f'<span class="extra_text">{data}</span>'
+        elif op == dmp.DIFF_INSERT:
+            diff_result += f'<span class="missing_text">{data}</span>'
+
+    return diff_result
