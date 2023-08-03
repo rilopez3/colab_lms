@@ -6,197 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-Pedro,3,en el blanco,fallo,fallo,
-%CODE
+20
 %OUTPUT
-Pedro fallo la prueba :c
+ES DE NIVEN
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-Max,4,en el blanco,fallo,fallo,en el blanco,
-%CODE
+27
 %OUTPUT
-Max ha dado a la liana 2 veces
+ES DE NIVEN
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-Ana,2,en el blanco,en el blanco,
-%CODE
+153
 %OUTPUT
-Ana ha dado a la liana 2 veces
+ES DE NIVEN
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-María,5,en el blanco,fallo,fallo,fallo,en el blanco,
-%CODE
+3467
 %OUTPUT
-María ha dado a la liana 2 veces
+NO LO ES
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-Juan,4,en el blanco,en el blanco,en el blanco,en el blanco,
-%CODE
+4193
 %OUTPUT
-Juan ha dado a la liana 4 veces
+NO LO ES
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-Carlos,3,fallo,fallo,fallo,
-%CODE
+582
 %OUTPUT
-Carlos fallo la prueba :c
+NO LO ES
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-Andrea,6,en el blanco,en el blanco,en el blanco,fallo,en el blanco,en el blanco,
-%CODE
+2731
 %OUTPUT
-Andrea ha dado a la liana 5 veces
+NO LO ES
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-Diego,8,en el blanco,en el blanco,fallo,en el blanco,fallo,en el blanco,en el blanco,en el blanco,
-%CODE
+3350
 %OUTPUT
-Diego ha dado a la liana 6 veces
+NO LO ES
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-Marcela,7,en el blanco,fallo,en el blanco,fallo,fallo,en el blanco,fallo,
-%CODE
+4054
 %OUTPUT
-Marcela ha dado a la liana 3 veces
+NO LO ES
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-Sergio,3,fallo,fallo,en el blanco,
-%CODE
+3162
 %OUTPUT
-Sergio fallo la prueba :c
+NO LO ES
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Carlos,10,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,fallo,
-%CODE
+1336
 %OUTPUT
-24bec3f559ee20aaf7dfb339d9b0d5d0
+f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Isabella,4,en el blanco,en el blanco,en el blanco,en el blanco,
-%CODE
+763
 %OUTPUT
-6ab127f0ac04b1b438a9118e83a0c585
+f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-David,2,fallo,en el blanco,
-%CODE
+1955
 %OUTPUT
-3171fe5cd0aaae6ac37b03cf4cd59782
+f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Jorge,5,en el blanco,en el blanco,en el blanco,fallo,en el blanco,
-%CODE
+38
 %OUTPUT
-dce6d1da752b124ad9dd1f6320190d66
+f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Valentina,6,fallo,fallo,en el blanco,fallo,en el blanco,en el blanco,
-%CODE
+156
 %OUTPUT
-32e471809e4683a7f989d95177e8f715
+65cfdcce8c02258dad4655a705f33c9c
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Roberto,3,fallo,fallo,fallo,
-%CODE
+162
 %OUTPUT
-264f7c111ff79e1ed0587f2837387c6e
+65cfdcce8c02258dad4655a705f33c9c
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Gabriela,2,fallo,en el blanco,
-%CODE
+190
 %OUTPUT
-a55cf3db045e3a7ad0a2f5d35e5c5ecb
+65cfdcce8c02258dad4655a705f33c9c
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Camilo,4,en el blanco,fallo,en el blanco,fallo,
-%CODE
+192
 %OUTPUT
-a36cc0fc60843824d26fb98e75d8bdf4
+65cfdcce8c02258dad4655a705f33c9c
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Luisa,5,en el blanco,en el blanco,en el blanco,en el blanco,en el blanco,
-%CODE
+198
 %OUTPUT
-36ac21f2abc5ac2fa20c2478ff52c190
+65cfdcce8c02258dad4655a705f33c9c
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Fernando,7,fallo,fallo,fallo,fallo,fallo,fallo,fallo,
-%CODE
+200
 %OUTPUT
-637930bf769d669fa183150893b17627
+65cfdcce8c02258dad4655a705f33c9c
