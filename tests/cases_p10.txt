@@ -6,217 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-8,4,7,fin,
-%CODE
+12345
 %OUTPUT
-El promedio obtenido es de 6.3
-El mayor numero fue 8
-El menor numero fue 4
+12345 contiene 2 pares y 3 impares
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-10000,10000,10000,fin,
-%CODE
+13558
 %OUTPUT
-El promedio obtenido es de 10000.0
-El mayor numero fue 10000
-El menor numero fue 10000
+13558 contiene 1 pares y 4 impares
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-1,2,3,4,5,6,7,8,9,10,fin,
-%CODE
+16499
 %OUTPUT
-El promedio obtenido es de 5.5
-El mayor numero fue 10
-El menor numero fue 1
+16499 contiene 2 pares y 3 impares
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-99,101,fin,
-%CODE
+36495
 %OUTPUT
-El promedio obtenido es de 100.0
-El mayor numero fue 101
-El menor numero fue 99
+36495 contiene 2 pares y 3 impares
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-1,2,3,4,5,fin,
-%CODE
+299
 %OUTPUT
-El promedio obtenido es de 3.0
-El mayor numero fue 5
-El menor numero fue 1
+299 contiene 1 pares y 2 impares
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-10000,1,1,1,1,1,1,1,fin,
-%CODE
+76683
 %OUTPUT
-El promedio obtenido es de 1250.9
-El mayor numero fue 10000
-El menor numero fue 1
+76683 contiene 3 pares y 2 impares
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-5000,5000,5000,5000,5000,5000,5000,5000,5000,5000,fin,
-%CODE
+8037
 %OUTPUT
-El promedio obtenido es de 5000.0
-El mayor numero fue 5000
-El menor numero fue 5000
+8037 contiene 2 pares y 2 impares
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-5,4,3,2,1,fin,
-%CODE
+84884
 %OUTPUT
-El promedio obtenido es de 3.0
-El mayor numero fue 5
-El menor numero fue 1
+84884 contiene 5 pares y 0 impares
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
--10,0,10,fin,
-%CODE
+9063
 %OUTPUT
-El promedio obtenido es de 0.0
-El mayor numero fue 10
-El menor numero fue -10
+9063 contiene 2 pares y 2 impares
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-9999,10000,fin,
-%CODE
+58760
 %OUTPUT
-El promedio obtenido es de 9999.5
-El mayor numero fue 10000
-El menor numero fue 9999
+58760 contiene 3 pares y 2 impares
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1,1,2,2,3,3,fin,
-%CODE
+10728
 %OUTPUT
-8550e59f45cf92844515711bfa920bf0
+bcd680c50bd5a21c432594ae49ced1aa
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,fin,
-%CODE
+4296
 %OUTPUT
-af42a95468a7a4dbe29bd576ee1c65cf
+681c4988f17f27018b6f5a4ceeeaa328
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-10,1000,100,10000,1,fin,
-%CODE
+45530
 %OUTPUT
-6e1e2c3e626072d69cf6be297b35c180
+f23be6593087acb1d7ace633fa85618b
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-9876,1234,fin,
-%CODE
+10070
 %OUTPUT
-c90b866850b4ec5ce4b554ae210a827a
+c7a55f4065803ffcbdd247f39b07625c
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-999,998,997,996,995,fin,
-%CODE
+31859
 %OUTPUT
-21679f068098a2b8066382213169c407
+32cefed1683bdb189b6c2d70e5c5c242
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-7,3,5,1,9,fin,
-%CODE
+408
 %OUTPUT
-372fbc03b12b4d0097608ce452165519
+188d4ddd680e4337d4ee6dd6c3195917
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-50,60,70,80,90,100,fin,
-%CODE
+36414
 %OUTPUT
-83d33ba38bb6f9dab209e8a6b3674472
+4079edfd1a8d66fda4c7b0c203c295d7
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-543,123,876,fin,
-%CODE
+74419
 %OUTPUT
-a93322277da96ffc02a9b26b56aca6a5
+e6c39e61dd0b0f1020e477699aa17db8
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-45,23,67,89,12,56,fin,
-%CODE
+64098
 %OUTPUT
-8af9a0a78f6cac1eb06f89e684c554bd
+2858f26e15b31cc009079eebf27910db
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-987,543,210,1234,789,567,876,654,fin,
-%CODE
+26366
 %OUTPUT
-dc708c2ab38c54d6b31cb6f68b7ae5cf
+b2ff1209cfb42a738ab42f86da6f566d
