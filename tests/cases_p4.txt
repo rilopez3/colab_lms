@@ -6,177 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-57
+5
 %OUTPUT
-Al decodificar resulta 22
+La suma de los primeros 5 valores es igual a 7
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-0
+21
 %OUTPUT
-Al decodificar resulta 9
+La suma de los primeros 21 valores es igual a 17710
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
--720
+23
 %OUTPUT
-Al decodificar resulta 15
+La suma de los primeros 23 valores es igual a 46367
 %NAME
 Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+24
+%OUTPUT
+La suma de los primeros 24 valores es igual a 75024
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+10
+%OUTPUT
+La suma de los primeros 10 valores es igual a 88
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+20
+%OUTPUT
+La suma de los primeros 20 valores es igual a 10945
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+11
+%OUTPUT
+La suma de los primeros 11 valores es igual a 143
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+16
+%OUTPUT
+La suma de los primeros 16 valores es igual a 1596
+%NAME
+Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
 6
 %OUTPUT
-Al decodificar resulta 14
-%NAME
-Case 5
-%TYPE
-publico
-%PRECODE
-%INPUT
--837
-%OUTPUT
-Al decodificar resulta 22
-%NAME
-Case 6
-%TYPE
-publico
-%PRECODE
-%INPUT
--64
-%OUTPUT
-Al decodificar resulta 59
-%NAME
-Case 7
-%TYPE
-publico
-%PRECODE
-%INPUT
-201
-%OUTPUT
-Al decodificar resulta 0
-%NAME
-Case 8
-%TYPE
-publico
-%PRECODE
-%INPUT
-0
-%OUTPUT
-Al decodificar resulta 9
-%NAME
-Case 9
-%TYPE
-publico
-%PRECODE
-%INPUT
-174
-%OUTPUT
-Al decodificar resulta 66
+La suma de los primeros 6 valores es igual a 12
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
--500
+17
 %OUTPUT
-Al decodificar resulta 40
+La suma de los primeros 17 valores es igual a 2583
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
--108
+25
 %OUTPUT
-4f3fe8ee6dc14d73799080d8db7f5cc0
+b41462e3e2205e9f0ca3a708437dec33
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-4
+26
 %OUTPUT
-606f51dcc5d38b59a8589832c61cfc42
+b2e8404625b6d99921a98a8ce7a08daa
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-0
+8
 %OUTPUT
-e03d85311cd1c005003121074f7cae2b
+acdfa2f2a250a2bfb159513dbcb1d93e
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-0
+14
 %OUTPUT
-e03d85311cd1c005003121074f7cae2b
+6f67367e8708bd5af9aac3d2da6eb5c4
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
--231
+30
 %OUTPUT
-dd967e36aa9ce2da8a9bf8e786d815ec
+8b6cc9fd72305cce98f9f388e17044bb
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
--752
+29
 %OUTPUT
-13a777c415ba1e9dddc4bfbd5422d7ad
+ef1c98d4370c3a2a3468901f696df146
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-488
+12
 %OUTPUT
-a14ef9e1e883c1866c98cf201f199763
+f2338c31714e77f634da3e0d844fd4db
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
--4
+30
 %OUTPUT
-95a6488b4262d7fe7ac2ae924c28cdb4
+8b6cc9fd72305cce98f9f388e17044bb
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-672
+17
 %OUTPUT
-f25c4347778fb91e4d4e5c92fc3145fe
+51ab7a3e63eadc3590a7d402bba8b986
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-308
+25
 %OUTPUT
-0cf098136d5fae27a02853c081705d67
+b41462e3e2205e9f0ca3a708437dec33
