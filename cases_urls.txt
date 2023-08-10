@@ -6,5 +6,3 @@ P5,https://raw.githubusercontent.com/rilopez3/colab_lms/guia4_2023/tests/cases_p
 P6,https://raw.githubusercontent.com/rilopez3/colab_lms/guia4_2023/tests/cases_p6.txt
 P7,https://raw.githubusercontent.com/rilopez3/colab_lms/guia4_2023/tests/cases_p7.txt
 P8,https://raw.githubusercontent.com/rilopez3/colab_lms/guia4_2023/tests/cases_p8.txt
-P9,https://raw.githubusercontent.com/rilopez3/colab_lms/guia4_2023/tests/cases_p9.txt
-P10,https://raw.githubusercontent.com/rilopez3/colab_lms/guia4_2023/tests/cases_p10.txt
