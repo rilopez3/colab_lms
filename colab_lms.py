@@ -182,7 +182,7 @@ def run_test(preg):
       }
       .raw_case{
         cursor:pointer;
-        font-weight: bold;    
+        font-weight: bold;
         margin: 5px 0;
         font-size: 12px;
       }
@@ -277,7 +277,7 @@ def get_student_code(pregunta):
 
 # Limpia caracteres unicode
 def clean_code(student_code):
-  to_clean = [ 
+  to_clean = [
     ['\xa0',' '],
   ]
   for row in to_clean:
@@ -330,6 +330,7 @@ def run_case(case, student_code):
     print_system('</div>')
     print_system('</div>')
 
+
   if case['TYPE'].lower() == 'publico':
     print_system('<div class="case_cluster mode_hidden">')
 
@@ -357,19 +358,6 @@ def run_case(case, student_code):
     print_system('<div class="raw_case">Texto sin formato:<div class="raw_text raw_hidden">',repr(case['OUTPUT']),'</div></div>')
     print_system('</div>')
 
-
-  if case['TYPE'].lower() == 'secreto':
-    print_system('<div class="case_cluster mode_hidden">')
-
-    if( case['INPUT'].strip() != '' ):
-      print_system('<div class="section_case"><p>INPUT</p>')
-      for i in case['INPUT'].strip().split(','):
-        print_system('<li>', i,'</li>')
-      print_system('</div>')
-      
-    print_system('</div>')
-
-
     if not estado:
       diferencias = char_diff_checker(STUDENT_OUTPUT_CONTROL, case['OUTPUT'])
       print_system('<div class="section_case"><p>DIFERENCIAS</p>')
@@ -380,6 +368,16 @@ def run_case(case, student_code):
 
     print_system('</div>')
 
+  if case['TYPE'].lower() == 'secreto':
+    print_system('<div class="case_cluster mode_hidden">')
+
+    if( case['INPUT'].strip() != '' ):
+      print_system('<div class="section_case"><p>INPUT</p>')
+      for i in case['INPUT'].strip().split(','):
+        print_system('<li>', i,'</li>')
+      print_system('</div>')
+
+    print_system('</div>')
 
   return estado
 
