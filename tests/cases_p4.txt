@@ -6,7 +6,7 @@ Case 1
 publico
 %PRECODE
 %INPUT
-jabon Toalla queso meSa SILLA PArrillA pan mantequilla
+jabon Toalla queso meSa SILLA PArrillA pan mantequilla,
 %CODE
 %OUTPUT
 jabon
@@ -19,7 +19,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-harina fideos leche AboGADo ACEITE conDimentos VaCA salsaDeTomate quesoRallado huevos gaTO levadura pan carne
+harina fideos leche AboGADo ACEITE conDimentos VaCA salsaDeTomate quesoRallado huevos gaTO levadura pan carne,
 %CODE
 %OUTPUT
 harina
@@ -35,7 +35,7 @@ Case 3
 publico
 %PRECODE
 %INPUT
-detergente desinfectante suavizante lustramuebles cloro
+detergente desinfectante suavizante lustramuebles cloro,
 %CODE
 %OUTPUT
 detergente
@@ -49,7 +49,7 @@ Case 4
 publico
 %PRECODE
 %INPUT
-detergentE huevos
+detergentE huevos,
 %CODE
 %OUTPUT
 huevos
@@ -59,7 +59,7 @@ Case 5
 publico
 %PRECODE
 %INPUT
-Espinacas lechuga pimiento ajo TOSTADORA cebolla Champiñones seRranO Ajitomate tomate pApA zanahoria Calabazas apio tamarindo
+Espinacas lechuga pimiento ajo TOSTADORA cebolla Champiñones seRranO Ajitomate tomate pApA zanahoria Calabazas apio tamarindo,
 %CODE
 %OUTPUT
 lechuga
@@ -76,7 +76,7 @@ Case 6
 publico
 %PRECODE
 %INPUT
-tomates masaDePizza hielo VENTILADOR choclo pepsi Cerveza
+tomates masaDePizza hielo VENTILADOR choclo pepsi Cerveza,
 %CODE
 %OUTPUT
 tomates
@@ -89,7 +89,7 @@ Case 7
 publico
 %PRECODE
 %INPUT
-azucar harina levadura SAL vainilla AuTo carrO
+azucar harina levadura SAL vainilla AuTo carrO,
 %CODE
 %OUTPUT
 azucar
@@ -102,7 +102,7 @@ Case 8
 publico
 %PRECODE
 %INPUT
-sobreparaperro
+sobreparaperro,
 %CODE
 %OUTPUT
 sobreparaperro
@@ -112,7 +112,7 @@ Case 9
 publico
 %PRECODE
 %INPUT
-TIJERAS MAnajar mAnTeqUilla PERRO pan cloro limpiaPies ArieL
+TIJERAS MAnajar mAnTeqUilla PERRO pan cloro limpiaPies ArieL,
 %CODE
 %OUTPUT
 pan
@@ -123,7 +123,7 @@ Case 10
 publico
 %PRECODE
 %INPUT
-Computador legumbres zapallo CLAVOS CreMADeManoS sal MEsA lechuga jamon
+Computador legumbres zapallo CLAVOS CreMADeManoS sal MEsA lechuga jamon,
 %CODE
 %OUTPUT
 legumbres
@@ -137,7 +137,7 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-kjfhaskldjfhlsa kjHSKLJSHKLAWJ kajsdKJSDhjendaJKf lkajfsdjfkjsdhk
+kjfhaskldjfhlsa kjHSKLJSHKLAWJ kajsdKJSDhjendaJKf lkajfsdjfkjsdhk,
 %CODE
 %OUTPUT
 ae2cc7fbaf72626862694295cb6ee469
@@ -147,7 +147,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-LKSLKASLNDVS
+LKSLKASLNDVS,
 %CODE
 %OUTPUT
 68b329da9893e34099c7d8ad5cb9c940
@@ -157,7 +157,7 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-LKASdkndmvn KJNkjnKJN dnskjnkfsjnv alskndsv nlkNLKnlkn lkNLKDNfsldknLKN lknlkdLKNLSKDNFSD
+LKASdkndmvn KJNkjnKJN dnskjnkfsjnv alskndsv nlkNLKnlkn lkNLKDNfsldknLKN lknlkdLKNLSKDNFSD,
 %CODE
 %OUTPUT
 6d50c2d1826ce28dc258058f3ef759ef
@@ -167,7 +167,7 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-dsfv45s lkjLKJ
+dsfv45s lkjLKJ,
 %CODE
 %OUTPUT
 ebf5c9a2803336882d885cbb33f7c71e
@@ -177,7 +177,7 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-ksjdfhkjfh kjhdkfjsdhkf KJHKLJD kjhkJHKjKJHK kjhkKJHkjhKJHKJ fsdf534354dsf jhKJH
+ksjdfhkjfh kjhdkfjsdhkf KJHKLJD kjhkJHKjKJHK kjhkKJHkjhKJHKJ fsdf534354dsf jhKJH,
 %CODE
 %OUTPUT
 b0f2fa27a9371b6712222915af3815d2
@@ -187,7 +187,7 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-jjjjjjjjjjj jjjjjJJJjjjjjj jjJjjjjj  aaaaAaaa BBBBBBBBB sdmnbamsnd
+jjjjjjjjjjj jjjjjJJJjjjjjj jjJjjjjj  aaaaAaaa BBBBBBBBB sdmnbamsnd,
 %CODE
 %OUTPUT
 2fa75ae767b289159385c5cbe38b4d9f
@@ -197,7 +197,7 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-lKNKLNm lkjlkjdlKTWFYT uyeudhbcuyu IGUYEHJNBS iuydgejh YGJHS5kjasdh
+lKNKLNm lkjlkjdlKTWFYT uyeudhbcuyu IGUYEHJNBS iuydgejh YGJHS5kjasdh,
 %CODE
 %OUTPUT
 1466890f045cf377ecef23c82bddb56d
@@ -207,7 +207,7 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-UIHNJHKM kjbkjhg hbjHJjhvJH jhvjhJHVJHj jhjhsd JHVJHV
+UIHNJHKM kjbkjhg hbjHJjhvJH jhvjhJHVJHj jhjhsd JHVJHV,
 %CODE
 %OUTPUT
 de4b1d01afd944c3e97b6eb040ca0194
@@ -217,7 +217,7 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-lklJHKJH kJHKJHK YTDTRDFGCV iuynnbru
+lklJHKJH kJHKJHK YTDTRDFGCV iuynnbru,
 %CODE
 %OUTPUT
 55912ab5b60ade855e89ba4c8185c729
@@ -227,7 +227,7 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-kjhfksjhfkdf KJHKAJDK iwueqyre QUYWEGuhg
+kjhfksjhfkdf KJHKAJDK iwueqyre QUYWEGuhg,
 %CODE
 %OUTPUT
 9d60d07298970710346226aefe454216
