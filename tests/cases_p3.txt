@@ -6,177 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-5
+Entendiole el cura y dijo que de muy buena gana haria lo que le pedia si no temiera que en viendose su senor en libertad habia de hacer de las suyas y irse donde jamas gentes le viesen,Pues como sabes tu pregunto don Quijote que los grandes llevan detras de si a sus caballerizos,jote que los grandes lle,
 %OUTPUT
-5 es primo
+Pues como sabes tu pregunto don Quijote que los grandes llevan detras de si a sus caballerizos
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-547583
+resistiese considera desde ahora cual quedaria sin ella y con cuanta razon te podrias quejar de ti mesmo por haber sido causa de su perdicion y la tuya,En esto les dio voces maese Nicolas que esperasen un poco que querian detenerse a beber en una fontecilla que alli estaba,se considera desde ahora cual quedaria sin ella y con cuanta razon te podrias quejar de ti mesmo por haber sid,
 %OUTPUT
-547583 es primo
+resistiese considera desde ahora cual quedaria sin ella y con cuanta razon te podrias quejar de ti mesmo por haber sido causa de su perdicion y la tuya
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-2473296
+En todo este tiempo ni ella ni ellos se habian quitado los antifaces ni hablado palabra alguna solo que al sentarse la mujer en la silla dio un profundo suspiro y dejo caer los brazos como persona enferma y desmayada,El ventero que era de la cuadrilla entro al punto por su varilla y por su espada y se puso al lado de sus companeros los criados de don Luis rodearon a don Luis porque con el alboroto no se les fuese el barbero viendo la casa revuelta tomo a asir de su albarda y lo mismo hizo Sancho don Quijote puso mano a su espada y arremetio a los cuadrilleros don Luis daba voces a sus criados que le dejasen a el y acorriesen a don Quijote y a Cardenio y a don Fernando que todos favorecian a don Quijote el cura daba voces la ventera gritaba su hija se afligia Maritornes lloraba Dorotea estaba confusa Luscinda suspensa y dona Clara desmayada,o un profundo suspiro y dejo caer los brazos como persona,
 %OUTPUT
-2473296 no es primo
+En todo este tiempo ni ella ni ellos se habian quitado los antifaces ni hablado palabra alguna solo que al sentarse la mujer en la silla dio un profundo suspiro y dejo caer los brazos como persona enferma y desmayada
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-698017
+Servia a la venta asimismo una moza asturiana ancha de cara llana de cogote de nariz roma del un ojo tuerta y del otro no muy sana verdad es que la gallardia del cuerpo suplia las demas faltas no tenia siete palmos de los pies a la cabeza y las espaldas que algun tanto le cargaban la hacian mirar al suelo mas de lo que ella quisiera,Habia por alli muchos arboles silvestres y algunas plantas y flores que hacian el lugar apacible,gallardia del cuerpo suplia las demas faltas no tenia siete palmos de los pies a la cabeza y las espaldas que al,
 %OUTPUT
-698017 es primo
+Servia a la venta asimismo una moza asturiana ancha de cara llana de cogote de nariz roma del un ojo tuerta y del otro no muy sana verdad es que la gallardia del cuerpo suplia las demas faltas no tenia siete palmos de los pies a la cabeza y las espaldas que algun tanto le cargaban la hacian mirar al suelo mas de lo que ella quisiera
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-2861262
+Bajo el cabrero y en llegando adonde don Quijote estaba dijo,No se pasaron quince dias cuando ya nuestro renegado tenia comprada una muy buena barca capaz de mas de treinta personas y para asegurar su hecho y dalle color quiso hacer como hizo un viaje a un lugar que se llamaba Sargel que esta treinta leguas de Argel hacia la parte de Oran en el cual hay mucha contratacion de higos pasos,don Qui,
 %OUTPUT
-2861262 no es primo
+Bajo el cabrero y en llegando adonde don Quijote estaba dijo
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-1036921
+El segundo religioso que vio del modo que trataban a su companero puso piernas al castillo de su buena mula y comenzo a correr por aquella campana mas ligero que el mismo viento,Preguntele al renegado lo que con ella habia pasado el cual me lo conto a quien yo dije que ninguna cosa se habia de hacer mas de lo que Zoraida quisiese la cual ya volvia cargada con un cofrecillo lleno de escudos de oro tantos que apenas lo podia sustentar,e oro tantos que apenas lo podia su,
 %OUTPUT
-1036921 es primo
+Preguntele al renegado lo que con ella habia pasado el cual me lo conto a quien yo dije que ninguna cosa se habia de hacer mas de lo que Zoraida quisiese la cual ya volvia cargada con un cofrecillo lleno de escudos de oro tantos que apenas lo podia sustentar
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-1014445
+en ello que toda mi intencion era que todo el mundo se holgase y viviese en paz y quietud sin pendencias ni penas pero no me aprovecho nada este buen deseo para dejar de ir adonde no espero volver segun me cargan los anos y un mal de orina que llevo que no me deja reposar un rato,La X no le cuadra porque es letra aspera la Y ya esta dicha la Z zelador de tu honra,pendencias ni penas pero no,
 %OUTPUT
-1014445 no es primo
+en ello que toda mi intencion era que todo el mundo se holgase y viviese en paz y quietud sin pendencias ni penas pero no me aprovecho nada este buen deseo para dejar de ir adonde no espero volver segun me cargan los anos y un mal de orina que llevo que no me deja reposar un rato
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-1512298
+Forse altri cantera con miglior plettro,Lea mas vuestra merced dijo Sancho que ya hallara algo que nos satisfaga,alt,
 %OUTPUT
-1512298 no es primo
+Forse altri cantera con miglior plettro
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-2986583
+Y asi le dijo pareceme senor caballero andante que vuestra merced ha profesado una de las mas estrechas profesiones que hay en la tierra y tengo para mi que aun la de los frailes cartujos no es tan estrecha,Finalmente ellas quedaron confusas y temerosas de que se habian de ver sin su amo y tio en el mesmo punto que tuviese alguna mejoria y asi fue como ellas se lo imaginaron,y tengo para mi que aun la de los frailes cartujos no es tan e,
 %OUTPUT
-2986583 es primo
+Y asi le dijo pareceme senor caballero andante que vuestra merced ha profesado una de las mas estrechas profesiones que hay en la tierra y tengo para mi que aun la de los frailes cartujos no es tan estrecha
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-14403
+En mal punto y en hora menguada entro en mi casa este caballero andante que nunca mis ojos le hubieran visto que tan caro me cuesta,No te quiero yo a monton,uiero yo a mo,
 %OUTPUT
-14403 no es primo
+No te quiero yo a monton
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-2408268
+Tambien vos Sancho sois de la cofradia de vuestro amo Vive el Senor que voy viendo que le habeis de tener compania en la jaula y que habeis de quedar tan encantado como el por lo que os toca de su humor y de su caballeria En mal punto os emprenastes de sus promesas y en mal hora se os entro en los cascos la insula que tanto deseais,Quien dijera que tras de aquellas tan grandes cuchilladas como vuestra merced dio a aquel desdichado andante habia de venir por la posta y en seguimiento suyo esta tan grande tempestad de palos que ha descargado sobre nuestras espaldas Aun las tuyas Sancho replico Don Quijote deben de estar hechas a semejantes nublados pero las mias criadas entre sinabafas y holandas claro esta que sentiran mas el dolor de esta desgracia y si no fuese porque imagino que digo imagino se muy cierto que todas estas incomodidades son muy anejas al ejercicio de las armas aqui me dejaria morir de puro enojo,tan encantado como el,
 %OUTPUT
-9d5fae5910079efc412e6ab976413253
+5f1fe7c735567fabf674666ef20c3047
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1565827
+Yo conozco con el natural entendimiento que Dios me ha dado que todo lo hermoso es amable mas no alcanzo que por razon de eser amado este obligado lo que es amado por hermoso a amar a quien le ama y mas que podria acontecer que el amador de lo hermoso fuese feo y siendo lo feo digno de ser aborrecido cae muy mal el decir quierote por hermosa hazme de amar aunque sea feo,Mas el que a las derechas es buen cristiano aunque quisiera casarla luego asi como la via de edad no quiso hacerlo sin su consentimiento sin tener ojo a la ganancia y granjeria que le ofrecia el tener la hacienda de la moza dilatando su casamiento,o sin su consentimiento sin tener ojo,
 %OUTPUT
-21a4f59a63cff92b4a66c020b6782010
+6376ca199ad7d39c574338ff2e6f9572
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-950778
+Senor respondio Don Quijote eso no puede ser menos en ninguna manera y caeria en mal caso el caballero andante que otra cosa hiciese que ya esta en uso y costumbre en la caballeria andantesca que el caballero andante que al acometer algun gran fecho de armas tuvise su senora delante vuelva a ella los ojos blanda y amorosamente como que le pide con ellos le favorezca y ampare en el dudoso trance que acomete y aun si nadie le oye esta obligado a decir algunas palabras,o le sobra crueldad o no es mi pena,mi,
 %OUTPUT
-647279bc4f7bb0e1fee47109d386c5c8
+3c6b4562b66086099fa60b002ce7c692
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1107454
+Acabo de cerrar la noche pero con tanta claridad de la luna que podia competir con el que se le prestaba de manera que cuanto el novel caballero hacia era bien visto de todos,No se pudo escudar tan bien don Quijote que no le acertasen no se cuantos guijarros en el cuerpo con tanta fuerza que dieron con el en el suelo y apenas hubo caido cuando fue sobre el el estudiante y le quito la bacia de la cabeza y diole con ella tres o cuatro golpes en las espaldas y otros tantos en la tierra con que la hizo pedazos,che pero con tanta clar,
 %OUTPUT
-d5bc036dc45712f3f88083d3596b325c
+7f541e2ffccada16f8b2e2f3fb36657d
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1579750
+Yo voy por cinco anos a las senoras gurapas por faltarme diez ducados,Cayo malo a lo que yo entiendo de pesadumbre y asi el dia que nos partimos nunca pude verle para despedirme del siquiera con los ojos pero a cabo de dos dias que caminabamos al entrar de una posada en un lugar una jornada de aqui le vi a la puerta del meson puesto en habito de mozo de mulas tan al natural que si yo no le trujera tan retratado en mi alma fuera imposible conocelle,impo,
 %OUTPUT
-e37f340488b752fc97c78c836556f08a
+9d411425e4ba8accb64c871138850a54
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1692049
+Alzo la vara en alto el comisario para dar a Pasamonte en respuesta de sus amenazas mas don Quijote se puso en medio y le rogo que no le maltratase pues,Y cortando algunos pidio la bendicion a su senor y no sin muchas lagrimas de entrambos se despidio del,a bendicion a su senor y no sin muchas lagrimas de,
 %OUTPUT
-2beaa5eb8130514bdf02153b8b2ce1b5
+a4d3bfbb943aae12cb16ef3d11c04391
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1504190
+junto a si con tal denuedo y rabia que si no se le quitaramos le matara a punadas y a bocados y todo esto hacia diciendo Ah fementido Fernando Aqui aqui me pagaras la sinrazon que me heciste estas manos te sacaran el corazon donde albergan y tienen manida todas las maldades juntas principalmente la fraude y el engano Y a estas anadia otras razones que todas se encaminaban a decir mal de aquel Fernando y a tacharle de traidor y fementido,Admirado quedo el oidor del razonamiento de don Quijote a quien se puso a mirar muy de proposito y no menos le admiraba su talle que sus palabras y sin hallar ningunas con que respondelle se tomo a admirar de nuevo cuando vio delante de si a Luscinda a Dorotea y a Zoraida que a las nuevas de los nuevos huespedes y a las que la ventera les habia dado de la hermosura de la doncella habian venido a verla y a recebirla pero don Fernando Cardenio y el cura le hicieron mas llanos y mas cortesanos ofrecimientos,des y a las que la ven,
 %OUTPUT
-e8fd07f784b20197c7fa03b4c085581a
+f24cbf66a3ad2648762439129c4f24fb
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-35444
+Y entre tanto que pugnaba por levantarse y no podia estaba diciendo non fuyais gente cobarde gente cautiva atended que no por culpa mia sino de mi caballo estoy aqui tendido,Pero a los cuatro dias que alli llegue llego un hombre en mi busca con una carta que me dio que en el sobrescrito conoci ser de Luscinda porque la letra del,os cuatro dias que alli llegue llego,
 %OUTPUT
-13126d2494428e1f262701881371b0a2
+6f2408f4eddf70de0ff188157e5cd3ef
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1684223
+Y el decir esto y el darle con la punta del cuchillo los lomos de un conejo fiambre todo fue uno,Ya le he dicho senor comisario respondio Pasamonte que se vaya poco a poco que aquellos senores no le dieron esa vara para que maltratase a los pobretes que aqui vamos sino para que nos guiase y llevase adonde Su Majestad manda,darle con la punta del cu,
 %OUTPUT
-8778d4066cb27b42a7507b4fe8845653
+6e7b5e971a7a7730066168f3ebefe95f
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-544130
+Asi que senor mio vuestra bondad vuelva la honra al padre que me engendro y tengale por hombre advertido y prudente pues con su ciencia hallo camino tan facil y tan verdadero para remediar mi desgracia que yo creo que si por vos senor no fuera jamas acertara a tener la ventura que tengo y en esto digo tanta verdad como son buenos testigos della los mas destos senores que estan presentes,Pero con todo eso digamela vuestra merced que me holgare mucho de oilla que debe de ir como de molde,are mucho,
 %OUTPUT
-a0cd23f128164dc4b76ac6b9a8a78427
+5e811dcf5c8f942bda85dcafd73c900e

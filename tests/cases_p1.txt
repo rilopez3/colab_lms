@@ -6,196 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-TIJERAS,TIJERAS,TIJERAS,TIJERAS,PAPEL,PAPEL,TIJERAS,PAPEL,
+1234 67,Nohayhuecodepenanima,
 %OUTPUT
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-El ganador es jugador 1 FELICITACIONES
+e
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-PAPEL,PAPEL,PAPEL,PIEDRA,
+avion,GinesmellamoynoGines,
 %OUTPUT
-EMPATE Comencemos otra ronda
-El ganador es jugador 1 FELICITACIONES
+m
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-TIJERAS,TIJERAS,TIJERAS,TIJERAS,PIEDRA,PIEDRA,PIEDRA,PIEDRA,PAPEL,TIJERAS,
+22!98!!.,Notesobresaltecosaal,
 %OUTPUT
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-El ganador es jugador 2 FELICITACIONES
+e
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-TIJERAS,PAPEL,
+1234 67,Yalehedichosenorcomi,
 %OUTPUT
-El ganador es jugador 1 FELICITACIONES
+i
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-PAPEL,PIEDRA,
+22!98!!.,EntendiolemuybienDon,
 %OUTPUT
-El ganador es jugador 1 FELICITACIONES
+l
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-TIJERAS,PAPEL,
+hola,Notornesaesasplatica,
 %OUTPUT
-El ganador es jugador 1 FELICITACIONES
+r
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-PIEDRA,PIEDRA,PIEDRA,PIEDRA,PIEDRA,PIEDRA,PAPEL,PAPEL,TIJERAS,TIJERAS,PAPEL,TIJERAS,
+345654,EldanoestuvodijodonQ,
 %OUTPUT
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-El ganador es jugador 2 FELICITACIONES
+e
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-PIEDRA,PAPEL,
+22!98!!.,Bienpodriaseresoseno,
 %OUTPUT
-El ganador es jugador 2 FELICITACIONES
+i
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-PAPEL,PAPEL,PIEDRA,PAPEL,
+avion,DijoletambienSanchoS,
 %OUTPUT
-EMPATE Comencemos otra ronda
-El ganador es jugador 2 FELICITACIONES
+e
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-TIJERAS,TIJERAS,PAPEL,PAPEL,TIJERAS,TIJERAS,PAPEL,PAPEL,PAPEL,PAPEL,PAPEL,TIJERAS,
+1234 67,Enlootrodelaclavijaq,
 %OUTPUT
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-EMPATE Comencemos otra ronda
-El ganador es jugador 2 FELICITACIONES
+o
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-TIJERAS,TIJERAS,PIEDRA,PIEDRA,PIEDRA,PIEDRA,TIJERAS,TIJERAS,PIEDRA,PAPEL,
+avion,Todaslasaventurasdel,
 %OUTPUT
-18cb4b33da291e2308d7fb1334cdcc94
+12f54a96f64443246930da001cafda8b
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-TIJERAS,TIJERAS,PIEDRA,PAPEL,
+hola,Esposiblesenorhidalg,
 %OUTPUT
-5832a6f3288a59bd9ee4b51b8697a7ed
+f4d5d0c0671be202bc241807c243e80b
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-PIEDRA,PIEDRA,PAPEL,PAPEL,PIEDRA,TIJERAS,
+22!98!!.,Hizomeelcielosegunvo,
 %OUTPUT
-a38051a4fa80f1ed049a608ae8bec30f
+2cd6ee2c70b0bde53fbe6cac3c8b8bb1
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-PAPEL,PAPEL,PAPEL,PAPEL,TIJERAS,TIJERAS,PAPEL,PAPEL,PIEDRA,PIEDRA,PAPEL,PIEDRA,
+hola,IbaZoraidaentantoque,
 %OUTPUT
-459d33647895de193fedeb1bb01ac692
+e73af36376314c7c0022cb1d204f76b3
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-PAPEL,PAPEL,TIJERAS,TIJERAS,TIJERAS,TIJERAS,TIJERAS,TIJERAS,TIJERAS,TIJERAS,PIEDRA,TIJERAS,
+avion,QueDiosporsumiserico,
 %OUTPUT
-459d33647895de193fedeb1bb01ac692
+e73af36376314c7c0022cb1d204f76b3
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-TIJERAS,PAPEL,
+qwerty,Atodolocualrespondea,
 %OUTPUT
-1ba46f2902f215094e066ac2e3abc6f1
+e73af36376314c7c0022cb1d204f76b3
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-PAPEL,PAPEL,PAPEL,PAPEL,PAPEL,PAPEL,PIEDRA,PIEDRA,TIJERAS,PIEDRA,
+1234 67,Miraddequeseespantad,
 %OUTPUT
-18cb4b33da291e2308d7fb1334cdcc94
+c3be117041a113540deb0ff532b19543
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-PAPEL,PAPEL,PIEDRA,PIEDRA,PAPEL,PAPEL,PAPEL,PAPEL,PAPEL,PIEDRA,
+345654,Yconocieronletanbien,
 %OUTPUT
-ccab32c6210af863d75268b806643c05
+372e25f23b5a8ae33c7ba203412ace30
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-PIEDRA,PAPEL,
+quijote,Llegasteyquehaciaaqu,
 %OUTPUT
-7e7d43ae5f8606aa63e43d99dd2a15af
+9ffbf43126e33be52cd2bf7e01d627f9
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-TIJERAS,TIJERAS,PAPEL,PAPEL,TIJERAS,TIJERAS,TIJERAS,TIJERAS,TIJERAS,TIJERAS,TIJERAS,PIEDRA,
+hola,estribandoensuamoryb,
 %OUTPUT
-26674c5ac2666a9e27b1740562753de2
+372e25f23b5a8ae33c7ba203412ace30

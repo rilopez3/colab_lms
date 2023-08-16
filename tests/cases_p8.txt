@@ -6,177 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-20
+Pensais le dijo a cabo de rato villano ruin que ha de haber lugar siempre para ponerme la mano en la horcajadura y que todo ha de ser errar vos y perdonaros yo Pues no lo penseis bellaco descomulgado que sin duda lo estas pues has puesto lengua en la sin par Dulcinea,4,
 %OUTPUT
-ES DE NIVEN
+Pirwemw pi hmns e gefs hi vexs zmppers vymr uyi le hi lefiv pykev wmiqtvi teve tsrivqi pe qers ir pe lsvgenehyve c uyi xshs le hi wiv ivvev zsw c tivhsrevsw cs Pyiw rs ps tirwimw fippegs hiwgsqypkehs uyi wmr hyhe ps iwxew tyiw lew tyiwxs pirkye ir pe wmr tev Dypgmrie
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-27
+Murio a manos del rigor,9,
 %OUTPUT
-ES DE NIVEN
+Mdarx j vjwxb mnu arpxa
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-153
+Porque asi como el dolor del pie o de cualquier miembro del cuerno humano le siente todo el cuerno por ser todo de una carne mesma y la cabeza siente el dano del tobillo sin que ella se le haya causado asi el marido es participante de la deshonra de la mujer por ser una mesma cosa con ella y como las honras y deshonras del mundo sean todas y nazcan de carne y sangre y las de la mujer mala sean deste genero es forzoso que al marido le quepa parte dellas y sea tenido por deshonrado sin que el lo sepa,17,
 %OUTPUT
-ES DE NIVEN
+Pfihlv rjz tfdf vc ufcfi uvc gzv f uv tlrchlzvi dzvdsif uvc tlvief yldref cv jzvekv kfuf vc tlvief gfi jvi kfuf uv ler triev dvjdr p cr trsvqr jzvekv vc uref uvc kfszccf jze hlv vccr jv cv yrpr trljruf rjz vc drizuf vj grikztzgrekv uv cr uvjyfeir uv cr dlavi gfi jvi ler dvjdr tfjr tfe vccr p tfdf crj yfeirj p uvjyfeirj uvc dleuf jvre kfurj p erqtre uv triev p jrexiv p crj uv cr dlavi drcr jvre uvjkv xvevif vj wfiqfjf hlv rc drizuf cv hlvgr grikv uvccrj p jvr kvezuf gfi uvjyfeiruf jze hlv vc cf jvgr
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-3467
+Yo no se para que es tanto melindre si lo hacen de honradas casense con ellos que ellos no desean otra cosa,8,
 %OUTPUT
-NO LO ES
+Yw vw am xizi ycm ma bivbw umtqvlzm aq tw pikmv lm pwvzilia kiamvam kwv mttwa ycm mttwa vw lmamiv wbzi kwai
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-4193
+Por el omnipotente Dios juro dijo a esta sazon don Quijote que la vuestra grandeza ha dado en el punto y que alguna mala vision se le puso delante a este pecador de Sancho que le hizo ver lo que fuera imposible verse de otro modo que por el de encantos no fuera que se yo bien de la bondad e inocencia deste desdichado que no sabe levantar testimonios a nadie,5,
 %OUTPUT
-NO LO ES
+Ptw jq trsnutyjsyj Dntx ozwt inot f jxyf xfets its Qznotyj vzj qf azjxywf lwfsijef mf ifit js jq uzsyt d vzj fqlzsf rfqf anxnts xj qj uzxt ijqfsyj f jxyj ujhfitw ij Sfshmt vzj qj mnet ajw qt vzj kzjwf nrutxngqj ajwxj ij tywt rtit vzj utw jq ij jshfsytx st kzjwf vzj xj dt gnjs ij qf gtsifi j nsthjshnf ijxyj ijxinhmfit vzj st xfgj qjafsyfw yjxynrtsntx f sfinj
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-582
+Viendole en pie su amo le dijo porque veas Sancho el bien que en si encierra la andante caballeria y cuan a pique estan los que en cualquiera ministerio de ella se ejercitan de venir brevemente a ser honrados y estimados del mundo quiero que aqui a mi lado y en compania de esta buena gente te sientes y que seas una misma cosa conmigo que soy tu amo y natural senor que comas en mi plato y bebas por donde yo bebiere porque de la caballeria andante se puede decir lo mismo que del amor que se dice que todas las cosas iguala,1,
 %OUTPUT
-NO LO ES
+Vjfoepmf fo qjf tv bnp mf ejkp qpsrvf wfbt Sbodip fm cjfo rvf fo tj fodjfssb mb boebouf dbcbmmfsjb z dvbo b qjrvf ftubo mpt rvf fo dvbmrvjfsb njojtufsjp ef fmmb tf fkfsdjubo ef wfojs csfwfnfouf b tfs iposbept z ftujnbept efm nvoep rvjfsp rvf brvj b nj mbep z fo dpnqbojb ef ftub cvfob hfouf uf tjfouft z rvf tfbt vob njtnb dptb dponjhp rvf tpz uv bnp z obuvsbm tfops rvf dpnbt fo nj qmbup z cfcbt qps epoef zp cfcjfsf qpsrvf ef mb dbcbmmfsjb boebouf tf qvfef efdjs mp njtnp rvf efm bnps rvf tf ejdf rvf upebt mbt dptbt jhvbmb
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-2731
+Quien pudiera decir ahora los sobresaltos que me dio el corazon mientras alli estuve los pensamientos que me ocurrieron las consideraciones que hice que fueron tantas y tales que ni se pueden decir ni aun es bien que se digan Basta que sepais que el desposado entro en la sala sin otro adorno que los mesmos vestidos ordinarios que solia,13,
 %OUTPUT
-NO LO ES
+Qhvra chqvren qrpve nuben ybf fboerfnygbf dhr zr qvb ry pbenmba zvragenf nyyv rfghir ybf crafnzvragbf dhr zr bpheevreba ynf pbafvqrenpvbarf dhr uvpr dhr shreba gnagnf l gnyrf dhr av fr chrqra qrpve av nha rf ovra dhr fr qvtna Bnfgn dhr frcnvf dhr ry qrfcbfnqb rageb ra yn fnyn fva bgeb nqbeab dhr ybf zrfzbf irfgvqbf beqvanevbf dhr fbyvn
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-3350
+Mal cristiano eres Sancho dijo oyendo esto don Quijote porque nunca olvidas la injuria que una vez te han hecho pues sabete que es de pechos nobles y generosos no hacer caso de ninerias,6,
 %OUTPUT
-NO LO ES
+Mgr ixoyzogtu kxky Sgtinu jopu uektju kyzu jut Qaopuzk vuxwak tatig urbojgy rg otpaxog wak atg bkf zk ngt nkinu vaky yghkzk wak ky jk vkinuy tuhrky e mktkxuyuy tu ngikx igyu jk totkxogy
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-4054
+Sancho respondio que venia mejor que su amo,7,
 %OUTPUT
-NO LO ES
+Shujov ylzwvukpv xbl cluph tlqvy xbl zb htv
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-3162
+Digo pues salvo vuestro buen parecer senor maese Nicolas que este y Amadis de Gaula queden libres del fuego y todos los demas sin hacer mas cala y cata perezcan,19,
 %OUTPUT
-NO LO ES
+Dbzh inxl lteoh onxlmkh unxg itkxvxk lxghk ftxlx Nbvhetl jnx xlmx r Aftwbl wx Gtnet jnxwxg ebukxl wxe ynxzh r mhwhl ehl wxftl lbg atvxk ftl vtet r vtmt ixkxsvtg
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1336
+Y lo bueno es que este rey o principe o lo que es tiene una muy renida guerra con otro tan poderoso como el y el caballero huesped le pide al cabo de algunos dias que ha estado en su corte licencia para ir a servirle en aquella guerra dicha,13,
 %OUTPUT
-f04fe16e571f5d3b19790e9e7ac6c05e
+63fb25b57b88678f1e5e230f5952b3de
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-763
+Apenas oyeron esto cuando todos le tuvieron por loco y por averiguarlo mas y ver que genero de locura era el suyo le torno a preguntar Vivaldo que queria decir caballeros andantes,4,
 %OUTPUT
-f04fe16e571f5d3b19790e9e7ac6c05e
+5ff4b47a95dc371ae262536b72154758
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1955
+Y de esta manera deshizo el agravio el valeroso Don Quijote el cual contentisimo de lo sucedido pareciendole que habia dado felicisimo y alto principio a sus caballerias con gran satisfaccion de si mismo iba caminando hacia su aldea diciendo a media voz Bien te puedes llamar dichosas sobre cuantas hoy viven en la tierra oh sobre las bellas bella Dulcinea del Toboso pues te cupo en suerte tener sujeto y rendido a toda tu voluntad y talante a un tan valiente y tan nombrado caballero como lo es y sera Don Quijote de la Mancha el cual como todo el mundo sabe ayer recibio la orden de caballeria y hoy ha desfecho el mayor tuerto y agravio que formo la sinrazon y cometio la crueldad hoy quito el latigo de la mano a aquel despiadado enemigo que tan sin ocasion valpuleaba a aquel delicado infante,16,
 %OUTPUT
-f04fe16e571f5d3b19790e9e7ac6c05e
+53ebd7d64359584d13d4b005c9fb570a
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-38
+y aunque alli no ve a nadie se averguenza,15,
 %OUTPUT
-f04fe16e571f5d3b19790e9e7ac6c05e
+8fcee4da75277f2985b9801243b2c6d0
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-156
+Asi es verdad dijo el cura y por esa razon se le otorga la vida por ahora,15,
 %OUTPUT
-65cfdcce8c02258dad4655a705f33c9c
+481c7f19efafff31ab5f65f72d75507f
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-162
+Lo cual visto por uno de los cabreros dijo aquellos que alli vienen son los que traen el cuerpo de Grisostomo y el pie de aquella montana es el lugar donde el mando que le enterrasen,1,
 %OUTPUT
-65cfdcce8c02258dad4655a705f33c9c
+5155d395950600b8134a88801009d44b
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-190
+echadmelos a las barbas uno a uno o todos juntos y cuando yo no diere con todos patas arriba haced de mi la burla que quisieredes,3,
 %OUTPUT
-65cfdcce8c02258dad4655a705f33c9c
+2547e9a65b88363c248d639c5aef62a8
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-192
+Pues yo replico don Quijote hallo por mi cuenta que el sin juicio y el encantado es vuestra merced pues se ha puesto a decir tantas blasfemias contra una cosa tan recebida en el mundo y tenida por tan verdadera que el que la negase como vuestra merced la niega merecia la mesma pena que vuestra merced dice que da a los libros cuando los lee y le enfadan,13,
 %OUTPUT
-65cfdcce8c02258dad4655a705f33c9c
+b983ea5cd66bb709b7633fc3314afa46
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-198
+maquina y corta y acaba en un instante los pensamientos y vida de quien la merecia gozar luengos siglos,6,
 %OUTPUT
-65cfdcce8c02258dad4655a705f33c9c
+1ef23467f637f9d801e2619148c7eca5
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-200
+Bien les parecio a los que escuchado habian la cancion de Grisostomo puesto que el que la leyo dijo que no le parecia que conformaba con la relacion que el habia oido del recato y bondad de Marcela porque en ella se quejaba Grisostomo de celos sospechas y de ausencia todo en perjuicio del buen creditto y buena fama de Marcela a lo cual respondio Ambrosio como aquel que sabia bien los mas,17,
 %OUTPUT
-65cfdcce8c02258dad4655a705f33c9c
+c3b673147738d0810bcb360dfe69b7b0
