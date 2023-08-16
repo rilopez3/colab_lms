@@ -1,182 +1,233 @@
 %PREG
-Pregunta 4
+Pregunta 1
 %NAME
 Case 1
 %TYPE
 publico
 %PRECODE
 %INPUT
-5
+jabon Toalla queso meSa SILLA PArrillA pan mantequilla
+%CODE
 %OUTPUT
-La suma de los primeros 5 valores es igual a 7
+jabon
+queso
+pan
+mantequilla
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-21
+harina fideos leche AboGADo ACEITE conDimentos VaCA salsaDeTomate quesoRallado huevos gaTO levadura pan carne
+%CODE
 %OUTPUT
-La suma de los primeros 21 valores es igual a 17710
+harina
+fideos
+leche
+huevos
+levadura
+pan
+carne
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-23
+detergente desinfectante suavizante lustramuebles cloro
+%CODE
 %OUTPUT
-La suma de los primeros 23 valores es igual a 46367
+detergente
+desinfectante
+suavizante
+lustramuebles
+cloro
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-24
+detergentE huevos
+%CODE
 %OUTPUT
-La suma de los primeros 24 valores es igual a 75024
+huevos
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-10
+Espinacas lechuga pimiento ajo TOSTADORA cebolla Champiñones seRranO Ajitomate tomate pApA zanahoria Calabazas apio tamarindo
+%CODE
 %OUTPUT
-La suma de los primeros 10 valores es igual a 88
+lechuga
+pimiento
+ajo
+cebolla
+tomate
+zanahoria
+apio
+tamarindo
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-20
+tomates masaDePizza hielo VENTILADOR choclo pepsi Cerveza
+%CODE
 %OUTPUT
-La suma de los primeros 20 valores es igual a 10945
+tomates
+hielo
+choclo
+pepsi
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-11
+azucar harina levadura SAL vainilla AuTo carrO
+%CODE
 %OUTPUT
-La suma de los primeros 11 valores es igual a 143
+azucar
+harina
+levadura
+vainilla
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-16
+sobreparaperro
+%CODE
 %OUTPUT
-La suma de los primeros 16 valores es igual a 1596
+sobreparaperro
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-6
+TIJERAS MAnajar mAnTeqUilla PERRO pan cloro limpiaPies ArieL
+%CODE
 %OUTPUT
-La suma de los primeros 6 valores es igual a 12
+pan
+cloro
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-17
+Computador legumbres zapallo CLAVOS CreMADeManoS sal MEsA lechuga jamon
+%CODE
 %OUTPUT
-La suma de los primeros 17 valores es igual a 2583
+legumbres
+zapallo
+sal
+lechuga
+jamon
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-25
+kjfhaskldjfhlsa kjHSKLJSHKLAWJ kajsdKJSDhjendaJKf lkajfsdjfkjsdhk
+%CODE
 %OUTPUT
-b41462e3e2205e9f0ca3a708437dec33
+ae2cc7fbaf72626862694295cb6ee469
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-26
+LKSLKASLNDVS
+%CODE
 %OUTPUT
-b2e8404625b6d99921a98a8ce7a08daa
+68b329da9893e34099c7d8ad5cb9c940
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-8
+LKASdkndmvn KJNkjnKJN dnskjnkfsjnv alskndsv nlkNLKnlkn lkNLKDNfsldknLKN lknlkdLKNLSKDNFSD
+%CODE
 %OUTPUT
-acdfa2f2a250a2bfb159513dbcb1d93e
+6d50c2d1826ce28dc258058f3ef759ef
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-14
+dsfv45s lkjLKJ
+%CODE
 %OUTPUT
-6f67367e8708bd5af9aac3d2da6eb5c4
+ebf5c9a2803336882d885cbb33f7c71e
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-30
+ksjdfhkjfh kjhdkfjsdhkf KJHKLJD kjhkJHKjKJHK kjhkKJHkjhKJHKJ fsdf534354dsf jhKJH
+%CODE
 %OUTPUT
-8b6cc9fd72305cce98f9f388e17044bb
+b0f2fa27a9371b6712222915af3815d2
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-29
+jjjjjjjjjjj jjjjjJJJjjjjjj jjJjjjjj  aaaaAaaa BBBBBBBBB sdmnbamsnd
+%CODE
 %OUTPUT
-ef1c98d4370c3a2a3468901f696df146
+2fa75ae767b289159385c5cbe38b4d9f
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-12
+lKNKLNm lkjlkjdlKTWFYT uyeudhbcuyu IGUYEHJNBS iuydgejh YGJHS5kjasdh
+%CODE
 %OUTPUT
-f2338c31714e77f634da3e0d844fd4db
+1466890f045cf377ecef23c82bddb56d
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-30
+UIHNJHKM kjbkjhg hbjHJjhvJH jhvjhJHVJHj jhjhsd JHVJHV
+%CODE
 %OUTPUT
-8b6cc9fd72305cce98f9f388e17044bb
+de4b1d01afd944c3e97b6eb040ca0194
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-17
+lklJHKJH kJHKJHK YTDTRDFGCV iuynnbru
+%CODE
 %OUTPUT
-51ab7a3e63eadc3590a7d402bba8b986
+55912ab5b60ade855e89ba4c8185c729
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-25
+kjhfksjhfkdf KJHKAJDK iwueqyre QUYWEGuhg
+%CODE
 %OUTPUT
-b41462e3e2205e9f0ca3a708437dec33
+9d60d07298970710346226aefe454216
