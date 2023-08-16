@@ -6,177 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-220,284,
+85
 %OUTPUT
-SON AMIGOS
+85 tiene un total de 2 combinaciones
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-1184,1210,
+4915
 %OUTPUT
-SON AMIGOS
+4915 tiene un total de 0 combinaciones
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-2620,2924,
+5686
 %OUTPUT
-SON AMIGOS
+5686 tiene un total de 0 combinaciones
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-6408,5746,
+9948
 %OUTPUT
-NO SE CONOCEN
+9948 tiene un total de 0 combinaciones
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-9328,7342,
+5347
 %OUTPUT
-NO SE CONOCEN
+5347 tiene un total de 0 combinaciones
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-9231,663,
+4928
 %OUTPUT
-NO SE CONOCEN
+4928 tiene un total de 0 combinaciones
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-2818,7502,
+1346
 %OUTPUT
-NO SE CONOCEN
+1346 tiene un total de 1 combinaciones
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-4986,8201,
+4685
 %OUTPUT
-NO SE CONOCEN
+4685 tiene un total de 2 combinaciones
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-10000,7695,
+4151
 %OUTPUT
-NO SE CONOCEN
+4151 tiene un total de 0 combinaciones
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-6925,5132,
+2678
 %OUTPUT
-NO SE CONOCEN
+2678 tiene un total de 0 combinaciones
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-5689,1096,
+3482
 %OUTPUT
-ca15a74c231a83551c748091f3bcd008
+03786c695a3ee47dcf769d6b2964b2ac
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1753,8227,
+6683
 %OUTPUT
-ca15a74c231a83551c748091f3bcd008
+3267d7cb20543265271c932e268c30ce
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1743,7019,
+5916
 %OUTPUT
-ca15a74c231a83551c748091f3bcd008
+17aa1c31ebdeb8c33e850577222dad4f
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-541,5943,
+5596
 %OUTPUT
-ca15a74c231a83551c748091f3bcd008
+7cc31f288f65fd99dd5c9b7e4980f552
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-5020,5564,
+4947
 %OUTPUT
-5f5cba987c458fd9c28760c98c7b20e0
+b7e79d3df13353dfcf4d7a4c473bf88a
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-6232,6368,
+6945
 %OUTPUT
-5f5cba987c458fd9c28760c98c7b20e0
+ba78227bb95f6982d99db3a03d064ebe
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-10744,10856,
+4626
 %OUTPUT
-5f5cba987c458fd9c28760c98c7b20e0
+4546d86632012621550da193bb042f75
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-12285,14595,
+6090
 %OUTPUT
-5f5cba987c458fd9c28760c98c7b20e0
+99826156d3a98b70ce43b4d2b31f528c
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-17296,18416,
+3934
 %OUTPUT
-5f5cba987c458fd9c28760c98c7b20e0
+ce90f1c178cea66865371da3b36d2add
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-63020,76084,
+8521
 %OUTPUT
-5f5cba987c458fd9c28760c98c7b20e0
+2a21dcabc95f9924a5515407354e270f
