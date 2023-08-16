@@ -6,177 +6,197 @@ Case 1
 publico
 %PRECODE
 %INPUT
-6
+La casa es muy bonita,a,grande,
+%CODE
 %OUTPUT
-El valor Ki6 es igual 2.976046176046176
+Lgrande cgrandesgrande es muy bonitgrande
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-2072
+murcielago,u,ganar,
+%CODE
 %OUTPUT
-El valor Ki2072 es igual 3.141110028135272
+mganarrcielago
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-378
+El elefante camina tranquilo en el bosque,e,rapido,
+%CODE
 %OUTPUT
-El valor Ki378 es igual 3.138947155573011
+El rapidolrapidofantrapido camina tranquilo rapidon rapidol bosqurapido
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-1057
+La lluvia cae suavemente sobre el suelo,u,fuerte,
+%CODE
 %OUTPUT
-El valor Ki1057 es igual 3.142538727171853
+La llfuertevia cae sfuerteavemente sobre el sfuerteelo
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-1965
+Los pajaros cantan en los arboles,o,vuelan,
+%CODE
 %OUTPUT
-El valor Ki1965 es igual 3.142101559409258
+Lvuelans pajarvuelans cantan en lvuelans arbvuelanles
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-3518
+El sol brilla en el horizonte,l,oscuro,
+%CODE
 %OUTPUT
-El valor Ki3518 es igual 3.141308401179393
+Eoscuro sooscuro brioscurooscuroa en eoscuro horizonte
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-663
+La tortuga lenta cruzo la carretera,a,rapida,
+%CODE
 %OUTPUT
-El valor Ki663 es igual 3.143100948357914
+Lrapida tortugrapida lentrapida cruzo lrapida crapidarreterrapida
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-3331
+El rio fluye sereno bajo el puente,e,agitado,
+%CODE
 %OUTPUT
-El valor Ki3331 es igual 3.141892863730134
+El rio fluyagitado sagitadoragitadono bajo agitadol puagitadontagitado
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-151
+a,a,palabra,
+%CODE
 %OUTPUT
-El valor Ki151 es igual 3.148215097537938
+palabra
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-962
+El gato juega con una bola de lana,a,colorida,
+%CODE
 %OUTPUT
-El valor Ki962 es igual 3.140553152831105
+El gcoloridato juegcolorida con uncolorida bolcolorida de lcoloridancolorida
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-4720
+La montaña se ve imponente desde lejos,e,pequeña,
+%CODE
 %OUTPUT
-d1bb0bd973e0265cff168fc05d51661f
+1505fae66e03c567e9f2d759e2dd8428
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3101
+El mar tranquilo refleja el cielo azul,z,oscuro,
+%CODE
 %OUTPUT
-4d81f36c67dffe3b07911b1e9b5d4a9a
+14fbb096916c6a9fbe5f826f7dbe9c60
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1694
+Los fuegos artificiales iluminan la noche,i,colorean,
+%CODE
 %OUTPUT
-6669486d368f6d67a07f5a0914157aca
+cb586ee4b13a2c44ea2268cacf6351c1
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3849
+El rio helado fluye lentamente,l,rapidamente,
+%CODE
 %OUTPUT
-46d7481e3d1bd67bfb92390abf1c0008
+5aed42feffd1261d048a991ab6569dd3
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3144
+El reloj marca las horas con precision,c,inexactitud,
+%CODE
 %OUTPUT
-e958ad9b59deea4bb20df48b12d8be1c
+3664a87d4dcc3710a39b96dbd5f9b226
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-4112
+El invierno trae consigo la nieve y el frio,i,calor,
+%CODE
 %OUTPUT
-f396c0eb49647872d83a0b1f73ad84fc
+687ce9f77490e4ff107de02a0a48ffcc
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-4156
+Las estrellas brillan en el cielo nocturno,t,oscuro,
+%CODE
 %OUTPUT
-b5330fed5c6e57d2a59b9f276ce9f934
+9997752fc97d5f78d6c23764f4b8f94b
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-4370
+El camino serpentea a traves del bosque,m,recto,
+%CODE
 %OUTPUT
-0f02df428a635f60c03e9ad43a1e3094
+41a89ae4a411e931ae0940f1239a8549
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3284
+La musica suave llena la habitacion,u,animada,
+%CODE
 %OUTPUT
-f0e2ecb24d04b68487c2b3f24b7bfcbf
+e830b12a6a2d77e4d9be3189d094702f
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-4102
+El cielo nocturno esta lleno de estrellas brillantes,e,opaco,
+%CODE
 %OUTPUT
-c6accbd69849783b6ff5cd1210867335
+274d0a68d369f26b90887b4f1c152048

@@ -6,196 +6,217 @@ Case 1
 publico
 %PRECODE
 %INPUT
-hola,como estas,ATENTO,Camaron que se duerme se l,pasando por aqui,contando ovejas,ATENTO,o lleva la corriente,sigo entregando,inputs,fin,%CODE
+Programar ES Muy Divertido,
+%CODE
 %OUTPUT
-Camaron que se duerme se lo lleva la corriente
+Mayusculas: 5
+Minusculas: 18
+Espacios: 3
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-al oculista,nosotros que somos, no de lo q,ATENTO,Mas vale tarde porque por la mañana d,nunca veo, dura Despu,contando ovejas, vago,seas no viene,ATENTO,uermo,s que so,Edición,agrego a la comida,fin,
+Hola Mundo,
 %CODE
 %OUTPUT
-Mas vale tarde porque por la mañana duermo
+Mayusculas: 2
+Minusculas: 7
+Espacios: 1
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-Me hago responsable,de lo que digo,no de lo que entiendas,nosotros que somos,ATENTO,Estado civil  ,Odio ser bipolar,es una sensación,fantástica,Enamorarse está bien, pero mejor es comer croquetas,ATENTO, Cansada,fin,
+ESTE Es UN TesT,
 %CODE
 %OUTPUT
-Estado civil   Cansada
+Mayusculas: 9
+Minusculas: 3
+Espacios: 3
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-ATENTO,¿Felicidad? Felicidad es,ATENTO, ver una señal de wifi sin contraseña,fin,
+  PROGRAMANDO  ES  DIVERTIDO  ,
 %CODE
 %OUTPUT
-¿Felicidad? Felicidad es ver una señal de wifi sin contraseña
+Mayusculas: 22
+Minusculas: 0
+Espacios: 8
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-Si buscas una mano,que te ayude,¡Búscala al final,de tu brazo!,ATENTO,Hay dos palabras que te abriran muchas puertas  ,ATENTO, Tire y Empuje,¡Corre a por tus sueños!,Si no los alcanzas,por lo menos haces deporte,fin,
+    Espacios   En   Exceso    ,
 %CODE
 %OUTPUT
-Hay dos palabras que te abriran muchas puertas   Tire y Empuje
+Mayusculas: 3
+Minusculas: 13
+Espacios: 14
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-ATENTO,Me voy a hacer un trio       ,No soy vago,estoy en modo,ahorro de energía,ATENTO, Mi almohada mi cama y yo,Un día sin sol es,ya sabes,de noche,fin,
+UNAoracionSINespaciosPEROSIletrasMayusculas,
 %CODE
 %OUTPUT
-Me voy a hacer un trio        Mi almohada mi cama y yo
+Mayusculas: 13
+Minusculas: 30
+Espacios: 0
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-Yo tenía un lado dulce,hasta que me lo comí,Una conciencia limpia es por lo general,una señal de mala memoria,ATENTO,El silencio es oro  ,ATENTO, A menos que tengas hijos ahi se convierte en sospecha,No todas las obras de arte están en museos,por ejemplo,yo estoy en mi casa,fin,
+PROGRAMACION,
 %CODE
 %OUTPUT
-El silencio es oro   A menos que tengas hijos ahi se convierte en sospecha
+Mayusculas: 12
+Minusculas: 0
+Espacios: 0
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-Si buscas una mano que te ayude,¡Búscala al final de tu brazo!,Lo más cerca que una persona llega a la perfección,es el día que rellena una solicitud de empleo,ATENTO,Cuando la vida te da limones    ,Nunca dejes para mañana,lo que puedas hacer pasado mañana,ATENTO, arrojaselos a alguien a los ojos,Siempre recuerda que tú eres único,Absolutamente igual que todos los demás,fin,
+Letras Mayusculas Y Minusculas,
 %CODE
 %OUTPUT
-Cuando la vida te da limones     arrojaselos a alguien a los ojos
+Mayusculas: 4
+Minusculas: 23
+Espacios: 3
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-ATENTO,Tus ojos son como IKEA  ,ATENTO,estoy totalmente perdida en ellos,Me gustas más que,dormir hasta tarde,fin,
+   AbC  DeF  GhI  JkL  MnoP  ,
 %CODE
 %OUTPUT
-Tus ojos son como IKEA  estoy totalmente perdida en ellos
+Mayusculas: 10
+Minusculas: 6
+Espacios: 13
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-Frases para "ligar",Si yo fuese tú,estaría conmigo,ATENTO,Oye ¿te presentas a las elecciones?,Seguramente no soy la persona más guapa del local,pero soy la única que se ha atrevido a hablarte,No sé lo que somos,pero no quiero que nunca lo dejemos de ser,ATENTO, Porque eres un partidazo,He decidido,gastar la batería de mi móvil contigo,fin,
+UnaMayusculaConEspacios EnElMedio,
 %CODE
 %OUTPUT
-Oye ¿te presentas a las elecciones? Porque eres un partidazo
+Mayusculas: 7
+Minusculas: 25
+Espacios: 1
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-huOdIQxvFXBWgWMpiqkyoV5bbVlXnT,wsUn1bspx6M6ZxOhRjt3ggW00BtWIO,1mil3E0d7Ok6Fn0fkLCmK1GqUWwkHO,ATENTO,Y0fgdw9diKqJcGJ15LVIbZ3Q73TnXM,1uNzuX9wRnJ3n80fugWJFtVPG7QDKm,XjnHD4g4JSJmxHR3K4MEnwVdwyWxkY,7sx2wHZ1dwQz0TqAgqcfTjsFg3VMVq,RliDR57B4ziV2wpCybVVKPGtUSBmzT,PBwYWQygfY7d66R66Qppi54DnCZGYc,ATENTO,jCdQ4aInZEAssEELWNOquepxfJOctJ,XCtNnhZ56ZYtzSUVlq49dEG3FVnSy3,ujhnzcgFgla6OGy8qMMtfWD5gPCvbV,OEZAGaPbxc3MjqQfmSFqiEcfjTaunL,6cFQv6cxNt9RJ1i8fKfJu8Mw27t5f2,3e7OlqYZ8Uct3ZKyvtTFOubidk7iuI,fin,
+MuchoEspacio            EnBlanco,
 %CODE
 %OUTPUT
-3baa0e99af4cede9c4ea0d26858bef82
+0ccdcd0d09d731cb46ad26618cdcc7cb
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-ATENTO,HPxy0VomXQ,0I0NSVYR1I,ZrTNSq3Jjo,uM82Y8MJJu,nmjT0h2DUp,YLNlN1P6lY,NNIHoSBGDH,056Gn2SdqG,abxvJrFcMT,e5JKSvFSqX,ATENTO,HAk9SlA4MR,xM3JDkzje5,lO7UHkA3Kj,aAaEQ4gNX6,fin,
+P  y  t  h  o  n,
 %CODE
 %OUTPUT
-c74bdc46efea7e52381938516f2b9ece
+edb8c1b44b65bea970372c4fe2ad514d
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-ATENTO,HPxy0VomXQ,0I0NSVYR1I,ZrTNSq3Jjo,uM82Y8MJJu,nmjT0h2DUp,YLNlN1P6lY,NNIHoSBGDH,056Gn2SdqG,abxvJrFcMT,e5JKSvFSqX,HAk9SlA4MR,xM3JDkzje5,lO7UHkA3Kj,ATENTO,aAaEQ4gNX6,fin,
+        UnicO,
 %CODE
 %OUTPUT
-70c0426af3a6ffa5681f92b9e164d377
+6c88c98cb70c17699bdcd8a448851c3c
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-ATENTO,HPxy0VomXQ,ATENTO,0I0NSVYR1I,ZrTNSq3Jjo,uM82Y8MJJu,nmjT0h2DUp,YLNlN1P6lY,NNIHoSBGDH,056Gn2SdqG,abxvJrFcMT,e5JKSvFSqX,HAk9SlA4MR,xM3JDkzje5,lO7UHkA3Kj,aAaEQ4gNX6,fin,
+ToDASmaYusCulas,
 %CODE
 %OUTPUT
-14790e24de8c1cafdd85d25b1feec759
+b6e5dc5aa5bbd4b9461f69a45e89964f
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-HPxy0VomXQ,0I0NSVYR1I,ZrTNSq3Jjo,uM82Y8MJJu,nmjT0h2DUp,YLNlN1P6lY,NNIHoSBGDH,056Gn2SdqG,abxvJrFcMT,e5JKSvFSqX,HAk9SlA4MR,xM3JDkzje5,ATENTO,lO7UHkA3Kj,ATENTO,aAaEQ4gNX6,fin,
+CodigoConNumeros,
 %CODE
 %OUTPUT
-ee6b30447b7071c23757aba4003cc04b
+7b32d7715bc706d2439181484b63e4e4
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-HPxy0VomXQ,0I0NSVYR1I,ZrTNSq3Jjo,uM82Y8MJJu,nmjT0h2DUp,YLNlN1P6lY,NNIHoSBGDH,ATENTO,056Gn2SdqG,abxvJrFcMT,e5JKSvFSqX,HAk9SlA4MR,xM3JDkzje5,ATENTO,lO7UHkA3Kj,aAaEQ4gNX6,fin,
+Espacios EnElMedio,
 %CODE
 %OUTPUT
-da641c3698f2aa77339c52bad9f81e52
+330937ac8e795ac4eba67b395db77cf7
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-HPxy0VomXQ,0I0NSVYR1I,ZrTNSq3Jjo,YLNlN1P6lY,NNIHoSBGDH,ATENTO,056Gn2SdqG,abxvJrFcMT,e5JKSvFSqX,HAk9SlA4MR,xM3JDkzje5,ATENTO,lO7UHkA3Kj,aAaEQ4gNX6,fin,
+OnOespacios,
 %CODE
 %OUTPUT
-da641c3698f2aa77339c52bad9f81e52
+4620b7643dd7c6718022aadf4a23006d
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-ATENTO,HPxy0VomXQ,0I0NSVYR1I,ZrTNSq3Jjo,YLNlN1P6lY,NNIHoSBGDH,056Gn2SdqG,abxvJrFcMT,e5JKSvFSqX,HAk9SlA4MR,xM3JDkzje5,lO7UHkA3Kj,ATENTO,aAaEQ4gNX6,fin,
+    ToDos  Los  Caracteres  En  MayuSCula,
 %CODE
 %OUTPUT
-70c0426af3a6ffa5681f92b9e164d377
+aa0aa603cb49c0fcadec344b010e196b
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-HPxy0VomXQ,0I0NSVYR1I,056Gn2SdqG,ATENTO,abxvJrFcMT,e5JKSvFSqX,HAk9SlA4MR,xM3JDkzje5,lO7UHkA3Kj,ATENTO,aAaEQ4gNX6,fin,
+CoN   VaRiOs   EsPaCiOs   InTeRcAlAdOs,
 %CODE
 %OUTPUT
-84a29d521385b5dc193d61e583847727
+8279034d0f850b542d35110d0a5b810c
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-ATENTO,e5JKSvFSqX,ATENTO,HAk9SlA4MR,fin,
+Python3ConGPT3,
 %CODE
 %OUTPUT
-da0eabb9ce7107dbd59762a57019cf20
+f2ab839bebcdb6cd031ce35bd2ea9db7
