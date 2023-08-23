@@ -6,177 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-1234 67,Nohayhuecodepenanima,
+M,83.1,77.9,
 %OUTPUT
-e
+Alto
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-avion,GinesmellamoynoGines,
+M,60.9,73.2,
 %OUTPUT
-m
+Bajo
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-22!98!!.,Notesobresaltecosaal,
+F,68.3,87.6,
 %OUTPUT
-e
+Bajo
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-1234 67,Yalehedichosenorcomi,
+F,74.0,92.1,
 %OUTPUT
-i
+Bajo
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-22!98!!.,EntendiolemuybienDon,
+F,71.0,68.8,
 %OUTPUT
-l
+Alto
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-hola,Notornesaesasplatica,
+M,96.4,73.6,
 %OUTPUT
-r
+Alto
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-345654,EldanoestuvodijodonQ,
+M,85.8,82.9,
 %OUTPUT
-e
+Alto
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-22!98!!.,Bienpodriaseresoseno,
+M,64.7,87.5,
 %OUTPUT
-i
+Bajo
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-avion,DijoletambienSanchoS,
+F,65.5,77.3,
 %OUTPUT
-e
+Normal
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-1234 67,Enlootrodelaclavijaq,
+F,69.0,81.1,
 %OUTPUT
-o
+Normal
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-avion,Todaslasaventurasdel,
+M,68.0,87.5,
 %OUTPUT
-12f54a96f64443246930da001cafda8b
+8d72b92f8612d90a35b50f22909d693e
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-hola,Esposiblesenorhidalg,
+F,96.1,86.9,
 %OUTPUT
-f4d5d0c0671be202bc241807c243e80b
+f23555f8f47b8e18ecedf2d3d7055a1d
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-22!98!!.,Hizomeelcielosegunvo,
+M,66.4,79.7,
 %OUTPUT
-2cd6ee2c70b0bde53fbe6cac3c8b8bb1
+8d72b92f8612d90a35b50f22909d693e
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-hola,IbaZoraidaentantoque,
+M,83.4,64.6,
 %OUTPUT
-e73af36376314c7c0022cb1d204f76b3
+f23555f8f47b8e18ecedf2d3d7055a1d
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-avion,QueDiosporsumiserico,
+F,73.7,71.7,
 %OUTPUT
-e73af36376314c7c0022cb1d204f76b3
+f23555f8f47b8e18ecedf2d3d7055a1d
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-qwerty,Atodolocualrespondea,
+F,72.3,83.2,
 %OUTPUT
-e73af36376314c7c0022cb1d204f76b3
+f23555f8f47b8e18ecedf2d3d7055a1d
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1234 67,Miraddequeseespantad,
+F,75.6,92.6,
 %OUTPUT
-c3be117041a113540deb0ff532b19543
+a1f03e46f8ad817f8fdd47b8b2f767a5
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-345654,Yconocieronletanbien,
+F,75.4,93.2,
 %OUTPUT
-372e25f23b5a8ae33c7ba203412ace30
+8d72b92f8612d90a35b50f22909d693e
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-quijote,Llegasteyquehaciaaqu,
+F,62.7,95.1,
 %OUTPUT
-9ffbf43126e33be52cd2bf7e01d627f9
+8d72b92f8612d90a35b50f22909d693e
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-hola,estribandoensuamoryb,
+M,83.4,83.6,
 %OUTPUT
-372e25f23b5a8ae33c7ba203412ace30
+a1f03e46f8ad817f8fdd47b8b2f767a5
