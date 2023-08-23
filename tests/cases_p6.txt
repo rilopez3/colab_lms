@@ -216,7 +216,7 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-Python3ConGPT3,
+CondaPython,
 %CODE
 %OUTPUT
-f2ab839bebcdb6cd031ce35bd2ea9db7
+4620b7643dd7c6718022aadf4a23006d
