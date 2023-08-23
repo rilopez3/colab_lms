@@ -6,7 +6,7 @@ Case 1
 publico
 %PRECODE
 %INPUT
-pera
+pera,
 %OUTPUT
 frutas
 %NAME
@@ -15,7 +15,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-porotos
+porotos,
 %OUTPUT
 legumbres
 %NAME
@@ -24,7 +24,7 @@ Case 3
 publico
 %PRECODE
 %INPUT
-pollo
+pollo,
 %OUTPUT
 carnes
 %NAME
@@ -33,7 +33,7 @@ Case 4
 publico
 %PRECODE
 %INPUT
-uva
+uva,
 %OUTPUT
 no incluido
 %NAME
@@ -42,7 +42,7 @@ Case 5
 publico
 %PRECODE
 %INPUT
-manzana
+manzana,
 %OUTPUT
 frutas
 %NAME
@@ -51,7 +51,7 @@ Case 6
 publico
 %PRECODE
 %INPUT
-lechuga
+lechuga,
 %OUTPUT
 verduras
 %NAME
@@ -60,7 +60,7 @@ Case 7
 publico
 %PRECODE
 %INPUT
-leche
+leche,
 %OUTPUT
 lacteos
 %NAME
@@ -69,7 +69,7 @@ Case 8
 publico
 %PRECODE
 %INPUT
-manjar
+manjar,
 %OUTPUT
 no incluido
 %NAME
@@ -78,7 +78,7 @@ Case 9
 publico
 %PRECODE
 %INPUT
-arroz
+arroz,
 %OUTPUT
 cereales
 %NAME
@@ -87,7 +87,7 @@ Case 10
 publico
 %PRECODE
 %INPUT
-choclo
+choclo,
 %OUTPUT
 no incluido
 %NAME
@@ -96,7 +96,7 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-arvejas
+arvejas,
 %OUTPUT
 2e5a96d156d9f6dabf7c91748651ce3b
 %NAME
@@ -105,7 +105,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-pescado
+pescado,
 %OUTPUT
 4c15f3c5bb659e2b2e242af247979e7f
 %NAME
@@ -114,7 +114,7 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-naranjo
+naranjo,
 %OUTPUT
 eaf2e3d60ee8127210c2136d4d7d3c27
 %NAME
@@ -123,7 +123,7 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-platano
+platano,
 %OUTPUT
 2d168463b305ce093e9665671da455b5
 %NAME
@@ -132,7 +132,7 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-espinaca
+espinaca,
 %OUTPUT
 47ef26220d1345d3f40fabbd79365e1d
 %NAME
@@ -141,7 +141,7 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-repollo
+repollo,
 %OUTPUT
 47ef26220d1345d3f40fabbd79365e1d
 %NAME
@@ -150,7 +150,7 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-quesillo
+quesillo,
 %OUTPUT
 eaf2e3d60ee8127210c2136d4d7d3c27
 %NAME
@@ -159,7 +159,7 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-mantequila
+mantequila,
 %OUTPUT
 eaf2e3d60ee8127210c2136d4d7d3c27
 %NAME
@@ -168,7 +168,7 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-avena
+avena,
 %OUTPUT
 9173122e7f446721090416a3ff399c56
 %NAME
@@ -177,6 +177,6 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-trigo
+trigo,
 %OUTPUT
 9173122e7f446721090416a3ff399c56
