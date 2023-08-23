@@ -1,0 +1,182 @@
+%PREG
+Pregunta 3
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+pera
+%OUTPUT
+frutas
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+porotos
+%OUTPUT
+legumbres
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+pollo
+%OUTPUT
+carnes
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+uva
+%OUTPUT
+no incluido
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+manzana
+%OUTPUT
+frutas
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+lechuga
+%OUTPUT
+verduras
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+leche
+%OUTPUT
+lacteos
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+manjar
+%OUTPUT
+no incluido
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+arroz
+%OUTPUT
+cereales
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+choclo
+%OUTPUT
+no incluido
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+arvejas
+%OUTPUT
+2e5a96d156d9f6dabf7c91748651ce3b
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+pescado
+%OUTPUT
+4c15f3c5bb659e2b2e242af247979e7f
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+naranjo
+%OUTPUT
+eaf2e3d60ee8127210c2136d4d7d3c27
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+platano
+%OUTPUT
+2d168463b305ce093e9665671da455b5
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+espinaca
+%OUTPUT
+47ef26220d1345d3f40fabbd79365e1d
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+repollo
+%OUTPUT
+47ef26220d1345d3f40fabbd79365e1d
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+quesillo
+%OUTPUT
+eaf2e3d60ee8127210c2136d4d7d3c27
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+mantequila
+%OUTPUT
+eaf2e3d60ee8127210c2136d4d7d3c27
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+avena
+%OUTPUT
+9173122e7f446721090416a3ff399c56
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+trigo
+%OUTPUT
+9173122e7f446721090416a3ff399c56
