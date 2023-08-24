@@ -20,7 +20,6 @@ def get_case_path(preg):
     if not DEBUG_LOCAL:
       l = l.decode("utf-8")
     l = l.strip().split(',')
-    print(l)
     cases[l[0]] = l[1]
   if preg in cases:
     return cases[preg]
