@@ -15,38 +15,20 @@ Case 2
 publico
 %PRECODE
 %INPUT
-porotos,
+pollo,
 %OUTPUT
-legumbres
+carnes
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-pollo,
+lentejas,
 %OUTPUT
-carnes
+legumbres
 %NAME
 Case 4
-%TYPE
-publico
-%PRECODE
-%INPUT
-uva,
-%OUTPUT
-no incluido
-%NAME
-Case 5
-%TYPE
-publico
-%PRECODE
-%INPUT
-manzana,
-%OUTPUT
-frutas
-%NAME
-Case 6
 %TYPE
 publico
 %PRECODE
@@ -55,59 +37,77 @@ lechuga,
 %OUTPUT
 verduras
 %NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+quesillo,
+%OUTPUT
+no incluido
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+trigo,
+%OUTPUT
+cereales
+%NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-leche,
+manzano,
 %OUTPUT
-lacteos
+no incluido
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-manjar,
+pescado,
 %OUTPUT
-no incluido
+carnes
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-arroz,
+espinaca,
 %OUTPUT
-cereales
+verduras
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-choclo,
+mantequilla,
 %OUTPUT
-no incluido
+lacteos
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-arvejas,
+avena,
 %OUTPUT
-2e5a96d156d9f6dabf7c91748651ce3b
+9173122e7f446721090416a3ff399c56
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-pescado,
+porotos,
 %OUTPUT
-4c15f3c5bb659e2b2e242af247979e7f
+2e5a96d156d9f6dabf7c91748651ce3b
 %NAME
 Case 3
 %TYPE
@@ -123,16 +123,16 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-platano,
+vacuno,
 %OUTPUT
-2d168463b305ce093e9665671da455b5
+4c15f3c5bb659e2b2e242af247979e7f
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-espinaca,
+apio,
 %OUTPUT
 47ef26220d1345d3f40fabbd79365e1d
 %NAME
@@ -141,42 +141,42 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-repollo,
+leche,
 %OUTPUT
-47ef26220d1345d3f40fabbd79365e1d
+57107ee8342bff2df4e694a08c2c133e
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-quesillo,
+maiz,
 %OUTPUT
-eaf2e3d60ee8127210c2136d4d7d3c27
+9173122e7f446721090416a3ff399c56
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-mantequila,
+garbanzos,
 %OUTPUT
-eaf2e3d60ee8127210c2136d4d7d3c27
+2e5a96d156d9f6dabf7c91748651ce3b
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-avena,
+platano,
 %OUTPUT
-9173122e7f446721090416a3ff399c56
+2d168463b305ce093e9665671da455b5
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-trigo,
+jugo,
 %OUTPUT
-9173122e7f446721090416a3ff399c56
+eaf2e3d60ee8127210c2136d4d7d3c27
