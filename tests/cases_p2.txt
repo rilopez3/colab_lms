@@ -1,0 +1,182 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+ERROR,43,34,ERROR,30,28,
+%OUTPUT
+se registraron correctamente 4 temperaturas y promediaron 33.8
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+ERROR,22,64,55,99,81,
+%OUTPUT
+se registraron correctamente 5 temperaturas y promediaron 64.2
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+50,ERROR,40,25,65,79,
+%OUTPUT
+se registraron correctamente 5 temperaturas y promediaron 51.8
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+16,ERROR,ERROR,41,13,ERROR,
+%OUTPUT
+se registraron correctamente 3 temperaturas y promediaron 23.3
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+78,0,ERROR,7,62,ERROR,
+%OUTPUT
+se registraron correctamente 4 temperaturas y promediaron 36.8
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+ERROR,85,ERROR,16,ERROR,ERROR,
+%OUTPUT
+se registraron correctamente 2 temperaturas y promediaron 50.5
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+ERROR,ERROR,ERROR,ERROR,ERROR,81,
+%OUTPUT
+se registraron correctamente 1 temperaturas y promediaron 81.0
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+ERROR,87,ERROR,ERROR,24,66,
+%OUTPUT
+se registraron correctamente 3 temperaturas y promediaron 59.0
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+ERROR,ERROR,49,ERROR,92,18,
+%OUTPUT
+se registraron correctamente 3 temperaturas y promediaron 53.0
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+16,19,50,67,76,55,
+%OUTPUT
+se registraron correctamente 6 temperaturas y promediaron 47.2
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+7,ERROR,ERROR,50,ERROR,46,
+%OUTPUT
+7820ca8f1a1247788d95ddb273796331
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+7,1,12,36,22,81,
+%OUTPUT
+5c627820c52a255bf2d779b1837e5e3a
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+ERROR,ERROR,14,ERROR,ERROR,69,
+%OUTPUT
+2e81d8775bc937ae985eb7d80be0795c
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+72,49,ERROR,95,48,40,
+%OUTPUT
+71f5e65901ff3e8bc20ff8b290746d49
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+72,95,ERROR,43,ERROR,ERROR,
+%OUTPUT
+d7b4d512202d24feec01f10e85a986f9
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+ERROR,13,ERROR,ERROR,ERROR,58,
+%OUTPUT
+27759bd8a233c4328ac6702437c26723
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+78,ERROR,ERROR,44,3,ERROR,
+%OUTPUT
+0d4cba9083666bda8cf209868b615cb4
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+50,ERROR,24,16,ERROR,ERROR,
+%OUTPUT
+b0cf821e3d8889b217ebb8ee46ac8fd8
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+ERROR,53,ERROR,88,ERROR,67,
+%OUTPUT
+0da4d377687cf95819387af56d397aae
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+ERROR,ERROR,ERROR,ERROR,36,ERROR,
+%OUTPUT
+4b1874c1ce6cbf44868f59cf9d73bac6
