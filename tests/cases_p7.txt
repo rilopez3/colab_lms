@@ -1,0 +1,202 @@
+%PREG
+Pregunta 7
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(5, 3))
+%INPUT
+%CODE
+%OUTPUT
+8
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(1, 2))
+%INPUT
+%CODE
+%OUTPUT
+3
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(10, 10))
+%INPUT
+%CODE
+%OUTPUT
+20
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(150, 10))
+%INPUT
+%CODE
+%OUTPUT
+160
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(500, 1000))
+%INPUT
+%CODE
+%OUTPUT
+1500
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(8732, 6732))
+%INPUT
+%CODE
+%OUTPUT
+15464
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(5, 5))
+%INPUT
+%CODE
+%OUTPUT
+10
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(542, 8521))
+%INPUT
+%CODE
+%OUTPUT
+9063
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(832, 5427))
+%INPUT
+%CODE
+%OUTPUT
+6259
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+print(suma_de_numeros(82356, 1568))
+%INPUT
+%CODE
+%OUTPUT
+83924
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(0, 0))
+%INPUT
+%CODE
+%OUTPUT
+897316929176464ebc9ad085f31e7284
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(354653213, 65432848))
+%INPUT
+%CODE
+%OUTPUT
+6449cc3dcecfdbcd5956bded8a5394e1
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(86454321897, 6868456313238798))
+%INPUT
+%CODE
+%OUTPUT
+770b2f4badc09965527b2a335eded49e
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(8654324, 542125))
+%INPUT
+%CODE
+%OUTPUT
+b2c0e4fcd2b7e95dfd7418466cdd2232
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(10, 0))
+%INPUT
+%CODE
+%OUTPUT
+31d30eea8d0968d6458e0ad0027c9f80
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(0, 10))
+%INPUT
+%CODE
+%OUTPUT
+31d30eea8d0968d6458e0ad0027c9f80
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(123, 456))
+%INPUT
+%CODE
+%OUTPUT
+e59f1d72ec23f6a01319096005163b1a
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(1234, 5678))
+%INPUT
+%CODE
+%OUTPUT
+ec80ae6944157256e4efcb6b4a9c8959
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(512, 8945))
+%INPUT
+%CODE
+%OUTPUT
+d5585ccefb4b278a240822ce6440734b
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+print(suma_de_numeros(1, 1))
+%INPUT
+%CODE
+%OUTPUT
+26ab0db90d72e28ad0ba1e22ee510510
