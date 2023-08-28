@@ -301,9 +301,9 @@ def run_case(case, student_code):
   estado_msg = 'ERROR'
   error_message = None
   try:
-    exec(case['PRECODE'])
+    exec(redirect_io(case['PRECODE']))
     exec(student_code)
-    exec(case['CODE'])
+    exec(redirect_io(case['CODE']))
 
     if case['TYPE'].lower() == 'secreto':
       STUDENT_OUTPUT_CONTROL = hashlib.md5( STUDENT_OUTPUT_CONTROL.encode()).hexdigest()
