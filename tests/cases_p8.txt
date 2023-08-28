@@ -1,0 +1,242 @@
+%PREG
+Pregunta 8
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(3, 5))
+operaciones_de_numeros(3, 5)
+%OUTPUT
+La resta de los numeros 3 y 5 da como resultado -2
+15
+La resta de los numeros 3 y 5 da como resultado -2
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(1, 3))
+operaciones_de_numeros(1, 3)
+%OUTPUT
+La resta de los numeros 1 y 3 da como resultado -2
+3
+La resta de los numeros 1 y 3 da como resultado -2
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(10, 10))
+operaciones_de_numeros(10, 10)
+%OUTPUT
+La resta de los numeros 10 y 10 da como resultado 0
+100
+La resta de los numeros 10 y 10 da como resultado 0
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(10, 150))
+operaciones_de_numeros(10, 150)
+%OUTPUT
+La resta de los numeros 10 y 150 da como resultado -140
+1500
+La resta de los numeros 10 y 150 da como resultado -140
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(500, 1000))
+operaciones_de_numeros(500, 1000)
+%OUTPUT
+La resta de los numeros 500 y 1000 da como resultado -500
+500000
+La resta de los numeros 500 y 1000 da como resultado -500
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(684632, 845))
+operaciones_de_numeros(684632, 845)
+%OUTPUT
+La resta de los numeros 684632 y 845 da como resultado 683787
+578514040
+La resta de los numeros 684632 y 845 da como resultado 683787
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(542, 8521))
+operaciones_de_numeros(542, 8521)
+%OUTPUT
+La resta de los numeros 542 y 8521 da como resultado -7979
+4618382
+La resta de los numeros 542 y 8521 da como resultado -7979
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(832, 5427))
+operaciones_de_numeros(832, 5427)
+%OUTPUT
+La resta de los numeros 832 y 5427 da como resultado -4595
+4515264
+La resta de los numeros 832 y 5427 da como resultado -4595
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(82356, 1568))
+operaciones_de_numeros(82356, 1568)
+%OUTPUT
+La resta de los numeros 82356 y 1568 da como resultado 80788
+129134208
+La resta de los numeros 82356 y 1568 da como resultado 80788
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(0, 0))
+operaciones_de_numeros(0, 0)
+%OUTPUT
+La resta de los numeros 0 y 0 da como resultado 0
+0
+La resta de los numeros 0 y 0 da como resultado 0
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(354653213, 65432848))
+operaciones_de_numeros(354653213, 65432848)
+%OUTPUT
+b163eaec7d6f328f5db189913041064f
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(86454321897, 6868456313238798))
+operaciones_de_numeros(86454321897, 6868456313238798)
+%OUTPUT
+f052d41f5be5c23a99aa29099fc3d33a
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(8654324, 542125))
+operaciones_de_numeros(8654324, 542125)
+%OUTPUT
+45678325652a9ed421be49709cc79660
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(10, 0))
+operaciones_de_numeros(10, 0)
+%OUTPUT
+a5c682bc015c0c32aa53498f9dc22b06
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(0, 10))
+operaciones_de_numeros(0, 10)
+%OUTPUT
+9f5d3b21300bf2d908a5bdf9063e12b1
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(123, 456))
+operaciones_de_numeros(123, 456)
+%OUTPUT
+9034747c0793b7ea3d65141c6dc1929c
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(1234, 5678))
+operaciones_de_numeros(1234, 5678)
+%OUTPUT
+846c73e92675428dd6092285ccd73344
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(512, 8945))
+operaciones_de_numeros(512, 8945)
+%OUTPUT
+17b2c25b9a36d798ddf96135ee272d5a
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(1, 1))
+operaciones_de_numeros(1, 1)
+%OUTPUT
+7aa045765d2f0e73dafa5b1e35056118
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(operaciones_de_numeros(84542, 3))
+operaciones_de_numeros(84542, 3)
+%OUTPUT
+2e8783fa846126bb2fb87228ed2f5d96
