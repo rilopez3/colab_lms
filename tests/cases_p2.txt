@@ -1,0 +1,299 @@
+%PREG
+Pregunta 2
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+19,a lo igual de lo que mi c,
+%OUTPUT
+a lo igual de lo qu
+ lo igual de lo que
+lo igual de lo que 
+o igual de lo que m
+ igual de lo que mi
+igual de lo que mi 
+gual de lo que mi c
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+14,Y sacando en esto lo que ,
+%OUTPUT
+Y sacando en e
+ sacando en es
+sacando en est
+acando en esto
+cando en esto 
+ando en esto l
+ndo en esto lo
+do en esto lo 
+o en esto lo q
+ en esto lo qu
+en esto lo que
+n esto lo que 
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+5,Hicieronlo asi y pusieron,
+%OUTPUT
+Hicie
+icier
+ciero
+ieron
+eronl
+ronlo
+onlo 
+nlo a
+lo as
+o asi
+ asi 
+asi y
+si y 
+i y p
+ y pu
+y pus
+ pusi
+pusie
+usier
+siero
+ieron
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+9,De que quieres que te la ,
+%OUTPUT
+De que qu
+e que qui
+ que quie
+que quier
+ue quiere
+e quieres
+ quieres 
+quieres q
+uieres qu
+ieres que
+eres que 
+res que t
+es que te
+s que te 
+ que te l
+que te la
+ue te la 
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+17,Pero el que mas se,
+%OUTPUT
+Pero el que mas s
+ero el que mas se
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,era suya,
+%OUTPUT
+e
+r
+a
+ 
+s
+u
+y
+a
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+24,Aun espero en Dios y en s,
+%OUTPUT
+Aun espero en Dios y en 
+un espero en Dios y en s
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+10,No dijo mas don Quijote y,
+%OUTPUT
+No dijo ma
+o dijo mas
+ dijo mas 
+dijo mas d
+ijo mas do
+jo mas don
+o mas don 
+ mas don Q
+mas don Qu
+as don Qui
+s don Quij
+ don Quijo
+don Quijot
+on Quijote
+n Quijote 
+ Quijote y
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,dijo Por esta carta veras,
+%OUTPUT
+d
+i
+j
+o
+ 
+P
+o
+r
+ 
+e
+s
+t
+a
+ 
+c
+a
+r
+t
+a
+ 
+v
+e
+r
+a
+s
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+9,Has de saber que una viud,
+%OUTPUT
+Has de sa
+as de sab
+s de sabe
+ de saber
+de saber 
+e saber q
+ saber qu
+saber que
+aber que 
+ber que u
+er que un
+r que una
+ que una 
+que una v
+ue una vi
+e una viu
+ una viud
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+7,Ahora digo senor Caballer,
+%OUTPUT
+903d38a80a9abd629f444c5bf5d03079
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1,Que diablos de fortaleza ,
+%OUTPUT
+8f1a9d5ca78263507e5d688141b81fa6
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+13,pusimos en tierra de lo q,
+%OUTPUT
+75b46596ce0824d68b4141d0ab452d44
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+6,Pero sea lo que fuere ven,
+%OUTPUT
+20d9027c0a08c34f3a75e58d115c887a
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+10,Todo lo cual visto por do,
+%OUTPUT
+5f9228d6e697863fcf9fbd4a3819bcda
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+18,Quien no habia de reir de,
+%OUTPUT
+c7ba92635351aa83232222b3d6a21d87
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+20,Yo no se mi senor como da,
+%OUTPUT
+5a9acfbdc66b80cb476ecb7b0aff23d3
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+6,Los mozos de a pie llevar,
+%OUTPUT
+cbf2814a7b1316ea6ee00ee7eddbde4d
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+5,Eso sera como yo quisiere,
+%OUTPUT
+b28fa2403b5836cc401aa3203994dca9
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+3,y al cura les conto lo qu,
+%OUTPUT
+eb0b6cbf8ffee16c237a3ad40e59d092

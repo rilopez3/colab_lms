@@ -1,0 +1,264 @@
+%PREG
+Pregunta 3
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+8,No hay duda respondio a e,
+%OUTPUT
+No hay d
+hay duda
+ay duda 
+da respo
+a respon
+espondio
+spondio 
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+2,Has de saber que una viud,
+%OUTPUT
+Ha
+as
+s 
+ d
+de
+e 
+ s
+sa
+ab
+be
+er
+r 
+ q
+qu
+ue
+e 
+ u
+un
+na
+a 
+ v
+vi
+ud
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+11,De ese modo en mi dolenci,
+%OUTPUT
+ modo en mi
+modo en mi 
+odo en mi d
+do en mi do
+o en mi dol
+ en mi dole
+en mi dolen
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+19,Un Viriato tuvo Lusitania,
+%OUTPUT
+Viriato tuvo Lusita
+iriato tuvo Lusitan
+riato tuvo Lusitani
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+10,A lo cual respondio el ca,
+%OUTPUT
+A lo cual 
+al respond
+ respondio
+respondio 
+spondio el
+pondio el 
+ondio el c
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,Presupuesto esto digo sen,
+%OUTPUT
+P
+r
+e
+s
+u
+p
+u
+e
+s
+t
+ 
+e
+s
+t
+ 
+d
+i
+g
+ 
+s
+e
+n
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+19,Es asimesmo la buena muje,
+%OUTPUT
+s asimesmo la buena
+ asimesmo la buena 
+asimesmo la buena m
+simesmo la buena mu
+imesmo la buena muj
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+12,Dos dias eran ya pasados ,
+%OUTPUT
+Dos dias era
+os dias eran
+s dias eran 
+ dias eran y
+as eran ya p
+s eran ya pa
+ eran ya pas
+n ya pasados
+ ya pasados 
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+24,Todos se ofrecieron a Eug,
+%OUTPUT
+
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+18,Mas no se yo para que nom,
+%OUTPUT
+Mas no se yo para 
+as no se yo para q
+s no se yo para qu
+ no se yo para que
+no se yo para que 
+o se yo para que n
+ se yo para que no
+se yo para que nom
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+21,Dam desden una torcida so,
+%OUTPUT
+8906963277aafa7ce6839f2739d02f44
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+9,El otro que bate las hija,
+%OUTPUT
+4be6bc41ccd504c028972e5ad9e38cbc
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+2,En efeto ellos se pusiero,
+%OUTPUT
+528ccb3b6bde451538196cb2db3a4ae8
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+3,con que el uso comun de m,
+%OUTPUT
+5c79748ff066d6aa814e2d4431d5379d
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+4,Ya te entiendo Sancho res,
+%OUTPUT
+61713e0abbba8b26da87758e73b8ae28
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+3,y aunque de carnes rolliz,
+%OUTPUT
+ce31825ae3c30faaa36d1b52d7056dec
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+12,A cuyas senas y voz volvi,
+%OUTPUT
+249466103a19cf0196d18444b25ea81d
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+2,Quitaronle una ropilla qu,
+%OUTPUT
+c722602662230f3e7fabebb15fc8cfc4
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+15,Pareciole a Maritornes qu,
+%OUTPUT
+3d25eb1a6d6a3db872344cdb0d05bb78
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+13,Don Quijote creyo sin dud,
+%OUTPUT
+0721bc5433f765dc9694abd613aa23f4
