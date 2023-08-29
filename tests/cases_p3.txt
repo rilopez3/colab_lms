@@ -6,9 +6,9 @@ Case 1
 publico
 %PRECODE
 %INPUT
-aB3e,
+AB3e,
 %OUTPUT
-CLAVE SEGURA
+CLAVE ALGO SEGURA
 %NAME
 Case 2
 %TYPE
@@ -24,9 +24,9 @@ Case 3
 publico
 %PRECODE
 %INPUT
-mhRaTH4,
+mhRaUTH4,
 %OUTPUT
-CLAVE ALGO SEGURA
+CLAVE SEGURA
 %NAME
 Case 4
 %TYPE
@@ -93,7 +93,7 @@ CLAVE ALGO SEGURA
 %NAME
 Case 1
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 2fwxrvm,
@@ -102,7 +102,7 @@ cdf94b996a8cafe3d55cf2fedc5022e4
 %NAME
 Case 2
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 pEYWjE,
@@ -111,7 +111,7 @@ cdf94b996a8cafe3d55cf2fedc5022e4
 %NAME
 Case 3
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 fApl,
@@ -120,7 +120,7 @@ cdf94b996a8cafe3d55cf2fedc5022e4
 %NAME
 Case 4
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 LfT,
@@ -129,7 +129,7 @@ a0bca313a0ff3f79ec792c2532318e5f
 %NAME
 Case 5
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 A6WFdIo,
@@ -138,7 +138,7 @@ A6WFdIo,
 %NAME
 Case 6
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 uffaWo3fnA,
@@ -147,7 +147,7 @@ uffaWo3fnA,
 %NAME
 Case 7
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 TZGVsZC,
@@ -156,7 +156,7 @@ a0bca313a0ff3f79ec792c2532318e5f
 %NAME
 Case 8
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 WMqn,
@@ -165,7 +165,7 @@ a0bca313a0ff3f79ec792c2532318e5f
 %NAME
 Case 9
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 fhkerI9Tx1,
@@ -174,7 +174,7 @@ fhkerI9Tx1,
 %NAME
 Case 10
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 oau,
