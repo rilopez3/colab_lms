@@ -1,0 +1,182 @@
+%PREG
+Pregunta 4
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+1911,1914,
+%OUTPUT
+El promedio es 18220.86
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+1903,2004,
+%OUTPUT
+El promedio es 12843.24
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+1946,1970,
+%OUTPUT
+El promedio es 14794.03
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+1947,1979,
+%OUTPUT
+El promedio es 14109.56
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+1913,2005,
+%OUTPUT
+El promedio es 12742.95
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+1904,1987,
+%OUTPUT
+El promedio es 12983.41
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+1939,2015,
+%OUTPUT
+El promedio es 14124.47
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+1920,1963,
+%OUTPUT
+El promedio es 12230.3
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+1943,1967,
+%OUTPUT
+El promedio es 14064.27
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+1928,2001,
+%OUTPUT
+El promedio es 12906.07
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1950,1991,
+%OUTPUT
+2ced52d8aa2e3ece7cbbb34807a59aa5
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1923,1962,
+%OUTPUT
+1d583d3eb06085bfba1ddee4c45b9a3a
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1900,1987,
+%OUTPUT
+4425c62c1ba44774cd1197f588efd04f
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1906,2015,
+%OUTPUT
+83eb7eb42777e88e9df1d2f715f73513
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1923,1960,
+%OUTPUT
+12c2596813ef8fa666db8fecde35d2f7
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1916,1981,
+%OUTPUT
+c3fe41da523f576c742a543c77c4588d
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1949,2014,
+%OUTPUT
+77dabd5bdda47cb5c8c939995eb73242
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1905,1969,
+%OUTPUT
+60ccdeea05abce0ccbc53106ceca6a17
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1930,1977,
+%OUTPUT
+45555282b5b0218a2affca806068c8e5
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1933,2004,
+%OUTPUT
+591c59a550ac573e1ac215dae5b7d406
