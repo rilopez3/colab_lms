@@ -307,8 +307,10 @@ def run_case(case, student_code):
 
     if case['TYPE'].lower() == 'secreto':
       STUDENT_OUTPUT_CONTROL = hashlib.md5( STUDENT_OUTPUT_CONTROL.encode()).hexdigest()
-
-    case['OUTPUT'] = case['OUTPUT'].strip()
+      case['OUTPUT'] = case['OUTPUT'].strip()
+    
+    else:
+      case['OUTPUT'] = case['OUTPUT'].replace('\r', '')
 
     estado, estado_msg = [1 ,'CORRECTO'] if STUDENT_OUTPUT_CONTROL == case['OUTPUT'] else [0 , 'INCORRECTO']
 
