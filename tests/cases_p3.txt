@@ -6,177 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-pera,
+aB3e,
 %OUTPUT
-frutas
+CLAVE SEGURA
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-pollo,
+CdP,
 %OUTPUT
-carnes
+CLAVE INSEGURA
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-lentejas,
+mhRaTH4,
 %OUTPUT
-legumbres
+CLAVE ALGO SEGURA
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-lechuga,
+5vgdOxsl,
 %OUTPUT
-verduras
+CLAVE ALGO SEGURA
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-quesillo,
+yNFzwywXLT,
 %OUTPUT
-no incluido
+CLAVE INSEGURA
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-trigo,
+nbpVNicU,
 %OUTPUT
-cereales
+CLAVE ALGO SEGURA
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-manzano,
+0PrSydiO4,
 %OUTPUT
-no incluido
+CLAVE SEGURA
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-pescado,
+iD92qO,
 %OUTPUT
-carnes
+CLAVE SEGURA
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-espinaca,
+KZWv,
 %OUTPUT
-verduras
+CLAVE INSEGURA
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-mantequilla,
+rpR7xb,
 %OUTPUT
-lacteos
+CLAVE ALGO SEGURA
 %NAME
 Case 1
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-avena,
+2fwxrvm,
 %OUTPUT
-9173122e7f446721090416a3ff399c56
+cdf94b996a8cafe3d55cf2fedc5022e4
 %NAME
 Case 2
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-porotos,
+pEYWjE,
 %OUTPUT
-2e5a96d156d9f6dabf7c91748651ce3b
+cdf94b996a8cafe3d55cf2fedc5022e4
 %NAME
 Case 3
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-naranjo,
+fApl,
 %OUTPUT
-eaf2e3d60ee8127210c2136d4d7d3c27
+cdf94b996a8cafe3d55cf2fedc5022e4
 %NAME
 Case 4
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-vacuno,
+LfT,
 %OUTPUT
-4c15f3c5bb659e2b2e242af247979e7f
+a0bca313a0ff3f79ec792c2532318e5f
 %NAME
 Case 5
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-apio,
+A6WFdIo,
 %OUTPUT
-47ef26220d1345d3f40fabbd79365e1d
+86ae118a1fdd9b224f163b35490cc559
 %NAME
 Case 6
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-leche,
+uffaWo3fnA,
 %OUTPUT
-57107ee8342bff2df4e694a08c2c133e
+86ae118a1fdd9b224f163b35490cc559
 %NAME
 Case 7
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-maiz,
+TZGVsZC,
 %OUTPUT
-9173122e7f446721090416a3ff399c56
+a0bca313a0ff3f79ec792c2532318e5f
 %NAME
 Case 8
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-garbanzos,
+WMqn,
 %OUTPUT
-2e5a96d156d9f6dabf7c91748651ce3b
+a0bca313a0ff3f79ec792c2532318e5f
 %NAME
 Case 9
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-platano,
+fhkerI9Tx1,
 %OUTPUT
-2d168463b305ce093e9665671da455b5
+86ae118a1fdd9b224f163b35490cc559
 %NAME
 Case 10
 %TYPE
-secreto
+publico
 %PRECODE
 %INPUT
-jugo,
+oau,
 %OUTPUT
-eaf2e3d60ee8127210c2136d4d7d3c27
+cdf94b996a8cafe3d55cf2fedc5022e4
