@@ -153,9 +153,12 @@ Case 9
 publico
 %PRECODE
 %INPUT
-24,Todos se ofrecieron a Eug,
+11,Buena es tu esposa Camila,
 %OUTPUT
-
+ es tu espo
+es tu espos
+u esposa Ca
+esposa Cami
 %NAME
 Case 10
 %TYPE
