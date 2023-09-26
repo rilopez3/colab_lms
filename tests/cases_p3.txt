@@ -6,262 +6,197 @@ Case 1
 publico
 %PRECODE
 %INPUT
-8,No hay duda respondio a e,
+%CODE
+validar_correo("correo@example.com")
 %OUTPUT
-No hay d
-hay duda
-ay duda 
-da respo
-a respon
-espondio
-spondio 
+CORREO VALIDADO
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-2,Has de saber que una viud,
+%CODE
+validar_correo("tinalittle@.")
 %OUTPUT
-Ha
-as
-s 
- d
-de
-e 
- s
-sa
-ab
-be
-er
-r 
- q
-qu
-ue
-e 
- u
-un
-na
-a 
- v
-vi
-ud
+ERROR CORREO NO VALIDO
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-11,De ese modo en mi dolenci,
+%CODE
+validar_correo("michelle70@.")
 %OUTPUT
- modo en mi
-modo en mi 
-odo en mi d
-do en mi do
-o en mi dol
- en mi dole
-en mi dolen
+ERROR CORREO NO VALIDO
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-19,Un Viriato tuvo Lusitania,
+%CODE
+validar_correo("zholmes@.")
 %OUTPUT
-Viriato tuvo Lusita
-iriato tuvo Lusitan
-riato tuvo Lusitani
+ERROR CORREO NO VALIDO
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-10,A lo cual respondio el ca,
+%CODE
+validar_correo("laurabyrd@fakeemail.co")
 %OUTPUT
-A lo cual 
-al respond
- respondio
-respondio 
-spondio el
-pondio el 
-ondio el c
+CORREO VALIDADO
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-1,Presupuesto esto digo sen,
+%CODE
+validar_correo("robertcrawford@testdomain.org")
 %OUTPUT
-P
-r
-e
-s
-u
-p
-u
-e
-s
-t
- 
-e
-s
-t
- 
-d
-i
-g
- 
-s
-e
-n
+CORREO VALIDADO
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-19,Es asimesmo la buena muje,
+%CODE
+validar_correo("wilsonlarry@fakeemail.co")
 %OUTPUT
-s asimesmo la buena
- asimesmo la buena 
-asimesmo la buena m
-simesmo la buena mu
-imesmo la buena muj
+CORREO VALIDADO
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-12,Dos dias eran ya pasados ,
+%CODE
+validar_correo("gshannon@personalmail.org")
 %OUTPUT
-Dos dias era
-os dias eran
-s dias eran 
- dias eran y
-as eran ya p
-s eran ya pa
- eran ya pas
-n ya pasados
- ya pasados 
+CORREO VALIDADO
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-11,Buena es tu esposa Camila,
+%CODE
+validar_correo("youngtristan@companyxyz.com")
 %OUTPUT
- es tu espo
-es tu espos
-u esposa Ca
-esposa Cami
+CORREO VALIDADO
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-18,Mas no se yo para que nom,
+%CODE
+validar_correo("ealexander@example.com")
 %OUTPUT
-Mas no se yo para 
-as no se yo para q
-s no se yo para qu
- no se yo para que
-no se yo para que 
-o se yo para que n
- se yo para que no
-se yo para que nom
+CORREO VALIDADO
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-21,Dam desden una torcida so,
+%CODE
+validar_correo("d+bU8vbCP)%pWU8SquvgqxkPci1TDIDzEARrnYn3mark92@customdomain1.com")
 %OUTPUT
-8906963277aafa7ce6839f2739d02f44
+60751309749d975acd5dfa5d63e52c38
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-9,El otro que bate las hija,
+%CODE
+validar_correo("!N2ep)GsgXI%p(FvG36jTZDs3BB@_@2x_)seF)kqtaylorabigail@mycompany.net")
 %OUTPUT
-4be6bc41ccd504c028972e5ad9e38cbc
+46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-2,En efeto ellos se pusiero,
+%CODE
+validar_correo("OkS%o4C&PcZXmNSW0W7*EF1hG7HD#&+3P35TV1p^reyesjennifer@testdomain.org")
 %OUTPUT
-528ccb3b6bde451538196cb2db3a4ae8
+60751309749d975acd5dfa5d63e52c38
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3,con que el uso comun de m,
+%CODE
+validar_correo("eyHtfho(Lr64bLW4!4sRY(k7_HC$OK)PCcPDGhFgjustingood@anotherdomain.org")
 %OUTPUT
-5c79748ff066d6aa814e2d4431d5379d
+60751309749d975acd5dfa5d63e52c38
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-4,Ya te entiendo Sancho res,
+%CODE
+validar_correo("mp6Pj^%!C8O&#If4KPn5obI@)RyTo%lJY8dGuI!Vdavid45@customdomain2.net")
 %OUTPUT
-61713e0abbba8b26da87758e73b8ae28
+46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3,y aunque de carnes rolliz,
+%CODE
+validar_correo("y7L2PIqIiK@M!0u)r0#69_Pw$dQxwl#2e$$ROuI1jonesdawn@companyxyz.com")
 %OUTPUT
-ce31825ae3c30faaa36d1b52d7056dec
+46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-12,A cuyas senas y voz volvi,
+%CODE
+validar_correo("Whw43DWh+)8dzQ3)UaNLWqrb_1I_JXV1R4LMbYFklindsayblankenship@anotherdomain.org")
 %OUTPUT
-249466103a19cf0196d18444b25ea81d
+60751309749d975acd5dfa5d63e52c38
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-2,Quitaronle una ropilla qu,
+%CODE
+validar_correo("&XEgA)o0ZsxYgUe93Eu2AZrabM#N!DOz8ASoFSO9hughesbrandi@customdomain2.net")
 %OUTPUT
-c722602662230f3e7fabebb15fc8cfc4
+60751309749d975acd5dfa5d63e52c38
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-15,Pareciole a Maritornes qu,
+%CODE
+validar_correo("zJ50ig&!EwtYkMF2G2JEv_D97nkEPHHf1ZLoQq*JieEcAJofY*@h^ZbT$yMPVlIBB_3Fr#wWN9pEH52iaVYmN4rIPd_M3HOUY_T@")
 %OUTPUT
-3d25eb1a6d6a3db872344cdb0d05bb78
+46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-13,Don Quijote creyo sin dud,
+%CODE
+validar_correo("rFuAw9IkY#HcBB$0%zxs9Y*YtU!)8jnRstm*Upm*aDJWCkrUzQr_Yy3lbc#o$sM+10!tpU6C9Nr@qMsv!52qu)%$pm*Cn!xorEL@")
 %OUTPUT
-0721bc5433f765dc9694abd613aa23f4
+46f1af7ae1254ee6449c68ce19ee1c30
