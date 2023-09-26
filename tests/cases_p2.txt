@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Christina Ni", "Nancy Powers")
+concatenar_cadenas("Diane Jackso", "Shawn Joseph")
 %OUTPUT
-CNharnicsyt iPnoaw eNris
+DSihaanwen  JJaocskespoh
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Julie Stewar", "Paul Skinner")
+concatenar_cadenas("Jill Carter", "Martin Thom")
 %OUTPUT
-JPualuile  SSktienwnaerr
+JMialrlt iCna rTtheorm
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Jordan Smith", "Shawn Gregor")
+concatenar_cadenas("Gregory Daugh", "Logan Lambert")
 %OUTPUT
-JSohradwann  GSrmeigtohr
+GLroeggaonr yL aDmabuegrht
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Joseph Green", "Tiffany Wils")
+concatenar_cadenas("Autumn Robinso", "Michael Thomas")
 %OUTPUT
-JToisfefpahn yG rWeielns
+AMuitcuhmane lR oTbhionmsaos
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Caitlyn Murphy", "Caitlin Anders")
+concatenar_cadenas("Eric Stewart", "Aaron Hernan")
 %OUTPUT
-CCaaiittllyinn  MAunrdpehrys
+EArairco nS tHeewranratn
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("William Glover", "William Fisher")
+concatenar_cadenas("Andrew Burto", "Paige Morgan")
 %OUTPUT
-WWiilllliiaamm  GFliosvheerr
+APnadirgeew  MBourrgtaon
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Rebecca Gonzal", "Michael Acosta")
+concatenar_cadenas("Lisa Cain", "Rachel Wo")
 %OUTPUT
-RMeibcehcaceal  GAocnozsatla
+LRiascah eCla iWno
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Beverly Willis", "Samantha Barbe")
+concatenar_cadenas("Jill Mendez", "Douglas Mor")
 %OUTPUT
-BSeavmearnltyh aW iBlalribse
+JDiolulg lMaesn dMeozr
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Manuel Norris", "William Mcdow")
+concatenar_cadenas("Stephanie M", "Thomas Bell")
 %OUTPUT
-MWainluleila mN oMrcrdiosw
+STtheopmhaasn iBee lMl
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("slAGzdyZhAXTqvKvNFwclyBIwloafvoaXUqrklcLUQeBOcXfUMYnYbUJWOMYJnUAVKiHeWUPXeVHxAgdVQmCuBuXinVuLhSjrUzb", "goDtTtuuvJqrunrxofkNBPbLTdRIgJhPSDoMcwrtoRGRirTTmHaugVJItzCElUntcBpDZcCHSLjGtcGiAHCVHnoAKMaxPpSBsUKx")
+concatenar_cadenas("OaXKVleCTRNZNctyrbAKdNfKbWuQUJrzPLVHrHLAqlUdxiRQshfmmielTowrhuovvSDyErofSptzBGltoFjzjEpctfSftYfhXwMI", "CqqgdxUqrFtfSIWtJZtlCeHOJZOCwLyAZzJKhUReoANagPseRdyAUgkzPNxHHkkZISxbEwMKeVHnRzuAemjTyfrDzrJiCVretaaw")
 %OUTPUT
-249920ee16b2e369de6f824166f5416c
+495d159fce8abb65b056e1270cfadc7c
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("VkCxOmkcFRqWCQPTUJRALAdVKMLUlQoEZBkdeWVYfMFZCncGRYHvHJOAnylceQuFKQChPgWCxBeOYEVrENBfAbekvwXpxyLgtHuT", "hLClIuJsPjcAxjaXIlBItEmgtXahgRriOWDMlnPzxxEZREtlMGjfQIiSWfJzrEwiKambLPZrFRYUqfbwPcLuHsjIwlIknHESLVZE")
+concatenar_cadenas("sKfSMYIvdzxyQdKXHGUMHCpMIjXwaZZDeDCJhuscAcqfNHxHrevWTfwckpiLAXLhtfOankGViUZXfCupYfdtzzDXHdYcVEVUaffv", "hbbftYIWltOaiDnYDiULeHslGajpNqpvtJxdGVjzZgGLLqOyNqrQkXWRimCiWuVddFmOUDXQAkIkyXGFaSLJuqvTeqRvDHreBuuA")
 %OUTPUT
-1ed760af51c1229c5dca820f69338d9c
+950cbcafc6541f5d58f51a5fad99025c
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("fODvSUFblXmTbxzgkXqvTjvkCYVbFwQJBdpwrGGpYVNAYXSCuGggdhoMQOnGtoYtkfaSnnROsIntkCflDQyqMORCuGKAkYNPQNns", "kpKdEtluAsAQfkxcfXHIeitLCROHhIAgLXOQhnBwlMRLNtXdkNUsmrYDitfudSnMWMIXCQvfpHAQFjmJnXjJNCCHrQHaLbKJFQwZ")
+concatenar_cadenas("kfcfGfrYcMlWDYLZLCkHZrlqPVBlJkIxOPKbRFWcAWXQxeCFnKMVfAAVllOxSirGlutQNsOSRbeiiosbVTOTwSLTWaaORUBVSyMH", "ZvEWCSElgLXyPsYkFFApFxxJBxfeSsKgPPeFqqusbrUslGNyhjRKaYnVcPjYiAEJMlkPRWkcRqcMrdysrZBRZhAetrrjAPaADUHc")
 %OUTPUT
-373fc8d26a06adf633e3721f4e9faa84
+e5a361eedf9aeebac8d1f9b931e112c9
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("KvmGtUTcCmYIQQqAPzreDdbVUjaypMOzKUPkAsvIYWLfukbXpQpJerffUQmbJMCZQoJNtVywizGdPTjYXAynisiaUlQWguUYYBlu", "oOqvJuxjDMwhiSLoLQcBVgiwqvvrUQKACgkfvQuRGPnEFQsvHDAMyCgPpBeTPxGwhJxcPtONHwMJcuwQxqxvrTqkZivTDASXKASj")
+concatenar_cadenas("zsmyPdJfvuSoNgvVOVEpYObyvMcWlaGjjbuyjJXhHWIwWaYPwFQNGJTFeaUtAVdLLsUBCkgTLUYYEpiblcFKYNKQIuuocZmYgzBN", "FfCznrtfBAVcBxFJNxgIhwbGjsfmqZJVOIMtvOScCiZFJZRsfSAwjBKcDURZhcHYlqQfgAGXsDBciYLgGSzzzbtPkdTXKLEVQHrQ")
 %OUTPUT
-279a252837f1cae7cb383f614704ee03
+85ff8f3fbccece88e7931c0546c786bb
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("KIMJynIEbTOgEarDNRdithwAttpOLdlUZlTKhUqNSspDFGuQnJioSPtLFWeGAoUZSgzMbHwrhHKLbAfUzvwTNfBHDoJRGVvwxtXX", "EQUUTQPtxCZqbWGJZkFJNdkSnnmofWyurCyzTqwKTlWfQCUcWKJqUfNwKlqTOnwArmWhwVKDHDXHTjXEYLZdjtpYdQlfMqucXRJD")
+concatenar_cadenas("MxAcksdIqMBtxIZNgouTWWZKbnaxnDiAIiGzzjHIHnawpULZPGFzwDJXYxvWaemBWXRzngDhVndvrpfeqvuIDwepISedBySSBMZM", "JCfieHtTCNQAVYJthNsPswvQxinalRydXAPMZyaikljEdoiKbwtfRAUbMVBchogmgytrxCYYzxiDkLuhKKPaRMZIrAVmKrpMqBAN")
 %OUTPUT
-a45c81cb1fb214aad3a51b9b755956c7
+c6fa85e6173b46f8842252c9004674e1
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("BCswwcUfwwCJQlAUXbLMieDAgfASeSzWzAQBkcFSKqXsAkcfKRcjvvXcXIujXzKdSlKinXrBUpGDwxqmWUvYqYDMXnijQvRlJZgW", "VAfbAPkgSlsWRlHVVdFGKkdXvVzkeJQTrNORqCflNBhELOgWNOtqSlpmIsTlDUCiqiuAiNxnACvcfdGziBJNVQHYTISrlpIxohPr")
+concatenar_cadenas("lVTqgsAdHIDkSBGLJzyCKrstulnnuZcNsrhDKACsNzNZMSdGPuYawaPFPdzDEUYVGcBMrOZhLTrZjLQXEyLkFhMoZSZDFLHZntXG", "DcZGKPdFBGWtduxALAYQiXmmRjxxtnrWiGcdxXepAekPOHQbwNPJufYyrHeDVgqKeqxCeskOJgArVcRryKSkVwOFzlVUqjGLwJBv")
 %OUTPUT
-77813de054036f224da542300d65d45d
+61082751bab7ea63bb7ed7cef6ab3b34
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("mfmhLEfFfhkNKbVBGLSKmnuvZLvqbVIoGNGbnvyYyThZcVpKXueFWfvYtnXUfbihcVKpjpQqtwAeXiGHObdlhgPVMAkNHaadsJIj", "UElIfPJUhfwwipPRaZpUmCEZxADBjhrqHbETugZIdsMrSHHtguFDZgNqgDTsuDudJdPoqOphWBVmXhAzAqLexLoLdMEXCMJXemcW")
+concatenar_cadenas("aowRaHZYLiSpHiJFpCtNisvCKYIFnWPoRTjESAlfscssZzcZjGMxZjAUgwMvzUlGVTJBqegkCVBYvoZdZSYSguXsUJOdofwdPfmK", "jXKaERedWGVNhwzaBlWFwyJHVwlvvDhFhcVeqlVEFnemynPqsBYaGktHDHJkICiFsYSSfYUqIppzFXHQuSkjcKbMoAJiGdqIiebr")
 %OUTPUT
-7c0f84d87978f3bf8cdff3feae70f365
+244bf6e9d1ee410b187089d79492d957
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("gfPPLlEuvKsNvMtIvehVmfoXhmWqiWlszjWtByxvPqnmwpIxDRevBeByBhSYVjweTrcphXMsbpKmWIKtuqUfzRhulPwHSrtnynkQ", "wQmooRbHwWnSkkAIibCCRbzlKnHvAVMgJbngvvLTvpHIktcLkiVQemqXhAlGZYNucBxuQKwFZgBAlqsiwOIZAqhuChdkeVBZvxkf")
+concatenar_cadenas("zXYCBRwGpeIdhDGQKETmhLBVNZyuIVHBhhOMGuIbgePGatCGwANdztHeHCieSzvSBEPJTcgqMHeNgUrzhuugBtRtEBlTWBKvLyMI", "bTIDJOIedsMaJzenUgyCRHNfFnDvFvwddLikUHgjhVarprArQGhWXMSpTlRVMZHeoEJpMYrCXEdbuyxThNAeuVNCePxwNwxKrzAm")
 %OUTPUT
-e27125dfc0102645211058dec96214e2
+641d5b08b2b3d89d2cfa72217ccb0275
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("gcSCUVFXdscvjRdVCnnpXXqmGBJhFFlfRKkZBKpJLJcgHBGGBaFSgGSPRNzCEiiDupAEtnKOzZvrRhfjfFspyolCouiGnLQlAMSK", "ACWjTRuBkBFgFLaMUSeysHLJbcjwSgknmYQGKUViHLTtWJwwfnoJsdsACfSIlibCUlaMDGwpZQbjUcPwOiuaSxXhZPDMGdoagZgX")
+concatenar_cadenas("lZbtdbDoNxKsdgQYdwEwdUDOewqOYjWJempTlZthTgwvrfliXBkHePJneXyYAvXZZCKIYSdzSgHzyrWGavbFzwLMZkYxzGnUkEZE", "EzmFxZpGghfpOuGmqRfxDPssjDgCEIpPCesxaTLRLGAeFrfqweIJZghCxwCyGKyvPUibfUCWFHSunfPeFpiVYLcurGxYKgMlSCZD")
 %OUTPUT
-dcff9097cff690b7b2329d4c93edbd9e
+6e2445d44b94299813cfc61a6a6c02e7
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("lLleKHJrXYImbkSHNIvckKWyCHIhweIBdnxdVWNXdxdTNSLFJDthdOLxjQNClqCJWNeHGEIDXESMzyPvkgUparDJdlsphFafkDHI", "BvrocvtNApIxMAuLijCzksZSerlLBhebPoBXUgYsEBlQYBSNTrJGYrbwmwsOsKHMNyaxotrjWiHDssBTmGabMxwrPfoEsjzzicKK")
+concatenar_cadenas("XFMguZQDnuaASowJbGVlJFeTfjDOsUBGoVnjgSHLbDmMSOYeqKrXaveQHBjheKsqTOFwlSVPRQkxjKmAYkvYYhPOtOWjDOQHrYSW", "mhGpSadSaxWqVxUDkKdPqHcFTBiNtpWWpiHijbqTFfKUzKWzFmWVflUAaNKyKGTTdIUYgzOpGByEAMAsHreVusZiYbvAXAYTBlaM")
 %OUTPUT
-6f30836d8e66e47fb6de7d5c41c745c2
+bfedad10c77a7c51823da46fb890837a
