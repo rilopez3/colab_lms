@@ -1,3 +1,4 @@
+Vocales: 4, Consonantes: 5
 %PREG
 Pregunta 1
 %NAME
@@ -5,178 +6,188 @@ Case 1
 %TYPE
 publico
 %PRECODE
-%INPUT
-9293 9-940,
+%CODE
+contar_vocales_consonantes(Amanda Simmons)
 %OUTPUT
-+56 9 9293 9940
+Vocales: 5, Consonantes: 8
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
-%INPUT
-+5699-002105 7,
+%CODE
+contar_vocales_consonantes(Kim Johnson)
 %OUTPUT
-+56 9 9002 1057
+Vocales: 3, Consonantes: 7
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
-%INPUT
-30629 777,
+%CODE
+contar_vocales_consonantes(Sean Williams)
 %OUTPUT
-+56 9 3062 9777
+Vocales: 5, Consonantes: 7
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
-%INPUT
-+569 415080 9 1,
+%CODE
+contar_vocales_consonantes(David Gibson)
 %OUTPUT
-+56 9 4150 8091
+Vocales: 4, Consonantes: 7
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
-%INPUT
-+5697 2622-38-7,
+%CODE
+contar_vocales_consonantes(Billy Osborn)
 %OUTPUT
-+56 9 7262 2387
+Vocales: 3, Consonantes: 8
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
-%INPUT
-+569073720 08,
+%CODE
+contar_vocales_consonantes(Margaret Aguilar)
 %OUTPUT
-+56 9 0737 2008
+Vocales: 7, Consonantes: 8
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
-%INPUT
-26902587,
+%CODE
+contar_vocales_consonantes(Zachary Sandoval)
 %OUTPUT
-+56 9 2690 2587
+Vocales: 5, Consonantes: 10
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
-%INPUT
-+569-20-635-0-5 4,
+%CODE
+contar_vocales_consonantes(Cory Gonzalez)
 %OUTPUT
-+56 9 2063 5054
+Vocales: 4, Consonantes: 8
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
-%INPUT
-640404 69,
+%CODE
+contar_vocales_consonantes(Mariah Jensen)
 %OUTPUT
-+56 9 6404 0469
+Vocales: 5, Consonantes: 7
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
-%INPUT
--1-95 52 4-2-0,
+%CODE
+contar_vocales_consonantes(Brenda Wong)
 %OUTPUT
-+56 9 1955 2420
+Vocales: 3, Consonantes: 7
+bot7c_(h$dv8b85APX55#84P2kNJ!+(7RtaH)vP3x2OF1+H5pF8$gzsLFw7gu6$aX1(Z6*yVh!FJcs4s$n1#8dc$K8Aa$dq5GHSRp2wzyOP(wf%%8@b9v_5P)C2bsb3hD9ILoQ4k0ZL@p%uvM8&c!bh_^OZjaLdJX3yB$#Hl02boR1Qaa@v9TlvBQTO6!@GTCldup!6it#)+5Lgjfnk8Hr1Hp(8Z!$spEz*Dys9E)@#RMyE6HA(&!WYATh938Ei1PYM5b8o^csMHCEcQL)a^2fUm8*T)9a0Ujvv$VYc8V1EMHT+BVDiQh+WocORtAlF)y6FRHSYbG!T64WKQ@U)dq)&W)x%MAP^W&8tR!SQ7WeEEINHb+X4qobE9kGfWX(ru1Dr49xakGDM9z0SDeIVGz#i%uVs66&MRV!d2lhn%kYG9TxU!U77Zs5mQX046*5FvTb0r)GdYlH0^P^!+#N1lmJ%@aC$%cPvj&77QLqm$YEXN^mbahdMN
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
-%INPUT
-+56957 16 0-78 4,
+%CODE
+contar_vocales_consonantes(LNwirmZGEhJBuDbTAkVcdEtGrhNeWwZyxvgxghIIlIngtKreYMaZCnyKdwzvuJpMymcUDuBcTpfIoUYCqoPfhEqSjFIRnZFeNzvyPFZquCxbwMHNjywfprvPHiNCWnPZfYIFiHBZJkeoKGrUuxwrhTLKAjxnloiJTVWltggKBtholZOkpXBIQpqUpCKUZHnjEZhWbECfKiWFHKueAiRMkPGNdqVVMKitZbGHivznouahZqTCGEqYxptXheipndSBbNStqGpysPQjZMgOzynjhaklBPcJodctktQoFnpwlfJVodikHRCQUyqKhQIOSWELPqvYfeSeWqDeIoPtnoZKJaMaMlgsXRaiRHcunETZoRFjcqrydyhYYFQTgQlqyJcmoutmNKkbGToSUfBKjYqzizheDKyKHxeDLyEtnKchYnzITAIhcFpGfhczuDZAZnXfEtdJLfeMXOMCRrIKfAIEJQBvXJYkircxSTzqjdWqinGSiozoJKga)
 %OUTPUT
-46311d9bdf866a333011020af7e01e7c
+1c7a933a06e3748732b74d7a9d787c1f
+2MW5ZWx08J+skqKE*RPplT)5HpRe1LkHGS2yaYT0KlElIgw!E$$pe08JBn!DpG8kcO75#0QYgL^^5oyWvY*FLVH&VJUSG(fWz&muV&vPM64Jl0ynciHqAYthws#iwg@BdMIg0I1mRObLRyFB4_dbf+2Xb1v5nZj6^(FbPN4y#4rKLfc!1R2+@X#9&hn5xYw!PWe+(^ZL6TTWUKyU5)rO0de$SZ1Z1)nKns_6U!Iz&huNAQo7L*fM0BbpRY+l_MXXS9csIcXwsJW4cR!OrrluGn3qQoXlVGXY#e@!nxyMzkb8dDySAYKb!VC02wZhzS$)ZM_#ixYx^WztF6#LNnBz^yF1v)Xwk_O5clo6DyP9TTA#o6WDGFB!^D%Ofu3t+vU7m!lasPa^)llHn3ZYk)^tO+@xhaB5@)RvGP_uPHGHectX*2ju2Ae&PY(L7e#AqNHpNSKn33a0x26XgBG)Vw6jLQSRwMeO+^lpgGu2r)C$f%v4VbJo*hv7
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
-%INPUT
-+5699 9-8545-06,
+%CODE
+contar_vocales_consonantes(HIWoGyrWPHdqchvSqPgPHGwykvCQNwRCvcMdVPsysAqERzLKSvnASxBhuVPcCQJFjJWOAdoJfGXQzERILCAfrVCHsscjhrsrAfYpqkjNnCjkWJjokhMfGTyRmnKsSAakiVsnECVssnnteWnbnXEoeGaFBHLuyBIXnkOYJuhHMBJTFrwHRVpYhpBbKXfMcZbeyDunlOxYvsmleiRxAzGGRXsWTaAYCrtKYHKQAFyKuckYoLaItUhxQnObsNBsDMqIaJUMWmElGeTBIKgDJexjBEHDVOHOtKbPPNNvNLFfMnJDDWRiVRUlGHSaqdgPASKrYJqgpwZYQBYzVNncSjTQkAOWpMzzRdrBSOPSCGHwGnCxqDWGLWqbvlGRMoWaMJzPKbOvDVPwuwJvWFCZxJKrFGJzlHsWHrtIuvrLXLgkaTzWiqPyNsiBCYXygXYWcokuFPGqfXIRuNEDouGNzNvbCecWHGWkEMecCZfsyWuQUKGesyXfqbxh)
 %OUTPUT
-5e04a61b1d7eaa240979c6fdc076b5e9
+fa9ba9f7389a7445a3f93b1eec090810
+NnMBzD*fF0I&a3FTEEB^B^MteTMX4PS!sgGq)pGz!$FIOsL)ymDO^i#*TSN_aOsYFIktS1rPo8(%HR3H9OWuveFALDcL&bD!%J^^ZA9YygmI$oezRB9W7AJsi3uXlwNtMPTQ0ulXD6Lqt^&K35ou)Tlj57X$IWuu1O+PlH@_I8XilevZMO1iB!z!BD#8!Bg8kxljkDMwcxYFID)dn%Lq^ciQ@XA!Y^$N%#SF0EPDk0owPqR%#lNRyzFkMI7h2T1#_v#y9FU@+Zf%2SZo19F2Fvat$zEQ^qESh)(kBwo5Q&BH#WF2&gaHgjvUF$ML&c7rzf2BXx**BmFrzsc)toEQ0*AhSeT@^1Xegm4vaKgt%X2c^PO$t08^^Y%TMoXw!PAs_5S@e@JTJp+zmWSVx40@x1RIbJ!KPWm2uODrMr)CzJl$rYhO$uWu^tq+_udIfTriG1!6%tns2hIqcNr07xDH_vHPl84st1%(GNyV+1p56cqZPREcnDPR
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
-%INPUT
-+569 500 914 0-3,
+%CODE
+contar_vocales_consonantes(IwPrBnAZFARTbQvyorUuoBBgsyzYcRMOGUYgkNBMrBcAQdoZsnUWyQekgTNrAdwKEEmFFEvliyhzGhRfujXrGgrxyiiscrbPoORyhXUvHEqJNReBrEZDArazxuvjYZwmcKsBldqEjSAGndRXXzWTLXJyTbsHFqIXzlsTxRyBQGbmXDJZlkuqJhFoVyJzxkiWPNhryAXqqDhVncZxsClDQgkLsXWFOjSHmyeYpiDhPLwtXKJiLHZKjucvUZgtcJJjapUoaJXANsIcylCBtMFlkngzPmcJmsyoHjtAxyBrMcTxWqlKePpRdobfGbCPxkdZqJLQUJOsbgFAmCKTSOrmAGMstysvlZEDMtoWxBpSEaCvgmBxANvtZMOKBNcHcbFrhqLhCmxsfFXnAiSReMAeBGtbkPFUhwLpcYIGDKusNYfwsesfrrPbHIyRSMUmwGNOadnhflaPecNSTiwACaWqHPnmgfUNlUTMeUwYrKNiBpIFARRzXJIa)
 %OUTPUT
-dbcf9a08d6d362065743630a78e5b434
+52946910e01ecd7a24cd5f46c21006d6
+g1$hp0wiON^U@(QMw4H#+qV8@1hpt35vS4E@op5LQYK@P@&m!5!yW!OIhxHFT76GWq+K4yt5gPUmsfNVZs72#+Pz@VT@I*xkI0uzjScFMuSD%!s2lMK+nTCxGQ7KlENrVlswAPz_zZNC*xqnT)B&5LmK#wYTBAPDyTbJew(lAuZg^xZut9f58vFFuBn4e7R8h5P)aVE(C%vI*uH%wP^eka)lL(GwVnW+2L+InU!cuv2lQq*hnWf*dgK7+2A1DSCAhfOLKh^@0S(8ozk9c5wY(kMx8Ui#BW9PfAVm(1%PQb8FhSe6*I!3VZQRx4UVoS0m^&a#R4Ihu2AFNxViezKJLzYV_FemiBVRy3mYL92CB6Zx&lvf$FDEnifmvP3c1Fs12_8v0h9_OjZQ2ssnxVKK@5j7SCkQ0gvBz0+siu9RhYqBS6gckPKz^$_5ZB36@+e7JWI0BQ)lUC9H2*)e*sbFl$PTcai1)Bjhi8*_CP!#HW_2OfQF5XBj
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
-%INPUT
-0-8 180-7-55,
+%CODE
+contar_vocales_consonantes(bmyQqfXAPeKNVejIoAVXfoEKBwATvOlJQsRURfgVaPBCaWxhOPEiYXWLmYonWhjMXdXfPAPQJNjGSJMcIClucyDRKwisqJDmyxkhttyIwZUArTlOJfycOAIPvWNwuvVmJkumtGJdykhmETphBJCjRXDwKuSUpkXAdYECFfcXNWWIulswnfbmpqadZXqNtantefRYKClfwaajjQyINwSObpWZyZbYwknViNRFWSXZaAOVGJJRURDJdMuCoXHHOXcuSZnuEBhpdmwyLebPhFmGjEpnZNFporKuSddUgAkFqARhRKFgDelMAPGeeCClKfUqpXxtSXdHKiRVlmFatDpoivTKhJpwiHXTvxffwgfFGVOcLvYuRjhbPJmVFJFcUUmszTfRQzzRVOViyyKEogNvKFlLshuasXLWWVCDQiDHXfBKToyzomnHrKFIRqBccZlAQHkdNIDWOgQCbZdIKYhPYORmhMDlSrCQZYiYDpDbpgsMnQILNUfM)
 %OUTPUT
-0f6b889227bf86ae42bd5e0cbfa6d064
+4b7ce0b6887f034dab9a1646251cc631
+Q$glN7fCvJdlAjtUOSxhf4Qy1nc8*hLSnDwlwn^0mGyrVsiD2mUa*!^UBzFe)t@$EN*Xz@jrp#tfyJ9ePp4iPi@QL4xY)2i25Ac)(Aii5xiwq8x8Oo8!uKEFz)mhh)^atfCMZ9*zFwW_B^4xW#FuSRfuf5F7CJRPxPhhEuAuqNZV4RFCCV+(YCaxp+Xw3_il0SmUyB7e0brw_^PsbQVh1p(VHGP+8(b2eMrIvr#8$x#e89k*gwsGn!HtJ*QYSVNXk4Hvy$jUnb^R8WYSKo0s6ia_Jqd2O6Tm&NibkBgE1k!!FWkGkGtARcxTv%#cD(K8xdwOiTTDId%SA#XJqhbvddYpS!9_jANJYS6GpzN@+cp4l&w3^ubDK!lQuxfdLYAsNQER8Y%S)%6a4lGlYoxs^%kUS_Cg87e!ToF6_m0vqLWD@5KkqowDd&)bVoOZ6&58+Zy9_U$i_R3@Jbd)Q!5BRNVZ0&ZjoGx!nYB(*Y8jp1UC#o)MXkA9
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
-%INPUT
-+5699-1-1895 8-2,
+%CODE
+contar_vocales_consonantes(sXqFDnnsTcJozFHrRJqeuiyynzFiXerGwvxgrjjEqNpQYpgNIIBccqGnsWYEkmHsCWzLImxQhanRDvrfVCEsfYYtbSeKkuiTqhqiOcvvzNdMQPwwlzOSdsFdIYwZaUCxwhSACuYneaDJssBbeFgeGYSNvwkPHhGXQEJwdvaaajiMSIyMFCxDBEMCYAbcXNaYqXhzwlVvXwYuZUKEhzpQCobdTdYBgAqEcYLSdIJsUKQGPYEdBdQcgxmmYlGWdxmVseRzfHAqnTuPMozDRdTDdbkuWqCiamcaYUQqJgmRMmjLYmyBrDDMbSKXCBNBhWIaYOJIzfpgFxfWRipFnnkhNLcjVpDHLRTTkAaKFAunFHYbbrlimrsamVvhckNaNqZGmsokeCvFOPZbiUqXixRpikDXiUnURwmbewACVuQDmcquCwjBLZYTtyddrLZeiIhOovJYsKKJHRoXZntDjSMwJJLNsezxymkxvrWclUBYTlutXOCLHTeP)
 %OUTPUT
-9fb010fc8971c20e59deb840bcc2cb61
+6051192ef647aecbf1f12cbc1ab2efee
+Loi(IfEIxj5W4!C@gYQ%b8oSfFM#dTcX&t_52)9&93*9mcPv4v97im!aIdWr5BBYj&9ZKaKYbj8_LQE$wUMzlsZ163Q4bFXdf#MES4pRUdj9avtVhn!WG+kd7%xKn6AjiEOhvm$DiGW9@cq%4%$LdawTpKxF4jL9w3q3C+iY#fXaBsdsCXOtAzCLF50Zo!Nrj!ng&ynQ*8_*@Wb(kLNm)IHxnl4vf%Qn$*&Bj5Z3MHYls8(eBONNi94lCEgagx!9)6Mn04A)nGhMvP_Y37OkwnfYi&c2#p!SEaU&5)Uqd)9!Q&3nhdD3iS_HFI!ZI@3ZMcr%N#5@sq633k+jn)q5IwTSE9Cis@qqZ0oMo05TP#XyI56$)HBmk!fgtRknDPh1Uu#ItmOYPjqlOW!F^6Acgisu*!EjDFxbZ7*xPMMn#l1kahc#zbQ)8qnta*@q@qQ(Mv906TRqypaEIzqcpSCFbu(Dr(&mZu@D9&saMyJto#a^!JOsyijX
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
-%INPUT
-+569799-486 38,
+%CODE
+contar_vocales_consonantes(ZLrshqOTctfQcOZqzevnEWDoSrZPmaqXrDksYUyrAtDPutqRTkDEtSAupYBazpUTEftFggVnCdJGvFMJaRMqHjCpNJtNHZVtqQcFyPqfBLjpFZJNORpXminyVzqtZFwsgYlLUXuDmgalbBtwGMSahpbMeenCWHTgcZPAXEHAjrCfbcpMZLACCOyrjBtDbwvwYBqiZTfOhAxSmqAxdThWIySwtqIfVbqYzDmhcJwlvLxzEYRjOxKVehRAsJGkjsADNYdgTPLDDMxbXghqUxkZQPudJjtuRxUEGWtMNLDCIVRRhoqhImllYlIeOfYPWTKGyVCpTYfBnDxPZpILMVOqKKYvuzcCaNxQfDIAJVZasCfOSJAqmOWEvtPqyjARCWaOqQpazyprYTFVNbABQSLyJgDfkVKyFBxgzSNDDwRdxSQSsEHaaynuCEqfBrZKRRMmEqQFaxFheaeFrrXXwgizICwMMvOLQudqtRoHztybGhKQeXdBAOKP)
 %OUTPUT
-5b24c02fd94dd8116c1af83de1039464
+652dedb3e629af11b24f924b9cc8a8c8
+OinumTSDe8g*vC%qQKZ^83d#_vAqbEw2k(fzvUkxwbrAvC35x(ZELRS7l&sfrWxyynH%AAu2(Tl8FokSSu%LU(cI#C0dud)RNx0ODj)PWD!XPec2Zg7fm!7XKhCNhbixoaNZuFL@dG58F_4HGm(B^RyaGbK_C!pkn32ey3cIf%f#S1HQup^J*Y3Pl*KhHl&5!YDxPe$3&V$$(4lT6ozr^#VYf@w#YanK*yxUFCmh!mrY%aJKV4Q%#XN02p0UNDmOaa4L@kiur4B&AkRNvN3_GgKt*OLH8sr)0reAPio$z1+!5Xmuf8HC!K7%D+6aY#G)GRshmL@&B+O4C&ltr#Wv2XM^nM3^sFrd*^ptoVoPD%s^c4UcGu6wWV)vAjyxUD^i+_GlFKVF_2%a&2)oNeGK!VmL0U)6COGc%8xN3vG$Dds%_%sPttsMfbyXEAhe7dnktChl5tQxDzMjnugxt4A#Un4UM+Aj2i!i^5GMHQq94T$R$)2A%y$1
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
-%INPUT
-+569670 95869,
+%CODE
+contar_vocales_consonantes(pZVCZJrtYoCAUMUrEKqOLDnEVXgUUWTUJfCErVFjQQDeaBTiykvzhFoEiLgfDuDdJmuCwHAuHxMLmxkjpbpOBKNepWHezkTGwTVOtRmHMIHzKBKxtzeevFnAdCLgIARFyxfnsYXeMExIDpJnpeoOQBJqNFaFDxvMDxlziwrKehzjRJQVIKQCELPWBkcoxqPWmHvxqUSCIldNKcNMTvZeriuQolvcksXAwAPbWkeJLUAMJJWqEkdztxWHnJdvUgsNTayCSlsGjZpaSGHWozbQyMEWXpLpYllIOxCGIdHkiGlsOqceSiyPscCdPTNHFixSoqEvVzlawjoqsEzMTHQCVNRzECWoWUjVTQVwtAIqCnohSHuFoNRdPlZBUBIpCzOLEEdLepUuGkTPyBWqrIVQsRRPVjtIFmFOQZkHUipgumNgXyirJWUfdGjNPABntsbkagBWbkRFcqyiJShbgJHYUNyIYQrNwBhFQotHxjQUmUakbLbNxunm)
 %OUTPUT
-7d07b5de77294ac4799f0a0b6bfefcc4
+d27b5cc3f8c055b0ad045a776724822e
+E(@q!6A#%)1m4Vh1qcQ(+HioRjL+Yor@Iv9qE$ndt4op(&XST+P#B(L@4t334%pLbQ_ss%yBMjFtE)RHnEmQ4%anh(T4vfB&e6Ssj9aVHj_ku57E*zXT09Mf@d+3y#cFAtg)Lhz+L4FGrHXgQfsJL6CEl+^9o7EK)p+qYqP*BR*%kEGdE^DXcEv6a)#jJ^74Ir*7cX*9zw99u+whlZS3@5AhPj1#IBDur(Zl$9c#XDB2om#T6moT_IJwCfiC!wCXc#%PSqjZpmZ&tf#a+2&K^&fp2_3m$a^KK@BH2a0qJ*Rxub%X@B$alvV8DjDMF7zg4!3puebjbIiM%wq+EbNuj_hxb76a6b#_v+0&Y2JksyeQlL*bWi3QrPQWs3*X&En&L_bNFyHtTs%oCb96a!Dn8eJY7IX$0wlUc^r1PQHO02WnEd+!A^nz83xg*TgAj*E9Lt_ReSkMk(vkVI@*U+j5GO)4nnBiQ(nl_vw9A7PZ$C_J2%J^z5(^
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
-%INPUT
-+569-2-3068801,
+%CODE
+contar_vocales_consonantes(yUBzgzsRlcGwPfPvTwmionKkEaZvrwOSUVoHlYpDXbIlySXFvLTDAhwNMRUROnNgWfubujGYwekgwNoBPFWlEJUExTidmMtnLYqFrMmGkcbTdTFlExTtaPeWIOpWIlHLKvNmNJZfuIjrJGMLbuOjYpMPmXshtDMDTDketAYCLrvcTELfnbKlrvwUKEFIsXLIETDtgLiYXXoEzdBeezkdRJDOVhBCszLIlhzVbobueiBxNZlCYjashGLILlRBmUGEDsbevTQbUQQelUIhtxrSSvZKufmPAhXMBkrxdtWzxaIvpqRvWMImEgPjOPaspmwWyEosXxFUyTdvyCqpZFeCYhkqiyygQMZgYIPbkJRhKlmXUQhVQAVQSATdXdZrkVapiReiiKRUgcswrkzCHbySjCduWcCnIrpkRhubeGVqqQCUdBczKdmIBSvyYcAgaCThBbYHOeaUOFyQBxTAnKUpBlrQATfdtPIThqvPnAxQWcHXVBoEmmFw)
 %OUTPUT
-1e1ed250466702e2fa13d829f01c2f5e
+1c7a933a06e3748732b74d7a9d787c1f
+W7qNeRHRlVS(pGm$f8@*p6BF^Y15c)U$XBe)q9_B_UH156VheImedM40XhZV)K6PWn+Pr4WQvu#R9bUyC$QHk7u1n81#FSCTlU_LQq6NQjBXsJVncJpvXXGuIfjD@XKQxLCq5EqeP%QRl%$A7MDWTLP0LxZdJb878fNXs0E8N_$Zd7DQeC@pxoVhtgVq6IYszUYp_INt!r*FuzGL_o6A^)Dnx5Vjuw9gu318PlC@EQ$z8)*Buu^8jhSZECuUb)XTCUM@rQJG91VI6jjLIjGDwsBPO)C_1IA!+$FQQQ9Yt65mPC!9FEGRRc!^*r#M)3Oq4UGQaFT@rHNKr2kOL&0I5qMbsfcMV+lzkLm@xmF&(Qzu@IM7Jo@*mzM+V!SMvZuHfvphRM2#STXDt#NL_9wkoqhcBkY*nvg(b!DWO6SOsd$+RNX9Sm#Yc+Y^mNvtk4uLT0dAe$g8NkjKQc55oI07!x$M+uZ%lb&mg(!3xQcfvsG3UfrNyZsI
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
-%INPUT
--59 3817 48,
+%CODE
+contar_vocales_consonantes(BTcTtsAJLizZzxpEoscjLaJELBWKIREEJAkpAUxkGcEyaMpVceUXsTMtkJGYLnRZcswzlUlrNYIPIuvPVKsqwZmNhxDgWmqQWluxvRDIUAanzzqqBaayFGtXsGPWFnJqNWueSfEHMoJMQOmggcYkAODxQNAzdfxiaMjQvJLwqZEUYAxdCaYjDdSNfEhuIUNdhHJdXQNcpiFdKemdhRIxUKBUDORfTNgXPfMsdudUeNPujsIWWWjnPDEmEZUoqIJKrfoeMHVytijbVDwxUVdIxjoWrXWTvDqqilhUselUvtFEqOAuNABsotSOysrrBOKeoXWjLKddAMXrdhFvdwQQaVmecGJxnjrtCLMdwMDyIEZfoTHvucXeWuRYTcTRaxwcewbNjcNuuaUKaeQJkDGPiINSirwmaOliJinftNNwTHaEFXjlZbdmAlIwsKCkbkHGuxvDCQJdyAdlWTRcpNwpjSVlXfDKAEduFFGUdCXJywCLOYCiGSEj)
 %OUTPUT
-58dc7e224e46ff675a0b38903c8ff08e
+3593623e6a201c1f209d9979c8d9fa2b
+ohNcxr1*G!nsWZUauMMxw7zy_ajco@JLlF6QKPmpQiN@j)Jm9gAT2RwbzDTIFv&jWab0r@K+0tG@+KZoUjxL#crOGiefjMP5Lcn*w+Vb1tZEBnhsVj_y)bG^zS7uNhGqhW^UCG4cdbP*Ufw)cXI^&u$K)#A_$bSwL_y+XxBX838wzCyPFfGa7zR(#9deyX$&#H^u!)zqcaIMu@^UlM@t&UwHMaAObOT%)cjv#$2bl@3FYQso6AoWDcBEg^&X#P)E0+Z$HjO@I0ld)4!nh5&+TOon&P2N5f*5FKdafURk)X*wv8%!#$%&ISOY^wnw_RyUXopA__!Eqxi52P3aR9TQFPZU%7x8nckwfpVqN!3Dy!5sL4y%K1$i5L6B)rGHuk+0^Kis!CTUWD+7Z20R+yD6HGAgG_PN4Jp7$iMFIFG+@qTCd$*$b1)Inw(Iax&!rO8&u8Y8fY4@*t%l+&d_DFbz7gIBlHkv1p4vBlJ1504$9YHc070n(Cix
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
-%INPUT
- 9 7-1513-7 6,
+%CODE
+contar_vocales_consonantes(dSySpsytUWGAHZGpJuYOXnZaCcFuQOUumvCbLUeGZmjzjDefVEGMPTbRfEjQoEfdNdygzMvpPJKZxhMStpwZeQAxzvqXIogsXeRXXmgabTXAeWIcmeJuIQJXIySKslThPjrwHHGVRAlLpaPtOxZAHWEepFEYVuGzricaXCbiWTzRaKnOzGehUgLXIYZDiaCGHvgTXZZDxUNOWxMtfNVQqBOQqxjlHNVWDfPygqofFrLqhxoUgNDOwmChWehaWUlWwSfmmPMbfNAOkftYMwlkpsVQauHGuGrBMzXpRmPXStkbCWWBCmZHBiMPHbVhFORxQHenayNjWcwTWUwDGRFPbTkMFXdXsznoliYHzeMyIaBpPNUsKwAprnTTlwsiRNibqwXcxQrudhASyVTHFBBlQmCjiRxFVNWTxzVvTIRDjxKrhnDYPvamgLyVzMDyPSdOeunqKhyxhAyUwDeImmnCICjhChumKaAcRoCvbbMeXGDNwlBwXxqm)
 %OUTPUT
-189d4d3d79f0ab69ab4737625a0ea842
+4b7ce0b6887f034dab9a1646251cc631
