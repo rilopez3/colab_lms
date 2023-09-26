@@ -6,294 +6,197 @@ Case 1
 publico
 %PRECODE
 %INPUT
-19,a lo igual de lo que mi c,
+%CODE
+concatenar_cadenas("Ho", "la")
 %OUTPUT
-a lo igual de lo qu
- lo igual de lo que
-lo igual de lo que 
-o igual de lo que m
- igual de lo que mi
-igual de lo que mi 
-gual de lo que mi c
+Hloa
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-14,Y sacando en esto lo que ,
+%CODE
+concatenar_cadenas("Christina Ni", "Nancy Powers")
 %OUTPUT
-Y sacando en e
- sacando en es
-sacando en est
-acando en esto
-cando en esto 
-ando en esto l
-ndo en esto lo
-do en esto lo 
-o en esto lo q
- en esto lo qu
-en esto lo que
-n esto lo que 
+CNharnicsyt iPnoaw eNris
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-5,Hicieronlo asi y pusieron,
+%CODE
+concatenar_cadenas("Julie Stewar", "Paul Skinner")
 %OUTPUT
-Hicie
-icier
-ciero
-ieron
-eronl
-ronlo
-onlo 
-nlo a
-lo as
-o asi
- asi 
-asi y
-si y 
-i y p
- y pu
-y pus
- pusi
-pusie
-usier
-siero
-ieron
+JPualuile  SSktienwnaerr
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-9,De que quieres que te la ,
+%CODE
+concatenar_cadenas("Jordan Smith", "Shawn Gregor")
 %OUTPUT
-De que qu
-e que qui
- que quie
-que quier
-ue quiere
-e quieres
- quieres 
-quieres q
-uieres qu
-ieres que
-eres que 
-res que t
-es que te
-s que te 
- que te l
-que te la
-ue te la 
+JSohradwann  GSrmeigtohr
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-17,Pero el que mas se,
+%CODE
+concatenar_cadenas("Joseph Green", "Tiffany Wils")
 %OUTPUT
-Pero el que mas s
-ero el que mas se
+JToisfefpahn yG rWeielns
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-1,era suya,
+%CODE
+concatenar_cadenas("Caitlyn Murphy", "Caitlin Anders")
 %OUTPUT
-e
-r
-a
- 
-s
-u
-y
-a
+CCaaiittllyinn  MAunrdpehrys
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-24,Aun espero en Dios y en s,
+%CODE
+concatenar_cadenas("William Glover", "William Fisher")
 %OUTPUT
-Aun espero en Dios y en 
-un espero en Dios y en s
+WWiilllliiaamm  GFliosvheerr
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-10,No dijo mas don Quijote y,
+%CODE
+concatenar_cadenas("Rebecca Gonzal", "Michael Acosta")
 %OUTPUT
-No dijo ma
-o dijo mas
- dijo mas 
-dijo mas d
-ijo mas do
-jo mas don
-o mas don 
- mas don Q
-mas don Qu
-as don Qui
-s don Quij
- don Quijo
-don Quijot
-on Quijote
-n Quijote 
- Quijote y
+RMeibcehcaceal  GAocnozsatla
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-1,dijo Por esta carta veras,
+%CODE
+concatenar_cadenas("Beverly Willis", "Samantha Barbe")
 %OUTPUT
-d
-i
-j
-o
- 
-P
-o
-r
- 
-e
-s
-t
-a
- 
-c
-a
-r
-t
-a
- 
-v
-e
-r
-a
-s
+BSeavmearnltyh aW iBlalribse
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-9,Has de saber que una viud,
+%CODE
+concatenar_cadenas("Manuel Norris", "William Mcdow")
 %OUTPUT
-Has de sa
-as de sab
-s de sabe
- de saber
-de saber 
-e saber q
- saber qu
-saber que
-aber que 
-ber que u
-er que un
-r que una
- que una 
-que una v
-ue una vi
-e una viu
- una viud
+MWainluleila mN oMrcrdiosw
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-7,Ahora digo senor Caballer,
+%CODE
+concatenar_cadenas("slAGzdyZhAXTqvKvNFwclyBIwloafvoaXUqrklcLUQeBOcXfUMYnYbUJWOMYJnUAVKiHeWUPXeVHxAgdVQmCuBuXinVuLhSjrUzb", "goDtTtuuvJqrunrxofkNBPbLTdRIgJhPSDoMcwrtoRGRirTTmHaugVJItzCElUntcBpDZcCHSLjGtcGiAHCVHnoAKMaxPpSBsUKx")
 %OUTPUT
-903d38a80a9abd629f444c5bf5d03079
+249920ee16b2e369de6f824166f5416c
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1,Que diablos de fortaleza ,
+%CODE
+concatenar_cadenas("VkCxOmkcFRqWCQPTUJRALAdVKMLUlQoEZBkdeWVYfMFZCncGRYHvHJOAnylceQuFKQChPgWCxBeOYEVrENBfAbekvwXpxyLgtHuT", "hLClIuJsPjcAxjaXIlBItEmgtXahgRriOWDMlnPzxxEZREtlMGjfQIiSWfJzrEwiKambLPZrFRYUqfbwPcLuHsjIwlIknHESLVZE")
 %OUTPUT
-8f1a9d5ca78263507e5d688141b81fa6
+1ed760af51c1229c5dca820f69338d9c
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-13,pusimos en tierra de lo q,
+%CODE
+concatenar_cadenas("fODvSUFblXmTbxzgkXqvTjvkCYVbFwQJBdpwrGGpYVNAYXSCuGggdhoMQOnGtoYtkfaSnnROsIntkCflDQyqMORCuGKAkYNPQNns", "kpKdEtluAsAQfkxcfXHIeitLCROHhIAgLXOQhnBwlMRLNtXdkNUsmrYDitfudSnMWMIXCQvfpHAQFjmJnXjJNCCHrQHaLbKJFQwZ")
 %OUTPUT
-75b46596ce0824d68b4141d0ab452d44
+373fc8d26a06adf633e3721f4e9faa84
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-6,Pero sea lo que fuere ven,
+%CODE
+concatenar_cadenas("KvmGtUTcCmYIQQqAPzreDdbVUjaypMOzKUPkAsvIYWLfukbXpQpJerffUQmbJMCZQoJNtVywizGdPTjYXAynisiaUlQWguUYYBlu", "oOqvJuxjDMwhiSLoLQcBVgiwqvvrUQKACgkfvQuRGPnEFQsvHDAMyCgPpBeTPxGwhJxcPtONHwMJcuwQxqxvrTqkZivTDASXKASj")
 %OUTPUT
-20d9027c0a08c34f3a75e58d115c887a
+279a252837f1cae7cb383f614704ee03
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-10,Todo lo cual visto por do,
+%CODE
+concatenar_cadenas("KIMJynIEbTOgEarDNRdithwAttpOLdlUZlTKhUqNSspDFGuQnJioSPtLFWeGAoUZSgzMbHwrhHKLbAfUzvwTNfBHDoJRGVvwxtXX", "EQUUTQPtxCZqbWGJZkFJNdkSnnmofWyurCyzTqwKTlWfQCUcWKJqUfNwKlqTOnwArmWhwVKDHDXHTjXEYLZdjtpYdQlfMqucXRJD")
 %OUTPUT
-5f9228d6e697863fcf9fbd4a3819bcda
+a45c81cb1fb214aad3a51b9b755956c7
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-18,Quien no habia de reir de,
+%CODE
+concatenar_cadenas("BCswwcUfwwCJQlAUXbLMieDAgfASeSzWzAQBkcFSKqXsAkcfKRcjvvXcXIujXzKdSlKinXrBUpGDwxqmWUvYqYDMXnijQvRlJZgW", "VAfbAPkgSlsWRlHVVdFGKkdXvVzkeJQTrNORqCflNBhELOgWNOtqSlpmIsTlDUCiqiuAiNxnACvcfdGziBJNVQHYTISrlpIxohPr")
 %OUTPUT
-c7ba92635351aa83232222b3d6a21d87
+77813de054036f224da542300d65d45d
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-20,Yo no se mi senor como da,
+%CODE
+concatenar_cadenas("mfmhLEfFfhkNKbVBGLSKmnuvZLvqbVIoGNGbnvyYyThZcVpKXueFWfvYtnXUfbihcVKpjpQqtwAeXiGHObdlhgPVMAkNHaadsJIj", "UElIfPJUhfwwipPRaZpUmCEZxADBjhrqHbETugZIdsMrSHHtguFDZgNqgDTsuDudJdPoqOphWBVmXhAzAqLexLoLdMEXCMJXemcW")
 %OUTPUT
-5a9acfbdc66b80cb476ecb7b0aff23d3
+7c0f84d87978f3bf8cdff3feae70f365
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-6,Los mozos de a pie llevar,
+%CODE
+concatenar_cadenas("gfPPLlEuvKsNvMtIvehVmfoXhmWqiWlszjWtByxvPqnmwpIxDRevBeByBhSYVjweTrcphXMsbpKmWIKtuqUfzRhulPwHSrtnynkQ", "wQmooRbHwWnSkkAIibCCRbzlKnHvAVMgJbngvvLTvpHIktcLkiVQemqXhAlGZYNucBxuQKwFZgBAlqsiwOIZAqhuChdkeVBZvxkf")
 %OUTPUT
-cbf2814a7b1316ea6ee00ee7eddbde4d
+e27125dfc0102645211058dec96214e2
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-5,Eso sera como yo quisiere,
+%CODE
+concatenar_cadenas("gcSCUVFXdscvjRdVCnnpXXqmGBJhFFlfRKkZBKpJLJcgHBGGBaFSgGSPRNzCEiiDupAEtnKOzZvrRhfjfFspyolCouiGnLQlAMSK", "ACWjTRuBkBFgFLaMUSeysHLJbcjwSgknmYQGKUViHLTtWJwwfnoJsdsACfSIlibCUlaMDGwpZQbjUcPwOiuaSxXhZPDMGdoagZgX")
 %OUTPUT
-b28fa2403b5836cc401aa3203994dca9
+dcff9097cff690b7b2329d4c93edbd9e
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3,y al cura les conto lo qu,
+%CODE
+concatenar_cadenas("lLleKHJrXYImbkSHNIvckKWyCHIhweIBdnxdVWNXdxdTNSLFJDthdOLxjQNClqCJWNeHGEIDXESMzyPvkgUparDJdlsphFafkDHI", "BvrocvtNApIxMAuLijCzksZSerlLBhebPoBXUgYsEBlQYBSNTrJGYrbwmwsOsKHMNyaxotrjWiHDssBTmGabMxwrPfoEsjzzicKK")
 %OUTPUT
-eb0b6cbf8ffee16c237a3ad40e59d092
+6f30836d8e66e47fb6de7d5c41c745c2
