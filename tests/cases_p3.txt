@@ -7,7 +7,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("correo@example.com")
+print(validar_correo("correo@example.com"))
 %OUTPUT
 CORREO VALIDADO
 %NAME
@@ -17,7 +17,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("tinalittle@.")
+print(validar_correo("christopher36@."))
 %OUTPUT
 ERROR CORREO NO VALIDO
 %NAME
@@ -27,7 +27,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("michelle70@.")
+print(validar_correo("ztaylor@."))
 %OUTPUT
 ERROR CORREO NO VALIDO
 %NAME
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("zholmes@.")
+print(validar_correo("brandonrussell@example.com"))
 %OUTPUT
-ERROR CORREO NO VALIDO
+CORREO VALIDADO
 %NAME
 Case 5
 %TYPE
@@ -47,7 +47,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("laurabyrd@fakeemail.co")
+print(validar_correo("chris04@personalmail.org"))
 %OUTPUT
 CORREO VALIDADO
 %NAME
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("robertcrawford@testdomain.org")
+print(validar_correo("callahanmelissa@."))
 %OUTPUT
-CORREO VALIDADO
+ERROR CORREO NO VALIDO
 %NAME
 Case 7
 %TYPE
@@ -67,7 +67,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("wilsonlarry@fakeemail.co")
+print(validar_correo("john00@personalmail.org"))
 %OUTPUT
 CORREO VALIDADO
 %NAME
@@ -77,7 +77,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("gshannon@personalmail.org")
+print(validar_correo("pgarcia@anotherdomain.org"))
 %OUTPUT
 CORREO VALIDADO
 %NAME
@@ -87,7 +87,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("youngtristan@companyxyz.com")
+print(validar_correo("ritawoodward@companyxyz.com"))
 %OUTPUT
 CORREO VALIDADO
 %NAME
@@ -97,7 +97,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-validar_correo("ealexander@example.com")
+print(validar_correo("ebrown@fakeemail.co"))
 %OUTPUT
 CORREO VALIDADO
 %NAME
@@ -107,7 +107,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("d+bU8vbCP)%pWU8SquvgqxkPci1TDIDzEARrnYn3mark92@customdomain1.com")
+print(validar_correo("F0vSZ4VoZ#0!bUTH5aKCkxBGhwLttjyh&I5AoMf3gallegossheri@personalmail.org"))
 %OUTPUT
 60751309749d975acd5dfa5d63e52c38
 %NAME
@@ -117,7 +117,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("!N2ep)GsgXI%p(FvG36jTZDs3BB@_@2x_)seF)kqtaylorabigail@mycompany.net")
+print(validar_correo("e4XyQ2U0cUxN9STc@BF*h_ruzxI1Kj!dWl&GhT&*brownlauren@fakemaildomain.net"))
 %OUTPUT
 46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("OkS%o4C&PcZXmNSW0W7*EF1hG7HD#&+3P35TV1p^reyesjennifer@testdomain.org")
+print(validar_correo("SP04MY!!PVA*%Li9Ua+nB&vxx5ZCqMz+FVYHHwu(V7&ak0n9#Rbd%M%0L4Gn*TC6jDt)!*Er2ienEdWisLFKhWK*@%alX_sl8ny@"))
 %OUTPUT
-60751309749d975acd5dfa5d63e52c38
+46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
 Case 4
 %TYPE
@@ -137,7 +137,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("eyHtfho(Lr64bLW4!4sRY(k7_HC$OK)PCcPDGhFgjustingood@anotherdomain.org")
+print(validar_correo("Oqs#sH#z$tYPsmfc*n5%Tw23f1##c5EP!S#nKf0Jadam72@fakemaildomain.net"))
 %OUTPUT
 60751309749d975acd5dfa5d63e52c38
 %NAME
@@ -147,7 +147,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("mp6Pj^%!C8O&#If4KPn5obI@)RyTo%lJY8dGuI!Vdavid45@customdomain2.net")
+print(validar_correo("sRnUmz^74l7KQbMuAKkcx9t2_@m&%YVw@b^I5VB3lisajones@personalmail.org"))
 %OUTPUT
 46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("y7L2PIqIiK@M!0u)r0#69_Pw$dQxwl#2e$$ROuI1jonesdawn@companyxyz.com")
+print(validar_correo("M+#l7VjYwuq2^KS#WQWSiJa+LcdEQ%kG9rypayRwchristinebaldwin@fakeemail.co"))
 %OUTPUT
-46f1af7ae1254ee6449c68ce19ee1c30
+60751309749d975acd5dfa5d63e52c38
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("Whw43DWh+)8dzQ3)UaNLWqrb_1I_JXV1R4LMbYFklindsayblankenship@anotherdomain.org")
+print(validar_correo("CM@YdT*SEyLvFhG_l59IEsW*i5uJ&)3PF9UmBdbH(EbCpwEXLb^K7YGjH)!nbL8eYiOKBru_@HUj0$db8D@MFkQKPB5u6NZ%n#P@"))
 %OUTPUT
-60751309749d975acd5dfa5d63e52c38
+46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("&XEgA)o0ZsxYgUe93Eu2AZrabM#N!DOz8ASoFSO9hughesbrandi@customdomain2.net")
+print(validar_correo("cS3M0)LbDi*B0DlqOp#7T8sE*iq)o$x+Zs0k6j57V(CQa)cqbFVlnY(wctTY1DLY4#PAodEEnCMD#dUfowxlzTlJ+vQ^)9VYna7@"))
 %OUTPUT
-60751309749d975acd5dfa5d63e52c38
+46f1af7ae1254ee6449c68ce19ee1c30
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("zJ50ig&!EwtYkMF2G2JEv_D97nkEPHHf1ZLoQq*JieEcAJofY*@h^ZbT$yMPVlIBB_3Fr#wWN9pEH52iaVYmN4rIPd_M3HOUY_T@")
+print(validar_correo("c^m1R$zaHdFzLp($6&YPxcYU8WRu58Jl_zemMCMEtrich@testdomain.org"))
 %OUTPUT
-46f1af7ae1254ee6449c68ce19ee1c30
+60751309749d975acd5dfa5d63e52c38
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-validar_correo("rFuAw9IkY#HcBB$0%zxs9Y*YtU!)8jnRstm*Upm*aDJWCkrUzQr_Yy3lbc#o$sM+10!tpU6C9Nr@qMsv!52qu)%$pm*Cn!xorEL@")
+print(validar_correo("Q$@zktx9eU0F8iFR!5p!$9nI@p_YnY6@VFR3Vx$68BdVU_UDCF+%P*%hhf2^y*K1P7@&2p^@9)Jvawtqnv7Iyo#efYiE5Bp)G3F@"))
 %OUTPUT
 46f1af7ae1254ee6449c68ce19ee1c30
