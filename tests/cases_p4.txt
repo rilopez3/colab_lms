@@ -7,7 +7,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("ababcab", "ab")
+print(buscar_patron("ababcab", "ab"))
 %OUTPUT
 YES FOUND: 0, 2, 5
 %NAME
@@ -17,7 +17,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("ababcab", "cd")
+print(buscar_patron("ababcab", "cd"))
 %OUTPUT
 NOT FOUND
 %NAME
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bbacbcbbbadcdcbdbdaccbdaadcacbccbcacaccddabcddddbdccbbbacbbdcacdccabacccccbabbbc", "bac")
+print(buscar_patron("cbacaabbacbabddccbdbcdbddbdbadbddbcaacbbabaabccbdbbabacbdcddcabbcbbccacbdaaccbdc", "baa"))
 %OUTPUT
-YES FOUND: 1, 54, 67
+YES FOUND: 41
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("acbabaaacaddbdcccdaadcdacaadcacdcabaabbcacacacadccaabbdbdcadabddacbccaabbbdbdcbc", "ccb")
+print(buscar_patron("dcaadaacaccbcacdabbcbaaabdaaababadadbabdabcbabcdcdabccbccadcdadaaacbccbcadacbacd", "cdc"))
 %OUTPUT
-NOT FOUND
+YES FOUND: 46
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("cdddacacdaaacbdcaadadccddacadadadabaccdcababdcadcccdadcbcccadcbaabbbbdbcdadddcca", "aba")
+print(buscar_patron("bbddcdbacbabbcdcddbdadaacccbdbcdabdbbcadbbacdaaabaccdabccbdabdcdacbccddadcdcbacc", "abd"))
 %OUTPUT
-YES FOUND: 33, 40
+YES FOUND: 32, 59
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bcadbbcbdaddbabacadbcdddddbacccacddbcddcacdacddcdbaccaacddbbcdacdacadcaaccdbadad", "ddc")
+print(buscar_patron("adaacadbdccacbccaabacbdacddacbbaccadddbccabbabadcbcaacacbdcccabacdaddbacbadcdcdc", "aca"))
 %OUTPUT
-YES FOUND: 37, 45
+YES FOUND: 3, 52
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bdcddccabcdadcbcacddcccdbdabbcdddcddabaccaadbdcbcccdddcadadbaddcbacbcacbbcdbbbbd", "ddd")
+print(buscar_patron("bbcdcdccabacccbbaacdbbdaddbcbbbacccbaddadcaababdcddadbdbdcbbbbcdaaaabaccddcacaab", "bba"))
 %OUTPUT
-YES FOUND: 30, 51
+YES FOUND: 14, 29
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bcccacdbdaacdaacccadbbdddcbbadadddaadadbadabdbcdcabccbabcdbaacdaccacccdaabccabbd", "bcc")
+print(buscar_patron("cdbbabbacbdbcaadbccbcbdbbcdccddacccaadbcbbbadbdcbdcaaabaaadddadbacdcababccbbcbab", "cad"))
 %OUTPUT
-YES FOUND: 0, 50, 73
+NOT FOUND
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bcacbcadddcabddaacdbbcddccbbdbbabacadcdabcaddcabdbaaccdadddddbdddccbacbadbdbddca", "cbb")
+print(buscar_patron("abcababbcdccccdacbcccbaacabaacccbadaadbccaddabdcdbcbcaddbdadccdcacdbbaaaddaadcda", "cdd"))
 %OUTPUT
-YES FOUND: 25
+NOT FOUND
 %NAME
 Case 10
 %TYPE
@@ -97,7 +97,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bbdcaccaaccdaabaadaadcbdbbccbcdbcbbdccaccaddabcacdddcddddddaacdbacdcdacaaddaccbc", "bba")
+print(buscar_patron("ddbacaaadadaaadcbababbddbdaddcbbadaabcddadababadadcbddcdcbbaaabbdcdcdccbacdddcca", "cac"))
 %OUTPUT
 NOT FOUND
 %NAME
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("aadddcbadcbbadcbbabbcbbdcbbbbcccdbdcbabdbccaddddaaabacccdcadcaaabbddcacdbddcaabadbacabcbdaddcbaaaacc", "bb")
+print(buscar_patron("cdacbbadcdaadcdadcadccdcbdcbabcaabbabdccbcadadacbdcbdddbadbabcbbdccbbcbcddbdddcbcbadbcacacaccbacdaca", "bd"))
 %OUTPUT
-86aa68310a3fa50240bf72d4e3693e1e
+687efcb3960121124b01be4bd9c7a239
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bdcaadacbdcadcdcbacdaacbaccbbcdcbbbbaadbbcbadcdcdacaccbdbdcabcbcccabbabbdbbccaaaacccadbbdbccddacbbbb", "da")
+print(buscar_patron("caadadcabaccabbcbabbdcddbdcddcdccabbcbdcbbacdabaaabdbdaabcadcbbdbdaccaaaaddcdbbccdbdbabddcdbdcaabbac", "bd"))
 %OUTPUT
-e047a501d3bf75a95688f54d8347e464
+4bfd3e00a5236c2a655691941ad1cade
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("accdacbaadcaabacdbcaadbbaadcdaabdacccabcdbadadaabacbbdcbacddbbcdadbdcdbbcacdbccbdacdbdcddcbdcddadbca", "ca")
+print(buscar_patron("acbbbbddacbccdcbaacccadacdbbcbbcdaacaadcaabddcdaaacddababcbccabcdabbcacadbcbaacacabbdbaacddbdbaadcbd", "bb"))
 %OUTPUT
-7f3ad987dbf3b877999152dc4ff5ca0d
+ebd71ddf71584d590287a4875fba1e31
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bccddacbbbccadaabaadaaaccaadabacbbbbbdddabbdbaababccadbdaabacacaddcaaaadcaaaccbaaacccdadbbaaacbadcab", "cb")
+print(buscar_patron("dadbcdaddabcabdddabadadbddbaacadccdabbcbabccabdcbdccbabddbddbdcbccdacbbadcdaacbaccbccdcccddacdbbcccd", "da"))
 %OUTPUT
-a022048a2bf1619a7b055d3403291bbf
+04ace9337d4e613aabe017acf01607f1
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bdcbadaddcdcdadddcbcbccdcbdbccdabadddccddbcaddbddbddabdbabbdaadbddbbbbcdcddcbabbbcdadacbabccbdbbddca", "bd")
+print(buscar_patron("addcdcbdccbddbbbbdcbccadcddaccdabccbbbcbbbdcccabdbdbcddccacdcadbcaddadccddadccadbcaacadcacaadabaabcb", "bb"))
 %OUTPUT
-f26d54b4abb3a602d740fcaaca86c7cf
+a13baf2d109df96e4992334dc1a5af72
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("caddaaabcbdccabbccddcabbbcdabccbbbdbdaccbaaadccbbddaabaddddbdaaabcdbaaccbbbbcccbddbbaaaddddbaadbacdc", "da")
+print(buscar_patron("cddacccadadbaadbcacdaadbbdbaccdbddcdbaacababdbddcdcdcdabaabbabcdacaacaabbdbbcdacbbcbbddaddcaccabbbbd", "ab"))
 %OUTPUT
-7ada72f58ee7c2bfc05593d4abe5d230
+7d5e2c054410cebddb3e0b75939aa549
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bbccbaabcaabbcaaccbdabdcdbadbdcadcdaddbbdcbcadabdcdbdbdacbbacdacadbabdcccddacaccbdcbddcdbcaadccbaacc", "da")
+print(buscar_patron("ccbdaacddbdbbdaddaacdbabccbacbbcbcabadbdadadabbdcbdcabacaadadabcbddcbacccbacbdadbddabbcccdccbdabbaba", "ad"))
 %OUTPUT
-879220a723331cb66cb8b231b1f23007
+f1f8abaa49bb848e15f9cac0e1d6a3cd
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("bdabcdacdcacacadabdddcbcabcaaadaabcddabdcbdbcdabcaaccabbcdcbbddabdadaaacbccadbaaaadddcdcacbbaddcdddc", "bb")
+print(buscar_patron("acccccbbacaadbbdaaddbddcccddbdcbaabbdcaaacddbccdcabacaccdadcdcadcbadcbbabbccbbdbdabdbccaadddbcdbdbca", "cb"))
 %OUTPUT
-bda3f1ec06e295f5323473528d8c5716
+4f7eb706984676ec4157f5250f22639c
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("acccdbccbcbacbdcaadcaabdcdccccbcbbbccdddbccdddcbcdbcbacbcbababacbddbadcdacbabcbbbadbdbddccbcdcbaccbb", "cb")
+print(buscar_patron("cbdbadbdddbccdbadbdadabdbabbcdcadcddbdadaaccacadbcabdbcabdcccacddcbbbdbbccabcaaabaddbbbdcbbcdbabdddb", "ad"))
 %OUTPUT
-32f57428a356997108cde956f97db57b
+7c5b664bd26cd1c3dfb3cedf93da70b0
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-buscar_patron("aadaadaabdacccabbaaddbbdadbcaaadbcbddbdcddddbcbdbbaaaaabdcdddaddadadccadbbddadbbaadabcddbbdbbbadacbb", "ad")
+print(buscar_patron("dccaddbddcdccbdbabaaabdadddaaabacadabbccbcdbdcadbbbaccdccbbcbabbbbbdaacddddaddcbdccacbdcdaccbbdadcaa", "bc"))
 %OUTPUT
-904a83c9e98b378bc0b377b90763cbb1
+ef110d20153270347091a9f06d8065c6
