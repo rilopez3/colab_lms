@@ -6,177 +6,197 @@ Case 1
 publico
 %PRECODE
 %INPUT
-1911,1914,
+%CODE
+buscar_patron("ababcab", "ab")
 %OUTPUT
-El promedio es 18220.86
+YES FOUND: 0, 2, 5
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-1903,2004,
+%CODE
+buscar_patron("ababcab", "cd")
 %OUTPUT
-El promedio es 12843.24
+NOT FOUND
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-1946,1970,
+%CODE
+buscar_patron("bbacbcbbbadcdcbdbdaccbdaadcacbccbcacaccddabcddddbdccbbbacbbdcacdccabacccccbabbbc", "bac")
 %OUTPUT
-El promedio es 14794.03
+YES FOUND: 1, 54, 67
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-1947,1979,
+%CODE
+buscar_patron("acbabaaacaddbdcccdaadcdacaadcacdcabaabbcacacacadccaabbdbdcadabddacbccaabbbdbdcbc", "ccb")
 %OUTPUT
-El promedio es 14109.56
+NOT FOUND
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-1913,2005,
+%CODE
+buscar_patron("cdddacacdaaacbdcaadadccddacadadadabaccdcababdcadcccdadcbcccadcbaabbbbdbcdadddcca", "aba")
 %OUTPUT
-El promedio es 12742.95
+YES FOUND: 33, 40
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-1904,1987,
+%CODE
+buscar_patron("bcadbbcbdaddbabacadbcdddddbacccacddbcddcacdacddcdbaccaacddbbcdacdacadcaaccdbadad", "ddc")
 %OUTPUT
-El promedio es 12983.41
+YES FOUND: 37, 45
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-1939,2015,
+%CODE
+buscar_patron("bdcddccabcdadcbcacddcccdbdabbcdddcddabaccaadbdcbcccdddcadadbaddcbacbcacbbcdbbbbd", "ddd")
 %OUTPUT
-El promedio es 14124.47
+YES FOUND: 30, 51
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-1920,1963,
+%CODE
+buscar_patron("bcccacdbdaacdaacccadbbdddcbbadadddaadadbadabdbcdcabccbabcdbaacdaccacccdaabccabbd", "bcc")
 %OUTPUT
-El promedio es 12230.3
+YES FOUND: 0, 50, 73
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-1943,1967,
+%CODE
+buscar_patron("bcacbcadddcabddaacdbbcddccbbdbbabacadcdabcaddcabdbaaccdadddddbdddccbacbadbdbddca", "cbb")
 %OUTPUT
-El promedio es 14064.27
+YES FOUND: 25
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-1928,2001,
+%CODE
+buscar_patron("bbdcaccaaccdaabaadaadcbdbbccbcdbcbbdccaccaddabcacdddcddddddaacdbacdcdacaaddaccbc", "bba")
 %OUTPUT
-El promedio es 12906.07
+NOT FOUND
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1950,1991,
+%CODE
+buscar_patron("aadddcbadcbbadcbbabbcbbdcbbbbcccdbdcbabdbccaddddaaabacccdcadcaaabbddcacdbddcaabadbacabcbdaddcbaaaacc", "bb")
 %OUTPUT
-2ced52d8aa2e3ece7cbbb34807a59aa5
+86aa68310a3fa50240bf72d4e3693e1e
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1923,1962,
+%CODE
+buscar_patron("bdcaadacbdcadcdcbacdaacbaccbbcdcbbbbaadbbcbadcdcdacaccbdbdcabcbcccabbabbdbbccaaaacccadbbdbccddacbbbb", "da")
 %OUTPUT
-1d583d3eb06085bfba1ddee4c45b9a3a
+e047a501d3bf75a95688f54d8347e464
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1900,1987,
+%CODE
+buscar_patron("accdacbaadcaabacdbcaadbbaadcdaabdacccabcdbadadaabacbbdcbacddbbcdadbdcdbbcacdbccbdacdbdcddcbdcddadbca", "ca")
 %OUTPUT
-4425c62c1ba44774cd1197f588efd04f
+7f3ad987dbf3b877999152dc4ff5ca0d
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1906,2015,
+%CODE
+buscar_patron("bccddacbbbccadaabaadaaaccaadabacbbbbbdddabbdbaababccadbdaabacacaddcaaaadcaaaccbaaacccdadbbaaacbadcab", "cb")
 %OUTPUT
-83eb7eb42777e88e9df1d2f715f73513
+a022048a2bf1619a7b055d3403291bbf
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1923,1960,
+%CODE
+buscar_patron("bdcbadaddcdcdadddcbcbccdcbdbccdabadddccddbcaddbddbddabdbabbdaadbddbbbbcdcddcbabbbcdadacbabccbdbbddca", "bd")
 %OUTPUT
-12c2596813ef8fa666db8fecde35d2f7
+f26d54b4abb3a602d740fcaaca86c7cf
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1916,1981,
+%CODE
+buscar_patron("caddaaabcbdccabbccddcabbbcdabccbbbdbdaccbaaadccbbddaabaddddbdaaabcdbaaccbbbbcccbddbbaaaddddbaadbacdc", "da")
 %OUTPUT
-c3fe41da523f576c742a543c77c4588d
+7ada72f58ee7c2bfc05593d4abe5d230
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1949,2014,
+%CODE
+buscar_patron("bbccbaabcaabbcaaccbdabdcdbadbdcadcdaddbbdcbcadabdcdbdbdacbbacdacadbabdcccddacaccbdcbddcdbcaadccbaacc", "da")
 %OUTPUT
-77dabd5bdda47cb5c8c939995eb73242
+879220a723331cb66cb8b231b1f23007
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1905,1969,
+%CODE
+buscar_patron("bdabcdacdcacacadabdddcbcabcaaadaabcddabdcbdbcdabcaaccabbcdcbbddabdadaaacbccadbaaaadddcdcacbbaddcdddc", "bb")
 %OUTPUT
-60ccdeea05abce0ccbc53106ceca6a17
+bda3f1ec06e295f5323473528d8c5716
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1930,1977,
+%CODE
+buscar_patron("acccdbccbcbacbdcaadcaabdcdccccbcbbbccdddbccdddcbcdbcbacbcbababacbddbadcdacbabcbbbadbdbddccbcdcbaccbb", "cb")
 %OUTPUT
-45555282b5b0218a2affca806068c8e5
+32f57428a356997108cde956f97db57b
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1933,2004,
+%CODE
+buscar_patron("aadaadaabdacccabbaaddbbdadbcaaadbcbddbdcddddbcbdbbaaaaabdcdddaddadadccadbbddadbbaadabcddbbdbbbadacbb", "ad")
 %OUTPUT
-591c59a550ac573e1ac215dae5b7d406
+904a83c9e98b378bc0b377b90763cbb1
