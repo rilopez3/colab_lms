@@ -7,7 +7,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Ho", "la")
+print(concatenar_cadenas("Ho", "la"))
 %OUTPUT
 Hloa
 %NAME
@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Lauren Brooks", "Tony Robertso")
+print(concatenar_cadenas("Matthew Sny", "Linda Kelly"))
 %OUTPUT
-LTaounrye nR oBbreorotksso
+MLaitntdhae wK eSlnlyy
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Theresa Thom", "Steven Davis")
+print(concatenar_cadenas("Melinda Rodrigue", "Jennifer Mcgrath"))
 %OUTPUT
-TShteerveesna  DTahvoims
+MJeelninnidfae rR oMdcrgirgauteh
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Mrs. Alexis Re", "Donald Sanders")
+print(concatenar_cadenas("Mitchell Hernan", "Michelle Parker"))
 %OUTPUT
-MDrosn.a lAdl eSxainsd eRres
+MMiitcchheelllle  HPearrnkaenr
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Jacqueline Pen", "Lawrence Green")
+print(concatenar_cadenas("Jessica Lynch", "Keith Johnsto"))
 %OUTPUT
-JLaacwqrueenlcien eG rPeeenn
+JKeesistihc aJ oLhynnsctho
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Travis Tho", "Peter Shea")
+print(concatenar_cadenas("Michaela Wa", "Katie Jones"))
 %OUTPUT
-TPreatveirs  SThheoa
+MKiacthiaee lJao nWeas
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Andrea Webb", "Jamie White")
+print(concatenar_cadenas("Christoph", "Joel Lamb"))
 %OUTPUT
-AJnadmrieea  WWheibtbe
+CJhoreils tLoapmhb
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Christopher Ball", "Melissa Hernande")
+print(concatenar_cadenas("Ashley Hollan", "Kaylee Travis"))
 %OUTPUT
-CMherliisstsoap hHeerr nBaanldle
+AKsahylleeye  HTorlalvains
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Jennifer", "Amy King")
+print(concatenar_cadenas("Seth Adams", "Michele Ph"))
 %OUTPUT
-JAemnyn iKfienrg
+SMeitchh eAldea mPsh
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("Bill Wolfe", "Keith Wilc")
+print(concatenar_cadenas("Stephanie Si", "Larry Wilcox"))
 %OUTPUT
-BKielilt hW oWliflec
+SLtaerprhya nWiiel cSoix
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("wxCMeEuwZzgqPSdABJGBkdYSkjjrRslEkwOBCjHIiMVMEMAoSaKIPWtvktSkQqVCtCoElNaQPgiagGsshDwOQRspaeHVvaJLuibE", "emgbSIWEiWfeApZHUDcLCdeGCqnzWRzDrHeiKZGaVohEYNwLUVmoimUJSSDiPDmbzNMXbfojwVqZisbdwMxxmlYSVeFgFvuPLvGk")
+print(concatenar_cadenas("rARhggFijehOXSzmpsSvOBnOEBNsEoZqbWUZBxsUyIMmvXmnhzBxucOpLRZIVwVDtSpGIBJtGgcGQLeTXlSWXKouMXjCiacWdnUh", "chWMkHIDgrLaZWZbVToPWUQMYdKqiCcEEtuqfsXHAyMtjIHaemhzHuFxtzNAHSEAhFJlDKwzBceFFeIlAUKnmdpooqbTolWwhKMa"))
 %OUTPUT
-98d9db5ee87ffd0749f785d24d2913ae
+7ec5c4ec0e276a94d069c0574c76d11b
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("lrYZeWbrqRCusNxAanClKkRgLuKCKytYmQfdWiPxxUpjtbQNLwZEBTwdqrMsQnYNdTVLcsAscQRRNtSiXhoMfCjJLXQzJTovNnzD", "EOJzOZXpsLjDFZmsMeKeTauipGMuyDuFlwqYyumjakVFojyUOGZSRSSjaDlIVPIPNNCkgPkGDdXBSjjHpDFiCjEYZeDoNGsWPsgk")
+print(concatenar_cadenas("MkktHqMHuOWffPzFoizcaadhwGBDrPlXhluHUuifjqZdpFxmFniQhdyhwTgHXEoAPaOhOrJGkOEjtwUTatWnaQuglyeQmbCrRJax", "MpqcbYWLOpfXOlQzMGBtoRzhfZeRGOHNTosKVasChQTubjEfoWrFgsOVFgsRTKywltxQVMsmkDsbWjRxMYiiRfYkqHsxRxlsVKdN"))
 %OUTPUT
-3ecc8e11d9dcfa27ec8a87b52c7bb4a2
+ea0db2cb12c2887bc1f622653e0621bf
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("bOWNbQPkvcVLjMuBahVPDKGBYihFnskSoTUlHTDwFtcWXwoZvzhpPgIvhiyRfpeYZRIrzjCFCwNvOdsgLMIPgHqxagVVKKpwivIU", "DBSrwOHIBAomDnZNcvJPQimEERlRGjLjqOmxmCdRQkGaMrHzFaTrptrTwkIEYJUXGFIJxwGSrIttSkKcDwHVXMYbJRAEdbeVGiNK")
+print(concatenar_cadenas("zmMojIJNdSRNrblNjrGixLmFWtXWNsdlKGcucgiXRuJSDcYaPBEtDyZjuHCyPnFgkIlQWUNulLYNHPKoXDOzHgQzuxkYGzPmZvji", "BLzPJFjoAzlxMOagfPYNKdoendkPgDaXhmFELsFGUCWlsdSGmqvPHbkqtfDmViBtbqapsrJMpTOOGwTUFezAvTZYJJvOcquePDpO"))
 %OUTPUT
-e1fccfe1fc37a0c3dd2d48426cb08a5d
+9986560dcf08a70a25663d56e366d4b2
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("xUYWMBYPRdBjcHgPiHVRwlLhBekVjkOeQYKclqHhyZjhtkqnAIXmsIzSUxLGqZvsUOuExSKvHvDJwWBBqiPrTslNkqzwndkXPPeS", "iFvYiiYnfBwjrRWotuOTeFXkDgjWIFMwGLEVLehJYmSrOsUDVwiTpauJtdWEValXrDvMrgEqiGlnPinnuxeOKQCHYtbTwZhuSANT")
+print(concatenar_cadenas("uMMLhdZlIrKwikqAsozRFyTUaMvBjYIEVKVPhygbysXgwaRGEhVtJHOEGCRBKsHuQkKcwCOIbRIZiNEXigrQddJxwVexfMVIIulh", "cNGxTdBsXlrVJDHbnszbBggWMdNrqeDSwAnnyBgvrqDMrFjKfxyeEAiEGYDmOXhhZKSFOglXptoYqAlvClfahPPLsegYjbYfpPtn"))
 %OUTPUT
-4e049938124918d12b641fb25e7e4c6c
+9dd3f24cbb2288976137b8492f1240bd
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("hlESMnndNZAmGipJTGKqdWkzptirNgnUPHzqVNFFSafWNqEoVJdaQfYqbDtGSpPruGiOnsfRstphRbgIddpmxxiQyjWTWGQNfKMI", "vUvsiAfhtfIwMkbQnTHQPwBCHtZIAfchFQHSKtRlrGTRINfenfobudOiwkgAfyuFaGbkLYTxboPVbXydrmHPzxiDAvgTcJdjnJyc")
+print(concatenar_cadenas("eArhfPnVtSXZocsjkLxbOILkFfwbuOeUAUcAiUfMwWdMPaxKAvercduRPWIYnCzPTorrrkynbbxIUZSgsGwVyABSVKKPrDpbquon", "MXSeUJwXnKpzlcCtdlYEDEJWbrBxVTsUdbkbxryOsIWLFTtAnBkpVLFEcDitJmqBaoFMwkalOEhKpdHvLRpaOMzfnRbsGEVTxFjd"))
 %OUTPUT
-656f481744e32763fe36a7c28679b1a9
+918b8994b43a40cdd721563dffbaaec9
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("nSftkWpHOuBrtJWWHfLhhKQfhieQOUFRlicgkqJhRSQrdxVoftDcEubvFsGlKtiitwIRzNQeuAMVrIquSEjvTwOIIWAUPGCPsfpD", "PjXAOJuaTKrKZVfZulVbTMJzxlQxCbKqEykCSIDqBSBQaZEreddSaNiICZhzNsgsUpPVrSQLVNXTIZWeUyjjFCrUgzUpRJEEzwmc")
+print(concatenar_cadenas("IQXWOmNVDkLjVHewLiquUwGnAAguttlovecxkGCfKDKKaNrvuLwAcCihPZkEqCpSqAtlZpjNvotnfXvVkRldXKnMnDIPAPXkCNaK", "BuofxuEEoKikQYypTrTaCLNRVFlvVVotScbwWXOIIoKDZHoEAvIPpUQeLpvmafbBgLZgNtxAgPrMBdxHuzjnigbNtMFbZAxQDzuy"))
 %OUTPUT
-0c5d330430daa9dd896f146e8054e005
+62227cb9b41b6cc236ae2c6ae19c4d9f
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("GkuGbAPMQfMAzfldPVHUFmTUolTkvalBFsddrSBpsZlMtiFvNKerRkONbpVhfPXduvMzmECHdwNoGRXgaaPTMkOGQJEvSBeOIFmG", "KjqMXSzWKZdrBIMVRwoVpTOIWlVjAoeUHRjkmjOWpivlOHURIJuXkPBIyHjBCZtPQlBZUZymaKwthBugiJHaNkdwoXiebuXhhwou")
+print(concatenar_cadenas("KSTWUzjkyYYThmBbfFgdqmWYHodGtFmtEArpFBgWrLnWSvEIJHYXwTCaxeQbimGwcfzNzGxOUrlwXBNASzpjTcOIutpLBnATETFQ", "FMOIKTYVzYDtgGKWoHKRwDFBEncObjjKBCMRtGFltzWarQYvnCdOzHRtcQkULleCrkdpsnOXvAyGPdvMnbHLeZAmvQJdjKatHwVZ"))
 %OUTPUT
-3475554fb322f68857a880ae25c4c8b0
+5a628891398c0542bfb5a34a561a9bc5
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("ykTNkUjWamhkaValHbbLExbjvtEXbgCyRcLBWqGnZhqsQKpfAISwDZFRQIXiSFoBrOyRkhdLVridcAYaFyQnAHBAYJWgNxlTHpbf", "IIPkaFslAfpMraCqgJPKhPWxwpdtvedtFuSWrPJaWGGMyBVkfuNzKHJxpoGUpCrJBSmdRhOmhAdKdggJxiQjNYWoToIkroPPRQmr")
+print(concatenar_cadenas("mbsTagcwgxjedQxbwdftWjOJHEDVABxtVhYKFmqwVXViGxeSvZgptzPHfwkyvvJDwjKtkPYxXiICmkwPYIetIJLsTtaDbhDlXXmR", "grDoUgrsRRoISuHgUpmMnxaYeAZdrdOHHUQmfUnywESnoNnGTkKBTpsDqEuoohjDudaSESYEaTeNQVxWgPLPnYqeKMzYqMPvQiVg"))
 %OUTPUT
-40aea341b2c3071fddea763dfee0990c
+95bdaada296da70f96f87c8135df88c3
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("tFQTOEHYbYYtDODbOMCmmeetZmePyvyJMGBcjekHPSdeDOhhjwPGvWIOplziJOpoqOCyXlmypliNeNcpdIrvQNkfZIeWDoqXmGIk", "tvjBSjNXrjPuKxnNzSZvljhSsBfpCyvWQzmSbwuKmVlnVIDSCRvOiYLMOHTGKfuHjDoiflWOUxJQXOJEzJYTGPFiUkMmJIpOqfrh")
+print(concatenar_cadenas("wZGPFzjejNLSnERsFcNpvBITdkKtfdeFsqbbHjSEEBCmPmAnPMukZyeVMUKPbxqYrOjnFNvSylgTwvqCaHfWHdLNMHyCyJuODzNi", "TLlwYeSeONeInwlCLQjwZvcAosrBEcvfxdFhDeIKQtfIJDJaVTNpjZEVsnAvnzveKDgnCHmXWLORzagpwJTHQlfgNBZwoOZXxhtX"))
 %OUTPUT
-4dee320f5496e51926f68e5fd66d5d1f
+3ad0ea6083726bd02a6d26e0a0c54807
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-concatenar_cadenas("ONijeMAXywzERCjriSjImIpYENEfwYhdbnONUEBaZPlYlkcMheNAKSOOWnMQqDQAtHQTmaHVXvGgHlkuuGrobgqXruoLTLLiuGEF", "XnSCHedybUwEPdCvsTmcMYqGQcnojcWJZUtWdhCYoWGYtMHZoYqRFotnMHUyetmNTEWmQvyOeGMoAjqUwEMCAIdiJIAAZwEXRkCp")
+print(concatenar_cadenas("rJJQcYKYGEAuJBGCMviYEgpyvlRkBQfNLDsIdCyJUFEXLTFWfqJllkGyksYlyvOwlcvQEUoYEWlnQrAnCznCyRgaMXYpabmGtvFZ", "nqRfEGVqJJLgjQIZGkebsqKlxDMnsthqWlzjPkGbDkxbMmugiUJEeRoxJCUycEiNaBPxTWFBEzcqjnteSySFLezSWrtSpPzRWaDM"))
 %OUTPUT
-02504d856d3fe53c6741becd0fc805c3
+2322f55ff1b179a7e05bf954b508c6f3
