@@ -6,280 +6,236 @@ Case 1
 publico
 %PRECODE
 %INPUT
-12,Filomena,Maximiliano,Maite,Sebastian,Manuel,Tamara,Andres,Daniela,Francisca,Sofia,Natalia,Francesco,3,['Juan', 3],['Barbara', 4],['Fabrizzio', 4],
+13,Andres,Fabrizzio,Orlando,Filomena,Natalia,Luana,Sofia,Martin,Vicente,Nicole,Maite,Maximiliano,Javier,4,Sebastian 3,Tamara 2,Rodrigo 4,Manuel 2,
 %OUTPUT
-Juan ['Filomena', 'Maximiliano', 'Maite']
-Barbara ['Sebastian', 'Manuel', 'Tamara', 'Andres']
-Fabrizzio ['Daniela', 'Francisca', 'Sofia', 'Natalia']
-Juan, ['Filomena', 'Maximiliano', 'Maite']
-Barbara, ['Sebastian', 'Manuel', 'Tamara', 'Andres']
-Fabrizzio, ['Daniela', 'Francisca', 'Sofia', 'Natalia']
+Sebastian ['Andres', 'Fabrizzio', 'Orlando']
+Tamara ['Filomena', 'Natalia']
+Rodrigo ['Luana', 'Sofia', 'Martin', 'Vicente']
+Manuel ['Nicole', 'Maite']
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-5,Francisca,Sebastian,Jose,Barbara,Josefa,4,['Orlando', 3],['Javier', 4],['Pablo', 2],['Vicente', 3],
+14,Felipe,Tamara,Vicente,Nicolas,Rodrigo,Luana,Maite,Sofia,Fabrizzio,Valentina,Miguel,Daniela,Juan,Filomena,4,Javier 2,Andres 3,Francisca 2,Maximiliano 3,
 %OUTPUT
-Orlando ['Francisca', 'Sebastian', 'Jose']
-Javier ['Barbara', 'Josefa']
-Pablo []
-Vicente []
-Orlando, ['Francisca', 'Sebastian', 'Jose']
-Javier, ['Barbara', 'Josefa']
-Pablo, []
-Vicente, []
+Javier ['Felipe', 'Tamara']
+Andres ['Vicente', 'Nicolas', 'Rodrigo']
+Francisca ['Luana', 'Maite']
+Maximiliano ['Sofia', 'Fabrizzio', 'Valentina']
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-6,Daniela,Martin,Rodrigo,Fabrizzio,Maite,Felipe,5,['Francesco', 4],['Vicente', 3],['Sebastian', 4],['Valentina', 4],['Jose', 4],
+13,Vicente,Caua,Maximiliano,Tamara,Barbara,Josefa,Francisca,Nicolas,Orlando,Juan,Martin,Maite,Andres,3,Nicole 2,Javier 4,Filomena 4,
 %OUTPUT
-Francesco ['Daniela', 'Martin', 'Rodrigo', 'Fabrizzio']
-Vicente ['Maite', 'Felipe']
-Sebastian []
-Valentina []
-Jose []
-Francesco, ['Daniela', 'Martin', 'Rodrigo', 'Fabrizzio']
-Vicente, ['Maite', 'Felipe']
-Sebastian, []
-Valentina, []
-Jose, []
+Nicole ['Vicente', 'Caua']
+Javier ['Maximiliano', 'Tamara', 'Barbara', 'Josefa']
+Filomena ['Francisca', 'Nicolas', 'Orlando', 'Juan']
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-5,Luana,Nicolas,Martin,Natalia,Orlando,4,['Sebastian', 4],['Vicente', 3],['Maite', 4],['Manuel', 4],
+11,Francesco,Nicole,Pablo,Francisca,Katherine,Natalia,Valeria,Maite,Josefa,Nicolas,Orlando,3,Miguel 4,Caua 4,Felipe 4,
 %OUTPUT
-Sebastian ['Luana', 'Nicolas', 'Martin', 'Natalia']
-Vicente ['Orlando']
-Maite []
-Manuel []
-Sebastian, ['Luana', 'Nicolas', 'Martin', 'Natalia']
-Vicente, ['Orlando']
-Maite, []
-Manuel, []
+Miguel ['Francesco', 'Nicole', 'Pablo', 'Francisca']
+Caua ['Katherine', 'Natalia', 'Valeria', 'Maite']
+Felipe ['Josefa', 'Nicolas', 'Orlando']
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-14,Maite,Jose,Andres,Daniela,Felipe,Fabrizzio,Tamara,Rodrigo,Nicole,Manuel,Miguel,Katherine,Sofia,Sebastian,4,['Valentina', 3],['Juan', 4],['Filomena', 3],['Orlando', 2],
+5,Tamara,Josefa,Miguel,Luana,Martin,2,Maite 3,Rodrigo 2,
 %OUTPUT
-Valentina ['Maite', 'Jose', 'Andres']
-Juan ['Daniela', 'Felipe', 'Fabrizzio', 'Tamara']
-Filomena ['Rodrigo', 'Nicole', 'Manuel']
-Orlando ['Miguel', 'Katherine']
-Valentina, ['Maite', 'Jose', 'Andres']
-Juan, ['Daniela', 'Felipe', 'Fabrizzio', 'Tamara']
-Filomena, ['Rodrigo', 'Nicole', 'Manuel']
-Orlando, ['Miguel', 'Katherine']
+Maite ['Tamara', 'Josefa', 'Miguel']
+Rodrigo ['Luana', 'Martin']
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-16,Vicente,Javier,Maite,Sofia,Manuel,Luana,Orlando,Caua,Tamara,Miguel,Maximiliano,Nicole,Jose,Valentina,Nicolas,Fabrizzio,5,['Andres', 2],['Felipe', 3],['Rodrigo', 4],['Filomena', 3],['Josefa', 2],
+10,Martin,Valeria,Sofia,Juan,Katherine,Josefa,Maite,Francisca,Natalia,Andres,4,Sebastian 4,Vicente 2,Orlando 3,Luana 3,
 %OUTPUT
-Andres ['Vicente', 'Javier']
-Felipe ['Maite', 'Sofia', 'Manuel']
-Rodrigo ['Luana', 'Orlando', 'Caua', 'Tamara']
-Filomena ['Miguel', 'Maximiliano', 'Nicole']
-Josefa ['Jose', 'Valentina']
-Andres, ['Vicente', 'Javier']
-Felipe, ['Maite', 'Sofia', 'Manuel']
-Rodrigo, ['Luana', 'Orlando', 'Caua', 'Tamara']
-Filomena, ['Miguel', 'Maximiliano', 'Nicole']
-Josefa, ['Jose', 'Valentina']
+Sebastian ['Martin', 'Valeria', 'Sofia', 'Juan']
+Vicente ['Katherine', 'Josefa']
+Orlando ['Maite', 'Francisca', 'Natalia']
+Luana ['Andres']
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-19,Valeria,Andres,Nicolas,Daniela,Natalia,Nicole,Maite,Sebastian,Felipe,Maximiliano,Francisca,Martin,Juan,Filomena,Fabrizzio,Jose,Luana,Orlando,Rodrigo,4,['Caua', 4],['Vicente', 3],['Barbara', 4],['Valentina', 3],
+5,Nicolas,Jose,Vicente,Luana,Barbara,3,Valentina 4,Martin 2,Javier 3,
 %OUTPUT
-Caua ['Valeria', 'Andres', 'Nicolas', 'Daniela']
-Vicente ['Natalia', 'Nicole', 'Maite']
-Barbara ['Sebastian', 'Felipe', 'Maximiliano', 'Francisca']
-Valentina ['Martin', 'Juan', 'Filomena']
-Caua, ['Valeria', 'Andres', 'Nicolas', 'Daniela']
-Vicente, ['Natalia', 'Nicole', 'Maite']
-Barbara, ['Sebastian', 'Felipe', 'Maximiliano', 'Francisca']
-Valentina, ['Martin', 'Juan', 'Filomena']
+Valentina ['Nicolas', 'Jose', 'Vicente', 'Luana']
+Martin ['Barbara']
+Javier []
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-6,Nicolas,Vicente,Josefa,Jose,Natalia,Rodrigo,4,['Valeria', 3],['Daniela', 4],['Maximiliano', 4],['Barbara', 2],
+17,Rodrigo,Sebastian,Juan,Natalia,Maite,Caua,Tamara,Manuel,Valentina,Luana,Vicente,Orlando,Francesco,Filomena,Felipe,Miguel,Barbara,2,Jose 2,Josefa 3,
 %OUTPUT
-Valeria ['Nicolas', 'Vicente', 'Josefa']
-Daniela ['Jose', 'Natalia', 'Rodrigo']
-Maximiliano []
-Barbara []
-Valeria, ['Nicolas', 'Vicente', 'Josefa']
-Daniela, ['Jose', 'Natalia', 'Rodrigo']
-Maximiliano, []
-Barbara, []
+Jose ['Rodrigo', 'Sebastian']
+Josefa ['Juan', 'Natalia', 'Maite']
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-17,Katherine,Filomena,Martin,Tamara,Jose,Fabrizzio,Orlando,Caua,Felipe,Valeria,Barbara,Rodrigo,Pablo,Maite,Javier,Daniela,Sofia,2,['Sebastian', 2],['Francisca', 4],
+20,Pablo,Rodrigo,Natalia,Valentina,Daniela,Maite,Valeria,Nicolas,Sofia,Nicole,Javier,Juan,Sebastian,Jose,Vicente,Orlando,Filomena,Francesco,Maximiliano,Andres,2,Martin 2,Tamara 2,
 %OUTPUT
-Sebastian ['Katherine', 'Filomena']
-Francisca ['Martin', 'Tamara', 'Jose', 'Fabrizzio']
-Sebastian, ['Katherine', 'Filomena']
-Francisca, ['Martin', 'Tamara', 'Jose', 'Fabrizzio']
+Martin ['Pablo', 'Rodrigo']
+Tamara ['Natalia', 'Valentina']
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-9,Luana,Fabrizzio,Javier,Sebastian,Filomena,Natalia,Tamara,Valeria,Pablo,4,['Sofia', 4],['Felipe', 3],['Manuel', 3],['Nicolas', 3],
+8,Rodrigo,Valeria,Sofia,Maite,Sebastian,Daniela,Nicole,Francesco,5,Filomena 3,Pablo 3,Maximiliano 4,Jose 2,Nicolas 3,
 %OUTPUT
-Sofia ['Luana', 'Fabrizzio', 'Javier', 'Sebastian']
-Felipe ['Filomena', 'Natalia', 'Tamara']
-Manuel ['Valeria', 'Pablo']
+Filomena ['Rodrigo', 'Valeria', 'Sofia']
+Pablo ['Maite', 'Sebastian', 'Daniela']
+Maximiliano ['Nicole', 'Francesco']
+Jose []
 Nicolas []
-Sofia, ['Luana', 'Fabrizzio', 'Javier', 'Sebastian']
-Felipe, ['Filomena', 'Natalia', 'Tamara']
-Manuel, ['Valeria', 'Pablo']
-Nicolas, []
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-20,Orlando,Valentina,Tamara,Katherine,Vicente,Rodrigo,Maite,Barbara,Nicolas,Martin,Filomena,Francesco,Jose,Luana,Felipe,Javier,Daniela,Caua,Josefa,Miguel,5,['Juan', 4],['Andres', 3],['Sebastian', 4],['Valeria', 4],['Natalia', 2],
+19,Jose,Felipe,Miguel,Francisca,Barbara,Orlando,Luana,Josefa,Rodrigo,Valentina,Pablo,Vicente,Juan,Natalia,Maximiliano,Maite,Martin,Nicolas,Caua,2,Sofia 2,Filomena 3,
 %OUTPUT
-Juan ['Orlando', 'Valentina', 'Tamara', 'Katherine']
-Andres ['Vicente', 'Rodrigo', 'Maite']
-Sebastian ['Barbara', 'Nicolas', 'Martin', 'Filomena']
-Valeria ['Francesco', 'Jose', 'Luana', 'Felipe']
-Natalia ['Javier', 'Daniela']
-d17479ace6925f7fcda22effd99225b0
+Sofia ['Jose', 'Felipe']
+Filomena ['Miguel', 'Francisca', 'Barbara']
+b63018a524ae81043f80d8e3c459ebf4
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-11,Caua,Daniela,Felipe,Rodrigo,Valeria,Andres,Luana,Maite,Sebastian,Javier,Orlando,4,['Vicente', 3],['Valentina', 2],['Natalia', 3],['Josefa', 4],
+5,Maite,Orlando,Rodrigo,Nicole,Tamara,5,Pablo 3,Francesco 3,Juan 3,Francisca 2,Vicente 4,
 %OUTPUT
-Vicente ['Caua', 'Daniela', 'Felipe']
-Valentina ['Rodrigo', 'Valeria']
-Natalia ['Andres', 'Luana', 'Maite']
-Josefa ['Sebastian', 'Javier', 'Orlando']
-8e0565e6f35c9667518270b3deae11cb
+Pablo ['Maite', 'Orlando', 'Rodrigo']
+Francesco ['Nicole', 'Tamara']
+Juan []
+Francisca []
+Vicente []
+26bbc4057c0e3549a7e592599a9b15b9
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-19,Valentina,Barbara,Andres,Filomena,Javier,Josefa,Fabrizzio,Valeria,Rodrigo,Nicolas,Sebastian,Tamara,Maite,Martin,Orlando,Luana,Katherine,Felipe,Daniela,2,['Pablo', 4],['Manuel', 4],
+12,Javier,Fabrizzio,Barbara,Sofia,Francisca,Caua,Nicole,Maximiliano,Miguel,Natalia,Josefa,Rodrigo,3,Jose 3,Martin 3,Valeria 4,
 %OUTPUT
-Pablo ['Valentina', 'Barbara', 'Andres', 'Filomena']
-Manuel ['Javier', 'Josefa', 'Fabrizzio', 'Valeria']
-6987ab0aacc92ef2c39a123a42f78778
+Jose ['Javier', 'Fabrizzio', 'Barbara']
+Martin ['Sofia', 'Francisca', 'Caua']
+Valeria ['Nicole', 'Maximiliano', 'Miguel', 'Natalia']
+52f8b69f3674228f66ec63427bffa873
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-6,Maite,Nicolas,Valentina,Manuel,Fabrizzio,Josefa,3,['Juan', 4],['Daniela', 3],['Sofia', 4],
+7,Natalia,Rodrigo,Nicole,Francisca,Sofia,Orlando,Pablo,3,Juan 3,Maite 2,Fabrizzio 3,
 %OUTPUT
-Juan ['Maite', 'Nicolas', 'Valentina', 'Manuel']
-Daniela ['Fabrizzio', 'Josefa']
-Sofia []
-bb41183aae12275bdda35449c48bc354
+Juan ['Natalia', 'Rodrigo', 'Nicole']
+Maite ['Francisca', 'Sofia']
+Fabrizzio ['Orlando', 'Pablo']
+6cd385c653dd5ebc2f855a344fd68baa
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-16,Jose,Filomena,Nicole,Tamara,Javier,Luana,Manuel,Maximiliano,Maite,Daniela,Caua,Martin,Vicente,Natalia,Valentina,Nicolas,4,['Sofia', 4],['Felipe', 4],['Josefa', 2],['Pablo', 2],
+6,Miguel,Daniela,Barbara,Valentina,Maite,Francesco,5,Felipe 4,Fabrizzio 3,Martin 4,Manuel 2,Pablo 3,
 %OUTPUT
-Sofia ['Jose', 'Filomena', 'Nicole', 'Tamara']
-Felipe ['Javier', 'Luana', 'Manuel', 'Maximiliano']
-Josefa ['Maite', 'Daniela']
-Pablo ['Caua', 'Martin']
-c0c91aa8bdef2817a3a3fd034712bce9
+Felipe ['Miguel', 'Daniela', 'Barbara', 'Valentina']
+Fabrizzio ['Maite', 'Francesco']
+Martin []
+Manuel []
+Pablo []
+c0ad22eb1f81c0ab162252e804a2e884
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-17,Caua,Francesco,Tamara,Katherine,Nicolas,Maite,Daniela,Martin,Sofia,Miguel,Sebastian,Valeria,Francisca,Pablo,Fabrizzio,Barbara,Filomena,4,['Valentina', 4],['Luana', 2],['Jose', 2],['Javier', 4],
+17,Fabrizzio,Katherine,Valeria,Jose,Valentina,Rodrigo,Nicole,Francesco,Natalia,Caua,Daniela,Barbara,Filomena,Pablo,Andres,Francisca,Maite,5,Tamara 4,Vicente 2,Juan 4,Felipe 4,Josefa 2,
 %OUTPUT
-Valentina ['Caua', 'Francesco', 'Tamara', 'Katherine']
-Luana ['Nicolas', 'Maite']
-Jose ['Daniela', 'Martin']
-Javier ['Sofia', 'Miguel', 'Sebastian', 'Valeria']
-b044b260472389b45d618c97d20f17f4
+Tamara ['Fabrizzio', 'Katherine', 'Valeria', 'Jose']
+Vicente ['Valentina', 'Rodrigo']
+Juan ['Nicole', 'Francesco', 'Natalia', 'Caua']
+Felipe ['Daniela', 'Barbara', 'Filomena', 'Pablo']
+Josefa ['Andres', 'Francisca']
+866ed7fe8730cf7254d9f28f90c6d21b
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-18,Andres,Sofia,Orlando,Juan,Luana,Pablo,Sebastian,Daniela,Barbara,Valeria,Maite,Javier,Caua,Rodrigo,Valentina,Tamara,Maximiliano,Fabrizzio,2,['Filomena', 3],['Jose', 3],
+8,Francisca,Martin,Maite,Barbara,Daniela,Fabrizzio,Andres,Katherine,4,Valentina 2,Pablo 3,Juan 3,Luana 3,
 %OUTPUT
-Filomena ['Andres', 'Sofia', 'Orlando']
-Jose ['Juan', 'Luana', 'Pablo']
-2c1a539c9684eff817fbee30552535a3
+Valentina ['Francisca', 'Martin']
+Pablo ['Maite', 'Barbara', 'Daniela']
+Juan ['Fabrizzio', 'Andres', 'Katherine']
+Luana []
+bb1903d40f37df846eab302fa8bb39d5
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-20,Natalia,Orlando,Barbara,Martin,Nicole,Daniela,Katherine,Caua,Jose,Valentina,Tamara,Filomena,Francisca,Luana,Sofia,Maximiliano,Rodrigo,Francesco,Nicolas,Josefa,4,['Sebastian', 3],['Pablo', 4],['Vicente', 4],['Juan', 2],
+20,Josefa,Natalia,Maximiliano,Pablo,Sofia,Fabrizzio,Sebastian,Luana,Valeria,Francisca,Nicole,Manuel,Tamara,Maite,Miguel,Caua,Felipe,Valentina,Vicente,Jose,3,Andres 3,Nicolas 3,Martin 3,
 %OUTPUT
-Sebastian ['Natalia', 'Orlando', 'Barbara']
-Pablo ['Martin', 'Nicole', 'Daniela', 'Katherine']
-Vicente ['Caua', 'Jose', 'Valentina', 'Tamara']
-Juan ['Filomena', 'Francisca']
-666fd8778c6299311010e4a07dd0f84e
+Andres ['Josefa', 'Natalia', 'Maximiliano']
+Nicolas ['Pablo', 'Sofia', 'Fabrizzio']
+Martin ['Sebastian', 'Luana', 'Valeria']
+ee1d4d9cf584eb8002999707982155ca
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-15,Valentina,Maximiliano,Natalia,Fabrizzio,Valeria,Filomena,Francesco,Javier,Jose,Rodrigo,Tamara,Felipe,Luana,Sofia,Vicente,4,['Martin', 2],['Miguel', 3],['Caua', 4],['Manuel', 3],
+6,Daniela,Maite,Manuel,Nicole,Luana,Caua,3,Andres 4,Josefa 4,Sebastian 3,
 %OUTPUT
-Martin ['Valentina', 'Maximiliano']
-Miguel ['Natalia', 'Fabrizzio', 'Valeria']
-Caua ['Filomena', 'Francesco', 'Javier', 'Jose']
-Manuel ['Rodrigo', 'Tamara', 'Felipe']
-1cbe48ab1b31944babac17a693e6dc19
+Andres ['Daniela', 'Maite', 'Manuel', 'Nicole']
+Josefa ['Luana', 'Caua']
+Sebastian []
+1d0045622845e28e22a987ec87f40fc4
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-15,Rodrigo,Filomena,Daniela,Maite,Fabrizzio,Nicolas,Josefa,Orlando,Felipe,Barbara,Natalia,Nicole,Tamara,Vicente,Miguel,3,['Maximiliano', 3],['Luana', 4],['Valeria', 4],
+5,Maite,Valeria,Francesco,Tamara,Miguel,4,Natalia 4,Orlando 3,Nicolas 3,Caua 2,
 %OUTPUT
-Maximiliano ['Rodrigo', 'Filomena', 'Daniela']
-Luana ['Maite', 'Fabrizzio', 'Nicolas', 'Josefa']
-Valeria ['Orlando', 'Felipe', 'Barbara', 'Natalia']
-a3a2819a6f7cb4bbed360419c1012d16
+Natalia ['Maite', 'Valeria', 'Francesco', 'Tamara']
+Orlando ['Miguel']
+Nicolas []
+Caua []
+b9937106decf14cdf6fd093d0c51b362
