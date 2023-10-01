@@ -6,317 +6,254 @@ Case 1
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("534678912672195348198342567859761423426853791713924856961537284287419635345286179"))
+Maite,Barbara,Natalia,Valentina,Miguel,['Josefa', 4],['Orlando', 3],['Valeria', 3],
 %OUTPUT
-+-------+-------+-------+
-|-5-3-4-|-6-7-8-|-9-1-2-|
-|-6-7-2-|-1-9-5-|-3-4-8-|
-|-1-9-8-|-3-4-2-|-5-6-7-|
-+-------+-------+-------+
-|-8-5-9-|-7-6-1-|-4-2-3-|
-|-4-2-6-|-8-5-3-|-7-9-1-|
-|-7-1-3-|-9-2-4-|-8-5-6-|
-+-------+-------+-------+
-|-9-6-1-|-5-3-7-|-2-8-4-|
-|-2-8-7-|-4-1-9-|-6-3-5-|
-|-3-4-5-|-2-8-6-|-1-7-9-|
-+-------+-------+-------+
+Josefa ['Maite', 'Barbara', 'Natalia', 'Valentina']
+Orlando ['Miguel']
+Valeria []
+Josefa, ['Maite', 'Barbara', 'Natalia', 'Valentina']
+Orlando, ['Miguel']
+Valeria, []
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789"))
+Katherine,Orlando,Daniela,Rodrigo,Maite,Valeria,Nicole,Juan,Andres,Pablo,Martin,Javier,Felipe,['Barbara', 2],['Sofia', 4],['Francesco', 3],['Tamara', 2],
 %OUTPUT
-+-------+-------+-------+
-|-1-2-3-|-4-5-6-|-7-8-9-|
-|-1-2-3-|-4-5-6-|-7-8-9-|
-|-1-2-3-|-4-5-6-|-7-8-9-|
-+-------+-------+-------+
-|-1-2-3-|-4-5-6-|-7-8-9-|
-|-1-2-3-|-4-5-6-|-7-8-9-|
-|-1-2-3-|-4-5-6-|-7-8-9-|
-+-------+-------+-------+
-|-1-2-3-|-4-5-6-|-7-8-9-|
-|-1-2-3-|-4-5-6-|-7-8-9-|
-|-1-2-3-|-4-5-6-|-7-8-9-|
-+-------+-------+-------+
+Barbara ['Katherine', 'Orlando']
+Sofia ['Daniela', 'Rodrigo', 'Maite', 'Valeria']
+Francesco ['Nicole', 'Juan', 'Andres']
+Tamara ['Pablo', 'Martin']
+Barbara, ['Katherine', 'Orlando']
+Sofia, ['Daniela', 'Rodrigo', 'Maite', 'Valeria']
+Francesco, ['Nicole', 'Juan', 'Andres']
+Tamara, ['Pablo', 'Martin']
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("123456789"))
+Tamara,Natalia,Felipe,Katherine,Filomena,Barbara,Daniela,Manuel,Maite,Valentina,Rodrigo,Javier,Nicole,['Martin', 4],['Sofia', 4],
 %OUTPUT
-+-------+-------+-------+
-|-1-2-3-|-4-5-6-|-7-8-9-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
+Martin ['Tamara', 'Natalia', 'Felipe', 'Katherine']
+Sofia ['Filomena', 'Barbara', 'Daniela', 'Manuel']
+Martin, ['Tamara', 'Natalia', 'Felipe', 'Katherine']
+Sofia, ['Filomena', 'Barbara', 'Daniela', 'Manuel']
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("575"))
+Valeria,Josefa,Miguel,Jose,Natalia,['Nicole', 4],['Katherine', 3],['Maite', 3],
 %OUTPUT
-+-------+-------+-------+
-|-5-7-5-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
+Nicole ['Valeria', 'Josefa', 'Miguel', 'Jose']
+Katherine ['Natalia']
+Maite []
+Nicole, ['Valeria', 'Josefa', 'Miguel', 'Jose']
+Katherine, ['Natalia']
+Maite, []
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("483"))
+Daniela,Francisca,Sofia,Luana,Maite,Juan,Sebastian,Josefa,Francesco,Jose,Miguel,Rodrigo,Natalia,Fabrizzio,Martin,Maximiliano,Caua,['Orlando', 4],['Filomena', 4],['Nicole', 2],
 %OUTPUT
-+-------+-------+-------+
-|-4-8-3-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
+Orlando ['Daniela', 'Francisca', 'Sofia', 'Luana']
+Filomena ['Maite', 'Juan', 'Sebastian', 'Josefa']
+Nicole ['Francesco', 'Jose']
+Orlando, ['Daniela', 'Francisca', 'Sofia', 'Luana']
+Filomena, ['Maite', 'Juan', 'Sebastian', 'Josefa']
+Nicole, ['Francesco', 'Jose']
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("556911598262539734656842677848185812321171743167339791785259442587819712969117462"))
+Nicole,Natalia,Rodrigo,Daniela,Nicolas,['Sebastian', 2],['Valeria', 2],
 %OUTPUT
-+-------+-------+-------+
-|-5-5-6-|-9-1-1-|-5-9-8-|
-|-2-6-2-|-5-3-9-|-7-3-4-|
-|-6-5-6-|-8-4-2-|-6-7-7-|
-+-------+-------+-------+
-|-8-4-8-|-1-8-5-|-8-1-2-|
-|-3-2-1-|-1-7-1-|-7-4-3-|
-|-1-6-7-|-3-3-9-|-7-9-1-|
-+-------+-------+-------+
-|-7-8-5-|-2-5-9-|-4-4-2-|
-|-5-8-7-|-8-1-9-|-7-1-2-|
-|-9-6-9-|-1-1-7-|-4-6-2-|
-+-------+-------+-------+
+Sebastian ['Nicole', 'Natalia']
+Valeria ['Rodrigo', 'Daniela']
+Sebastian, ['Nicole', 'Natalia']
+Valeria, ['Rodrigo', 'Daniela']
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("1351498191283596343164538882834423869956878194936894798961884795264896885686635552253525942915599474"))
+Maite,Sofia,Vicente,Tamara,Francisca,Natalia,Barbara,Valentina,Juan,Javier,Manuel,Josefa,Orlando,Pablo,Luana,Andres,Filomena,Felipe,Rodrigo,['Fabrizzio', 2],['Daniela', 2],
 %OUTPUT
-+-------+-------+-------+
-|-1-3-5-|-1-4-9-|-8-1-9-|
-|-1-2-8-|-3-5-9-|-6-3-4-|
-|-3-1-6-|-4-5-3-|-8-8-8-|
-+-------+-------+-------+
-|-2-8-3-|-4-4-2-|-3-8-6-|
-|-9-9-5-|-6-8-7-|-8-1-9-|
-|-4-9-3-|-6-8-9-|-4-7-9-|
-+-------+-------+-------+
-|-8-9-6-|-1-8-8-|-4-7-9-|
-|-5-2-6-|-4-8-9-|-6-8-8-|
-|-5-6-8-|-6-6-3-|-5-5-5-|
-+-------+-------+-------+
+Fabrizzio ['Maite', 'Sofia']
+Daniela ['Vicente', 'Tamara']
+Fabrizzio, ['Maite', 'Sofia']
+Daniela, ['Vicente', 'Tamara']
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("69754154836143494488816953579211127662431365191258"))
+Jose,Orlando,Tamara,Rodrigo,Juan,Francisca,Manuel,Barbara,Sofia,Sebastian,Vicente,Felipe,Luana,Josefa,Miguel,Maite,Andres,Valentina,Caua,['Katherine', 4],['Nicolas', 2],['Nicole', 4],['Maximiliano', 2],
 %OUTPUT
-+-------+-------+-------+
-|-6-9-7-|-5-4-1-|-5-4-8-|
-|-3-6-1-|-4-3-4-|-9-4-4-|
-|-8-8-8-|-1-6-9-|-5-3-5-|
-+-------+-------+-------+
-|-7-9-2-|-1-1-1-|-2-7-6-|
-|-6-2-4-|-3-1-3-|-6-5-1-|
-|-9-1-2-|-5-8-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
+Katherine ['Jose', 'Orlando', 'Tamara', 'Rodrigo']
+Nicolas ['Juan', 'Francisca']
+Nicole ['Manuel', 'Barbara', 'Sofia', 'Sebastian']
+Maximiliano ['Vicente', 'Felipe']
+Katherine, ['Jose', 'Orlando', 'Tamara', 'Rodrigo']
+Nicolas, ['Juan', 'Francisca']
+Nicole, ['Manuel', 'Barbara', 'Sofia', 'Sebastian']
+Maximiliano, ['Vicente', 'Felipe']
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("65472629297753367742943172993482163546567868225984"))
+Jose,Francisca,Vicente,Javier,Fabrizzio,Manuel,Valentina,Valeria,Filomena,Tamara,Sebastian,Maximiliano,Andres,Maite,['Katherine', 2],['Josefa', 3],
 %OUTPUT
-+-------+-------+-------+
-|-6-5-4-|-7-2-6-|-2-9-2-|
-|-9-7-7-|-5-3-3-|-6-7-7-|
-|-4-2-9-|-4-3-1-|-7-2-9-|
-+-------+-------+-------+
-|-9-3-4-|-8-2-1-|-6-3-5-|
-|-4-6-5-|-6-7-8-|-6-8-2-|
-|-2-5-9-|-8-4-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
+Katherine ['Jose', 'Francisca']
+Josefa ['Vicente', 'Javier', 'Fabrizzio']
+Katherine, ['Jose', 'Francisca']
+Josefa, ['Vicente', 'Javier', 'Fabrizzio']
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("11391118844834429248996495826766823225483166698148"))
+Andres,Vicente,Caua,Barbara,Maite,Manuel,Fabrizzio,Valentina,Nicole,Tamara,Juan,Nicolas,Daniela,Francesco,Valeria,Filomena,Orlando,Katherine,Sofia,Natalia,['Josefa', 2],['Miguel', 4],['Francisca', 4],
 %OUTPUT
-+-------+-------+-------+
-|-1-1-3-|-9-1-1-|-1-8-8-|
-|-4-4-8-|-3-4-4-|-2-9-2-|
-|-4-8-9-|-9-6-4-|-9-5-8-|
-+-------+-------+-------+
-|-2-6-7-|-6-6-8-|-2-3-2-|
-|-2-5-4-|-8-3-1-|-6-6-6-|
-|-9-8-1-|-4-8-X-|-X-X-X-|
-+-------+-------+-------+
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-|-X-X-X-|-X-X-X-|-X-X-X-|
-+-------+-------+-------+
+Josefa ['Andres', 'Vicente']
+Miguel ['Caua', 'Barbara', 'Maite', 'Manuel']
+Francisca ['Fabrizzio', 'Valentina', 'Nicole', 'Tamara']
+Josefa, ['Andres', 'Vicente']
+Miguel, ['Caua', 'Barbara', 'Maite', 'Manuel']
+Francisca, ['Fabrizzio', 'Valentina', 'Nicole', 'Tamara']
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("2856846879122269523251147972138281879458686193166355327842298784331243448952568195347664355438995897565467469566323239884126335836263381232331696136466363411793995378776977813742578454926479475385635944223782851484482395466124133347845346281645559987496725949999478944815815873441999968153853618445249511352495936695345793131884168844467743126581878632778443631753422593973752228566143596247932811769951118163831985992857168412195566875811658458517588791434173523272534518137511189868452723869618548788932662645643222788147587647128935914538463318914555752721959952912384366642764883279148699767832324729472796836711788222838549241113179955524277591792833966536884615165748294712824782281156649242692596949632471872587582596895512477668642333118691226292357963397239624838396586885146743813863432477155371562873135391867458237154598812479249866341248985914395144927124199283861616517669444943851151722792619338851734755372927853586528896183744892844169213647927682978512182436694699271828256587859224"))
+Daniela,Jose,Barbara,Javier,Nicolas,Luana,Felipe,Sebastian,['Martin', 3],['Natalia', 3],['Manuel', 4],['Maite', 2],['Andres', 4],
 %OUTPUT
-4ea740ba816cd3020cf82699d90fbff7
+Martin ['Daniela', 'Jose', 'Barbara']
+Natalia ['Javier', 'Nicolas', 'Luana']
+Manuel ['Felipe', 'Sebastian']
+Maite []
+Andres []
+b62e59f2d00afffe386343cb2f8f155d
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("454165454698398711967845545364665233132331414652944994979167945288192884554131316"))
+Felipe,Javier,Francesco,Jose,Sebastian,Josefa,Barbara,['Vicente', 2],['Martin', 4],['Maite', 3],
 %OUTPUT
-dd7274b992a87cec31ce6141faa8cc83
+Vicente ['Felipe', 'Javier']
+Martin ['Francesco', 'Jose', 'Sebastian', 'Josefa']
+Maite ['Barbara']
+33bf41e4d8167b448f0274e9a42830e4
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("646523719141214859754311436179361844198112586769418913942285159319748744122751962"))
+Manuel,Filomena,Fabrizzio,Orlando,Maite,Katherine,Sofia,Valeria,Rodrigo,Daniela,Pablo,Jose,Valentina,Caua,['Francisca', 2],['Maximiliano', 4],['Nicole', 2],['Natalia', 4],
 %OUTPUT
-c6c047f0d94579a8a74039e067b95abb
+Francisca ['Manuel', 'Filomena']
+Maximiliano ['Fabrizzio', 'Orlando', 'Maite', 'Katherine']
+Nicole ['Sofia', 'Valeria']
+Natalia ['Rodrigo', 'Daniela', 'Pablo', 'Jose']
+6ef4890f41a9566b8994ba8682d0b6f5
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("9312617381251541717586693614636773216483376187792337317599159784894328471211789771583166155559627634435444162961561912976895749764465288527247578479743781898166623567961351845884312974527323616621119729455498246616671528621617934337816613648732673132141763348614898696943475522645186354615921813189689146973684331999299545884223992194392928862339645491329915839777947682728846119575572739857956155113422811591936617839553765313486749775685777261118959816955285149342845151248417814533956194553699449522847671412589228173271823788983767582118916312461858726187559432516256942176857555314132761948641822923374864143779416227317554271189526935441725986164677324481489332134542265787218855727563433813117494368252657699944147674259774532478953895958675195484995164697216322426844769537549111429835759953854917372386883292569841888612422422577227692221159718423655695137673522942334613399292246937585597234296917286754565431917676475919446332134732389734541583239941912161664222478168829979711257958742213"))
+Sebastian,Fabrizzio,Maite,Andres,Tamara,Rodrigo,Francisca,Francesco,Manuel,Josefa,Jose,Luana,Natalia,['Miguel', 3],['Caua', 2],
 %OUTPUT
-2fac2ac23e953c551da1b6d25fba5741
+Miguel ['Sebastian', 'Fabrizzio', 'Maite']
+Caua ['Andres', 'Tamara']
+5aed75808cd6ddaa17c096b13b597849
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("554469699222574832656653774596484494358362946142718622133471997623582168522816446"))
+Rodrigo,Sofia,Felipe,Manuel,Barbara,Maximiliano,Valeria,Daniela,Juan,Fabrizzio,Nicole,Maite,Caua,Sebastian,Valentina,Orlando,Pablo,Jose,['Filomena', 2],['Nicolas', 2],['Katherine', 2],['Martin', 2],
 %OUTPUT
-fb2ceb8a3d5a0f3a1bb29a8c8a58dea4
+Filomena ['Rodrigo', 'Sofia']
+Nicolas ['Felipe', 'Manuel']
+Katherine ['Barbara', 'Maximiliano']
+Martin ['Valeria', 'Daniela']
+ac9f0d08cf2f4cfdf7f454951a5408aa
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("2766439479447987738679698157986913394267574186167443747932975442282171327269449587684986415683753242413913283571295286245357945723924626746398682433411213145432833321219268791319532692271617133354139595266521125412623589849929262562721969572378259843172958573885179971819145881299583251289425583522955793164289632644923483317647268878692657226639731389192938568284341945619324287885748429723361235857847114597289335854367785898161692219927396962169164261126378614489315332363828152559594195241664568837382594856954914562245556637832425846112716397778182858168151864754788444165491248162982127422819733455348521561865257585933489285437293121342537597697472284582875386557795699455198284119253748266174166941445663368267638684351922698995974553198149798185899258924978813279579673323651849198242133628426378424768273146884978519299959526227845222514815119447753878512545849815453831417167162673813378643661248183131376989639491464396463334384359522247154881188675565336836386592135915569623533115311176"))
+Maximiliano,Tamara,Sofia,Fabrizzio,Josefa,Francisca,Manuel,Pablo,Maite,Valeria,Francesco,Jose,Sebastian,Juan,Rodrigo,Felipe,Orlando,Luana,Nicole,Vicente,['Andres', 4],['Katherine', 2],
 %OUTPUT
-92686f780ea7e7976be19f4acbca7692
+Andres ['Maximiliano', 'Tamara', 'Sofia', 'Fabrizzio']
+Katherine ['Josefa', 'Francisca']
+8660a15baecb8259604e56d412daa41a
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("758259222"))
+Maximiliano,Daniela,Maite,Sofia,Martin,Caua,Josefa,Rodrigo,Fabrizzio,Natalia,['Barbara', 4],['Manuel', 2],
 %OUTPUT
-119af966ee34be8fc12a816902e4c34e
+Barbara ['Maximiliano', 'Daniela', 'Maite', 'Sofia']
+Manuel ['Martin', 'Caua']
+74bede1e2fe1d2ecbd1650bc704c4ec9
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("917774712"))
+Felipe,Manuel,Jose,Nicole,Francesco,Filomena,Nicolas,Maximiliano,Tamara,Javier,Josefa,Sofia,Maite,['Francisca', 4],['Daniela', 2],['Valeria', 2],['Barbara', 4],['Natalia', 4],
 %OUTPUT
-7082a72403e194648d11de69777672af
+Francisca ['Felipe', 'Manuel', 'Jose', 'Nicole']
+Daniela ['Francesco', 'Filomena']
+Valeria ['Nicolas', 'Maximiliano']
+Barbara ['Tamara', 'Javier', 'Josefa', 'Sofia']
+Natalia ['Maite']
+3b0283179a30c6ace7e1b5a046b280b8
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("799441464"))
+Felipe,Josefa,Pablo,Maite,Maximiliano,Fabrizzio,Barbara,Miguel,Luana,Sofia,Francisca,Rodrigo,Daniela,Nicolas,Katherine,Martin,Francesco,['Caua', 2],['Juan', 2],
 %OUTPUT
-ba5d2aee9b33c4c8aaa0b6ad573df9c8
+Caua ['Felipe', 'Josefa']
+Juan ['Pablo', 'Maite']
+e86fc44fdb1571134c090a5839bddb40
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(crear_sudoku("635312648"))
+Fabrizzio,Andres,Nicolas,Maite,Vicente,Manuel,Luana,Jose,Francisca,Katherine,Sofia,Juan,Nicole,Natalia,Caua,['Miguel', 2],['Barbara', 4],
 %OUTPUT
-47c7cb4ecc4d1763191804e8ef949a32
+Miguel ['Fabrizzio', 'Andres']
+Barbara ['Nicolas', 'Maite', 'Vicente', 'Manuel']
+efe03e65d469205b5619dd6c537e8417
