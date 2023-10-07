@@ -6,7 +6,7 @@ Case 1
 publico
 %PRECODE
 %INPUT
-5
+5,
 %OUTPUT
 La suma de los primeros 5 valores es igual a 7
 %NAME
@@ -15,7 +15,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-21
+21,
 %OUTPUT
 La suma de los primeros 21 valores es igual a 17710
 %NAME
@@ -24,7 +24,7 @@ Case 3
 publico
 %PRECODE
 %INPUT
-23
+23,
 %OUTPUT
 La suma de los primeros 23 valores es igual a 46367
 %NAME
@@ -33,7 +33,7 @@ Case 4
 publico
 %PRECODE
 %INPUT
-24
+24,
 %OUTPUT
 La suma de los primeros 24 valores es igual a 75024
 %NAME
@@ -42,7 +42,7 @@ Case 5
 publico
 %PRECODE
 %INPUT
-10
+10,
 %OUTPUT
 La suma de los primeros 10 valores es igual a 88
 %NAME
@@ -51,7 +51,7 @@ Case 6
 publico
 %PRECODE
 %INPUT
-20
+20,
 %OUTPUT
 La suma de los primeros 20 valores es igual a 10945
 %NAME
@@ -60,7 +60,7 @@ Case 7
 publico
 %PRECODE
 %INPUT
-11
+11,
 %OUTPUT
 La suma de los primeros 11 valores es igual a 143
 %NAME
@@ -69,7 +69,7 @@ Case 8
 publico
 %PRECODE
 %INPUT
-16
+16,
 %OUTPUT
 La suma de los primeros 16 valores es igual a 1596
 %NAME
@@ -78,7 +78,7 @@ Case 9
 publico
 %PRECODE
 %INPUT
-6
+6,
 %OUTPUT
 La suma de los primeros 6 valores es igual a 12
 %NAME
@@ -87,7 +87,7 @@ Case 10
 publico
 %PRECODE
 %INPUT
-17
+17,
 %OUTPUT
 La suma de los primeros 17 valores es igual a 2583
 %NAME
@@ -96,7 +96,7 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-25
+25,
 %OUTPUT
 b41462e3e2205e9f0ca3a708437dec33
 %NAME
@@ -105,7 +105,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-26
+26,
 %OUTPUT
 b2e8404625b6d99921a98a8ce7a08daa
 %NAME
@@ -114,7 +114,7 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-8
+8,
 %OUTPUT
 acdfa2f2a250a2bfb159513dbcb1d93e
 %NAME
@@ -123,7 +123,7 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-14
+14,
 %OUTPUT
 6f67367e8708bd5af9aac3d2da6eb5c4
 %NAME
@@ -132,7 +132,7 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-30
+30,
 %OUTPUT
 8b6cc9fd72305cce98f9f388e17044bb
 %NAME
@@ -141,7 +141,7 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-29
+29,
 %OUTPUT
 ef1c98d4370c3a2a3468901f696df146
 %NAME
@@ -150,7 +150,7 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-12
+12,
 %OUTPUT
 f2338c31714e77f634da3e0d844fd4db
 %NAME
@@ -159,7 +159,7 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-30
+30,
 %OUTPUT
 8b6cc9fd72305cce98f9f388e17044bb
 %NAME
@@ -168,7 +168,7 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-17
+17,
 %OUTPUT
 51ab7a3e63eadc3590a7d402bba8b986
 %NAME
@@ -177,6 +177,6 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-25
+25,
 %OUTPUT
 b41462e3e2205e9f0ca3a708437dec33

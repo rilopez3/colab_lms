@@ -6,7 +6,8 @@ Case 1
 publico
 %PRECODE
 %INPUT
-hola,como estas,ATENTO,Camaron que se duerme se l,pasando por aqui,contando ovejas,ATENTO,o lleva la corriente,sigo entregando,inputs,fin,%CODE
+hola,como estas,ATENTO,Camaron que se duerme se l,pasando por aqui,contando ovejas,ATENTO,o lleva la corriente,sigo entregando,inputs,fin,
+%CODE
 %OUTPUT
 Camaron que se duerme se lo lleva la corriente
 %NAME

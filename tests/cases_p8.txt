@@ -6,7 +6,7 @@ Case 1
 publico
 %PRECODE
 %INPUT
-20
+20,
 %OUTPUT
 ES DE NIVEN
 %NAME
@@ -15,7 +15,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-27
+27,
 %OUTPUT
 ES DE NIVEN
 %NAME
@@ -24,7 +24,7 @@ Case 3
 publico
 %PRECODE
 %INPUT
-153
+153,
 %OUTPUT
 ES DE NIVEN
 %NAME
@@ -33,7 +33,7 @@ Case 4
 publico
 %PRECODE
 %INPUT
-3467
+3467,
 %OUTPUT
 NO LO ES
 %NAME
@@ -42,7 +42,7 @@ Case 5
 publico
 %PRECODE
 %INPUT
-4193
+4193,
 %OUTPUT
 NO LO ES
 %NAME
@@ -51,7 +51,7 @@ Case 6
 publico
 %PRECODE
 %INPUT
-582
+582,
 %OUTPUT
 NO LO ES
 %NAME
@@ -60,7 +60,7 @@ Case 7
 publico
 %PRECODE
 %INPUT
-2731
+2731,
 %OUTPUT
 NO LO ES
 %NAME
@@ -69,7 +69,7 @@ Case 8
 publico
 %PRECODE
 %INPUT
-3350
+3350,
 %OUTPUT
 NO LO ES
 %NAME
@@ -78,7 +78,7 @@ Case 9
 publico
 %PRECODE
 %INPUT
-4054
+4054,
 %OUTPUT
 NO LO ES
 %NAME
@@ -87,7 +87,7 @@ Case 10
 publico
 %PRECODE
 %INPUT
-3162
+3162,
 %OUTPUT
 NO LO ES
 %NAME
@@ -96,7 +96,7 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-1336
+1336,
 %OUTPUT
 f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
@@ -105,7 +105,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-763
+763,
 %OUTPUT
 f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
@@ -114,7 +114,7 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-1955
+1955,
 %OUTPUT
 f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
@@ -123,7 +123,7 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-38
+38,
 %OUTPUT
 f04fe16e571f5d3b19790e9e7ac6c05e
 %NAME
@@ -132,7 +132,7 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-156
+156,
 %OUTPUT
 65cfdcce8c02258dad4655a705f33c9c
 %NAME
@@ -141,7 +141,7 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-162
+162,
 %OUTPUT
 65cfdcce8c02258dad4655a705f33c9c
 %NAME
@@ -150,7 +150,7 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-190
+190,
 %OUTPUT
 65cfdcce8c02258dad4655a705f33c9c
 %NAME
@@ -159,7 +159,7 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-192
+192,
 %OUTPUT
 65cfdcce8c02258dad4655a705f33c9c
 %NAME
@@ -168,7 +168,7 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-198
+198,
 %OUTPUT
 65cfdcce8c02258dad4655a705f33c9c
 %NAME
@@ -177,6 +177,6 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-200
+200,
 %OUTPUT
 65cfdcce8c02258dad4655a705f33c9c
