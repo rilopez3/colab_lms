@@ -1,0 +1,231 @@
+%PREG
+Pregunta 4
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([["frase", " ", "1"], ["f", "r", "a", "s", "e", " ", "2"], ["fr", "a", "se", " ", "3"]], "iz")
+%OUTPUT
+frase 1
+frase 2
+frase 3
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([["frase", " ", "1"], ["f", "r", "a", "s", "e", " ", "2"], ["fr", "a", "se", " ", "3"]], "der")
+%OUTPUT
+3 seafr
+2 esarf
+1 frase
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['pzja', 'goj', 'HAn', 'UwxGR'], ['uW¿Wm', '2EGY', '85', 'jYkN', '1f5'], ['2', '!w', 'seJw', '910%', 'lKS'], ['2weDJ', '$', 'x%', 'nko8', 'U!¡n']], der)
+%OUTPUT
+U!¡nnko8x%$2weDJ
+lKS910%seJw!w2
+1f5jYkN852EGYuW¿Wm
+UwxGRHAngojpzja
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['H%m', 'Bn', '¿WGTI', '$'], ['SUk!Y', 'H', '9di9z', '9V1J3'], ['h9Cq', '9$', 'qaF', '34B'], ['eQ', 'i ayz', 'lU', 'fbzVQ'], ['D', 'QRYnU', 'O', '%S']], iz)
+%OUTPUT
+H%mBn¿WGTI$
+SUk!YH9di9z9V1J3
+h9Cq9$qaF34B
+eQi ayzlUfbzVQ
+DQRYnUO%S
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['DSAxr', 'd8h', 'N5', 'GEQ', 'RFy#t'], ['rUn', 'c', 'cI0?', 'f!cS2'], ['cvz', 'o ', 'Eq', '81']], iz)
+%OUTPUT
+DSAxrd8hN5GEQRFy#t
+rUnccI0?f!cS2
+cvzo Eq81
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['cRy', '8S$a', 'Me', 'J'], ['g0', 'B', 'fnQ', 'rJNV'], ['0', ' ', 'qUGe', 'YlgY#'], ['x$?', '7', 'C6C', 'N!UAU'], ['B0MI', 'S¡jk', 'u8M', '19#zc']], iz)
+%OUTPUT
+cRy8S$aMeJ
+g0BfnQrJNV
+0 qUGeYlgY#
+x$?7C6CN!UAU
+B0MIS¡jku8M19#zc
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['lrT5', 'l', '¡uR?h', 'GrA', 'md'], ['ckO', 'LJ¿zj', 'z', 'Y5uS', 'R¡D'], ['mCRJz', '9Sa', 'SB', 'f'], ['h', 'V', 'v', 'bEA'], ['fx', 'h', '9ogGv', '!', '8QN']], der)
+%OUTPUT
+8QN!9ogGvhfx
+bEAvVh
+fSB9SamCRJz
+R¡DY5uSzLJ¿zjckO
+mdGrA¡uR?hllrT5
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['aPtA', 'i', '1C¿', '¿TI#3'], ['1Av$q', 'E', '54MLZ', 'U2'], ['##D', 'ho%g', 'TGMA%', 'v']], der)
+%OUTPUT
+vTGMA%ho%g##D
+U254MLZE1Av$q
+¿TI#31C¿iaPtA
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['ln', '7x2B', 'aBkv', '¿', 'M'], ['M68A¿', 'G1bQ', 'Qz9gu', '4I0', '8'], ['I', 'Ec¡aa', ' pk¡1', 'v7mLr']], iz)
+%OUTPUT
+ln7x2BaBkv¿M
+M68A¿G1bQQz9gu4I08
+IEc¡aa pk¡1v7mLr
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['LGFF%', 'xraAq', 'HI%M0', 'bvMFg', 'I'], ['tmpn', '?xX6', 'SDmQ', '5la', 'n'], ['Y', '7fI7', '1Jb', 'h8'], ['2j', 'F', 'hhs', 'HoJ'], ['uPjS', 'BZ6D', 'zJ$9n', '3? ']], der)
+%OUTPUT
+3? zJ$9nBZ6DuPjS
+HoJhhsF2j
+h81Jb7fI7Y
+n5laSDmQ?xX6tmpn
+IbvMFgHI%M0xraAqLGFF%
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['wAg', '¡HC#!$pMj5', 'AS6i8QZGm', 'HygjK6n', 'fq6VB0', 'ct9kY2j5Og', '7S¿JeO8v', '¿DXC9YbYA'], ['3A%vtDowKZ', '#Qi', ' YDnid', 'qao#0f4l', 'liiDi', 'kO'], ['g¿j', 't6Mo6i', 'oFKYn2gjw', 'f10QxCsV ', 'fKSxylhm', 'P', 'Pxy2xeI', ' Gj2oAFEV8', 'Abp9!Q9', 'aFFfo9nEgc', 'y$0'], ['KY5c3U', '!9kD7¿6', 'c', '6cU'], ['5u', 'Do', 'j', ' ', 'qd7MoTP', 'PLyHFwLYn0', 'VuUuShq', 'N koVN$16', '8%Owzs', 'ehefkX#LiO', 'o$ bFZu', 's3c?v?', '¿$Q'], ['QVk0', 'fUhH2q?p', 'PS!Z c6', '?YBT?#er', 'lbYs', 'z7?I', 'CDJengDOx', 'KsjuRUl8', 'GBs8RfW', 'LilL', '!1eEJpQf', 'kR#Wc', 'CKJ15QyWqI'], ['zp', '5', '?', 'jLTfyvFM', 'kI?EpvQqt', 'L16Uo', 'Ba', 'm1', 'MMNsO', '6pQHTDIIP7', 'mCEW', 'm9F', 'SQ1Zfc', '$P', 'DfCEPy¡9']], der)
+%OUTPUT
+08e426b42e45699d822b4b4bbff49cfa
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['BazPv', 'WGZNclxdz', 'B!QmqU', '1MjFf8tq#F', 'Tpox', 'HF', 'et L', 'oJksejKc', 'q?JA#w', 'H0xQm##', 'F', 'Q?taB#e', 'ZD$h', 't73M%3Ru'], ['2oOib', 'SrmnOREq', 'EOqW!$6vW', 'Jw!cDjR', 'uFN¡hqAs', '$KXn#', 'UivxeVoKuS', 'zy%Wl', 'vXxp79', '%TO¿FZJG2L', '6f'], ['K', 'p', '¿NeD%phN?4', 'kk'], ['#AzBZ?TTxj', '1VkrOg', 'k$1F', 'N', 'Exnvn5#0bg', 'w6GmIM%7', 'fl', 'q#UtE']], iz)
+%OUTPUT
+2aaf5eafa7b925ddf32bdb9d4c5bb716
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['0%', '¡1!Ii%6J', '9z', 'eLTMC', 'pvTFKZe%Ed', 'C1yh$M3aVR', '3q6Fk', 'hh#sDt7r', 'T4LJTKB', 'V'], ['5T6nC', 'kJjgp', '9GEK5PL', 'jX8Y', 'o#z', 'TR', 'dmP9', 'FWz', 'rI $?mst', 'o?', 'A', 'F$Ziqe2', '0', 'kPAD%'], ['A', 'Rj1fLN?tBg', 'V%83hT#mU', 'pT ', '8SJ1Oef', '$', 'k86IA', '4WZS', 'j', 'TxAkpI', 'Ui¿u%u']], iz)
+%OUTPUT
+aa9b414cc10dd450d638af3456da4f87
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['A!%TMd', 'DN¡H3e', 'cJdpn4', '4K9mT9'], ['¿Efs2r', 'bne¿OL2d8$', 'YBJ', 'M7c#QFe', 'akDz sQkZF', '!qGQT', 'gG', 'L17', 'Xel 4', 'yG¿owEFh8n'], ['UX', 'T', '77fKzCp4tn', '2jSU', 'T', 'M2zroZa$J', 'W1TFN9P%', 'mk4j%fGM', 'E0', 'X', 'KT¿4s', 'XGygc?oO8G', ' dSlCTqR', 'Tojno', 'd'], ['WvZH', 'S', 'TyL', 'eSmPR', 'i5V¡zDT', 'jGc7b7', 'r¡m', '4ly2?klP', 'qqjtyL¿M6', 'B', 'i', 'wh9', 'C', 'HK0gd4 YvP'], ['kJl1Yy6mCh', 'A', 'p', 'Gf3fl', 'kCkKAk', 'AYu5wrpB!N', 'P%', 'is¡n']], der)
+%OUTPUT
+a4ba3874c4797556d172b3aba5ce91a7
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['9¿3Sn', 'dGdbDD$s', 'W7Z', 'SITxMc$74', 'LwZy', 'Y¿xc1l', 'ufwqvt#2QE', 'G', 'QdPKuapUxy', 'J', 'V9WRJVi', 'sG%52e', 'l¡', 'LidDl1Et', 'WdRQF0'], ['pN¿2sKO', '5EH7fnU', 'Ju¡v', 'wy dX', 'guxh8KU', '0NQFI', 'YAJdU', 'YL', 'gwb', 'umypUf#3f', '¿yFA5', '7p', '0JKqN', 'KTKw', 'Lw¡B6ENY'], ['UcB9Cfj', 'kaT01%a3o', 'zRlLQv4', 'YVCh'], ['!Wx', '4Til', 'pxGU%', '3', 'CC fVS¡', '¡2pn#r'], ['$2NST6J?N', 'YblbS7Ar¿', 'C48%l!zQzU', 'oYRX73GLu', 'faKzHPvP', '5B', 'A ', '1irKoof3y', '%', 'kigR6$o¿qS'], ['08t%', 'GvQ$', '2l47¿wWN4F', 'K6FKTgJ', 'MwLy¿Jd$0H', '0L99', 'r¿QNC', 'sti0K', '!', ' 2', 'cUN8?iX#', 'XPff', 'o', 'CWjx', '2pQw#J'], ['OYJJS5', 'IxeFV', '8$pcoKgla', '#nERTLMS', '4PdHtR¡i$', 'jCLU%q', 'q!XcnL917', 'wkz?0fe¿rs', 'NZb!p', '3', '1ZFE', 'P', 'xfk#607Rel', 'UL5Yc¡AU'], ['a', 'L', 'RoR#9$75N', 'XeVQ', 'oX', '¿t', 'i%Vz']], iz)
+%OUTPUT
+4f961ca7e016f5afdf647dc6252eb912
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['M0#XDM', 'Jv', 'K 4IUyEzKT', '?Ut', 'wMT', '¡Sz', '3sE¿TqLRj', 'u8aIPd3F', 'Z'], ['ekD8Qw5', 'Ep', 'cWu83xaTg', 'UmCs!t'], ['72mV¡2Dw', 's¡V1GN', '#9JEMYh!c', 'sh7C0Y¿O', '%Qf', 'c', 'oi2#xr##3', 'uby m', 'Xd8D', 'D NOZBvNO', 'qiQJ', 'yW8UCU', 'Bcd', 'KBa7S', 'lohO'], ['8L9U', 'esjr1v', 'wdQ%xU', 'uA%hVV', 'hT1Ldv!!zU', 'TTn '], ['g!McrsSWO', '3R', 'BK!', 'vb#TD¡tawR', 'lYa', 'nnyEtFq', '%tE¿', 'B?w5bw6', '?wZ'], ['Gl2kGvG3E2', 'dQ7', 'ik$9I%78U', ' QkMQs', 'b5KG', 'npIb', 'j%$%x1¿i8'], ['Y?lKoC', 'lsT', 'Z', 'u!s', 'v$V', 'p4$9'], ['LduowD¡84', 'PPmiJ', 'ryWYOV', '¡', 'SMMGpH84mc', 'MITAA!$g!z', 'NpSbhIMQ', 'eZxFVblH', '6dH$s17aGK', '8lai ', 'LXJ', 'qP¡c0V'], ['3yL 6jh9JQ', '0  RD', 'LK wZB', 'J¿hkJ3vU75', 'Bh', 'Lo#hDe', 'RR1vM4By', '$pN9vNx']], iz)
+%OUTPUT
+19e1a382ef38500eadab7f474784da20
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['V', 'R', 'RNMLY7 ', 'Hwyu', 'v$oGnF5zZ6', '¿6q4y7Ucz', 'h1Ynhm', 'G 2JTRUP', 'vf0', 'U7c', 'yi5a!4Q', 'G'], ['j', 'qJivi', 'bl', 'jb', 'utZl!zP', 'N6n5y#mS', '¿UjGX', 'z'], ['YNRNn1¿', 'p', '4Z5ky', 'Ojax', 'Nx', 'Mic!euu4EB', 'A2T10sBmj', 'R2XVVRbtb9'], ['TCbxaY7C', 'ANZ', '0#XL2c$', 'kj', 'hNYPzR', '#but', 'Tf', 'E¡wpNnQenK', 'jw1rXMZKY'], ['AOLxaLxi', 'Cs#d%', 'I$¡hkz?Ud', 'wE', 't#Uov%$B0', 'kr¿', '8#IN#!', 'KP8H8Mbv', '4y6NqMphLp', 'CX$', '9¿aC', 'NrVjVtA', 'XI32HAWsX', '0tNMX115'], ['U', 'yWabpqz', 'ljcBDh8Xrm', 'e nabDjC'], ['kTo', '5f6oMIvcRv', 'hh¿ZolTp', '4fgPez¿', 'xASPWtJP9', 'UjonskCU', '$OqVc?u', 'nF%x', '7UcR']], iz)
+%OUTPUT
+99a9d8182fb5135c08f04f79f25c790c
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['8', 'yZ1fK6kvL', '0', '20x858c', '¿gCT6Q?0u', 'VET?pDLm', '6', 'F6jbM', 'mWosNv7r', 'NF8GU%Z', 'C74ettOepK', 'MDZ', '¡pgQu'], ['RK8T', 'Zf2TOnM%z', 'NK#Kdp1Yyv', 'JM', 'Jfwao!2oB', 'JXnQrFkZzx', '7ueuiQ', '1PbfFwElh', 'mJE0gAFE0', 'z9q¡s8', 'G'], ['v!p¿W$e', 'E5obcK7', '0GF', '12', 'PL2¡K', 'f?t7ZXk', 'S1', 'A'], ['dT', 'VF8', 'N7NCR204i', 'L%', 'u¿A!xO'], ['X#Kd6HgYM', 'EMY!P0W¡i', 'hP30Szxkf', '¡EuJ¿S', 'iZqajBGkG', 'cqK', 'WWd', '¡YL', 'X', 'UfwUZSF$h', 'b$a7X# DR', ' ¿n', ' ', 'L'], [' dP', '¡dJe', '%qGa', '0¡', '15CyaDG7', 'hL5P', 'Ki', 'HBUNu%MT', 'i¿w2g¿u9m', '¿B', '$D', 'LL%IosUWNM', 'rVx¿gJX', '5'], ['Q7#', 'P$fDSxdKuf', 'QhadhyGolS', '¿wXzU ', 'Td9', ' ', 'q', '6hS1cN', 'l', 'Og164S', 'citWPD', '54Hi54BZ3l', 'DT¿e', 'KbVg3X', '6eY'], ['tDeE', 'fgl5yxu', 'P#qQX', 'OQv', '¿cXFxi', 'YAFw', 'u', '#ef', 'H BauSFO', '#7dH$j', 'urY3SIJ', 'MhI', 'YCQ4Mj4%z¡', 'E'], ['p!', 'DP', '¡SDd', 'aIIUSbaP'], ['?Jqu4h', 'tGy¡RgS', '$MlqC', ' 2aQj6ql%', 'Ey', 'f4', 'W', '2Wwo9WdJ', '18qcR?bHR', 'YEK46b', 'Ma4gI', '9LaT88dt', '0S', '3UWt!PfvS%', 'whTdY$'], ['6jA', 'Nkd', '90e1B6lth', 'Y', '2uygho5', 'iE0W'], ['RVrpFIA3', 'h1oOxV', '7oRncs', 'M', '9', '4¡9$W', '?', 'Iqr', 'tZg48k$1', '¡qG']], der)
+%OUTPUT
+13d1b49535d6eaa9609f5085e7c72069
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['sjaw!MC4E', '7zwy2', '2', 'O¿¿QE', '¿', '1Zmg4', 'KAGoW6bcC', 'XhpTzn', 'y8xSAG6hA', 'Yy%ifkcB$', ' zOwxrakpt', 'totQKOwx'], ['UAj W', 'IOBr', 'oSuPbvEywk', '¡PEkc', '¿31Bd7A', 'UO7', 'VVV7e2', '0WU73Y'], ['kO', 'yVyKjZ', 'ri#Gv?e', 'H', '8X4', 'ENwxf', '1', 'N', 'C$V', 'IdOvjtzw', 'n', 'w', 'x', 'ld$X', 'ug'], ['u?dhJLbb', 'myR 2i¿¿', 'GaiSN53', 'ZWbs', 'apM3bYFd', '!6c8JI oX', '%##%b', 'r', '7M'], ['rA', 'xVi', 'itUSFj0Ic', '0', 'znDr', 'aaK', 'n%oWxi', '#', 'jFK!k', 'v3v', 'P', '$', 'y%#¡$fWJ3'], ['YF?xCTuj', 'Lci', '4 ', 'O!!rfQcU', 'Rnc?', 'b2Y06', 'ZSqqkUNM'], ['Nk', '4SfH', 'Dudmg#7k', 'ZW!Y'], ['hs', 'n7lx$CQ', 'uF#M', 'ei', '#', '¿l', 'jOO', 'wqOYflQ', 'YQRVhZdu#', 'rRQi3jz'], ['SFk4', 'Fia', '#6itcs', 'TEos5rA084', 'LH', '0mo3QUQ'], ['m', 'zb', 'UUzd4h', 'RUw#', '!cbu'], ['1xZ', 'r', 'jv%d$fc', 'vFcbNX4', 'JfK i¡', '¡h', 'm', 'Eon0FdGz', 'cD?!PM?D', 'c2LfxqOS', '7j1', '%is¡Zb'], ['BK¡C', '5VW3A81A', 'UBycG7Lx', 'IT¿g', 'j', 'SaOM¿W'], ['UBG', 'mxGZdH5', '4', 'Xk', '4U1fOW'], ['PH', '¿ n', 'zG', 'c77#V', 'Y¿$ZXpv', 'tp']], der)
+%OUTPUT
+65c7c3abdd5bb33bd9156b9b0f39cdde
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+imprimir_frases([['2BgPNm$wdg', 'BN#OSWHIN', 'tYlcAq', '¡GyZ'], ['?rdfhhr', 'p#y', 'RJX', 'ZfOrR', 'S0m#z5DkM', 'Hod'], ['iJJtzcB', 'v', ' M¿IWt!a', 'tKAYV', 'vx9U', 'OCU9', '$ ', 'V!tE', '6yVf', ' g$58 oaT', 'C', 'uN#IJ', '0¡h7hvL', 'mfiaSwC'], ['J2WyrX', 'nQyaT!Kk', 'W?L30h¿y', 'F0m', 'zOCae', 'xxSwn7 kYF', 'bXaJ¿SP', '3?Vgx7$E1'], ['nN%PGIUY4', 'GmSx on!', 'bEvzt8S4', '6gUADAbKZZ', 'SCc%', 'O!wAuv$g?f', 'uBc!', 'Cmz0F9s1u', 'G4fZ', 'Rt?9P', 'k', '$4?L', 'aRabfl', '3MYToo', 'P07LrqHnqb'], ['g?Dx4v !v', '3$PNndIT1t', 'OiEFp', 'FHBxB¡', 'F%c72MK4', '%fTE¡96¡M', 'Bu4', 'Cslh', '#6w?uX#MGY', 'MoJ5NS5', 'hVQ63BZNwk', 'Hknpl', '!Pi2LB5S', 'loSy9Ah', 'XuJ'], ['1yB', '7WT#6%I', '!Exqx?', 'RvDG5Fc', 'U¿1RMeb', 'xzOy4', '#dI1 U', 'Ue', 'O vW', 'tFQFSF', 'ybJ?dKmwH', 'scxEyo6#s', 'J¿ tx8zee', 'jfA'], ['XhGcSB', '4617%?Sc', 'eb#LZ', 'y6dh6Ll73A', 'rV8'], [' ', 'bpl3', '%mMS%9', 'mLuF?¿GPH8', 'AiPKU6U#Ft', 'eB2Yj'], ['n#ajhF', 'vQp', '2uZf', '$i%X', '¡Aw', 'I f2s7', '9o3!J', '$YupY#g#']], der)
+%OUTPUT
+d4e01ebef90d4542aba5ca267a86da4a
