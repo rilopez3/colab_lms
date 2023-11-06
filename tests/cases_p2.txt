@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dividir_lista(["l", "#", "D", "6", "Q", "D", "9", "D", "A"], "D"))
+print(str(dividir_lista(["l", "#", "D", "6", "Q", "D", "9", "D", "A"], "D")))
 %OUTPUT
-[["l", "#", "D"], ["6", "Q", "D"], ["9", "D"], ["A"]]
+[['l', '#', 'D'], ['6', 'Q', 'D'], ['9', 'D'], ['A']]
 %NAME
 Case 2
 %TYPE
@@ -19,7 +19,7 @@ publico
 %CODE
 print(dividir_lista(["l", "#", "D", "6", "Q", "D", "9", "D", "A"], "?"))
 %OUTPUT
-["l", "#", "D", "6", "Q", "D", "9", "D", "A"]
+['l', '#', 'D', '6', 'Q', 'D', '9', 'D', 'A']
 %NAME
 Case 3
 %TYPE
