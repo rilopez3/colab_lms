@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([23, 27, 44, 82, 58, 36, 11, 33], [2, 3, 1, 2]))
 %OUTPUT
-
+[[23, 27], [44, 82, 58], [36], [11, 33]]
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([40, 35, 67, 48, 94, 63], [3, 1, 1, 1]))
 %OUTPUT
-
+[[40, 35, 67], [48], [94], [63]]
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([44, 38, 45, 91, 62, 56, 38, 42, 27, 2], [1, 6, 3]))
 %OUTPUT
-
+[[44], [38, 45, 91, 62, 56, 38], [42, 27, 2]]
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([50, 78, 11, 1, 87, 8, 73, 47, 50], [5, 2, 1, 1]))
 %OUTPUT
-
+[[50, 78, 11, 1, 87], [8, 73], [47], [50]]
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([39, 23, 69, 63, 56, 48, 17, 35, 12, 39, 13], [11]))
 %OUTPUT
-
+[[39, 23, 69, 63, 56, 48, 17, 35, 12, 39, 13]]
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([10, 44, 38, 48, 72, 95, 85, 18, 65, 46, 93, 13, 10, 60, 89, 69], [7, 5, 1, 3]))
 %OUTPUT
-
+[[10, 44, 38, 48, 72, 95, 85], [18, 65, 46, 93, 13], [10], [60, 89, 69]]
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([37, 19, 47, 30, 81, 88, 71, 75, 15, 4, 97, 19, 38, 17, 47, 79, 13, 75, 82, 23], [8, 5, 6, 1]))
 %OUTPUT
-
+[[37, 19, 47, 30, 81, 88, 71, 75], [15, 4, 97, 19, 38], [17, 47, 79, 13, 75, 82], [23]]
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([1, 85, 75, 21, 45, 6, 81, 24, 28, 39, 2, 39, 74, 4, 30, 45, 77, 55, 47, 34], [12, 8]))
 %OUTPUT
-
+[[1, 85, 75, 21, 45, 6, 81, 24, 28, 39, 2, 39], [74, 4, 30, 45, 77, 55, 47, 34]]
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([9779, 8042, 5041, 8085, 8833, 1347, 775, 1429, 4128, 2433, 5164, 6140, 1368, 4414, 8046, 830, 2250, 3039, 6288, 7078, 5686, 3204, 5215, 6949, 8981, 4192, 2610, 6752, 5802, 5209, 7865, 4175, 6155, 6009, 728, 6105, 2470, 7268, 574, 738, 6289, 5452, 7409, 418, 1166, 6991, 6258], [38, 5, 2, 1, 1]))
 %OUTPUT
-
+f4a017a901ed4c57dab24834834a4a9b
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([2466, 733, 4813, 5275, 1753, 3156, 6807, 6298, 5914, 1994, 2286, 9237, 7999, 9172, 6847, 6574, 7932, 6500, 6506, 939, 90, 2932, 6692, 1471, 613, 914, 1987, 5145, 6365, 5242, 7424, 8621, 7254, 8718, 1302, 9710, 8379, 5701, 380, 3690, 3536, 9397], [24, 14, 3, 1]))
 %OUTPUT
-
+980d44548043d6311e5d0e7e3ebc1ed0
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([3609, 5555, 9901, 9498, 8330, 168, 7901, 2569, 8943, 5316, 2343, 2402, 8430, 5069, 6693, 7975, 8536, 7364, 3397, 3085, 8460, 1964, 6365, 8165, 361, 2344, 3235, 9731, 8733, 1275, 5591, 2247, 5308, 8466, 7772, 8386, 7505, 2078, 3991, 3837, 9872, 3587], [5, 12, 25]))
 %OUTPUT
-
+a39195a3df709915f6abaca6944830be
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([3643, 4777, 9474, 444, 6879, 5348, 9441], [4, 1, 1, 1]))
 %OUTPUT
-
+99369618242ba0b502d2728015698626
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([9954, 4909, 9933, 4809, 7598, 7967, 795, 1666, 52, 9857, 7334, 8538], [3, 8, 1]))
 %OUTPUT
-
+97b0c77f8513edbc44ad666a370f9777
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([5678, 1477, 8678, 7213, 5442, 4687, 4672], [5, 1, 1]))
 %OUTPUT
-
+2711250e301e7ef56f2f35c8690445d4
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([1348, 9277, 4613, 3412, 3119, 3598, 9813, 5196, 7164, 7524, 4329, 5831, 5878, 2203, 7587, 5262, 4425, 3781, 5532, 536], [18, 1, 1]))
 %OUTPUT
-
+992bf173287f5d65ca226c66a48bc96e
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([9597, 8997, 8800, 5986, 8451, 6877, 1652, 7475, 7201, 1395, 241, 8558, 4430, 4356, 9886, 4834, 9885, 7869, 7719, 7861, 1319, 7248, 8428, 836, 9412, 5426, 5482, 7955, 7599], [27, 1, 1]))
 %OUTPUT
-
+45b682ce5669d94e2a61c08d768f7f9c
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([3686, 6080, 6482, 2275, 3761, 2765, 8687, 6434, 4744, 3499, 4567, 9072, 8473], [11, 1, 1]))
 %OUTPUT
-
+8ed36914b3093fb50158d9e6e0378bbf
 %NAME
 Case 10
 %TYPE
@@ -197,5 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-
+print(dividir_lista_determinada([7848, 1514, 582, 6871, 1959, 4352, 532, 1598, 9133, 6947, 994, 210, 6576, 4831, 8669, 3282, 3232, 3612, 7406, 6154, 9520, 3285, 6160, 7363, 1388, 1255, 1971, 6409, 5630, 3622, 6948, 3552, 4780, 6760, 8864, 1245, 6857, 6788, 3698, 9365, 3203, 8115, 3068, 5084, 1725], [31, 7, 6, 1]))
 %OUTPUT
+a64528e4ea6cabc4c88652f342d10a8e
