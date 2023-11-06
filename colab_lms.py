@@ -294,6 +294,8 @@ def run_case(case, student_code):
   INTERNAL_COUNTER_INPUT = 0
   STUDENT_OUTPUT_CONTROL = ''
 
+  case['OUTPUT'] = case['OUTPUT'].replace('\r', '')
+
   print_system('<div class="cluster_title">')
   print_system('<span>'+case['NAME'].upper() + ' ' + case['TYPE'].upper()+'</span>')
 
