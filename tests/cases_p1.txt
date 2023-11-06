@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 'X', 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 'X', 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-[4, 3]
+El tesoro se encuentra en [0, 1]
 %NAME
 Case 2
 %TYPE
@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([['X', 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 'X', 0, 0, 0, 0]]))
 %OUTPUT
-[0, 0]
+El tesoro se encuentra en [2, 4]
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 'X'], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 'X', 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-[4, 5]
+El tesoro se encuentra en [6, 1]
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0], [0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-[3, 1]
+El tesoro se encuentra en [1, 1]
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 'X', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-[2, 3]
+El tesoro se encuentra en [2, 5]
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 'X'], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 'X', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-[0, 5]
+El tesoro se encuentra en [0, 5]
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 'X', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 'X', 0, 0, 0]]))
 %OUTPUT
-[0, 5]
+El tesoro se encuentra en [4, 3]
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 'X'], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 'X', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-[0, 5]
+El tesoro se encuentra en [3, 1]
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 'X', 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], ['X', 0, 0], [0, 0, 0]]))
 %OUTPUT
-[7, 2]
+El tesoro se encuentra en [4, 0]
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([['X', 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 'X', 0]]))
 %OUTPUT
-[0, 0]
+El tesoro se encuentra en [6, 2]
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 'X', 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 'X', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-7890c3d94226ebfc98252b6617c02c7b
+53adcee01fad097712de4fe5b1f61a78
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 'X', 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 'X', 0, 0]]))
 %OUTPUT
-3e2cdbfbb560e2a76c9dccc0257dd5b3
+aeac3234ba2bc2746698d1e1792c1275
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 'X', 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 'X']]))
 %OUTPUT
-b6d8c655b185ac7372c1c4ed5bfa20a4
+5e21dbc111c00b0d865dfd04a22fd1de
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 'X', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-a3152ae4076eb5a677d526a0664664c2
+8832e5708a697c577ed6c2f3e655a30e
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 'X', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 'X'], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]))
 %OUTPUT
-ba15956f45949f7bcc61b10e31fe2932
+c15b81e6e4387ec4e930b904c68105a7
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], ['X', 0, 0, 0, 0, 0, 0]]))
 %OUTPUT
-c0b97a5109610b540cb511d8940a2c8f
+c072333be73362a67a311e9b45a5b777
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 'X', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0], [0, 0, 0], [0, 0, 0], ['X', 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]))
 %OUTPUT
-d04447f62ea584c404fb7d0ff8144eee
+b89b9f6d0ef69790a399787706c06a11
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 'X', 0, 0]]))
 %OUTPUT
-dcc6f839c4ceee3ae799c86e107cc299
+6534b79c112ba1e04b938a6360e1d2c8
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 'X', 0, 0], [0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 'X', 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]))
 %OUTPUT
-80d7fe49f64073600c22f7e67c9c764c
+f4d0da8ab7cfef291d88cc217e3ce4eb
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 'X', 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+print('El tesoro se encuentra en', encontrar_tesoro([[0, 0, 0], ['X', 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]))
 %OUTPUT
-482e0dbad84713ea7026b823b95848df
+9d8fb7de33242e5175b8445505150236
