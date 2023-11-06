@@ -1,0 +1,202 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 'X', 0]]))
+%OUTPUT
+El tesoro se encuentra en (2,3)
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 'X', 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (3,4)
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 'X', 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (3,3)
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], ['X', 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (5,0)
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 'X', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (1,1)
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 'X', 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (0,2)
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (2,3)
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 'X', 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (0,3)
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 0, 'X', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (1,2)
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 'X', 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+El tesoro se encuentra en (5,8)
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 'X', 0], [0, 0, 0], [0, 0, 0]]))
+%OUTPUT
+645e1b2814da0d17a178f9e2408cb8ea
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 'X', 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]))
+%OUTPUT
+56ea76f8554fce0de1a0146e592d34a8
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0], [0, 'X', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+9b39767c19fd51f13ddaff67b51bd3a4
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0], [0, 0, 0, 0], ['X', 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]))
+%OUTPUT
+cff572898c0acc0cef0bb533f4c1cfeb
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 'X'], [0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+bed850eb4474795f9eb82c7faa2b3aff
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0], [0, 0, 'X'], [0, 0, 0]]))
+%OUTPUT
+c6dc2931898e7464a6719cd53f3e9a58
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 'X', 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+bc6d9820487ded4dc4de23511d884844
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], ['X', 0, 0, 0, 0]]))
+%OUTPUT
+cff572898c0acc0cef0bb533f4c1cfeb
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 'X', 0], [0, 0, 0], [0, 0, 0]]))
+%OUTPUT
+bba7fc73d88d37d0d17ba017c83e17a8
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(encontrar_tesoro([[0, 0, 0], [0, 'X', 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]))
+%OUTPUT
+9b39767c19fd51f13ddaff67b51bd3a4
