@@ -1,0 +1,202 @@
+%PREG
+Pregunta 8
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 'B', 'B', 'B', 0, 'B', 'B', 'B', 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 'B', 0, 'B', 0, 0, 0], [0, 0, 0, 0, 'B', 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 'B', 0, 0]]))
+%OUTPUT
+[1, 3, 3, 3, 2, 1]
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 'B', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], ['B', 0, 0, 0, 'B', 0], ['B', 0, 0, 0, 0, 0], ['B', 0, 0, 0, 0, 0]]))
+%OUTPUT
+[1, 3, 1]
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 'B', 'B'], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], ['B', 0, 0, 0, 0], ['B', 0, 0, 0, 0]]))
+%OUTPUT
+[2, 2]
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 'B', 0, 0], [0, 0, 0, 0, 0], [0, 0, 'B', 'B', 'B']]))
+%OUTPUT
+[1, 3]
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 'B', 0, 'B', 0], [0, 0, 0, 0, 0, 'B', 0, 'B', 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 'B', 0, 0, 0, 0, 'B', 0], [0, 0, 'B', 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+[2, 2, 2, 2, 1]
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 'B'], [0, 'B', 0, 0, 'B'], [0, 'B', 0, 0, 0], [0, 'B', 0, 0, 0], ['B', 0, 0, 0, 0]]))
+%OUTPUT
+[2, 3, 1]
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 'B', 'B', 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 'B']]))
+%OUTPUT
+[3, 2, 1]
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 'B', 'B', 'B'], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0]]))
+%OUTPUT
+[3]
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 'B', 'B', 'B'], [0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+[1, 3]
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 'B', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], ['B', 0, 0, 0, 'B', 0], ['B', 0, 0, 0, 0, 0], ['B', 0, 0, 0, 0, 0]]))
+%OUTPUT
+[]
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 'B', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+b151744959edb9caf948032b98eda517
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0, 0], ['B', 'B', 'B', 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 0, 0, 0, 0, 0, 0, 'B'], ['B', 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 0, 'B', 0, 0, 0, 0, 0]]))
+%OUTPUT
+de10015ea6018a5e29fc9df4ce7a47f5
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 'B', 0, 'B', 0], [0, 0, 0, 0, 0, 'B', 0, 'B', 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 'B', 0, 0, 0, 0, 'B', 0], [0, 0, 'B', 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+58e0494c51d30eb3494f7c9198986bb9
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 'B', 'B'], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], ['B', 0, 0, 0, 0], ['B', 0, 0, 0, 0]]))
+%OUTPUT
+58e0494c51d30eb3494f7c9198986bb9
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 'B', 0], [0, 0, 'B', 0], [0, 0, 'B', 0], ['B', 0, 0, 0]]))
+%OUTPUT
+9c06ee2d63243d998b3ab2256dcdffd3
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 'B', 'B', 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 'B']]))
+%OUTPUT
+58e0494c51d30eb3494f7c9198986bb9
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 'B', 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], ['B', 0, 0, 0, 'B', 0], ['B', 0, 0, 0, 0, 0], ['B', 0, 0, 0, 0, 0]]))
+%OUTPUT
+58e0494c51d30eb3494f7c9198986bb9
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 'B', 'B', 'B', 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 'B', 'B', 'B'], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 'B', 0, 0, 0, 0, 0, 0, 0], [0, 'B', 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]))
+%OUTPUT
+8fd236afc42125481a9809d1a887acd6
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 0, 0, 0, 0, 0], ['B', 'B', 'B', 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 0, 0, 0, 0, 0, 0, 'B'], ['B', 0, 0, 0, 0, 0, 0, 0, 0], ['B', 0, 0, 'B', 0, 0, 0, 0, 0]]))
+%OUTPUT
+58e0494c51d30eb3494f7c9198986bb9
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(detectar_barcos([[0, 0, 0, 0, 'B'], [0, 'B', 0, 0, 'B'], [0, 'B', 0, 0, 0], [0, 'B', 0, 0, 0], ['B', 0, 0, 0, 0]]))
+%OUTPUT
+58e0494c51d30eb3494f7c9198986bb9
