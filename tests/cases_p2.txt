@@ -1,1 +1,202 @@
-
+%PREG
+Pregunta 2
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'b', 'b': 'c', 'c': 'd', 'd': 'e', 'e': 'f', 'f': 'g', 'g': 'h', 'h': 'i', 'i': 'j', 'j': 'k', 'k': 'l', 'l': 'm', 'm': 'n', 'n': 'o', 'o': 'p', 'p': 'q', 'q': 'r', 'r': 's', 's': 't', 't': 'u', 'u': 'v', 'v': 'w', 'w': 'x', 'x': 'y', 'y': 'z', 'z': 'a'}, paralelepipedo))
+%OUTPUT
+qbsbmfmfqjqfep
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'h', 'b': 'm', 'c': 'u', 'd': 'g', 'e': 'z', 'f': 'n', 'g': 'h', 'h': 'z', 'i': 'z', 'j': 'u', 'k': 'z', 'l': 'r', 'm': 'v', 'n': 'w', 'o': 'e', 'p': 'z', 'q': 'q', 'r': 'j', 's': 'd', 't': 's', 'u': 'n', 'v': 'j', 'w': 'e', 'x': 'n', 'y': 'u', 'z': 't'}, supercalifragilisticoespialidoso))
+%OUTPUT
+dnzzjuhrznjhhzrzdszuezdzzhrzgede
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'v', 'b': 'a', 'c': 'x', 'd': 'l', 'e': 'z', 'f': 'w', 'g': 'u', 'h': 'q', 'i': 'j', 'j': 'o', 'k': 'j', 'l': 'g', 'm': 'f', 'n': 'l', 'o': 'j', 'p': 'e', 'q': 'x', 'r': 'u', 's': 'p', 't': 'q', 'u': 'j', 'v': 'h', 'w': 't', 'x': 'j', 'y': 'k', 'z': 'p'}, hipopotomonstrosesquipedaliofobia))
+%OUTPUT
+qjejejqjfjlpqujpzpxjjezlvgjjwjajv
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'q', 'b': 't', 'c': 'u', 'd': 'x', 'e': 'x', 'f': 'k', 'g': 'q', 'h': 'm', 'i': 'w', 'j': 'y', 'k': 'y', 'l': 'z', 'm': 'b', 'n': 'd', 'o': 'k', 'p': 'l', 'q': 'g', 'r': 'q', 's': 'd', 't': 'm', 'u': 'w', 'v': 'm', 'w': 't', 'x': 'c', 'y': 'o', 'z': 'a'}, pneumoultramicroscopicsilicovolcanoconiosis))
+%OUTPUT
+ldxwbkwzmqqbwuqkduklwudwzwukmkzuqdkukdwkdwd
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'w', 'b': 'z', 'c': 'r', 'd': 'y', 'e': 'o', 'f': 't', 'g': 'p', 'h': 'r', 'i': 'p', 'j': 'h', 'k': 'q', 'l': 'j', 'm': 'o', 'n': 'f', 'o': 'v', 'p': 'm', 'q': 'i', 'r': 'c', 's': 'c', 't': 'j', 'u': 'p', 'v': 'f', 'w': 'a', 'x': 'x', 'y': 'v', 'z': 'i'}, electroencefalografista))
+%OUTPUT
+ojorjcvofrotwjvpcwtpcjw
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'k', 'b': 't', 'c': 'n', 'd': 'i', 'e': 'h', 'f': 'v', 'g': 'y', 'h': 'y', 'i': 'e', 'j': 'l', 'k': 'g', 'l': 'q', 'm': 'x', 'n': 'e', 'o': 'y', 'p': 't', 'q': 'a', 'r': 'e', 's': 'o', 't': 'd', 'u': 'h', 'v': 't', 'w': 'g', 'x': 'e', 'y': 'w', 'z': 'p'}, desoxirribonucleico))
+%OUTPUT
+ihoyeeeeetyehnqheny
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'v', 'b': 'e', 'c': 'e', 'd': 'l', 'e': 'c', 'f': 'z', 'g': 'b', 'h': 'x', 'i': 'n', 'j': 'y', 'k': 'n', 'l': 'a', 'm': 'r', 'n': 'r', 'o': 'h', 'p': 'u', 'q': 'n', 'r': 'w', 's': 's', 't': 'a', 'u': 'w', 'v': 'w', 'w': 'h', 'x': 'b', 'y': 'q', 'z': 'y'}, ultramicroscopicamente))
+%OUTPUT
+waawvrnewhsehunevrcrac
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'x', 'b': 'q', 'c': 'z', 'd': 'm', 'e': 'x', 'f': 'u', 'g': 'a', 'h': 'h', 'i': 'o', 'j': 'd', 'k': 'f', 'l': 'a', 'm': 'l', 'n': 'c', 'o': 'q', 'p': 'n', 'q': 'v', 'r': 'm', 's': 'e', 't': 'p', 'u': 'v', 'v': 'l', 'w': 'x', 'x': 'm', 'y': 'e', 'z': 'l'}, otorrinolaringologia))
+%OUTPUT
+qpqmmocqaxmocaqaqaox
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'd', 'b': 'i', 'c': 'q', 'd': 't', 'e': 'c', 'f': 'w', 'g': 'd', 'h': 'p', 'i': 'b', 'j': 'l', 'k': 'p', 'l': 'u', 'm': 'a', 'n': 'i', 'o': 'n', 'p': 'k', 'q': 'y', 'r': 'q', 's': 'v', 't': 'h', 'u': 'p', 'v': 'b', 'w': 'w', 'x': 'r', 'y': 'u', 'z': 'e'}, sesquipedalidad))
+%OUTPUT
+vcvypbkctdubtdt
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'u', 'b': 'g', 'c': 'f', 'd': 'y', 'e': 'n', 'f': 'f', 'g': 'v', 'h': 'g', 'i': 'y', 'j': 'i', 'k': 'i', 'l': 'o', 'm': 'k', 'n': 'u', 'o': 'p', 'p': 'g', 'q': 'y', 'r': 'f', 's': 'm', 't': 'b', 'u': 'm', 'v': 'm', 'w': 'l', 'x': 'c', 'y': 'y', 'z': 'e'}, esternocleidomastoideo))
+%OUTPUT
+nmbnfupfonyypkumbpyynp
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'n', 'b': 'w', 'c': 'l', 'd': 'x', 'e': 'd', 'f': 'q', 'g': 'r', 'h': 'e', 'i': 'v', 'j': 'f', 'k': 'd', 'l': 'r', 'm': 'i', 'n': 'u', 'o': 'o', 'p': 'i', 'q': 't', 'r': 'h', 's': 'n', 't': 't', 'u': 'y', 'v': 'p', 'w': 'a', 'x': 'z', 'y': 's', 'z': 'l'}, parangaricutirimicuaro))
+%OUTPUT
+ee3205b703bc033b43f0c161c8a87a82
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'o', 'b': 's', 'c': 'j', 'd': 'p', 'e': 'p', 'f': 'q', 'g': 'l', 'h': 'n', 'i': 'o', 'j': 'j', 'k': 'u', 'l': 'p', 'm': 'h', 'n': 'z', 'o': 'j', 'p': 'f', 'q': 'd', 'r': 'y', 's': 'm', 't': 'z', 'u': 'i', 'v': 'b', 'w': 'h', 'x': 'a', 'y': 'h', 'z': 'o'}, ultracrepidarianismo))
+%OUTPUT
+efb9bf7a2647f83ea167a494c324fb8a
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'w', 'b': 'r', 'c': 'l', 'd': 's', 'e': 'v', 'f': 'u', 'g': 'p', 'h': 'h', 'i': 'p', 'j': 'z', 'k': 'k', 'l': 'c', 'm': 'z', 'n': 'j', 'o': 'i', 'p': 'b', 'q': 'n', 'r': 'e', 's': 'z', 't': 'k', 'u': 'k', 'v': 'q', 'w': 'p', 'x': 'g', 'y': 'z', 'z': 'r'}, perpendicularidad))
+%OUTPUT
+56b6fcdf7f7d487a95a800d2f4287080
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'b', 'b': 'z', 'c': 'o', 'd': 'i', 'e': 'u', 'f': 't', 'g': 'g', 'h': 'e', 'i': 'i', 'j': 's', 'k': 'y', 'l': 'y', 'm': 'y', 'n': 'p', 'o': 'w', 'p': 'w', 'q': 'f', 'r': 'o', 's': 'w', 't': 'p', 'u': 'a', 'v': 't', 'w': 'd', 'x': 'j', 'y': 'a', 'z': 'c'}, espectrofotometria))
+%OUTPUT
+04747835ede13c434690601c1709f80b
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'v', 'b': 'b', 'c': 'z', 'd': 'f', 'e': 'k', 'f': 'u', 'g': 'd', 'h': 'j', 'i': 'y', 'j': 't', 'k': 'd', 'l': 'y', 'm': 'b', 'n': 'j', 'o': 'x', 'p': 'j', 'q': 'c', 'r': 'h', 's': 'n', 't': 'w', 'u': 'o', 'v': 'b', 'w': 'm', 'x': 'i', 'y': 'q', 'z': 'h'}, bhnvkehnkrcjdlsrjvmtcgkjserfcfxmevjssf))
+%OUTPUT
+6e295eb5d12172537952291b884ebf13
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'v', 'b': 'r', 'c': 'f', 'd': 't', 'e': 'c', 'f': 'd', 'g': 'v', 'h': 'n', 'i': 'g', 'j': 'h', 'k': 'p', 'l': 'd', 'm': 's', 'n': 'f', 'o': 'm', 'p': 'r', 'q': 'x', 'r': 'v', 's': 'f', 't': 'p', 'u': 'd', 'v': 'g', 'w': 'c', 'x': 'a', 'y': 'x', 'z': 'f'}, hngjerjvmbcirilsetgrjcmromimcbves))
+%OUTPUT
+35f0c2961e8a061190741e82ce03dc6f
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'i', 'b': 'x', 'c': 't', 'd': 'j', 'e': 'y', 'f': 'y', 'g': 'x', 'h': 'o', 'i': 'u', 'j': 'k', 'k': 'r', 'l': 'f', 'm': 'z', 'n': 'd', 'o': 'v', 'p': 's', 'q': 'j', 'r': 'n', 's': 'f', 't': 'v', 'u': 'v', 'v': 'c', 'w': 'f', 'x': 'r', 'y': 'g', 'z': 'd'}, bnrgvdcmguhercbjdoijbjvrbervd))
+%OUTPUT
+b6b793a3699654a7e2ea2c0a90731c51
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'u', 'b': 'k', 'c': 'v', 'd': 'h', 'e': 'w', 'f': 'u', 'g': 'l', 'h': 'u', 'i': 'a', 'j': 'w', 'k': 'v', 'l': 'm', 'm': 'h', 'n': 'x', 'o': 'w', 'p': 'j', 'q': 'm', 'r': 't', 's': 'u', 't': 'j', 'u': 'a', 'v': 't', 'w': 'v', 'x': 'e', 'y': 'c', 'z': 'y'}, bhgjnvfmksavmvjkrgafwenjsmks))
+%OUTPUT
+8a564140a5ce7132867f74e3fa4ceb15
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'l', 'b': 'l', 'c': 'z', 'd': 'o', 'e': 'm', 'f': 'q', 'g': 'u', 'h': 'y', 'i': 's', 'j': 'b', 'k': 'y', 'l': 's', 'm': 't', 'n': 'l', 'o': 'e', 'p': 'x', 'q': 'q', 'r': 'l', 's': 'y', 't': 'h', 'u': 'k', 'v': 'p', 'w': 'b', 'x': 'c', 'y': 'u', 'z': 'm'}, nhjrkmefldfkjbnjgkmsflsdfvgnjgrfekmdvruwbhnrsjvhmrhcfnrgaxdvzgevjchbg))
+%OUTPUT
+db9b56ba81d7124a353c94dda66fa445
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(traducir({'a': 'l', 'b': 'd', 'c': 'r', 'd': 'h', 'e': 'w', 'f': 'k', 'g': 'j', 'h': 'e', 'i': 'i', 'j': 'o', 'k': 'v', 'l': 'n', 'm': 'x', 'n': 'l', 'o': 'q', 'p': 'x', 'q': 'k', 'r': 'b', 's': 'c', 't': 'v', 'u': 'c', 'v': 'f', 'w': 'n', 'x': 'p', 'y': 'z', 'z': 't'}, mghvcirjshejngnsbghknjbcdbh))
+%OUTPUT
+24dd70251cd0426a74565ecf95b90abe
