@@ -6,7 +6,8 @@ Case 1
 publico
 %PRECODE
 %INPUT
-7,auto,camioneta,camion,auto,auto,camion,camioneta,%CODE
+7,auto,camioneta,camion,auto,auto,camion,camioneta,
+%CODE
 %OUTPUT
 {'auto': 3, 'camioneta': 2, 'camion': 2}
 %NAME
@@ -15,7 +16,8 @@ Case 2
 publico
 %PRECODE
 %INPUT
-23,auto,auto,camioneta,camioneta,camion,moto,bus,bote,moto,van,bus,avion,camioneta,moto,camion,van,autobus,bote,moto,camioneta,camion,avion,camion,%CODE
+23,auto,auto,camioneta,camioneta,camion,moto,bus,bote,moto,van,bus,avion,camioneta,moto,camion,van,autobus,bote,moto,camioneta,camion,avion,camion,
+%CODE
 %OUTPUT
 {'auto': 2, 'camioneta': 4, 'camion': 4, 'moto': 4, 'bus': 2, 'bote': 2, 'van': 2, 'avion': 2, 'autobus': 1}
 %NAME
@@ -24,7 +26,8 @@ Case 3
 publico
 %PRECODE
 %INPUT
-13,bicicleta,van,bicicleta,avion,autobus,auto,camion,avion,camioneta,moto,camioneta,moto,bicicleta,%CODE
+13,bicicleta,van,bicicleta,avion,autobus,auto,camion,avion,camioneta,moto,camioneta,moto,bicicleta,
+%CODE
 %OUTPUT
 {'bicicleta': 3, 'van': 1, 'avion': 2, 'autobus': 1, 'auto': 1, 'camion': 1, 'camioneta': 2, 'moto': 2}
 %NAME
@@ -33,7 +36,8 @@ Case 4
 publico
 %PRECODE
 %INPUT
-28,camion,bicicleta,bote,auto,avion,bote,van,bicicleta,camion,van,moto,van,bus,camioneta,avion,autobus,autobus,avion,bicicleta,bote,bicicleta,avion,avion,bicicleta,camion,bus,bote,camioneta,%CODE
+28,camion,bicicleta,bote,auto,avion,bote,van,bicicleta,camion,van,moto,van,bus,camioneta,avion,autobus,autobus,avion,bicicleta,bote,bicicleta,avion,avion,bicicleta,camion,bus,bote,camioneta,
+%CODE
 %OUTPUT
 {'camion': 3, 'bicicleta': 5, 'bote': 4, 'auto': 1, 'avion': 5, 'van': 3, 'moto': 1, 'bus': 2, 'camioneta': 2, 'autobus': 2}
 %NAME
@@ -42,7 +46,8 @@ Case 5
 publico
 %PRECODE
 %INPUT
-26,avion,avion,van,moto,bote,camion,moto,avion,camioneta,bote,auto,bote,auto,avion,avion,bicicleta,bote,van,autobus,autobus,bus,bicicleta,bus,bus,bus,camioneta,%CODE
+26,avion,avion,van,moto,bote,camion,moto,avion,camioneta,bote,auto,bote,auto,avion,avion,bicicleta,bote,van,autobus,autobus,bus,bicicleta,bus,bus,bus,camioneta,
+%CODE
 %OUTPUT
 {'avion': 5, 'van': 2, 'moto': 2, 'bote': 4, 'camion': 1, 'camioneta': 2, 'auto': 2, 'bicicleta': 2, 'autobus': 2, 'bus': 4}
 %NAME
@@ -51,7 +56,8 @@ Case 6
 publico
 %PRECODE
 %INPUT
-12,camioneta,bus,camioneta,auto,bote,bicicleta,autobus,bus,bote,van,auto,van,%CODE
+12,camioneta,bus,camioneta,auto,bote,bicicleta,autobus,bus,bote,van,auto,van,
+%CODE
 %OUTPUT
 {'camioneta': 2, 'bus': 2, 'auto': 2, 'bote': 2, 'bicicleta': 1, 'autobus': 1, 'van': 2}
 %NAME
@@ -60,7 +66,8 @@ Case 7
 publico
 %PRECODE
 %INPUT
-17,bus,auto,van,camioneta,bicicleta,moto,bus,autobus,avion,van,avion,autobus,avion,autobus,moto,camioneta,autobus,%CODE
+17,bus,auto,van,camioneta,bicicleta,moto,bus,autobus,avion,van,avion,autobus,avion,autobus,moto,camioneta,autobus,
+%CODE
 %OUTPUT
 {'bus': 2, 'auto': 1, 'van': 2, 'camioneta': 2, 'bicicleta': 1, 'moto': 2, 'autobus': 4, 'avion': 3}
 %NAME
@@ -69,7 +76,8 @@ Case 8
 publico
 %PRECODE
 %INPUT
-28,bote,moto,camion,van,autobus,avion,autobus,bote,moto,avion,auto,camioneta,auto,van,bus,camion,bus,bicicleta,bote,bus,auto,van,moto,avion,bus,camion,camioneta,moto,%CODE
+28,bote,moto,camion,van,autobus,avion,autobus,bote,moto,avion,auto,camioneta,auto,van,bus,camion,bus,bicicleta,bote,bus,auto,van,moto,avion,bus,camion,camioneta,moto,
+%CODE
 %OUTPUT
 {'bote': 3, 'moto': 4, 'camion': 3, 'van': 3, 'autobus': 2, 'avion': 3, 'auto': 3, 'camioneta': 2, 'bus': 4, 'bicicleta': 1}
 %NAME
@@ -78,7 +86,8 @@ Case 9
 publico
 %PRECODE
 %INPUT
-30,bote,moto,autobus,bicicleta,moto,bote,bus,autobus,van,camion,auto,camion,van,auto,bote,camioneta,bote,van,bote,bicicleta,moto,bicicleta,moto,camion,avion,camion,bicicleta,autobus,bote,camioneta,%CODE
+30,bote,moto,autobus,bicicleta,moto,bote,bus,autobus,van,camion,auto,camion,van,auto,bote,camioneta,bote,van,bote,bicicleta,moto,bicicleta,moto,camion,avion,camion,bicicleta,autobus,bote,camioneta,
+%CODE
 %OUTPUT
 {'bote': 6, 'moto': 4, 'autobus': 3, 'bicicleta': 4, 'bus': 1, 'van': 3, 'camion': 4, 'auto': 2, 'camioneta': 2, 'avion': 1}
 %NAME
@@ -87,7 +96,8 @@ Case 10
 publico
 %PRECODE
 %INPUT
-29,camion,bicicleta,camion,camion,bus,bote,avion,moto,camion,bus,bicicleta,bote,bicicleta,camioneta,van,avion,bus,bicicleta,auto,bote,van,auto,avion,camioneta,bicicleta,moto,bicicleta,bote,bus,%CODE
+29,camion,bicicleta,camion,camion,bus,bote,avion,moto,camion,bus,bicicleta,bote,bicicleta,camioneta,van,avion,bus,bicicleta,auto,bote,van,auto,avion,camioneta,bicicleta,moto,bicicleta,bote,bus,
+%CODE
 %OUTPUT
 {'camion': 4, 'bicicleta': 6, 'bus': 4, 'bote': 4, 'avion': 3, 'moto': 2, 'camioneta': 2, 'van': 2, 'auto': 2}
 %NAME
@@ -96,7 +106,8 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-10,bus,van,bote,bicicleta,autobus,avion,camion,bus,moto,bote,%CODE
+10,bus,van,bote,bicicleta,autobus,avion,camion,bus,moto,bote,
+%CODE
 %OUTPUT
 d00b0220c16bc2fea0ec63ddecdf5436
 %NAME
@@ -105,7 +116,8 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-19,bicicleta,avion,autobus,bicicleta,van,autobus,avion,camioneta,moto,camioneta,avion,camion,moto,auto,moto,bicicleta,avion,van,bicicleta,%CODE
+19,bicicleta,avion,autobus,bicicleta,van,autobus,avion,camioneta,moto,camioneta,avion,camion,moto,auto,moto,bicicleta,avion,van,bicicleta,
+%CODE
 %OUTPUT
 f27d11e8c028c7a695972df5c2e5e7d3
 %NAME
@@ -114,7 +126,8 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-25,bus,bote,auto,bicicleta,van,camioneta,van,bicicleta,bus,camioneta,autobus,auto,moto,camioneta,bus,bicicleta,bus,bote,bus,moto,camioneta,van,autobus,bus,van,%CODE
+25,bus,bote,auto,bicicleta,van,camioneta,van,bicicleta,bus,camioneta,autobus,auto,moto,camioneta,bus,bicicleta,bus,bote,bus,moto,camioneta,van,autobus,bus,van,
+%CODE
 %OUTPUT
 da96f7d961e26478837fc6ca0b0fe275
 %NAME
@@ -123,7 +136,8 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-28,auto,auto,van,auto,auto,bote,moto,bicicleta,bote,bote,avion,bus,avion,bote,autobus,bote,avion,auto,bicicleta,bote,moto,auto,camion,avion,bote,camion,avion,bote,%CODE
+28,auto,auto,van,auto,auto,bote,moto,bicicleta,bote,bote,avion,bus,avion,bote,autobus,bote,avion,auto,bicicleta,bote,moto,auto,camion,avion,bote,camion,avion,bote,
+%CODE
 %OUTPUT
 e299b7b0df1586d559d1e123efca3877
 %NAME
@@ -132,7 +146,8 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-18,bote,bus,bus,camioneta,avion,camion,avion,avion,van,bote,moto,autobus,camion,auto,auto,autobus,auto,camion,%CODE
+18,bote,bus,bus,camioneta,avion,camion,avion,avion,van,bote,moto,autobus,camion,auto,auto,autobus,auto,camion,
+%CODE
 %OUTPUT
 5b35957112468ee76cbd502a906b32d8
 %NAME
@@ -141,7 +156,8 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-18,van,autobus,camion,bus,bicicleta,autobus,bote,moto,autobus,camioneta,bus,camioneta,bus,avion,bus,auto,avion,auto,%CODE
+18,van,autobus,camion,bus,bicicleta,autobus,bote,moto,autobus,camioneta,bus,camioneta,bus,avion,bus,auto,avion,auto,
+%CODE
 %OUTPUT
 059f9888e044478a2e5840011589503e
 %NAME
@@ -150,7 +166,8 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-14,bus,auto,bicicleta,bicicleta,moto,van,moto,camioneta,autobus,bote,van,van,van,auto,%CODE
+14,bus,auto,bicicleta,bicicleta,moto,van,moto,camioneta,autobus,bote,van,van,van,auto,
+%CODE
 %OUTPUT
 410fb76168b4b8da2637a969f37a2e40
 %NAME
@@ -159,7 +176,8 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-27,van,autobus,moto,camion,autobus,moto,bicicleta,auto,bote,moto,bicicleta,camioneta,moto,camion,bote,bicicleta,avion,bicicleta,bus,van,autobus,autobus,auto,avion,camioneta,bicicleta,bicicleta,%CODE
+27,van,autobus,moto,camion,autobus,moto,bicicleta,auto,bote,moto,bicicleta,camioneta,moto,camion,bote,bicicleta,avion,bicicleta,bus,van,autobus,autobus,auto,avion,camioneta,bicicleta,bicicleta,
+%CODE
 %OUTPUT
 36079197d1b91477e65609b34b5c8f28
 %NAME
@@ -168,7 +186,8 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-16,auto,van,avion,bicicleta,autobus,auto,bus,camioneta,auto,camioneta,bus,van,avion,bus,avion,bicicleta,%CODE
+16,auto,van,avion,bicicleta,autobus,auto,bus,camioneta,auto,camioneta,bus,van,avion,bus,avion,bicicleta,
+%CODE
 %OUTPUT
 c69689d1520a35c997d9b845d6870ab3
 %NAME
@@ -177,6 +196,7 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-29,avion,van,van,camion,bus,bicicleta,moto,bus,van,camion,autobus,camioneta,bote,autobus,moto,moto,van,bus,moto,bus,bus,bote,camion,autobus,camioneta,bus,bus,van,van,%CODE
+29,avion,van,van,camion,bus,bicicleta,moto,bus,van,camion,autobus,camioneta,bote,autobus,moto,moto,van,bus,moto,bus,bus,bote,camion,autobus,camioneta,bus,bus,van,van,
+%CODE
 %OUTPUT
 b97a52546f38e86cff275f8041b6c0aa
