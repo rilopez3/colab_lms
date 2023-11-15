@@ -7,8 +7,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-palabra = 'paralelepipedo'
-print(traducir({'a': 'b', 'b': 'c', 'c': 'd', 'd': 'e', 'e': 'f', 'f': 'g', 'g': 'h', 'h': 'i', 'i': 'j', 'j': 'k', 'k': 'l', 'l': 'm', 'm': 'n', 'n': 'o', 'o': 'p', 'p': 'q', 'q': 'r', 'r': 's', 's': 't', 't': 'u', 'u': 'v', 'v': 'w', 'w': 'x', 'x': 'y', 'y': 'z', 'z': 'a'}, palabra))
+print(traducir([['a', 'b'], ['b', 'c'], ['c', 'd'], ['d', 'e'], ['e', 'f'], ['f', 'g'], ['g', 'h'], ['h', 'i'], ['i', 'j'], ['j', 'k'], ['k', 'l'], ['l', 'm'], ['m', 'n'], ['n', 'o'], ['o', 'p'], ['p', 'q'], ['q', 'r'], ['r', 's'], ['s', 't'], ['t', 'u'], ['u', 'v'], ['v', 'w'], ['w', 'x'], ['x', 'y'], ['y', 'z'], ['z', 'a']], 'paralelepipedo'))
 %OUTPUT
 qbsbmfmfqjqfep
 %NAME
@@ -18,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'j', 'b': 'v', 'c': 'y', 'd': 'f', 'e': 'v', 'f': 'k', 'g': 'v', 'h': 'j', 'i': 'g', 'j': 'm', 'k': 'k', 'l': 'b', 'm': 'e', 'n': 'k', 'o': 'q', 'p': 'x', 'q': 'k', 'r': 'm', 's': 'l', 't': 'r', 'u': 'x', 'v': 's', 'w': 'n', 'x': 'g', 'y': 'a', 'z': 'i'}, 'supercalifragilisticoespialidoso'))
+print(traducir([['a', 't'], ['b', 'f'], ['c', 'z'], ['d', 'm'], ['e', 'd'], ['f', 'g'], ['g', 'v'], ['h', 'i'], ['i', 'i'], ['j', 'u'], ['k', 'd'], ['l', 'y'], ['m', 'd'], ['n', 'y'], ['o', 'm'], ['p', 'p'], ['q', 't'], ['r', 'u'], ['s', 'k'], ['t', 'q'], ['u', 'c'], ['v', 'q'], ['w', 'n'], ['x', 'h'], ['y', 'm'], ['z', 'd']], 'supercalifragilisticoespialidoso'))
 %OUTPUT
-lxxvmyjbgkmjvgbglrgyqvlxgjbgfqlq
+kcpduztyigutviyikqizmdkpityimmkm
 %NAME
 Case 3
 %TYPE
@@ -28,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'x', 'b': 'k', 'c': 'u', 'd': 'd', 'e': 'j', 'f': 'a', 'g': 'y', 'h': 'd', 'i': 'b', 'j': 'm', 'k': 'k', 'l': 'r', 'm': 'n', 'n': 'd', 'o': 'g', 'p': 'o', 'q': 'i', 'r': 'x', 's': 'i', 't': 'r', 'u': 'p', 'v': 'k', 'w': 'g', 'x': 'r', 'y': 'e', 'z': 'j'}, 'hipopotomonstrosesquipedaliofobia'))
+print(traducir([['a', 'o'], ['b', 'f'], ['c', 'g'], ['d', 'a'], ['e', 'h'], ['f', 'd'], ['g', 'x'], ['h', 'd'], ['i', 'f'], ['j', 'b'], ['k', 'a'], ['l', 'n'], ['m', 'a'], ['n', 'w'], ['o', 'w'], ['p', 'i'], ['q', 'g'], ['r', 'k'], ['s', 'i'], ['t', 'l'], ['u', 'f'], ['v', 'a'], ['w', 'm'], ['x', 'u'], ['y', 'n'], ['z', 'l']], 'hipopotomonstrosesquipedaliofobia'))
 %OUTPUT
-dbogogrgngdirxgijiipbojdxrbgagkbx
+dfiwiwlwawwilkwihigffihaonfwdwffo
 %NAME
 Case 4
 %TYPE
@@ -38,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'r', 'b': 'x', 'c': 'j', 'd': 'r', 'e': 'q', 'f': 'i', 'g': 'u', 'h': 'q', 'i': 's', 'j': 'y', 'k': 'n', 'l': 'u', 'm': 'w', 'n': 'o', 'o': 'o', 'p': 'n', 'q': 'd', 'r': 'w', 's': 'y', 't': 'f', 'u': 'a', 'v': 'w', 'w': 'b', 'x': 'i', 'y': 's', 'z': 'b'}, 'pneumoultramicroscopicsilicovolcanoconiosis'))
+print(traducir([['a', 'i'], ['b', 'd'], ['c', 'r'], ['d', 'i'], ['e', 'b'], ['f', 'g'], ['g', 'a'], ['h', 'm'], ['i', 'o'], ['j', 'm'], ['k', 'r'], ['l', 'y'], ['m', 's'], ['n', 'p'], ['o', 'o'], ['p', 'm'], ['q', 'i'], ['r', 'p'], ['s', 'c'], ['t', 'u'], ['u', 'm'], ['v', 'w'], ['w', 'v'], ['x', 'e'], ['y', 'z'], ['z', 'c']], 'pneumoultramicroscopicsilicovolcanoconiosis'))
 %OUTPUT
-noqawoaufwrwsjwoyjonsjysusjowoujroojoosoysy
+mpbmsomyupisorpocromorcoyorowoyriporopoococ
 %NAME
 Case 5
 %TYPE
@@ -48,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'x', 'b': 'u', 'c': 'q', 'd': 'k', 'e': 'k', 'f': 'i', 'g': 'f', 'h': 'n', 'i': 'c', 'j': 'y', 'k': 'k', 'l': 'u', 'm': 'a', 'n': 'a', 'o': 'd', 'p': 'a', 'q': 't', 'r': 'y', 's': 'u', 't': 'f', 'u': 'n', 'v': 'u', 'w': 'e', 'x': 'z', 'y': 'p', 'z': 'f'}, 'electroencefalografista'))
+print(traducir([['a', 'y'], ['b', 'e'], ['c', 'b'], ['d', 'u'], ['e', 'r'], ['f', 'r'], ['g', 'h'], ['h', 'p'], ['i', 's'], ['j', 'b'], ['k', 'w'], ['l', 'b'], ['m', 'p'], ['n', 'y'], ['o', 'l'], ['p', 'f'], ['q', 'y'], ['r', 'k'], ['s', 'a'], ['t', 'm'], ['u', 'v'], ['v', 'v'], ['w', 'j'], ['x', 'f'], ['y', 'b'], ['z', 'f']], 'electroencefalografista'))
 %OUTPUT
-kukqfydkaqkixudfyxicufx
+rbrbmklrybrryblhkyrsamy
 %NAME
 Case 6
 %TYPE
@@ -58,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'f', 'b': 'x', 'c': 'z', 'd': 'z', 'e': 'i', 'f': 'i', 'g': 'h', 'h': 'd', 'i': 's', 'j': 'm', 'k': 'n', 'l': 's', 'm': 'e', 'n': 'w', 'o': 'o', 'p': 'w', 'q': 'r', 'r': 's', 's': 'p', 't': 'w', 'u': 'u', 'v': 'u', 'w': 'b', 'x': 'w', 'y': 's', 'z': 'd'}, 'desoxirribonucleico'))
+print(traducir([['a', 'h'], ['b', 'e'], ['c', 'd'], ['d', 'e'], ['e', 'y'], ['f', 'o'], ['g', 'y'], ['h', 'x'], ['i', 'j'], ['j', 'o'], ['k', 's'], ['l', 'y'], ['m', 'g'], ['n', 'l'], ['o', 'y'], ['p', 'd'], ['q', 't'], ['r', 'c'], ['s', 'u'], ['t', 't'], ['u', 'h'], ['v', 'j'], ['w', 'h'], ['x', 'u'], ['y', 'm'], ['z', 'c']], 'desoxirribonucleico'))
 %OUTPUT
-zipowssssxowuzsiszo
+eyuyujccjeylhdyyjdy
 %NAME
 Case 7
 %TYPE
@@ -68,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'v', 'b': 'j', 'c': 'j', 'd': 'k', 'e': 'a', 'f': 'b', 'g': 'v', 'h': 'r', 'i': 'b', 'j': 'a', 'k': 'v', 'l': 'r', 'm': 'w', 'n': 'h', 'o': 'r', 'p': 'l', 'q': 'w', 'r': 'l', 's': 'm', 't': 'd', 'u': 'c', 'v': 'w', 'w': 'u', 'x': 'x', 'y': 'm', 'z': 'e'}, 'ultramicroscopicamente'))
+print(traducir([['a', 'e'], ['b', 'o'], ['c', 'w'], ['d', 'n'], ['e', 'z'], ['f', 'f'], ['g', 'c'], ['h', 'p'], ['i', 'j'], ['j', 'v'], ['k', 'm'], ['l', 'k'], ['m', 'o'], ['n', 'c'], ['o', 'm'], ['p', 'h'], ['q', 'h'], ['r', 'o'], ['s', 'w'], ['t', 'f'], ['u', 'f'], ['v', 'm'], ['w', 'v'], ['x', 'r'], ['y', 'q'], ['z', 'w']], 'ultramicroscopicamente'))
 %OUTPUT
-crdlvwbjlrmjrlbjvwahda
+fkfoeojwomwwmhjweozcfz
 %NAME
 Case 8
 %TYPE
@@ -78,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'a', 'b': 'r', 'c': 'g', 'd': 'o', 'e': 'a', 'f': 'f', 'g': 'y', 'h': 'r', 'i': 'a', 'j': 'q', 'k': 'x', 'l': 'j', 'm': 'r', 'n': 'e', 'o': 'm', 'p': 'q', 'q': 'r', 'r': 'h', 's': 'o', 't': 'n', 'u': 'm', 'v': 'g', 'w': 's', 'x': 't', 'y': 'z', 'z': 'y'}, 'otorrinolaringologia'))
+print(traducir([['a', 'a'], ['b', 'a'], ['c', 'n'], ['d', 'p'], ['e', 'z'], ['f', 'e'], ['g', 'y'], ['h', 'x'], ['i', 'f'], ['j', 's'], ['k', 'i'], ['l', 'l'], ['m', 'j'], ['n', 'p'], ['o', 'c'], ['p', 'o'], ['q', 'h'], ['r', 'g'], ['s', 'j'], ['t', 'f'], ['u', 'd'], ['v', 'x'], ['w', 'g'], ['x', 'w'], ['y', 'h'], ['z', 's']], 'otorrinolaringologia'))
 %OUTPUT
-mnmhhaemjahaeymjmyaa
+cfcggfpclagfpyclcyfa
 %NAME
 Case 9
 %TYPE
@@ -88,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'n', 'b': 'm', 'c': 'l', 'd': 't', 'e': 'm', 'f': 'x', 'g': 'l', 'h': 'a', 'i': 'j', 'j': 'c', 'k': 'b', 'l': 't', 'm': 'h', 'n': 'd', 'o': 'h', 'p': 'u', 'q': 'j', 'r': 'n', 's': 'a', 't': 'e', 'u': 'x', 'v': 'a', 'w': 'n', 'x': 'p', 'y': 'g', 'z': 'p'}, 'sesquipedalidad'))
+print(traducir([['a', 'w'], ['b', 'i'], ['c', 'v'], ['d', 'w'], ['e', 'x'], ['f', 'j'], ['g', 'c'], ['h', 'g'], ['i', 'z'], ['j', 'g'], ['k', 'u'], ['l', 's'], ['m', 'u'], ['n', 'j'], ['o', 't'], ['p', 'm'], ['q', 'l'], ['r', 'f'], ['s', 'c'], ['t', 'x'], ['u', 'j'], ['v', 'q'], ['w', 'i'], ['x', 'p'], ['y', 'b'], ['z', 'l']], 'sesquipedalidad'))
 %OUTPUT
-amajxjumtntjtnt
+cxcljzmxwwszwww
 %NAME
 Case 10
 %TYPE
@@ -98,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'o', 'b': 'p', 'c': 'r', 'd': 'z', 'e': 'g', 'f': 'l', 'g': 'n', 'h': 'o', 'i': 'l', 'j': 'q', 'k': 'l', 'l': 'i', 'm': 'm', 'n': 'n', 'o': 'p', 'p': 'v', 'q': 'e', 'r': 'y', 's': 'u', 't': 'c', 'u': 'j', 'v': 'g', 'w': 'c', 'x': 'w', 'y': 'm', 'z': 'g'}, 'esternocleidomastoideo'))
+print(traducir([['a', 'd'], ['b', 'e'], ['c', 'p'], ['d', 'u'], ['e', 'o'], ['f', 'q'], ['g', 'q'], ['h', 'y'], ['i', 'y'], ['j', 'l'], ['k', 's'], ['l', 'w'], ['m', 'w'], ['n', 'q'], ['o', 'n'], ['p', 'f'], ['q', 'j'], ['r', 'u'], ['s', 'l'], ['t', 'd'], ['u', 'h'], ['v', 'a'], ['w', 'g'], ['x', 'p'], ['y', 'q'], ['z', 'v']], 'esternocleidomastoideo'))
 %OUTPUT
-gucgynpriglzpmoucplzgp
+oldouqnpwoyunwdldnyuon
 %NAME
 Case 1
 %TYPE
@@ -108,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'd', 'b': 'a', 'c': 'q', 'd': 'j', 'e': 'f', 'f': 'l', 'g': 'l', 'h': 'b', 'i': 'l', 'j': 'g', 'k': 'b', 'l': 'j', 'm': 'u', 'n': 'h', 'o': 'f', 'p': 'n', 'q': 'a', 'r': 't', 's': 'e', 't': 'm', 'u': 'x', 'v': 'z', 'w': 'g', 'x': 'g', 'y': 'k', 'z': 'w'}, 'parangaricutirimicuaro'))
+print(traducir([['a', 'z'], ['b', 't'], ['c', 'z'], ['d', 'k'], ['e', 'w'], ['f', 'n'], ['g', 'd'], ['h', 'v'], ['i', 'c'], ['j', 'x'], ['k', 'w'], ['l', 'p'], ['m', 't'], ['n', 's'], ['o', 'd'], ['p', 'a'], ['q', 'f'], ['r', 'k'], ['s', 'f'], ['t', 't'], ['u', 'b'], ['v', 'x'], ['w', 'k'], ['x', 'h'], ['y', 'y'], ['z', 'a']], 'parangaricutirimicuaro'))
 %OUTPUT
-df9f03fa5a8f701e6da7c59c279fe2e0
+bd59ff5b6c393b575dcfdf382b5b8033
 %NAME
 Case 2
 %TYPE
@@ -118,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'b', 'b': 'd', 'c': 'r', 'd': 'r', 'e': 'd', 'f': 'y', 'g': 'p', 'h': 'n', 'i': 'y', 'j': 'a', 'k': 'a', 'l': 'v', 'm': 'm', 'n': 'g', 'o': 'p', 'p': 'i', 'q': 'a', 'r': 'o', 's': 'o', 't': 'e', 'u': 't', 'v': 'l', 'w': 't', 'x': 'o', 'y': 'o', 'z': 's'}, 'ultracrepidarianismo'))
+print(traducir([['a', 'w'], ['b', 'm'], ['c', 'h'], ['d', 'r'], ['e', 't'], ['f', 'z'], ['g', 'u'], ['h', 's'], ['i', 's'], ['j', 'v'], ['k', 'j'], ['l', 'u'], ['m', 'g'], ['n', 'e'], ['o', 'l'], ['p', 'f'], ['q', 'h'], ['r', 'e'], ['s', 'd'], ['t', 'x'], ['u', 'j'], ['v', 'a'], ['w', 'n'], ['x', 'g'], ['y', 'w'], ['z', 't']], 'ultracrepidarianismo'))
 %OUTPUT
-97f67bf95f5435c596bbbc3bc3a4e205
+74541e1ee06bc0d2f85f17969d7fb33c
 %NAME
 Case 3
 %TYPE
@@ -128,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'r', 'b': 'a', 'c': 'a', 'd': 'o', 'e': 'd', 'f': 'k', 'g': 'q', 'h': 'd', 'i': 'a', 'j': 'v', 'k': 't', 'l': 'j', 'm': 'd', 'n': 'j', 'o': 'p', 'p': 'e', 'q': 'm', 'r': 'r', 's': 'w', 't': 'm', 'u': 'm', 'v': 'b', 'w': 'p', 'x': 'c', 'y': 'w', 'z': 'f'}, 'perpendicularidad'))
+print(traducir([['a', 'h'], ['b', 'r'], ['c', 'h'], ['d', 'g'], ['e', 'b'], ['f', 'o'], ['g', 'j'], ['h', 'f'], ['i', 'g'], ['j', 'j'], ['k', 'o'], ['l', 'o'], ['m', 'h'], ['n', 'j'], ['o', 'v'], ['p', 'y'], ['q', 'b'], ['r', 'd'], ['s', 'g'], ['t', 'a'], ['u', 'y'], ['v', 'l'], ['w', 'q'], ['x', 'c'], ['y', 'r'], ['z', 'y']], 'perpendicularidad'))
 %OUTPUT
-cd74ecb3c63c3ffabbd7c5ee5b4e2d83
+198b6e322facfdca582693279e616cdd
 %NAME
 Case 4
 %TYPE
@@ -138,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'c', 'b': 'a', 'c': 'g', 'd': 'h', 'e': 'p', 'f': 'h', 'g': 't', 'h': 'd', 'i': 'v', 'j': 's', 'k': 'u', 'l': 'k', 'm': 'g', 'n': 'd', 'o': 'u', 'p': 'x', 'q': 'm', 'r': 'e', 's': 'q', 't': 'l', 'u': 'j', 'v': 'g', 'w': 'o', 'x': 'f', 'y': 'i', 'z': 'w'}, 'espectrofotometria'))
+print(traducir([['a', 'w'], ['b', 'w'], ['c', 'u'], ['d', 'o'], ['e', 'd'], ['f', 'j'], ['g', 'y'], ['h', 't'], ['i', 'c'], ['j', 'a'], ['k', 'q'], ['l', 'k'], ['m', 'u'], ['n', 'k'], ['o', 'z'], ['p', 'w'], ['q', 'r'], ['r', 'x'], ['s', 'x'], ['t', 'c'], ['u', 'n'], ['v', 'y'], ['w', 'i'], ['x', 'l'], ['y', 'j'], ['z', 'v']], 'espectrofotometria'))
 %OUTPUT
-548a92fc0c019d902b994500bef99e3a
+85e494554aa100f121cb595485aa3ac5
 %NAME
 Case 5
 %TYPE
@@ -148,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'm', 'b': 'p', 'c': 'b', 'd': 'j', 'e': 'a', 'f': 'j', 'g': 'k', 'h': 'd', 'i': 'x', 'j': 'f', 'k': 'y', 'l': 'g', 'm': 'r', 'n': 'g', 'o': 'l', 'p': 'j', 'q': 'x', 'r': 'b', 's': 'h', 't': 'r', 'u': 'x', 'v': 'j', 'w': 's', 'x': 'q', 'y': 'x', 'z': 'o'}, 'bhnvkehnkrcjdlsrjvmtcgkjserfcfxmevjssf'))
+print(traducir([['a', 'p'], ['b', 'h'], ['c', 'w'], ['d', 'r'], ['e', 'v'], ['f', 's'], ['g', 'w'], ['h', 't'], ['i', 'y'], ['j', 'g'], ['k', 't'], ['l', 'e'], ['m', 'u'], ['n', 'b'], ['o', 'q'], ['p', 'j'], ['q', 'v'], ['r', 'm'], ['s', 'd'], ['t', 'm'], ['u', 'm'], ['v', 'c'], ['w', 'f'], ['x', 'v'], ['y', 'g'], ['z', 'p']], 'bhnvkehnkrcjdlsrjvmtcgkjserfcfxmevjssf'))
 %OUTPUT
-6425ae9636f700f1074f3ba1d952021a
+60bea489ac871deb8b7291d32c2dbd60
 %NAME
 Case 6
 %TYPE
@@ -158,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'l', 'b': 'i', 'c': 't', 'd': 'j', 'e': 'g', 'f': 'j', 'g': 'w', 'h': 'k', 'i': 'k', 'j': 'u', 'k': 'r', 'l': 'x', 'm': 'w', 'n': 'e', 'o': 'g', 'p': 'l', 'q': 'a', 'r': 'j', 's': 'b', 't': 'y', 'u': 'l', 'v': 'x', 'w': 'b', 'x': 'a', 'y': 'e', 'z': 'j'}, 'hngjerjvmbcirilsetgrjcmromimcbves'))
+print(traducir([['a', 'f'], ['b', 'c'], ['c', 'k'], ['d', 'e'], ['e', 'l'], ['f', 'z'], ['g', 'x'], ['h', 'o'], ['i', 's'], ['j', 'o'], ['k', 'a'], ['l', 'i'], ['m', 'n'], ['n', 'j'], ['o', 'j'], ['p', 'k'], ['q', 'm'], ['r', 'c'], ['s', 'y'], ['t', 'd'], ['u', 'z'], ['v', 't'], ['w', 'r'], ['x', 'o'], ['y', 'e'], ['z', 'u']], 'hngjerjvmbcirilsetgrjcmromimcbves'))
 %OUTPUT
-1d85fb04993659c6d62d864bd00a973c
+9d1b36bf96fa0a0fa57fd83c530d7516
 %NAME
 Case 7
 %TYPE
@@ -168,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 's', 'b': 'u', 'c': 'e', 'd': 'p', 'e': 'z', 'f': 'v', 'g': 'k', 'h': 'c', 'i': 'u', 'j': 'd', 'k': 'g', 'l': 'h', 'm': 'j', 'n': 'p', 'o': 'b', 'p': 'r', 'q': 'n', 'r': 'q', 's': 'l', 't': 'v', 'u': 'c', 'v': 'k', 'w': 'c', 'x': 'b', 'y': 'k', 'z': 'r'}, 'bnrgvdcmguhercbjdoijbjvrbervd'))
+print(traducir([['a', 'c'], ['b', 'f'], ['c', 'h'], ['d', 'q'], ['e', 'm'], ['f', 'z'], ['g', 'p'], ['h', 'z'], ['i', 'g'], ['j', 'f'], ['k', 'e'], ['l', 'o'], ['m', 'r'], ['n', 'h'], ['o', 'x'], ['p', 'j'], ['q', 'p'], ['r', 'l'], ['s', 'c'], ['t', 's'], ['u', 'n'], ['v', 'w'], ['w', 'z'], ['x', 'o'], ['y', 'o'], ['z', 'n']], 'bnrgvdcmguhercbjdoijbjvrbervd'))
 %OUTPUT
-47a99cb0a337a16d9773f8b44101163f
+a1495ee05cb2dd7531bc30e8b13cb515
 %NAME
 Case 8
 %TYPE
@@ -178,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'c', 'b': 'z', 'c': 'c', 'd': 'm', 'e': 'q', 'f': 'j', 'g': 't', 'h': 'x', 'i': 'v', 'j': 'q', 'k': 'v', 'l': 'q', 'm': 'k', 'n': 'o', 'o': 'o', 'p': 'b', 'q': 'v', 'r': 's', 's': 'q', 't': 'a', 'u': 'l', 'v': 't', 'w': 'a', 'x': 'f', 'y': 'b', 'z': 'x'}, 'bhgjnvfmksavmvjkrgafwenjsmks'))
+print(traducir([['a', 'r'], ['b', 'h'], ['c', 't'], ['d', 'f'], ['e', 'b'], ['f', 'a'], ['g', 's'], ['h', 'x'], ['i', 'z'], ['j', 'k'], ['k', 'y'], ['l', 'f'], ['m', 'l'], ['n', 'f'], ['o', 'b'], ['p', 'w'], ['q', 'p'], ['r', 'm'], ['s', 'u'], ['t', 'e'], ['u', 'q'], ['v', 'm'], ['w', 'r'], ['x', 'c'], ['y', 'i'], ['z', 'e']], 'bhgjnvfmksavmvjkrgafwenjsmks'))
 %OUTPUT
-a16db51b7593ab355f9750fba5ea32ee
+9db1e61049bd4ebed9c6c643cb773881
 %NAME
 Case 9
 %TYPE
@@ -188,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'n', 'b': 'v', 'c': 'v', 'd': 'h', 'e': 'y', 'f': 'l', 'g': 'q', 'h': 'h', 'i': 'g', 'j': 'o', 'k': 'a', 'l': 'e', 'm': 'c', 'n': 'j', 'o': 'u', 'p': 'm', 'q': 'b', 'r': 'a', 's': 'n', 't': 'v', 'u': 'b', 'v': 'v', 'w': 't', 'x': 'i', 'y': 'z', 'z': 'c'}, 'nhjrkmefldfkjbnjgkmsflsdfvgnjgrfekmdvruwbhnrsjvhmrhcfnrgaxdvzgevjchbg'))
+print(traducir([['a', 'l'], ['b', 'p'], ['c', 'v'], ['d', 'i'], ['e', 'z'], ['f', 'i'], ['g', 'u'], ['h', 'x'], ['i', 'k'], ['j', 's'], ['k', 'k'], ['l', 's'], ['m', 'c'], ['n', 's'], ['o', 'x'], ['p', 't'], ['q', 'm'], ['r', 'u'], ['s', 'y'], ['t', 'i'], ['u', 'm'], ['v', 's'], ['w', 't'], ['x', 'n'], ['y', 'd'], ['z', 'm']], 'nhjrkmefldfkjbnjgkmsflsdfvgnjgrfekmdvruwbhnrsjvhmrhcfnrgaxdvzgevjchbg'))
 %OUTPUT
-1294110cd40a40350e7cea9564f609fd
+c47b2e63977f88e2a7270d097b239f0d
 %NAME
 Case 10
 %TYPE
@@ -198,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir({'a': 'e', 'b': 'y', 'c': 'k', 'd': 'e', 'e': 'v', 'f': 'n', 'g': 'b', 'h': 'w', 'i': 'u', 'j': 'r', 'k': 'a', 'l': 'v', 'm': 'u', 'n': 'd', 'o': 'e', 'p': 'l', 'q': 'y', 'r': 'x', 's': 'a', 't': 'b', 'u': 'c', 'v': 'j', 'w': 'q', 'x': 'y', 'y': 'w', 'z': 'd'}, 'mghvcirjshejngnsbghknjbcdbh'))
+print(traducir([['a', 'h'], ['b', 'g'], ['c', 'c'], ['d', 'l'], ['e', 'f'], ['f', 'h'], ['g', 'x'], ['h', 'z'], ['i', 'a'], ['j', 'w'], ['k', 'l'], ['l', 'c'], ['m', 'd'], ['n', 'x'], ['o', 'h'], ['p', 'w'], ['q', 'n'], ['r', 'v'], ['s', 'd'], ['t', 'i'], ['u', 'c'], ['v', 'g'], ['w', 'l'], ['x', 'k'], ['y', 'q'], ['z', 'v']], 'mghvcirjshejngnsbghknjbcdbh'))
 %OUTPUT
-dc98139e3709db7b5c57d1ab8009f48c
+4def17eeb9943f2660c190de4d53b0bd
