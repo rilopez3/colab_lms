@@ -49,52 +49,52 @@ print(cruce(['naX', 'X', 'Q', 'vUX', 'w', 'Sh', 'QiK', 'z', 'TPS', 'NA'], ['iWo'
 print(cruce(['sS', 'IlM', 'bjJ', 'Ws', 'pK', 'Gk', 'YSu', 'HX', 'DGB', 'XnZ'], ['os', 'cq', 'i', 'Q', 'f', 'KoD', 'kU', 'y', 'Xm', 'BGV', 'M', 'UIv']))
 %OUTPUT
 [['', 'os', 'cq', 'i', 'Q', 'f', 'KoD', 'kU', 'y', 'Xm', 'BGV', 'M', 'UIv'], ['sS', 'sSos', 'sScq', 'sSi', 'sSQ', 'sSf', 'sSKoD', 'sSkU', 'sSy', 'sSXm', 'sSBGV', 'sSM', 'sSUIv'], ['IlM', 'IlMos', 'IlMcq', 'IlMi', 'IlMQ', 'IlMf', 'IlMKoD', 'IlMkU', 'IlMy', 'IlMXm', 'IlMBGV', 'IlMM', 'IlMUIv'], ['bjJ', 'bjJos', 'bjJcq', 'bjJi', 'bjJQ', 'bjJf', 'bjJKoD', 'bjJkU', 'bjJy', 'bjJXm', 'bjJBGV', 'bjJM', 'bjJUIv'], ['Ws', 'Wsos', 'Wscq', 'Wsi', 'WsQ', 'Wsf', 'WsKoD', 'WskU', 'Wsy', 'WsXm', 'WsBGV', 'WsM', 'WsUIv'], ['pK', 'pKos', 'pKcq', 'pKi', 'pKQ', 'pKf', 'pKKoD', 'pKkU', 'pKy', 'pKXm', 'pKBGV', 'pKM', 'pKUIv'], ['Gk', 'Gkos', 'Gkcq', 'Gki', 'GkQ', 'Gkf', 'GkKoD', 'GkkU', 'Gky', 'GkXm', 'GkBGV', 'GkM', 'GkUIv'], ['YSu', 'YSuos', 'YSucq', 'YSui', 'YSuQ', 'YSuf', 'YSuKoD', 'YSukU', 'YSuy', 'YSuXm', 'YSuBGV', 'YSuM', 'YSuUIv'], ['HX', 'HXos', 'HXcq', 'HXi', 'HXQ', 'HXf', 'HXKoD', 'HXkU', 'HXy', 'HXXm', 'HXBGV', 'HXM', 'HXUIv'], ['DGB', 'DGBos', 'DGBcq', 'DGBi', 'DGBQ', 'DGBf', 'DGBKoD', 'DGBkU', 'DGBy', 'DGBXm', 'DGBBGV', 'DGBM', 'DGBUIv'], ['XnZ', 'XnZos', 'XnZcq', 'XnZi', 'XnZQ', 'XnZf', 'XnZKoD', 'XnZkU', 'XnZy', 'XnZXm', 'XnZBGV', 'XnZM', 'XnZUIv']]
-#PCase 1
+#SCase 1
 %CODE
 print(cruce(['t', 'T', 'I', 'J', 'S'], ['w', 'O', 'D', 'E', 'R']))
 %OUTPUT
 6f9a0585fba927d2c2d56b91ef9c31c0
-#PCase 2
+#SCase 2
 %CODE
 print(cruce(['I', 'P', 'e'], ['H', 'e', 'x', 'J', 'j']))
 %OUTPUT
 073f576707514e9ea193620006eed13e
-#PCase 3
+#SCase 3
 %CODE
 print(cruce(['A', 'E', 'd', 'K'], ['S', 'g', 'x']))
 %OUTPUT
 6936dca398b916402f0421e661810591
-#PCase 4
+#SCase 4
 %CODE
 print(cruce(['z', 'c', 'k'], ['S', 'h', 'J']))
 %OUTPUT
 9a980965cc7b616ca210a16f47bb3099
-#PCase 5
+#SCase 5
 %CODE
 print(cruce(['Q', 'RV', 'RA', 'ea', 'Yg', 'pm', 'q', 'gx', 'j', 'z'], ['N', 'df', 'yr', 'y', 'u', 'X', 'SI', 'Hg', 'rU', 'n']))
 %OUTPUT
 acdf5dabfcd7d51c20940a85f74ee88a
-#PCase 6
+#SCase 6
 %CODE
 print(cruce(['JU', 'L', 'b', 'c', 'f', 'G', 'Fw', 'g', 'r', 'RR'], ['S', 'M', 'X', 'O', 'q', 'f', 'Dc', 'Wi', 'Q']))
 %OUTPUT
 c0d6fa19906184bbd83c07433adaae39
-#PCase 7
+#SCase 7
 %CODE
 print(cruce(['li', 'cg', 'LQ', 'nm', 'w', 'QP', 'kL', 'F'], ['s', 'Y', 'D', 'M', 'lZ', 'Wq', 'I', 'PI', 'r']))
 %OUTPUT
 0128d926c14c0013874c084fcb6ca61a
-#PCase 8
+#SCase 8
 %CODE
 print(cruce(['Mf', 'D', 'pY', 'o', 'B', 'j', 'TNv', 'Uz', 'oio', 'nG', 'kVd'], ['yAo', 'fO', 'Lld', 'Bj', 'Gl', 'rr', 'j', 's', 'CD', 'x', 'hZ', 'ZUg', 'i']))
 %OUTPUT
 1fdb344a7d7ddba6ef72e35584511a21
-#PCase 9
+#SCase 9
 %CODE
 print(cruce(['U', 'AQ', 'dId', 'Sfz', 'e', 'a', 'm', 'r', 'LMP', 'AI', 'vzW', 'wiZ', 'BxT', 'm', 'SnB'], ['e', 'F', 'gSZ', 'O', 'QOJ', 'AsU', 'uW', 'fJZ', 'GcI', 'pgR', 'KWf', 'bsX', 's']))
 %OUTPUT
 1f405633bbaee3f8aaa4836bacffa4a3
-#PCase 10
+#SCase 10
 %CODE
 print(cruce(['Qmi', 'Rq', 'Mlx', 'tW', 'M', 'z', 'Red', 'yxS', 'j', 'U', 'RO', 'xH', 'VdJ', 'SbE', 'DFb'], ['YpR', 'p', 'r', 'mAH', 'p', 'B', 'VC', 'mvj', 'cTo', 'H', 'HOH', 'XRK', 'ysY', 'v']))
 %OUTPUT
