@@ -266,13 +266,13 @@ def new_input(*args):
   return INTERNAL_INPUT_CONTROL[INTERNAL_COUNTER_INPUT - 1]
 
 # Nueva funcion de print que reemplaza a la de los alumnos
-def new_print(*args, sep = ' ', end = '\n'):
+def new_print(*args, sep = " ", end = "\n"):
   global STUDENT_OUTPUT_CONTROL
   output = sep.join([ push_str(val) for val in args]) + end
   STUDENT_OUTPUT_CONTROL += output
 
 # Nueva funcion de print para el print de systema a formato html
-def print_system(*args, sep = ' ', end = ''):
+def print_system(*args, sep = " ", end = ""):
   global SYSTEM_OUTPUT_CONTROL
   output = sep.join([ push_str(val) for val in args]) + end
   SYSTEM_OUTPUT_CONTROL += output
