@@ -1,201 +1,100 @@
-%PREG
-Pregunta 2
-%NAME
-Case 1
-%TYPE
-publico
-%PRECODE
-%INPUT
+#FPregunta 2
+#PCase 1
 %CODE
 print(cruce(['f', 'p', 'g', 'l'], ['a', 'o', 'i']))
 %OUTPUT
 [['', 'a', 'o', 'i'], ['f', 'fa', 'fo', 'fi'], ['p', 'pa', 'po', 'pi'], ['g', 'ga', 'go', 'gi'], ['l', 'la', 'lo', 'li']]
-%NAME
-Case 2
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 2
 %CODE
 print(cruce(['J', 'N', 'f', 'P', 'I'], ['Y', 'U', 'g', 'a']))
 %OUTPUT
 [['', 'Y', 'U', 'g', 'a'], ['J', 'JY', 'JU', 'Jg', 'Ja'], ['N', 'NY', 'NU', 'Ng', 'Na'], ['f', 'fY', 'fU', 'fg', 'fa'], ['P', 'PY', 'PU', 'Pg', 'Pa'], ['I', 'IY', 'IU', 'Ig', 'Ia']]
-%NAME
-Case 3
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 3
 %CODE
 print(cruce(['n', 'F'], ['e', 'V', 'w']))
 %OUTPUT
 [['', 'e', 'V', 'w'], ['n', 'ne', 'nV', 'nw'], ['F', 'Fe', 'FV', 'Fw']]
-%NAME
-Case 4
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 4
 %CODE
 print(cruce(['l', 'C', 'b', 'b', 'L'], ['x', 'O']))
 %OUTPUT
 [['', 'x', 'O'], ['l', 'lx', 'lO'], ['C', 'Cx', 'CO'], ['b', 'bx', 'bO'], ['b', 'bx', 'bO'], ['L', 'Lx', 'LO']]
-%NAME
-Case 5
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 5
 %CODE
 print(cruce(['L', 'L', 'uj', 'FN'], ['o', 'VG', 'S', 'C', 'o', 'cF', 'rp']))
 %OUTPUT
 [['', 'o', 'VG', 'S', 'C', 'o', 'cF', 'rp'], ['L', 'Lo', 'LVG', 'LS', 'LC', 'Lo', 'LcF', 'Lrp'], ['L', 'Lo', 'LVG', 'LS', 'LC', 'Lo', 'LcF', 'Lrp'], ['uj', 'ujo', 'ujVG', 'ujS', 'ujC', 'ujo', 'ujcF', 'ujrp'], ['FN', 'FNo', 'FNVG', 'FNS', 'FNC', 'FNo', 'FNcF', 'FNrp']]
-%NAME
-Case 6
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 6
 %CODE
 print(cruce(['n', 'mV', 'nk', 'jT', 'c', 'Gp'], ['j', 'EO', 'H', 'r']))
 %OUTPUT
 [['', 'j', 'EO', 'H', 'r'], ['n', 'nj', 'nEO', 'nH', 'nr'], ['mV', 'mVj', 'mVEO', 'mVH', 'mVr'], ['nk', 'nkj', 'nkEO', 'nkH', 'nkr'], ['jT', 'jTj', 'jTEO', 'jTH', 'jTr'], ['c', 'cj', 'cEO', 'cH', 'cr'], ['Gp', 'Gpj', 'GpEO', 'GpH', 'Gpr']]
-%NAME
-Case 7
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 7
 %CODE
 print(cruce(['Zv', 'C', 'Hk', 'Ot'], ['Y', 'CA', 'T', 'zT', 'P', 'H', 'UW']))
 %OUTPUT
 [['', 'Y', 'CA', 'T', 'zT', 'P', 'H', 'UW'], ['Zv', 'ZvY', 'ZvCA', 'ZvT', 'ZvzT', 'ZvP', 'ZvH', 'ZvUW'], ['C', 'CY', 'CCA', 'CT', 'CzT', 'CP', 'CH', 'CUW'], ['Hk', 'HkY', 'HkCA', 'HkT', 'HkzT', 'HkP', 'HkH', 'HkUW'], ['Ot', 'OtY', 'OtCA', 'OtT', 'OtzT', 'OtP', 'OtH', 'OtUW']]
-%NAME
-Case 8
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 8
 %CODE
 print(cruce(['HRk', 'bxj', 'oQ', 'f', 'udF', 'DA', 'Ocm', 'MSI', 'Hc', 'hnl', 'e', 'oj'], ['AnT', 'rFs', 'q', 'V', 'xDv', 'm', 'k', 'JkF', 'aj', 'zd', 'S']))
 %OUTPUT
 [['', 'AnT', 'rFs', 'q', 'V', 'xDv', 'm', 'k', 'JkF', 'aj', 'zd', 'S'], ['HRk', 'HRkAnT', 'HRkrFs', 'HRkq', 'HRkV', 'HRkxDv', 'HRkm', 'HRkk', 'HRkJkF', 'HRkaj', 'HRkzd', 'HRkS'], ['bxj', 'bxjAnT', 'bxjrFs', 'bxjq', 'bxjV', 'bxjxDv', 'bxjm', 'bxjk', 'bxjJkF', 'bxjaj', 'bxjzd', 'bxjS'], ['oQ', 'oQAnT', 'oQrFs', 'oQq', 'oQV', 'oQxDv', 'oQm', 'oQk', 'oQJkF', 'oQaj', 'oQzd', 'oQS'], ['f', 'fAnT', 'frFs', 'fq', 'fV', 'fxDv', 'fm', 'fk', 'fJkF', 'faj', 'fzd', 'fS'], ['udF', 'udFAnT', 'udFrFs', 'udFq', 'udFV', 'udFxDv', 'udFm', 'udFk', 'udFJkF', 'udFaj', 'udFzd', 'udFS'], ['DA', 'DAAnT', 'DArFs', 'DAq', 'DAV', 'DAxDv', 'DAm', 'DAk', 'DAJkF', 'DAaj', 'DAzd', 'DAS'], ['Ocm', 'OcmAnT', 'OcmrFs', 'Ocmq', 'OcmV', 'OcmxDv', 'Ocmm', 'Ocmk', 'OcmJkF', 'Ocmaj', 'Ocmzd', 'OcmS'], ['MSI', 'MSIAnT', 'MSIrFs', 'MSIq', 'MSIV', 'MSIxDv', 'MSIm', 'MSIk', 'MSIJkF', 'MSIaj', 'MSIzd', 'MSIS'], ['Hc', 'HcAnT', 'HcrFs', 'Hcq', 'HcV', 'HcxDv', 'Hcm', 'Hck', 'HcJkF', 'Hcaj', 'Hczd', 'HcS'], ['hnl', 'hnlAnT', 'hnlrFs', 'hnlq', 'hnlV', 'hnlxDv', 'hnlm', 'hnlk', 'hnlJkF', 'hnlaj', 'hnlzd', 'hnlS'], ['e', 'eAnT', 'erFs', 'eq', 'eV', 'exDv', 'em', 'ek', 'eJkF', 'eaj', 'ezd', 'eS'], ['oj', 'ojAnT', 'ojrFs', 'ojq', 'ojV', 'ojxDv', 'ojm', 'ojk', 'ojJkF', 'ojaj', 'ojzd', 'ojS']]
-%NAME
-Case 9
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 9
 %CODE
 print(cruce(['naX', 'X', 'Q', 'vUX', 'w', 'Sh', 'QiK', 'z', 'TPS', 'NA'], ['iWo', 'ROt', 'l', 'uu', 'o', 'RFI', 'kVK', 'E']))
 %OUTPUT
 [['', 'iWo', 'ROt', 'l', 'uu', 'o', 'RFI', 'kVK', 'E'], ['naX', 'naXiWo', 'naXROt', 'naXl', 'naXuu', 'naXo', 'naXRFI', 'naXkVK', 'naXE'], ['X', 'XiWo', 'XROt', 'Xl', 'Xuu', 'Xo', 'XRFI', 'XkVK', 'XE'], ['Q', 'QiWo', 'QROt', 'Ql', 'Quu', 'Qo', 'QRFI', 'QkVK', 'QE'], ['vUX', 'vUXiWo', 'vUXROt', 'vUXl', 'vUXuu', 'vUXo', 'vUXRFI', 'vUXkVK', 'vUXE'], ['w', 'wiWo', 'wROt', 'wl', 'wuu', 'wo', 'wRFI', 'wkVK', 'wE'], ['Sh', 'ShiWo', 'ShROt', 'Shl', 'Shuu', 'Sho', 'ShRFI', 'ShkVK', 'ShE'], ['QiK', 'QiKiWo', 'QiKROt', 'QiKl', 'QiKuu', 'QiKo', 'QiKRFI', 'QiKkVK', 'QiKE'], ['z', 'ziWo', 'zROt', 'zl', 'zuu', 'zo', 'zRFI', 'zkVK', 'zE'], ['TPS', 'TPSiWo', 'TPSROt', 'TPSl', 'TPSuu', 'TPSo', 'TPSRFI', 'TPSkVK', 'TPSE'], ['NA', 'NAiWo', 'NAROt', 'NAl', 'NAuu', 'NAo', 'NARFI', 'NAkVK', 'NAE']]
-%NAME
-Case 10
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 10
 %CODE
 print(cruce(['sS', 'IlM', 'bjJ', 'Ws', 'pK', 'Gk', 'YSu', 'HX', 'DGB', 'XnZ'], ['os', 'cq', 'i', 'Q', 'f', 'KoD', 'kU', 'y', 'Xm', 'BGV', 'M', 'UIv']))
 %OUTPUT
 [['', 'os', 'cq', 'i', 'Q', 'f', 'KoD', 'kU', 'y', 'Xm', 'BGV', 'M', 'UIv'], ['sS', 'sSos', 'sScq', 'sSi', 'sSQ', 'sSf', 'sSKoD', 'sSkU', 'sSy', 'sSXm', 'sSBGV', 'sSM', 'sSUIv'], ['IlM', 'IlMos', 'IlMcq', 'IlMi', 'IlMQ', 'IlMf', 'IlMKoD', 'IlMkU', 'IlMy', 'IlMXm', 'IlMBGV', 'IlMM', 'IlMUIv'], ['bjJ', 'bjJos', 'bjJcq', 'bjJi', 'bjJQ', 'bjJf', 'bjJKoD', 'bjJkU', 'bjJy', 'bjJXm', 'bjJBGV', 'bjJM', 'bjJUIv'], ['Ws', 'Wsos', 'Wscq', 'Wsi', 'WsQ', 'Wsf', 'WsKoD', 'WskU', 'Wsy', 'WsXm', 'WsBGV', 'WsM', 'WsUIv'], ['pK', 'pKos', 'pKcq', 'pKi', 'pKQ', 'pKf', 'pKKoD', 'pKkU', 'pKy', 'pKXm', 'pKBGV', 'pKM', 'pKUIv'], ['Gk', 'Gkos', 'Gkcq', 'Gki', 'GkQ', 'Gkf', 'GkKoD', 'GkkU', 'Gky', 'GkXm', 'GkBGV', 'GkM', 'GkUIv'], ['YSu', 'YSuos', 'YSucq', 'YSui', 'YSuQ', 'YSuf', 'YSuKoD', 'YSukU', 'YSuy', 'YSuXm', 'YSuBGV', 'YSuM', 'YSuUIv'], ['HX', 'HXos', 'HXcq', 'HXi', 'HXQ', 'HXf', 'HXKoD', 'HXkU', 'HXy', 'HXXm', 'HXBGV', 'HXM', 'HXUIv'], ['DGB', 'DGBos', 'DGBcq', 'DGBi', 'DGBQ', 'DGBf', 'DGBKoD', 'DGBkU', 'DGBy', 'DGBXm', 'DGBBGV', 'DGBM', 'DGBUIv'], ['XnZ', 'XnZos', 'XnZcq', 'XnZi', 'XnZQ', 'XnZf', 'XnZKoD', 'XnZkU', 'XnZy', 'XnZXm', 'XnZBGV', 'XnZM', 'XnZUIv']]
-%NAME
-Case 1
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 1
 %CODE
 print(cruce(['t', 'T', 'I', 'J', 'S'], ['w', 'O', 'D', 'E', 'R']))
 %OUTPUT
 6f9a0585fba927d2c2d56b91ef9c31c0
-%NAME
-Case 2
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 2
 %CODE
 print(cruce(['I', 'P', 'e'], ['H', 'e', 'x', 'J', 'j']))
 %OUTPUT
 073f576707514e9ea193620006eed13e
-%NAME
-Case 3
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 3
 %CODE
 print(cruce(['A', 'E', 'd', 'K'], ['S', 'g', 'x']))
 %OUTPUT
 6936dca398b916402f0421e661810591
-%NAME
-Case 4
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 4
 %CODE
 print(cruce(['z', 'c', 'k'], ['S', 'h', 'J']))
 %OUTPUT
 9a980965cc7b616ca210a16f47bb3099
-%NAME
-Case 5
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 5
 %CODE
 print(cruce(['Q', 'RV', 'RA', 'ea', 'Yg', 'pm', 'q', 'gx', 'j', 'z'], ['N', 'df', 'yr', 'y', 'u', 'X', 'SI', 'Hg', 'rU', 'n']))
 %OUTPUT
 acdf5dabfcd7d51c20940a85f74ee88a
-%NAME
-Case 6
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 6
 %CODE
 print(cruce(['JU', 'L', 'b', 'c', 'f', 'G', 'Fw', 'g', 'r', 'RR'], ['S', 'M', 'X', 'O', 'q', 'f', 'Dc', 'Wi', 'Q']))
 %OUTPUT
 c0d6fa19906184bbd83c07433adaae39
-%NAME
-Case 7
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 7
 %CODE
 print(cruce(['li', 'cg', 'LQ', 'nm', 'w', 'QP', 'kL', 'F'], ['s', 'Y', 'D', 'M', 'lZ', 'Wq', 'I', 'PI', 'r']))
 %OUTPUT
 0128d926c14c0013874c084fcb6ca61a
-%NAME
-Case 8
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 8
 %CODE
 print(cruce(['Mf', 'D', 'pY', 'o', 'B', 'j', 'TNv', 'Uz', 'oio', 'nG', 'kVd'], ['yAo', 'fO', 'Lld', 'Bj', 'Gl', 'rr', 'j', 's', 'CD', 'x', 'hZ', 'ZUg', 'i']))
 %OUTPUT
 1fdb344a7d7ddba6ef72e35584511a21
-%NAME
-Case 9
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 9
 %CODE
 print(cruce(['U', 'AQ', 'dId', 'Sfz', 'e', 'a', 'm', 'r', 'LMP', 'AI', 'vzW', 'wiZ', 'BxT', 'm', 'SnB'], ['e', 'F', 'gSZ', 'O', 'QOJ', 'AsU', 'uW', 'fJZ', 'GcI', 'pgR', 'KWf', 'bsX', 's']))
 %OUTPUT
 1f405633bbaee3f8aaa4836bacffa4a3
-%NAME
-Case 10
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 10
 %CODE
 print(cruce(['Qmi', 'Rq', 'Mlx', 'tW', 'M', 'z', 'Red', 'yxS', 'j', 'U', 'RO', 'xH', 'VdJ', 'SbE', 'DFb'], ['YpR', 'p', 'r', 'mAH', 'p', 'B', 'VC', 'mvj', 'cTo', 'H', 'HOH', 'XRK', 'ysY', 'v']))
 %OUTPUT

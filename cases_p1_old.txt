@@ -1,201 +1,100 @@
-%PREG
-Pregunta 1
-%NAME
-Case 1
-%TYPE
-publico
-%PRECODE
-%INPUT
+#FPregunta 1
+#PCase 1
 %CODE
 print(reasignar([1, 2, 5, 3, 4], 2))
 %OUTPUT
 [7, 7]
-%NAME
-Case 2
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 2
 %CODE
 print(reasignar([2], 2))
 %OUTPUT
 [1, 1]
-%NAME
-Case 3
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 3
 %CODE
 print(reasignar([10, 5, 3, 10, 10], 1))
 %OUTPUT
 [38]
-%NAME
-Case 4
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 4
 %CODE
 print(reasignar([1, 9, 9, 10, 4, 4, 7], 9))
 %OUTPUT
 [4, 4, 4, 4, 4, 4, 4, 4, 4]
-%NAME
-Case 5
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 5
 %CODE
 print(reasignar([9, 1, 1, 4], 8))
 %OUTPUT
 [1, 1, 1, 1, 1, 1, 1, 1]
-%NAME
-Case 6
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 6
 %CODE
 print(reasignar([44, 10, 3, 6, 9, 17, 15, 43, 11, 41, 6, 6, 32, 35, 30, 50, 5, 31, 31, 25, 31, 4, 30, 37, 12, 45, 8, 34, 34, 47, 30, 16, 18, 13, 22, 35, 8, 9, 20, 11, 16, 42, 16, 44, 27, 2, 8], 10))
 %OUTPUT
 [106, 106, 106, 106, 106, 106, 106, 106, 106, 106]
-%NAME
-Case 7
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 7
 %CODE
 print(reasignar([38, 42, 16, 20, 46, 10, 24, 30, 49, 6, 39, 42, 2, 12, 46, 43, 12, 36, 21, 39, 14, 44, 41, 33, 40, 13, 32, 45, 16, 13, 45, 40, 45, 38, 44, 47, 3, 39, 22, 31, 39, 7], 12))
 %OUTPUT
 [105, 105, 105, 105, 105, 105, 105, 105, 105, 105, 105, 105]
-%NAME
-Case 8
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 8
 %CODE
 print(reasignar([27, 21, 46, 48, 22, 5, 27, 22, 20, 13, 38, 41, 1, 23, 43, 1, 33, 20, 44, 45, 1, 29, 14, 28, 30, 23, 37, 29, 48, 8, 48, 47, 2, 48, 46, 21, 26, 46, 44], 17))
 %OUTPUT
 [65, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65, 65]
-%NAME
-Case 9
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 9
 %CODE
 print(reasignar([18, 37, 1, 9, 28, 32, 35, 35, 21, 8, 27, 7, 1, 17, 49], 13))
 %OUTPUT
 [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
-%NAME
-Case 10
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 10
 %CODE
 print(reasignar([31, 33, 26, 2, 32, 46, 3, 2, 39, 1, 40, 35, 23, 46, 39, 48, 10, 26, 22, 29, 39, 34, 4, 43, 40, 8, 32, 45, 36, 17, 26], 9))
 %OUTPUT
 [95, 95, 95, 95, 95, 95, 95, 95, 95]
-%NAME
-Case 1
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 1
 %CODE
 print(reasignar([4, 5, 9, 9, 10, 4, 9], 6))
 %OUTPUT
 1ea1b8e65577f2cb9c483f4ce4d17111
-%NAME
-Case 2
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 2
 %CODE
 print(reasignar([5, 10, 2, 5, 7, 5, 9, 7], 5))
 %OUTPUT
 8ea2fd57d0abde301913890461012ea3
-%NAME
-Case 3
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 3
 %CODE
 print(reasignar([6, 8, 4, 4, 9, 4, 8], 2))
 %OUTPUT
 399868b61b40116ac216fa4c0b966a70
-%NAME
-Case 4
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 4
 %CODE
 print(reasignar([10], 1))
 %OUTPUT
 2a30f5f3b7d1a97cb6132480b992d984
-%NAME
-Case 5
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 5
 %CODE
 print(reasignar([10, 7, 3, 4, 2, 6, 5, 2, 6], 8))
 %OUTPUT
 8fddc83f87c6efa5c8af1eca9e8eaa61
-%NAME
-Case 6
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 6
 %CODE
 print(reasignar([6, 36, 1, 30, 40, 25, 3, 11, 35, 41, 2, 12, 17, 22, 9, 19, 50, 6, 30, 50, 37], 9))
 %OUTPUT
 6cfa7052da8452fe2d4528425c82086a
-%NAME
-Case 7
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 7
 %CODE
 print(reasignar([50, 34, 4, 13, 1, 24, 3, 4, 30, 12, 25, 34, 18, 16, 11, 39, 11, 12, 28, 8, 20, 9, 49, 36, 38, 6, 3, 21, 41, 7, 12, 49, 49, 15, 33, 1, 41], 14))
 %OUTPUT
 f840a9091be02dce60154cc8698e19bf
-%NAME
-Case 8
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 8
 %CODE
 print(reasignar([20, 42, 7, 49, 49, 10, 16, 30, 37, 23, 45, 10, 21, 49, 11, 3, 34], 11))
 %OUTPUT
 a6c1cb7175dd5e79bb4f3e1d944f765f
-%NAME
-Case 9
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 9
 %CODE
 print(reasignar([26, 2, 24, 13, 34, 1, 48, 44, 9, 39, 10], 10))
 %OUTPUT
 66300780812a1cd0856a6fc4263bcfd1
-%NAME
-Case 10
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 10
 %CODE
 print(reasignar([43, 16, 26, 28, 18, 48, 27, 49, 17, 13, 5, 21, 18, 48, 21, 36, 31, 41, 39, 4, 15, 10, 12, 19, 23, 12, 34, 2, 50, 39, 31, 35, 25, 12, 10, 14, 13, 26, 6, 45], 11))
 %OUTPUT

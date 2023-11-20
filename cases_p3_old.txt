@@ -1,201 +1,100 @@
-%PREG
-Pregunta 3
-%NAME
-Case 1
-%TYPE
-publico
-%PRECODE
-%INPUT
+#FPregunta 3
+#PCase 1
 %CODE
 print(decodificar('aedfXdpasdXirs daXbuasXje XhbXjakl'))
 %OUTPUT
 prueba
-%NAME
-Case 2
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 2
 %CODE
 print(decodificar('cBEXaHnXaorPXalcXaa'))
 %OUTPUT
 Hola
-%NAME
-Case 3
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 3
 %CODE
 print(decodificar('ZsNXaePnqXasyPXatDXaupbeXadHzPXaiezbXaaRrWXar'))
 %OUTPUT
 estudiar
-%NAME
-Case 4
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 4
 %CODE
 print(decodificar('rxXavSXaefIXarRXaajXanwXao'))
 %OUTPUT
 verano
-%NAME
-Case 5
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 5
 %CODE
 print(decodificar('woXaPtsXaydzuXatrwqXahhXaoaglXanewzXa eXaerkXascXa paXausXantuxXa cemXalgtuXaegjiXandsxXagpeXauqXaavkiXajefXaecxXa heqXadudaXaeaXa wXapuXarnqXaonXagpwnXarukyXaacXampcXaamhaXacsvgXaigXaóvXan'))
 %OUTPUT
 Python es un lenguaje de programación
-%NAME
-Case 6
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 6
 %CODE
 print(decodificar('sXapCiXayjXatMnTXahZyXaoPeXan'))
 %OUTPUT
 python
-%NAME
-Case 7
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 7
 %CODE
 print(decodificar('qsXaPuyXaogzXarzsXa aXamhmXaábyXasotXa epXaqlXaulXaeofXa tXacyXaaxfXanpvoXatfuXaeoyiXa iuvXaubpzXanykXa bdlXapitoXaákwnXajliaXaaaXaruXaocwpXa wXaemjpXansXa aeuXaeqypXalknXa jXabsXaopgXasbrxXaqsraXauxlXaemaXa,tpnXa prsXaevXalaiXa xXaczpXaiybkXaruXaumXaeiXalauXaofdXa yrXanqnoXaotXa ekXarmXaogrbXamlpXaplfXaerXa esXaaarwXa pXafyezXalhXaorXargXaehXacsnXaevXar'))
 %OUTPUT
 Por más que cante un pájaro en el bosque, el ciruelo no rompe a florecer
-%NAME
-Case 8
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 8
 %CODE
 print(decodificar('jfxXaSksXaofXamwjXaoykXasqXa tXaomXabpXaraXaaauXasmuxXa qXadmXaeldXa lgtXaawjXarmywXatiXaeudXa ndXavbnXaijXavpaXaikqlXaexlbXancXatfXaeiXasrblXa.'))
 %OUTPUT
 Somos obras de arte vivientes.
-%NAME
-Case 9
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 9
 %CODE
 print(decodificar('vyXaPlcXaerXarhXadlXaegvXarhzXa bXatpeoXaonwgXadowzXaorXa wdiXaecaXasuXa qyXafdgjXaávhXactpXaimoXaltiXa,abXa uwXaljXaolXa eXadqklXaiywXafgmyXaíhXacynXaiarXalfdpXa omqXaebgXaskXa dXarrXaerXatxXaebfeXanlsfXaeiwXariXa tXaayXalqohXagzXaonwyXa boxXahvXaawXaswuXatnXaagkXa haXatzxtXarrXaaeuXanxXasmynXafthkXaokmXarntXameXaaunjXareoXalfpXaoirXa xrXaecyfXanpowXa wreXauzXannaXaavcmXa rgoXapyrXainowXaeuojXadghXarwXaabiyXa bXapoXarhpjXaehcXacunXaiheXaogXasonXaaviXa,lXa enqXaeelXanmXa vXaaicaXampxXaupbXalmnhXaerwvXatwXaoluyXa.'))
 %OUTPUT
 Perder todo es fácil, lo difícil es retener algo hasta transformarlo en una piedra preciosa, en amuleto.
-%NAME
-Case 10
-%TYPE
-publico
-%PRECODE
-%INPUT
+#PCase 10
 %CODE
 print(decodificar('dfXaSsveXaeyabXa efXaecuXaxrXatuzXaidXanpXagaXautheXaehXa ckXaelXalwruXa jbXaddzbXaívqjXaaocwXa oejXappnXaexuXarbXaorxXa nmXanznXaoewXa vjXaetXalqzXa dXaciXaazvXanhocXataeXaonXa dkqXadgXaemgXa wXalgXaayqaXa tlXaaeXalrXaowXankjXadyXarglXaa'))
 %OUTPUT
 Se extingue el día pero no el canto de la alondra
-%NAME
-Case 1
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 1
 %CODE
 print(decodificar('dfXacsveXaoyabXamefXaicuXadrXaa'))
 %OUTPUT
 c501b276ec5ccc53995004be2b15cb0d
-%NAME
-Case 2
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 2
 %CODE
 print(decodificar('pdXapxjhXartgrXaoiXagrvXargXaagoXamhwXaatbXar'))
 %OUTPUT
 dc1b859c6c5d92073cb0ec8cf9bdb6f6
-%NAME
-Case 3
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 3
 %CODE
 print(decodificar('pevXacfxiXaagcXaszdXainmXatmihXaa'))
 %OUTPUT
 20824005085df04078c1596a2ad00ea6
-%NAME
-Case 4
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 4
 %CODE
 print(decodificar('jkiXa!zwpXa$eXa%wjXa&aXa&fXa/qmeXa/jlXa/okXa/'))
 %OUTPUT
 8169e028fe4680d9cb3e2345f075114b
-%NAME
-Case 5
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 5
 %CODE
 print(decodificar('woXa-tsXamdzuXairwqXachXaaaglXasewzXaa'))
 %OUTPUT
 b18409ce08c51b5186fcf77fd769ca37
-%NAME
-Case 6
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 6
 %CODE
 print(decodificar('fxXaNgxXaoyirXacxplXahxtgXaewkqXa ygwXayowuXa gnbXaDunXaíxXaa'))
 %OUTPUT
 bc4618f1acf8b1b933271bc4b8b07cde
-%NAME
-Case 7
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 7
 %CODE
 print(decodificar('cupXaEalmXalcXa dbXaAmXagbtXauqcyXaaaXa zXasmolXaetXa gdhXacdXaorXansXaoosXackqoXaemwXa snuXapyXaohlrXarjfiXa lcXalvXaaisuXa lXasrzsXaeseqXadqhXa;aqsXa bgeXaLsyXaaqaXa ngeXathxkXaiexuXaelemXaryozXarqXaavXa zwXa-usrXa yXapwqlXaopkiXarjXa otnXalnkdXaohteXaskXa epuXaMqucXaaiXarbasXaestkXashvXa iguXanmrsXaayjrXavkgiXaeuvbXagyXaawsoXadwXaodvmXasnbXa.czXa nprXaEiXalwlXa aerXaÉjdXaxidXataxXaajuXasaXaixXasvnXa xXa-ktlXa eXaphiaXaopfXartXa nXaeedXalihXa qrXatuwXaobXarkXammaXaeeaXaneiXataecXaoaegXa-ytXa dXaLgXaarevXa yXaPuXaakXaznphXa rgXa-jXa jXapfsoXaobuXareduXa kXaeeswXalpXa otXarmXaeoeXacfzXauuskXaeauiXanjvxXatjkeXaoqcXa gtbXaderwXaevuXa riXasxdoXausXasqjzXa eXabkXaaqnfXatdjXaafXalubnXaleujXaadXassnXa-ezjXa lXaEvXalsclXa oXaArvXamoXaovXarfibXa,bzXa jXapbXaoiXarzklXa yXaeqfXalncXa vkXaMsdvXaorsXahlXaozXa aqmXadseXaemXa tyXalntvXaaqgXa ihqXaMoXaesbdXamrXaopbXarzoXaiemhXaaigXa-ocmXa glsXaPisXaoyXarhmiXa nXalrvbXaafbwXa ftXaNafXairdbXaebfXavwqXaejkpXa,tiXa rXaltvXaosjXasfnXa pXaPvkoXaálXajzlXaalXarchuXaogrcXasqXa.'))
 %OUTPUT
 2e2a360b0b8f4c09056f92f72bd87ee2
-%NAME
-Case 8
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 8
 %CODE
 print(decodificar('kXaEudhXanrnzXa xypXatohaXaudXasoXa pvkXaoilXajxqXaoxXasrXa joXanwsjXaalonXazsrXacnXaopmqXa,spXa zasXa-bXatvdwXaupeXasdXa ovpXaoirmXajrzXaowpzXasgjXa bXamtozXaelgXa poqXacznXarbjkXaeoXaazqiXannXa,cuXa ldXavneoXaiaXavrctXaohXa byrXayyulXaokXa sypXaeerhXanetwXa cnXateXaujqnXasqXa mXaomXajlXaoyaXaspkvXa kdXa-stXaeeXalgntXa thXascrmXaouXaluXa oXadgpwXaeeXa gzqXamvXaiinXa cmXaelXasopXafjoXaeqpXarqXaazidXa,aXa ukXaezvfXanflXa szrXattXauryXasgsjXa vrXaozXajnXaovXasxzXa udqXamscXaufiXaeaXarnaXaohXa,dvXa lkyXa-uwtXamktXaionvXa lqvXacjlXaawnaXaskjxXaajXa ksXaykgrXa dftXavbXaeltuXaranXaelXadmhXaavhXa,fXa vXatvrmXauhXasiXa niXaouXajfXaouXaskuXa kbvXamhpbXaiqexXa lzhXatkgXauouXamzpvXabgfXaaepXa,qwXa uXa-jXatxieXaudarXassjbXa rqXaovfqXajeXaokrXasbxXa zgfXamrjXaimXa uatXatnlXaifxqXaekXarfXarqXaauyaXa.'))
 %OUTPUT
 c45a0af4e85d8a85a4fb5ae24fb64deb
-%NAME
-Case 9
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 9
 %CODE
 print(decodificar('oXaauXahuzXaoflXariXaatcuXa jcXaqinqXauxXaehmXa fzXacxzXaadygXalkXaiqdXaemsXaniXatcXaatrxXa ncpXaebXalsuXa vcrXacudtXaooaXaraXaaulXazqmXaógmXanpXa tXaawzXauvsrXanlXaqvhdXaujXaeevXa xeXastniXaesXaauqXa goeXadfeXaejgiXa gtmXaajigXa hXarcaXaayXataXaosgjXasrmXa crnXaygXa skuXadcXaeuXa mwXaabfaXa wqXapfXaodgXacwXaokXa fXapezwXaepXanhqXasboeXaepgXamgXaoujqXasgXa ozaXayxsXa oyXaswXaiufXangicXatnXaainuXamefXaouvaXasfXa rzqXatqXaoiXaduXaawtXavuxXaíyvXaalbXa ioXacbkXaonXangtoXa lpXaevlXaldvcXa dXavcvXaipXaevaXajfjtXaomzXa mcXacrnlXaawiXarpXaisclXañazqXaoezXa vXaqrefXaupXaedpsXa lXanmXaoaxpXaswzXa leXaqqgpXaurnuXaeoXadoxwXaa'))
 %OUTPUT
 defb25b73d9f693b3b56cfd29dfddd03
-%NAME
-Case 10
-%TYPE
-secreto
-%PRECODE
-%INPUT
+#SCase 10
 %CODE
 print(decodificar('fwXauliXanagjXaalqaXa trbXaiaXalpsXauvhXasvtoXaoyfXarkyXailXaarXa hiXaapvqXauhlXarfsXaoqrXarxXaaxXa.usXa xiuXa¡yvXaCrXauqgXaádtXanvmuXatcshXaaaXasxqpXa bXacaodXaomkuXaskXaaykiXasqXa,oXa wXaltXaádXamqwXaifypXanaXaazXaslnbXa,vrXa wlyXaubXamjXabfrdXarjXaamXalpXaetskXasnzrXa,taXa hxXaakyrXatoXallgyXaalyaXasaXa,nXa zonXaciXaobXapfXaalzxXaspXa,aXa ufXaczpoXallXaamiXavbwXaorvwXasfgXa,wXa xqgXanlXaoatdXasgXa wbiXaskuXaifuzXarjXavwmXaevXanbwXa ocXacqXaodxjXamxXaohcdXa xXatsXaáeqjXacfXaifbcXatmXaowbsXasdupXa vXaeiXasuXacpjqXalzyXaaaeXavgqXaosgXaskrXa,zmXa oXacdtlXaijzXaekXagqrXaaoenXasfXa dnaXaykXa rXaetcoXaxcXattmzXaruyqXaasXañmrXaacnXamjaXaezprXantXathtjXaetsXa hXassXaitqlXagowiXaihXalkfhXaoblXasayXaafdeXasjxmXa!evXa rnXaDfxtXauvXaraXaadkXaryviXaáexjXanevXa nXamqanXaákqXaspXa dxXaaifaXalpdXalvmXaáqXa tXadfnXaevjeXa qfXanchjXaumlXaehalXasoaXatlbXarltsXaoapXa xktXaomXalvXavpwaXaitiXadtqXaoeknXa;loXa yXanpXaohizXa yXaskXaaoXabfixXardXaáoXanemXa juiXanosmXauvlXanwXacqrXaagXa fXaqmgXaucdXaeschXa dXanwyXaouXasrzXa lmXahhXaesibXamxafXaoybXaspawXa fmXaiquXadhXaodyiXa.'))
 %OUTPUT
