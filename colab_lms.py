@@ -232,7 +232,21 @@ def push_str(val):
   if type(val) == type(0.5):
     return str(val)
   if type(val) == type([]):
-    return '[' + ', '.join([ push_str(i) for i in val ]) + ']'
+    return '[' + ', '.join([ push_str2(i) for i in val ]) + ']'
+  if type(val) == type(True):
+    return str(val)
+  if val == None:
+    return 'None'
+  return val
+
+#conversor interno para listas
+def push_str2(val):
+  if type(val) == type(1):
+    return str(val)
+  if type(val) == type(0.5):
+    return str(val)
+  if type(val) == type([]):
+    return '[' + ', '.join([ push_str2(i) for i in val ]) + ']'
   if type(val) == type(True):
     return str(val)
   if val == None:
@@ -308,7 +322,7 @@ def run_case(case, student_code):
     exec(redirect_io(case['CODE']))
 
     if case['TYPE'].lower() == 'secreto':
-      STUDENT_OUTPUT_CONTROL = hashlib.md5( STUDENT_OUTPUT_CONTROL.encode()).hexdigest()
+      STUDENT_OUTPUT_CONTROL = hashlib.md5( STUDENT_OUTPUT_CONTROL.strip().encode()).hexdigest()
       case['OUTPUT'] = case['OUTPUT'].strip()
 
     estado, estado_msg = [1 ,'CORRECTO'] if STUDENT_OUTPUT_CONTROL == case['OUTPUT'] else [0 , 'INCORRECTO']
