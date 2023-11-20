@@ -265,6 +265,7 @@ def new_input(*args):
   INTERNAL_COUNTER_INPUT += 1
   return INTERNAL_INPUT_CONTROL[INTERNAL_COUNTER_INPUT - 1]
 
+
 # Nueva funcion de print que reemplaza a la de los alumnos
 def new_print(*args, sep = " ", end = "\n"):
   global STUDENT_OUTPUT_CONTROL
