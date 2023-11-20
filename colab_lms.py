@@ -251,7 +251,7 @@ def push_str2(val):
     return str(val)
   if val == None:
     return 'None'
-  return val
+  return repr(val)
 
 # Nueva funcion de input que reemplaza a la de los alumnos
 def new_input(*args):
