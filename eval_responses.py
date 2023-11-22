@@ -9,6 +9,7 @@ from json import load
 from datetime import datetime
 import urllib.request
 import csv
+import os
 
 exec(open('colab_lms_eval.py').read())
 
@@ -27,13 +28,15 @@ protected = [
   'get_case_path','protected','header',
   'read_cases','clean_code','parse_case','new_print','push_str','push_str2','redirect_io','get_student_code_from_file',
   'eval_case','eval_test','res_file',
-  'threading','run_case_with_timeout','archivos_listos'
+  'threading','run_case_with_timeout','archivos_listos','os'
 ]
 
-
-with open('res/results.csv', 'r') as res_file:
-  csv_reader = csv.reader(res_file)
-  archivos_listos = [row[0] for row in csv_reader]
+if os.path.exists('res/results.csv'):
+  with open('res/results.csv', 'r') as res_file:
+    csv_reader = csv.reader(res_file)
+    archivos_listos = [row[0] for row in csv_reader]
+else:
+      archivos_listos = []
 
 with open('res/results.csv', 'a') as res_file:
   if len( archivos_listos) == 0:
