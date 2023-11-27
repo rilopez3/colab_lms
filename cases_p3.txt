@@ -119,7 +119,7 @@ secreto
 %CODE
 print(dilata("6w9p3h2t5s9T"))
 %OUTPUT
-226d51112dfed88091c9f12df1f29b6d
+05abba69ebfeecd11c0cfc24a52ad7df
 %NAME
 Case 3
 %TYPE
@@ -129,7 +129,7 @@ secreto
 %CODE
 print(dilata("5m3q3K0y9C3d6W5M"))
 %OUTPUT
-0c60d8cb8f8c5f4f99394d2fd3463b7a
+22355f4eda824e2eae89c0282009b1c8
 %NAME
 Case 4
 %TYPE
@@ -139,7 +139,7 @@ secreto
 %CODE
 print(dilata("3L9P9G7Y9F9F0l5z6x4g"))
 %OUTPUT
-81629173c3648e59c07c7e48b39b01ed
+71387b8e20bf2a3caac87e9e7ba24611
 %NAME
 Case 5
 %TYPE
@@ -149,7 +149,7 @@ secreto
 %CODE
 print(dilata("5G8r6H5P9y4F7o8G4n"))
 %OUTPUT
-5876110e48d4fe086afb4f576f55d9e6
+a2c07cfc5900b2f2ad3aa35924239394
 %NAME
 Case 6
 %TYPE
@@ -159,7 +159,7 @@ secreto
 %CODE
 print(dilata("8d5o4A8o7h0F1q6h4Q9R4D2Y"))
 %OUTPUT
-762791ca909d922be0bc285097cdcd0f
+8b3fd9ba2ffc37390ede12b13f87129c
 %NAME
 Case 7
 %TYPE
@@ -169,7 +169,7 @@ secreto
 %CODE
 print(dilata("0C8g1M0H7n8p1c2n2P4M6d7u9m8Z9S6z"))
 %OUTPUT
-3150cc565c6a44e9da2968aa898338c3
+f98cc1b35ac6824c8cb4c2a44b58f882
 %NAME
 Case 8
 %TYPE
@@ -179,7 +179,7 @@ secreto
 %CODE
 print(dilata("5V7Z9k9F9n0v1D9e1L2d1v2X9u9D3G0U0z6Z"))
 %OUTPUT
-7549357b9cd21f390ccf8c14d0788f7f
+10f62ba71cdd75d7836d08d3bb47f603
 %NAME
 Case 9
 %TYPE
@@ -189,7 +189,7 @@ secreto
 %CODE
 print(dilata("6V1X9e2Q1p8D7C6v7N5j6E3a6F0u5y9h4i4I6D"))
 %OUTPUT
-e7c347987b8a12777882880d0946a072
+bccbf42cc71e6510d05c5f3277883ce0
 %NAME
 Case 10
 %TYPE
@@ -199,4 +199,4 @@ secreto
 %CODE
 print(dilata("2X3G8M0o0L6M9a3c0m1D9v2U5V3G"))
 %OUTPUT
-2e1dd1e70642941cc6f33cc2c6138aef
+ccbcf05809918ab59a8770164e3ba17f
