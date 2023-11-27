@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Peñaflor', 6], ['Iquique', 3], ['San Antonio', 5], ['Talca', 2], ['Ovalle', 8]]))
+print(afectacion([['Rengo', 5], ['Melipilla', 8], ['Colina', 5], ['Punta Arenas', 9], ['Paine', 2], ['Los Ángeles', 10]]))
 %OUTPUT
-[['Peñaflor', 24], ['Iquique', 13], ['San Antonio', 20], ['Talca', 9], ['Ovalle', 29]]
+[['Rengo', 20], ['Melipilla', 29], ['Colina', 20], ['Punta Arenas', 32], ['Paine', 9], ['Los Ángeles', 34]]
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Antofagasta', 9], ['Ovalle', 6], ['Santiago', 8], ['Peñaflor', 5], ['San Vicente', 4]]))
+print(afectacion([['Curicó', 7], ['Concepción', 10], ['La Serena', 8], ['Chillán', 8], ['Valdivia', 4], ['Talca', 9]]))
 %OUTPUT
-[['Antofagasta', 32], ['Ovalle', 24], ['Santiago', 29], ['Peñaflor', 20], ['San Vicente', 17]]
+[['Curicó', 26], ['Concepción', 34], ['La Serena', 29], ['Chillán', 29], ['Valdivia', 17], ['Talca', 32]]
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Talca', 9], ['Paine', 12], ['Constitucion', 15], ['Vallenar', 23], ['Rengo', 10], ['San Carlos', 18], ['Concepción', 17]]))
+print(afectacion([['Puerto Montt', 44], ['Copiapó', 27], ['Villarrica', 30], ['Buin', 14], ['Peñaflor', 41], ['San Vicente', 10], ['Valdivia', 32], ['Talagante', 27], ['Angol', 38], ['Chillán', 21]]))
 %OUTPUT
-[['Talca', 32], ['Paine', 38], ['Constitucion', 44], ['Vallenar', 54], ['Rengo', 34], ['San Carlos', 48], ['Concepción', 47]]
+[['Puerto Montt', 69], ['Copiapó', 58], ['Villarrica', 61], ['Buin', 42], ['Peñaflor', 68], ['San Vicente', 34], ['Valdivia', 62], ['Talagante', 58], ['Angol', 66], ['Chillán', 52]]
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Punta Arenas', 12], ['Iquique', 30], ['Cauquenes', 26], ['Antofagasta', 14], ['Peñaflor', 6], ['Chillán', 8], ['San Carlos', 5]]))
+print(afectacion([['Coyhaique', 20], ['Puerto Montt', 25], ['Iquique', 12], ['Angol', 17], ['Coquimbo', 37], ['Los Ángeles', 12], ['Ovalle', 49], ['Constitucion', 24], ['Quillota', 19]]))
 %OUTPUT
-[['Punta Arenas', 38], ['Iquique', 61], ['Cauquenes', 57], ['Antofagasta', 42], ['Peñaflor', 24], ['Chillán', 29], ['San Carlos', 20]]
+[['Coyhaique', 51], ['Puerto Montt', 56], ['Iquique', 38], ['Angol', 47], ['Coquimbo', 66], ['Los Ángeles', 38], ['Ovalle', 72], ['Constitucion', 55], ['Quillota', 50]]
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['San Felipe', 29], ['La Serena', 24], ['San Fernando', 17], ['Colina', 14], ['Los Ángeles', 14], ['Osorno', 15], ['Calama', 23]]))
+print(afectacion([['San Javier', 36], ['Osorno', 23], ['Melipilla', 46], ['Villarrica', 20], ['Quillota', 42], ['Valparaíso', 17]]))
 %OUTPUT
-[['San Felipe', 60], ['La Serena', 55], ['San Fernando', 47], ['Colina', 42], ['Los Ángeles', 42], ['Osorno', 44], ['Calama', 54]]
+[['San Javier', 65], ['Osorno', 54], ['Melipilla', 70], ['Villarrica', 51], ['Quillota', 68], ['Valparaíso', 47]]
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Concepción', 32], ['Santiago', 16], ['Talagante', 19], ['Coquimbo', 59], ['Punta Arenas', 18], ['Calama', 12], ['Melipilla', 31], ['San Felipe', 20], ['Constitucion', 22], ['Valdivia', 18]]))
+print(afectacion([['Villarrica', 191], ['Constitucion', 248], ['Arica', 74], ['Valparaíso', 79], ['Quillota', 294], ['Melipilla', 115], ['Buin', 219], ['Iquique', 208], ['Limache', 80], ['Talca', 149], ['San Felipe', 150], ['Chillán', 70], ['Punta Arenas', 271], ['San Antonio', 261], ['Ovalle', 65], ['Cauquenes', 103], ['Calama', 120]]))
 %OUTPUT
-[['Concepción', 62], ['Santiago', 45], ['Talagante', 50], ['Coquimbo', 75], ['Punta Arenas', 48], ['Calama', 38], ['Melipilla', 62], ['San Felipe', 51], ['Constitucion', 53], ['Valdivia', 48]]
+[['Villarrica', 90], ['Constitucion', 92], ['Arica', 79], ['Valparaíso', 80], ['Quillota', 93], ['Melipilla', 85], ['Buin', 92], ['Iquique', 91], ['Limache', 80], ['Talca', 88], ['San Felipe', 88], ['Chillán', 78], ['Punta Arenas', 93], ['San Antonio', 93], ['Ovalle', 77], ['Cauquenes', 84], ['Calama', 86]]
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Los Ángeles', 36], ['Valparaíso', 57], ['Copiapó', 39], ['Melipilla', 20], ['Valdivia', 40], ['Paine', 18], ['Puerto Montt', 60], ['Coquimbo', 26], ['Ovalle', 34], ['Limache', 40], ['San Antonio', 17], ['San Vicente', 25], ['Chillán', 33], ['Constitucion', 18], ['Cauquenes', 28], ['Buin', 37], ['Angol', 28], ['Calama', 52]]))
+print(afectacion([['Cauquenes', 92], ['Concepción', 158], ['Puerto Montt', 55], ['Los Ángeles', 184], ['Quillota', 239], ['Antofagasta', 135], ['Chillán', 138], ['Villarrica', 251], ['Angol', 199], ['Rengo', 198]]))
 %OUTPUT
-[['Los Ángeles', 65], ['Valparaíso', 75], ['Copiapó', 67], ['Melipilla', 51], ['Valdivia', 67], ['Paine', 48], ['Puerto Montt', 75], ['Coquimbo', 57], ['Ovalle', 64], ['Limache', 67], ['San Antonio', 47], ['San Vicente', 56], ['Chillán', 63], ['Constitucion', 48], ['Cauquenes', 59], ['Buin', 66], ['Angol', 59], ['Calama', 73]]
+[['Cauquenes', 82], ['Concepción', 89], ['Puerto Montt', 74], ['Los Ángeles', 90], ['Quillota', 92], ['Antofagasta', 87], ['Chillán', 87], ['Villarrica', 92], ['Angol', 91], ['Rengo', 91]]
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Ovalle', 59], ['Buin', 13], ['Temuco', 22], ['Puerto Montt', 52], ['Rengo', 24], ['Concepción', 60], ['Talca', 15], ['Los Ángeles', 24], ['Melipilla', 19], ['Valparaíso', 31], ['Copiapó', 54], ['Vallenar', 39], ['San Fernando', 48], ['San Felipe', 39], ['La Serena', 55], ['Colina', 31], ['Talagante', 22], ['Valdivia', 53], ['Quillota', 41], ['San Carlos', 51]]))
+print(afectacion([['Copiapó', 93], ['Melipilla', 125], ['Iquique', 85], ['Ovalle', 201], ['Vallenar', 100], ['Antofagasta', 199], ['Calama', 68], ['Arica', 97], ['Colina', 61], ['San Fernando', 185], ['Coquimbo', 137], ['Puerto Montt', 210], ['Santiago', 65]]))
 %OUTPUT
-[['Ovalle', 75], ['Buin', 40], ['Temuco', 53], ['Puerto Montt', 73], ['Rengo', 55], ['Concepción', 75], ['Talca', 44], ['Los Ángeles', 55], ['Melipilla', 50], ['Valparaíso', 62], ['Copiapó', 73], ['Vallenar', 67], ['San Fernando', 71], ['San Felipe', 67], ['La Serena', 74], ['Colina', 62], ['Talagante', 53], ['Valdivia', 73], ['Quillota', 68], ['San Carlos', 72]]
+[['Copiapó', 83], ['Melipilla', 86], ['Iquique', 81], ['Ovalle', 91], ['Vallenar', 84], ['Antofagasta', 91], ['Calama', 78], ['Arica', 83], ['Colina', 76], ['San Fernando', 90], ['Coquimbo', 87], ['Puerto Montt', 91], ['Santiago', 77]]
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Quillota', 57], ['Temuco', 42], ['Calama', 50], ['Constitucion', 16], ['San Fernando', 23], ['Peñaflor', 37], ['La Serena', 45], ['Ovalle', 55], ['San Antonio', 60], ['Vallenar', 29], ['Angol', 37], ['Rancagua', 38], ['Santiago', 25], ['Iquique', 53], ['Osorno', 13], ['Los Ángeles', 25], ['Talca', 36], ['Coquimbo', 28], ['Chillán', 38]]))
+print(afectacion([['Constitucion', 252], ['San Antonio', 108], ['San Vicente', 137], ['Peñaflor', 207], ['Valdivia', 285], ['Temuco', 69], ['Buin', 154], ['Iquique', 60], ['San Javier', 168], ['Colina', 194], ['Curicó', 95], ['Rengo', 131], ['Paine', 170], ['Concepción', 280], ['Valparaíso', 184], ['Arica', 110], ['La Serena', 208], ['Villarrica', 247]]))
 %OUTPUT
-[['Quillota', 75], ['Temuco', 68], ['Calama', 72], ['Constitucion', 45], ['San Fernando', 54], ['Peñaflor', 66], ['La Serena', 70], ['Ovalle', 74], ['San Antonio', 75], ['Vallenar', 60], ['Angol', 66], ['Rancagua', 66], ['Santiago', 56], ['Iquique', 73], ['Osorno', 40], ['Los Ángeles', 56], ['Talca', 65], ['Coquimbo', 59], ['Chillán', 66]]
+[['Constitucion', 92], ['San Antonio', 85], ['San Vicente', 87], ['Peñaflor', 91], ['Valdivia', 93], ['Temuco', 78], ['Buin', 89], ['Iquique', 75], ['San Javier', 89], ['Colina', 91], ['Curicó', 83], ['Rengo', 87], ['Paine', 89], ['Concepción', 93], ['Valparaíso', 90], ['Arica', 85], ['La Serena', 91], ['Villarrica', 92]]
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Valdivia', 3], ['Coquimbo', 3], ['San Vicente', 5], ['Los Ángeles', 3], ['Villarrica', 10], ['Santiago', 6], ['Rancagua', 5], ['Cauquenes', 5]]))
+print(afectacion([['Limache', 5], ['Coyhaique', 10], ['Osorno', 10], ['Quillota', 6]]))
 %OUTPUT
-ec2ab8f64f587d867c2f7cbee680d814
+04fdff00b8ea27b9834624dc421d90df
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Peñaflor', 7], ['Curicó', 6], ['Calama', 10], ['Melipilla', 4], ['Valdivia', 6], ['Lampa', 2]]))
+print(afectacion([['Antofagasta', 10], ['Constitucion', 7], ['Limache', 3], ['Santiago', 7], ['Curicó', 9], ['Valdivia', 6]]))
 %OUTPUT
-2e2d72d7a95b6fa611100d1df68cd810
+0f678725fee150b752f29e94cdd1427f
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Coquimbo', 9], ['Calama', 5], ['San Fernando', 10], ['Buin', 3], ['San Carlos', 3], ['Curicó', 3], ['Colina', 8]]))
+print(afectacion([['Peñaflor', 2], ['Angol', 5], ['Curicó', 6], ['Coyhaique', 7]]))
 %OUTPUT
-ade3db7164619a7fc6c2f4e5bd34510f
+01aeb110f15ce60ed2f63bc7536c5077
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Coyhaique', 25], ['San Javier', 13], ['Chillán', 7], ['Rengo', 18], ['Limache', 27], ['San Felipe', 12], ['Talagante', 25], ['Angol', 20]]))
+print(afectacion([['Santiago', 42], ['San Vicente', 20], ['Paine', 44], ['Angol', 39], ['Constitucion', 11], ['Cauquenes', 30], ['Rengo', 43], ['Coyhaique', 12], ['Peñaflor', 43]]))
 %OUTPUT
-3598ef04f65c0043ad69e58862ac83f7
+8a5ffca10c463e466fe3748f0b9b6798
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Ovalle', 29], ['Buin', 12], ['Curicó', 25], ['Peñaflor', 22], ['San Fernando', 7], ['Valparaíso', 10], ['San Felipe', 24], ['Punta Arenas', 6]]))
+print(afectacion([['Constitucion', 22], ['Peñaflor', 45], ['Lampa', 15], ['Talagante', 45], ['Iquique', 30], ['Valdivia', 49], ['Linares', 14], ['Ovalle', 38]]))
 %OUTPUT
-c5a111c0717d1888f5d9f7f5233614f9
+383e8c083e15764515edf3738f1c38e6
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['San Javier', 13], ['La Serena', 28], ['Arica', 12], ['Angol', 9], ['Vallenar', 22], ['Rengo', 26]]))
+print(afectacion([['Iquique', 23], ['Linares', 37], ['Antofagasta', 26], ['Lampa', 44], ['Calama', 12], ['Los Ángeles', 47], ['Arica', 20], ['Quillota', 21], ['Talca', 33]]))
 %OUTPUT
-8e16f273aeed407aad24571110dc47e4
+c040596eec6baa5b7fbe51f8877d58f8
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['San Vicente', 33], ['Talca', 43], ['Valdivia', 57], ['Temuco', 18], ['Linares', 51], ['Concepción', 12], ['Valparaíso', 58], ['Colina', 26], ['Punta Arenas', 22], ['Los Ángeles', 57], ['Constitucion', 56], ['San Fernando', 41], ['Chillán', 17], ['San Felipe', 43]]))
+print(afectacion([['Temuco', 88], ['Concepción', 188], ['Talca', 86], ['Rancagua', 155], ['Villarrica', 244], ['Buin', 210], ['Los Ángeles', 180], ['Cauquenes', 216], ['San Carlos', 263], ['Antofagasta', 252], ['San Fernando', 78], ['Ovalle', 76], ['Lampa', 204], ['Vallenar', 277], ['Limache', 96], ['San Vicente', 125], ['Talagante', 293]]))
 %OUTPUT
-b835692810b521cd9e7b4d75c432518e
+a127a3acac99cea6501ba6fe17ed6a5a
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['San Javier', 46], ['Linares', 35], ['Santiago', 50], ['Valparaíso', 13], ['Antofagasta', 55], ['Lampa', 39], ['San Fernando', 22], ['Arica', 22], ['Vallenar', 41], ['Coyhaique', 38], ['Ovalle', 58], ['Coquimbo', 33], ['Peñaflor', 43], ['Concepción', 22], ['Buin', 12]]))
+print(afectacion([['Arica', 287], ['Iquique', 246], ['Ovalle', 58], ['Talagante', 94], ['La Serena', 284], ['Lampa', 225], ['Coyhaique', 151], ['San Vicente', 156], ['Copiapó', 218], ['Rengo', 221]]))
 %OUTPUT
-aa86ff23f4aaf5579fa18b83c64fd1c7
+a1e6fe9eb35cf40f2ef37f7bd7a5693d
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['San Felipe', 22], ['Angol', 50], ['Antofagasta', 46], ['Arica', 27], ['Cauquenes', 19], ['La Serena', 50], ['Valparaíso', 12], ['Concepción', 27], ['Osorno', 14], ['Buin', 23], ['Paine', 16], ['Talagante', 12], ['Rengo', 35]]))
+print(afectacion([['Calama', 218], ['Linares', 193], ['Chillán', 223], ['San Fernando', 260], ['Ovalle', 166], ['Punta Arenas', 65], ['Quillota', 225], ['Coyhaique', 232], ['Talca', 211], ['Peñaflor', 277], ['Arica', 162], ['Villarrica', 78], ['Concepción', 262], ['San Carlos', 289], ['Cauquenes', 155], ['Paine', 274], ['Santiago', 206], ['Melipilla', 94], ['Limache', 163], ['Coquimbo', 68]]))
 %OUTPUT
-32a9bd75cf6f01a3b84e0bdfd9974eaf
+96dcfa31a0305befea16076cda44e69b
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(afectacion([['Constitucion', 43], ['Coquimbo', 15], ['Copiapó', 59], ['Villarrica', 56], ['Cauquenes', 31], ['Peñaflor', 23], ['Talca', 49], ['Buin', 27], ['Curicó', 39], ['Limache', 59], ['San Carlos', 36], ['Concepción', 14], ['San Fernando', 37], ['San Antonio', 29], ['Los Ángeles', 25], ['Osorno', 48]]))
+print(afectacion([['Concepción', 71], ['Valdivia', 162], ['La Serena', 92], ['Quillota', 282], ['Talca', 228], ['Osorno', 125], ['San Vicente', 271], ['Iquique', 252], ['Punta Arenas', 66], ['San Javier', 147], ['Ovalle', 130], ['Antofagasta', 73], ['Villarrica', 295]]))
 %OUTPUT
-f424eaa938c474f15ea804989a25fc1c
+5af24aa324b61a17e63fdba4a546e51e
