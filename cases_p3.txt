@@ -1,0 +1,202 @@
+%PREG
+Pregunta 3
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("0a3b6c"))
+%OUTPUT
+"bbbcccccc"
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("1m0x1i2s1i0x2s1i2p0a1i0z"))
+%OUTPUT
+"mississippi"
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("0t1a1r1q1u0m1e1o1z0e2o1l1o1g1i0h1a"))
+%OUTPUT
+"arqueozoologia"
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("1h0r1a2l0p1o1w2e0q1n0d0x"))
+%OUTPUT
+"halloween"
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("6D7t2N7S2v0l4q5s6C"))
+%OUTPUT
+DDDDDDtttttttNNSSSSSSSvvqqqqsssssCCCCCC
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("5e2X8E0r8U8H5m9b9W9L6S"))
+%OUTPUT
+eeeeeXXEEEEEEEEUUUUUUUUHHHHHHHHmmmmmbbbbbbbbbWWWWWWWWWLLLLLLLLLSSSSSS
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("4M8a5P1H3v2q1u2l0U4x8V8w3M7C9x9h0d1k2h"))
+%OUTPUT
+MMMMaaaaaaaaPPPPPHvvvqqullxxxxVVVVVVVVwwwwwwwwMMMCCCCCCCxxxxxxxxxhhhhhhhhhkhh
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("8W0l7i7f8a2D4u4j7K9C3b2g"))
+%OUTPUT
+WWWWWWWWiiiiiiifffffffaaaaaaaaDDuuuujjjjKKKKKKKCCCCCCCCCbbbgg
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("0n2T8B0J9M3d6I7L8U7f7y1I9f8b8U7N8U4d"))
+%OUTPUT
+TTBBBBBBBBMMMMMMMMMdddIIIIIILLLLLLLUUUUUUUUfffffffyyyyyyyIfffffffffbbbbbbbbUUUUUUUUNNNNNNNUUUUUUUUdddd
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+print(dilata("0x8h6N3h1I6Q6v7A8j0g4S9t8H7g2z9y4l"))
+%OUTPUT
+hhhhhhhhNNNNNNhhhIQQQQQQvvvvvvAAAAAAAjjjjjjjjSSSStttttttttHHHHHHHHgggggggzzyyyyyyyyyllll
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("8o4t4j5M7v7b"))
+%OUTPUT
+2716ba53e516294b15349685e1d0beca
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("6w9p3h2t5s9T"))
+%OUTPUT
+226d51112dfed88091c9f12df1f29b6d
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("5m3q3K0y9C3d6W5M"))
+%OUTPUT
+0c60d8cb8f8c5f4f99394d2fd3463b7a
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("3L9P9G7Y9F9F0l5z6x4g"))
+%OUTPUT
+81629173c3648e59c07c7e48b39b01ed
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("5G8r6H5P9y4F7o8G4n"))
+%OUTPUT
+5876110e48d4fe086afb4f576f55d9e6
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("8d5o4A8o7h0F1q6h4Q9R4D2Y"))
+%OUTPUT
+762791ca909d922be0bc285097cdcd0f
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("0C8g1M0H7n8p1c2n2P4M6d7u9m8Z9S6z"))
+%OUTPUT
+3150cc565c6a44e9da2968aa898338c3
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("5V7Z9k9F9n0v1D9e1L2d1v2X9u9D3G0U0z6Z"))
+%OUTPUT
+7549357b9cd21f390ccf8c14d0788f7f
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("6V1X9e2Q1p8D7C6v7N5j6E3a6F0u5y9h4i4I6D"))
+%OUTPUT
+e7c347987b8a12777882880d0946a072
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(dilata("2X3G8M0o0L6M9a3c0m1D9v2U5V3G"))
+%OUTPUT
+2e1dd1e70642941cc6f33cc2c6138aef
