@@ -9,7 +9,7 @@ publico
 %CODE
 print(dilata("0a3b6c"))
 %OUTPUT
-"bbbcccccc"
+bbbcccccc
 %NAME
 Case 2
 %TYPE
@@ -19,7 +19,7 @@ publico
 %CODE
 print(dilata("1m0x1i2s1i0x2s1i2p0a1i0z"))
 %OUTPUT
-"mississippi"
+mississippi
 %NAME
 Case 3
 %TYPE
@@ -29,7 +29,7 @@ publico
 %CODE
 print(dilata("0t1a1r1q1u0m1e1o1z0e2o1l1o1g1i0h1a"))
 %OUTPUT
-"arqueozoologia"
+arqueozoologia
 %NAME
 Case 4
 %TYPE
@@ -39,7 +39,7 @@ publico
 %CODE
 print(dilata("1h0r1a2l0p1o1w2e0q1n0d0x"))
 %OUTPUT
-"halloween"
+halloween
 %NAME
 Case 5
 %TYPE
@@ -109,7 +109,7 @@ secreto
 %CODE
 print(dilata("8o4t4j5M7v7b"))
 %OUTPUT
-2716ba53e516294b15349685e1d0beca
+144025411a188cfd0b9440038384fba4
 %NAME
 Case 2
 %TYPE
