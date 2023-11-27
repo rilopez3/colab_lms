@@ -103,7 +103,7 @@ print(afectacion([['Quillota', 57], ['Temuco', 42], ['Calama', 50], ['Constituci
 %NAME
 Case 1
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -113,7 +113,7 @@ ec2ab8f64f587d867c2f7cbee680d814
 %NAME
 Case 2
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -123,7 +123,7 @@ print(afectacion([['Peñaflor', 7], ['Curicó', 6], ['Calama', 10], ['Melipilla'
 %NAME
 Case 3
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -133,7 +133,7 @@ ade3db7164619a7fc6c2f4e5bd34510f
 %NAME
 Case 4
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -143,7 +143,7 @@ print(afectacion([['Coyhaique', 25], ['San Javier', 13], ['Chillán', 7], ['Reng
 %NAME
 Case 5
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -153,7 +153,7 @@ c5a111c0717d1888f5d9f7f5233614f9
 %NAME
 Case 6
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -163,7 +163,7 @@ print(afectacion([['San Javier', 13], ['La Serena', 28], ['Arica', 12], ['Angol'
 %NAME
 Case 7
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -173,7 +173,7 @@ b835692810b521cd9e7b4d75c432518e
 %NAME
 Case 8
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -183,7 +183,7 @@ aa86ff23f4aaf5579fa18b83c64fd1c7
 %NAME
 Case 9
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -193,7 +193,7 @@ print(afectacion([['San Felipe', 22], ['Angol', 50], ['Antofagasta', 46], ['Aric
 %NAME
 Case 10
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
