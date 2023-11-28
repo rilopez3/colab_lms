@@ -6,7 +6,6 @@ Case 1
 publico
 %PRECODE
 %INPUT
-%CODE
 misil crucero
 %OUTPUT
 1
@@ -20,7 +19,6 @@ Case 2
 publico
 %PRECODE
 %INPUT
-%CODE
 sal
 %OUTPUT
 1
@@ -30,7 +28,6 @@ Case 3
 publico
 %PRECODE
 %INPUT
-%CODE
 Cielo azul profundo
 %OUTPUT
 1
@@ -47,7 +44,6 @@ Case 4
 publico
 %PRECODE
 %INPUT
-%CODE
 casita
 %OUTPUT
 1
@@ -59,7 +55,6 @@ Case 5
 publico
 %PRECODE
 %INPUT
-%CODE
 Amanecer en la playa
 %OUTPUT
 0
@@ -76,7 +71,6 @@ Case 6
 publico
 %PRECODE
 %INPUT
-%CODE
 Bailando bajo la luna brillante
 %OUTPUT
 1
@@ -97,7 +91,6 @@ Case 7
 publico
 %PRECODE
 %INPUT
-%CODE
 Sol brillante
 %OUTPUT
 1
@@ -110,7 +103,6 @@ Case 8
 publico
 %PRECODE
 %INPUT
-%CODE
 Secretos compartidos crean vínculos fuertes
 %OUTPUT
 1
@@ -133,7 +125,6 @@ Case 9
 publico
 %PRECODE
 %INPUT
-%CODE
 Reflejos brillantes en aguas tranquilas
 %OUTPUT
 1
@@ -156,7 +147,6 @@ Case 10
 publico
 %PRECODE
 %INPUT
-%CODE
 Montañas cubiertas de nieve
 %OUTPUT
 1
@@ -176,7 +166,6 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-%CODE
 Cielo nublado
 %OUTPUT
 c9ca9aace8dc8c04407f3934ff3e6a7d
@@ -186,7 +175,6 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-%CODE
 Caminos desconocidos esperan
 %OUTPUT
 6b87fb5c5e573f9c2dc9beb7a0e73b7e
@@ -196,7 +184,6 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-%CODE
 Risas en la bruma
 %OUTPUT
 6c5a2cc1ead27aaa37af88258f762f53
@@ -206,7 +193,6 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-%CODE
 Aventuras que cambian perspectivas
 %OUTPUT
 344815c10efa6b6b6694178157b32e29
@@ -216,7 +202,6 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-%CODE
 Exploramos juntos, descubriendo nuevos horizontes
 %OUTPUT
 ee8bcbbf7bda31ea69630b5348a9fbe5
@@ -226,7 +211,6 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-%CODE
 Conversaciones profundas revelan pensamientos ocultos
 %OUTPUT
 a4808d90bcfaaac188ee9650f203fe8f
@@ -236,7 +220,6 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-%CODE
 En la calma, hallamos la sabiduría escondida
 %OUTPUT
 c5ac58e5ed943ecdf0a9a9082cb34c3d
@@ -246,7 +229,6 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-%CODE
 Caminando por senderos desconocidos, encontramos sorpresas
 %OUTPUT
 9bb228e108a4f58de2e79a35035106df
@@ -256,7 +238,6 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-%CODE
 mente fresca
 %OUTPUT
 d95894633f991690659bfca4b958617b
@@ -266,7 +247,6 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-%CODE
 puentes hacia un futuro brillante
 %OUTPUT
 2e3358cfd14889862f46be6bd4d898dc
