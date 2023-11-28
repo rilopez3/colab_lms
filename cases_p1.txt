@@ -1,0 +1,272 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+misil crucero
+%OUTPUT
+1
+3
+8
+10
+12
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+sal
+%OUTPUT
+1
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+Cielo azul profundo
+%OUTPUT
+1
+2
+4
+6
+8
+13
+15
+18
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+casita
+%OUTPUT
+1
+3
+5
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+Amanecer en la playa
+%OUTPUT
+0
+2
+4
+6
+9
+13
+17
+19
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+Bailando bajo la luna brillante
+%OUTPUT
+1
+2
+4
+7
+10
+12
+15
+18
+20
+24
+27
+30
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+Sol brillante
+%OUTPUT
+1
+6
+9
+12
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+Secretos compartidos crean vínculos fuertes
+%OUTPUT
+1
+4
+6
+10
+13
+16
+18
+23
+24
+31
+33
+37
+38
+41
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+Reflejos brillantes en aguas tranquilas
+%OUTPUT
+1
+4
+6
+11
+14
+17
+20
+23
+25
+26
+31
+34
+35
+37
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+Montañas cubiertas de nieve
+%OUTPUT
+1
+4
+6
+10
+12
+13
+16
+20
+23
+24
+26
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+Cielo nublado
+%OUTPUT
+c9ca9aace8dc8c04407f3934ff3e6a7d
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+Caminos desconocidos esperan
+%OUTPUT
+6b87fb5c5e573f9c2dc9beb7a0e73b7e
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+Risas en la bruma
+%OUTPUT
+6c5a2cc1ead27aaa37af88258f762f53
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+Aventuras que cambian perspectivas
+%OUTPUT
+344815c10efa6b6b6694178157b32e29
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+Exploramos juntos, descubriendo nuevos horizontes
+%OUTPUT
+ee8bcbbf7bda31ea69630b5348a9fbe5
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+Conversaciones profundas revelan pensamientos ocultos
+%OUTPUT
+a4808d90bcfaaac188ee9650f203fe8f
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+En la calma, hallamos la sabiduría escondida
+%OUTPUT
+c5ac58e5ed943ecdf0a9a9082cb34c3d
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+Caminando por senderos desconocidos, encontramos sorpresas
+%OUTPUT
+9bb228e108a4f58de2e79a35035106df
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+mente fresca
+%OUTPUT
+d95894633f991690659bfca4b958617b
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+puentes hacia un futuro brillante
+%OUTPUT
+2e3358cfd14889862f46be6bd4d898dc
