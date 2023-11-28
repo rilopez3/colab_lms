@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'b'], ['b', 'c'], ['c', 'd'], ['d', 'e'], ['e', 'f'], ['f', 'g'], ['g', 'h'], ['h', 'i'], ['i', 'j'], ['j', 'k'], ['k', 'l'], ['l', 'm'], ['m', 'n'], ['n', 'o'], ['o', 'p'], ['p', 'q'], ['q', 'r'], ['r', 's'], ['s', 't'], ['t', 'u'], ['u', 'v'], ['v', 'w'], ['w', 'x'], ['x', 'y'], ['y', 'z'], ['z', 'a']], 'paralelepipedo'))
+print(agregar_unidades([9,9],0,4))
 %OUTPUT
-qbsbmfmfqjqfep
+[13, 9]
 %NAME
 Case 2
 %TYPE
@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 't'], ['b', 'f'], ['c', 'z'], ['d', 'm'], ['e', 'd'], ['f', 'g'], ['g', 'v'], ['h', 'i'], ['i', 'i'], ['j', 'u'], ['k', 'd'], ['l', 'y'], ['m', 'd'], ['n', 'y'], ['o', 'm'], ['p', 'p'], ['q', 't'], ['r', 'u'], ['s', 'k'], ['t', 'q'], ['u', 'c'], ['v', 'q'], ['w', 'n'], ['x', 'h'], ['y', 'm'], ['z', 'd']], 'supercalifragilisticoespialidoso'))
+print(agregar_unidades([7,7,7,7,7,7,7,7],0,5))
 %OUTPUT
-kcpduztyigutviyikqizmdkpityimmkm
+[12, 7, 7, 7, 7, 7, 7, 7]
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'o'], ['b', 'f'], ['c', 'g'], ['d', 'a'], ['e', 'h'], ['f', 'd'], ['g', 'x'], ['h', 'd'], ['i', 'f'], ['j', 'b'], ['k', 'a'], ['l', 'n'], ['m', 'a'], ['n', 'w'], ['o', 'w'], ['p', 'i'], ['q', 'g'], ['r', 'k'], ['s', 'i'], ['t', 'l'], ['u', 'f'], ['v', 'a'], ['w', 'm'], ['x', 'u'], ['y', 'n'], ['z', 'l']], 'hipopotomonstrosesquipedaliofobia'))
+print(agregar_unidades([4],0,5))
 %OUTPUT
-dfiwiwlwawwilkwihigffihaonfwdwffo
+[9]
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'i'], ['b', 'd'], ['c', 'r'], ['d', 'i'], ['e', 'b'], ['f', 'g'], ['g', 'a'], ['h', 'm'], ['i', 'o'], ['j', 'm'], ['k', 'r'], ['l', 'y'], ['m', 's'], ['n', 'p'], ['o', 'o'], ['p', 'm'], ['q', 'i'], ['r', 'p'], ['s', 'c'], ['t', 'u'], ['u', 'm'], ['v', 'w'], ['w', 'v'], ['x', 'e'], ['y', 'z'], ['z', 'c']], 'pneumoultramicroscopicsilicovolcanoconiosis'))
+print(agregar_unidades([10,10,10,10,10],4,4))
 %OUTPUT
-mpbmsomyupisorpocromorcoyorowoyriporopoococ
+[10, 10, 10, 10, 14]
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'y'], ['b', 'e'], ['c', 'b'], ['d', 'u'], ['e', 'r'], ['f', 'r'], ['g', 'h'], ['h', 'p'], ['i', 's'], ['j', 'b'], ['k', 'w'], ['l', 'b'], ['m', 'p'], ['n', 'y'], ['o', 'l'], ['p', 'f'], ['q', 'y'], ['r', 'k'], ['s', 'a'], ['t', 'm'], ['u', 'v'], ['v', 'v'], ['w', 'j'], ['x', 'f'], ['y', 'b'], ['z', 'f']], 'electroencefalografista'))
+print(agregar_unidades([6,6,6,6,6,6,6,6],7,3))
 %OUTPUT
-rbrbmklrybrryblhkyrsamy
+[6, 6, 6, 6, 6, 6, 6, 9]
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'h'], ['b', 'e'], ['c', 'd'], ['d', 'e'], ['e', 'y'], ['f', 'o'], ['g', 'y'], ['h', 'x'], ['i', 'j'], ['j', 'o'], ['k', 's'], ['l', 'y'], ['m', 'g'], ['n', 'l'], ['o', 'y'], ['p', 'd'], ['q', 't'], ['r', 'c'], ['s', 'u'], ['t', 't'], ['u', 'h'], ['v', 'j'], ['w', 'h'], ['x', 'u'], ['y', 'm'], ['z', 'c']], 'desoxirribonucleico'))
+print(agregar_unidades([8],0,4))
 %OUTPUT
-eyuyujccjeylhdyyjdy
+[12]
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'e'], ['b', 'o'], ['c', 'w'], ['d', 'n'], ['e', 'z'], ['f', 'f'], ['g', 'c'], ['h', 'p'], ['i', 'j'], ['j', 'v'], ['k', 'm'], ['l', 'k'], ['m', 'o'], ['n', 'c'], ['o', 'm'], ['p', 'h'], ['q', 'h'], ['r', 'o'], ['s', 'w'], ['t', 'f'], ['u', 'f'], ['v', 'm'], ['w', 'v'], ['x', 'r'], ['y', 'q'], ['z', 'w']], 'ultramicroscopicamente'))
+print(agregar_unidades([9,9,9,9,9,9,9,9],1,3))
 %OUTPUT
-fkfoeojwomwwmhjweozcfz
+[9, 12, 9, 9, 9, 9, 9, 9]
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'a'], ['b', 'a'], ['c', 'n'], ['d', 'p'], ['e', 'z'], ['f', 'e'], ['g', 'y'], ['h', 'x'], ['i', 'f'], ['j', 's'], ['k', 'i'], ['l', 'l'], ['m', 'j'], ['n', 'p'], ['o', 'c'], ['p', 'o'], ['q', 'h'], ['r', 'g'], ['s', 'j'], ['t', 'f'], ['u', 'd'], ['v', 'x'], ['w', 'g'], ['x', 'w'], ['y', 'h'], ['z', 's']], 'otorrinolaringologia'))
+print(agregar_unidades([8,8,8,8,8],0,4))
 %OUTPUT
-cfcggfpclagfpyclcyfa
+[12, 8, 8, 8, 8]
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'w'], ['b', 'i'], ['c', 'v'], ['d', 'w'], ['e', 'x'], ['f', 'j'], ['g', 'c'], ['h', 'g'], ['i', 'z'], ['j', 'g'], ['k', 'u'], ['l', 's'], ['m', 'u'], ['n', 'j'], ['o', 't'], ['p', 'm'], ['q', 'l'], ['r', 'f'], ['s', 'c'], ['t', 'x'], ['u', 'j'], ['v', 'q'], ['w', 'i'], ['x', 'p'], ['y', 'b'], ['z', 'l']], 'sesquipedalidad'))
+print(agregar_unidades([7,7,7,7,7,7,7,7],3,2))
 %OUTPUT
-cxcljzmxwwszwww
+[7, 7, 7, 9, 7, 7, 7, 7]
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'd'], ['b', 'e'], ['c', 'p'], ['d', 'u'], ['e', 'o'], ['f', 'q'], ['g', 'q'], ['h', 'y'], ['i', 'y'], ['j', 'l'], ['k', 's'], ['l', 'w'], ['m', 'w'], ['n', 'q'], ['o', 'n'], ['p', 'f'], ['q', 'j'], ['r', 'u'], ['s', 'l'], ['t', 'd'], ['u', 'h'], ['v', 'a'], ['w', 'g'], ['x', 'p'], ['y', 'q'], ['z', 'v']], 'esternocleidomastoideo'))
+print(agregar_unidades([7,7,7,7,7,7,7,7],6,2))
 %OUTPUT
-oldouqnpwoyunwdldnyuon
+[7, 7, 7, 7, 7, 7, 9, 7]
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'z'], ['b', 't'], ['c', 'z'], ['d', 'k'], ['e', 'w'], ['f', 'n'], ['g', 'd'], ['h', 'v'], ['i', 'c'], ['j', 'x'], ['k', 'w'], ['l', 'p'], ['m', 't'], ['n', 's'], ['o', 'd'], ['p', 'a'], ['q', 'f'], ['r', 'k'], ['s', 'f'], ['t', 't'], ['u', 'b'], ['v', 'x'], ['w', 'k'], ['x', 'h'], ['y', 'y'], ['z', 'a']], 'parangaricutirimicuaro'))
+print(agregar_unidades([11,11,11,11,11,11,11,11,11,11,11,11,11,11,11],13,12))
 %OUTPUT
-bd59ff5b6c393b575dcfdf382b5b8033
+0b770f15822d5e5d3e857fb079c4cf30
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'w'], ['b', 'm'], ['c', 'h'], ['d', 'r'], ['e', 't'], ['f', 'z'], ['g', 'u'], ['h', 's'], ['i', 's'], ['j', 'v'], ['k', 'j'], ['l', 'u'], ['m', 'g'], ['n', 'e'], ['o', 'l'], ['p', 'f'], ['q', 'h'], ['r', 'e'], ['s', 'd'], ['t', 'x'], ['u', 'j'], ['v', 'a'], ['w', 'n'], ['x', 'g'], ['y', 'w'], ['z', 't']], 'ultracrepidarianismo'))
+print(agregar_unidades([28,28,28,28,28,28,28,28,28],2,11))
 %OUTPUT
-74541e1ee06bc0d2f85f17969d7fb33c
+b8b504bc92b6bf50685d1fdb58318ebe
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'h'], ['b', 'r'], ['c', 'h'], ['d', 'g'], ['e', 'b'], ['f', 'o'], ['g', 'j'], ['h', 'f'], ['i', 'g'], ['j', 'j'], ['k', 'o'], ['l', 'o'], ['m', 'h'], ['n', 'j'], ['o', 'v'], ['p', 'y'], ['q', 'b'], ['r', 'd'], ['s', 'g'], ['t', 'a'], ['u', 'y'], ['v', 'l'], ['w', 'q'], ['x', 'c'], ['y', 'r'], ['z', 'y']], 'perpendicularidad'))
+print(agregar_unidades([18,18,18,18,18,18,18,18],7,12))
 %OUTPUT
-198b6e322facfdca582693279e616cdd
+cdfe793ccdf449e246a00c7db8ae1cee
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'w'], ['b', 'w'], ['c', 'u'], ['d', 'o'], ['e', 'd'], ['f', 'j'], ['g', 'y'], ['h', 't'], ['i', 'c'], ['j', 'a'], ['k', 'q'], ['l', 'k'], ['m', 'u'], ['n', 'k'], ['o', 'z'], ['p', 'w'], ['q', 'r'], ['r', 'x'], ['s', 'x'], ['t', 'c'], ['u', 'n'], ['v', 'y'], ['w', 'i'], ['x', 'l'], ['y', 'j'], ['z', 'v']], 'espectrofotometria'))
+print(agregar_unidades([28,28,28,28,28,28,28,28,28,28,28,28],6,8))
 %OUTPUT
-85e494554aa100f121cb595485aa3ac5
+28972f34c11e880f58c2631523d61b6d
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'p'], ['b', 'h'], ['c', 'w'], ['d', 'r'], ['e', 'v'], ['f', 's'], ['g', 'w'], ['h', 't'], ['i', 'y'], ['j', 'g'], ['k', 't'], ['l', 'e'], ['m', 'u'], ['n', 'b'], ['o', 'q'], ['p', 'j'], ['q', 'v'], ['r', 'm'], ['s', 'd'], ['t', 'm'], ['u', 'm'], ['v', 'c'], ['w', 'f'], ['x', 'v'], ['y', 'g'], ['z', 'p']], 'bhnvkehnkrcjdlsrjvmtcgkjserfcfxmevjssf'))
+print(agregar_unidades([30,30,30,30,30,30,30,30,30,30,30,30,30,30],6,14))
 %OUTPUT
-60bea489ac871deb8b7291d32c2dbd60
+a65c46cdec74bc05ea83f6e85db4c165
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'f'], ['b', 'c'], ['c', 'k'], ['d', 'e'], ['e', 'l'], ['f', 'z'], ['g', 'x'], ['h', 'o'], ['i', 's'], ['j', 'o'], ['k', 'a'], ['l', 'i'], ['m', 'n'], ['n', 'j'], ['o', 'j'], ['p', 'k'], ['q', 'm'], ['r', 'c'], ['s', 'y'], ['t', 'd'], ['u', 'z'], ['v', 't'], ['w', 'r'], ['x', 'o'], ['y', 'e'], ['z', 'u']], 'hngjerjvmbcirilsetgrjcmromimcbves'))
+print(agregar_unidades([15,15,15,15,15,15,15,15,15,15,15,15,15,15,15],7,14))
 %OUTPUT
-9d1b36bf96fa0a0fa57fd83c530d7516
+aa17ed0acac7c071575ad830c145ff43
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'c'], ['b', 'f'], ['c', 'h'], ['d', 'q'], ['e', 'm'], ['f', 'z'], ['g', 'p'], ['h', 'z'], ['i', 'g'], ['j', 'f'], ['k', 'e'], ['l', 'o'], ['m', 'r'], ['n', 'h'], ['o', 'x'], ['p', 'j'], ['q', 'p'], ['r', 'l'], ['s', 'c'], ['t', 's'], ['u', 'n'], ['v', 'w'], ['w', 'z'], ['x', 'o'], ['y', 'o'], ['z', 'n']], 'bnrgvdcmguhercbjdoijbjvrbervd'))
+print(agregar_unidades([1,1,1,1,1,1,1,1,1,1,1,1,1,1],7,15))
 %OUTPUT
-a1495ee05cb2dd7531bc30e8b13cb515
+3facfe3d6b03247bbb4b2917dc4b5580
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'r'], ['b', 'h'], ['c', 't'], ['d', 'f'], ['e', 'b'], ['f', 'a'], ['g', 's'], ['h', 'x'], ['i', 'z'], ['j', 'k'], ['k', 'y'], ['l', 'f'], ['m', 'l'], ['n', 'f'], ['o', 'b'], ['p', 'w'], ['q', 'p'], ['r', 'm'], ['s', 'u'], ['t', 'e'], ['u', 'q'], ['v', 'm'], ['w', 'r'], ['x', 'c'], ['y', 'i'], ['z', 'e']], 'bhgjnvfmksavmvjkrgafwenjsmks'))
+print(agregar_unidades([6,6,6,6,6,6,6],0,8))
 %OUTPUT
-9db1e61049bd4ebed9c6c643cb773881
+ebcc56217aa9dc7f7a2889cbb76c01a2
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'l'], ['b', 'p'], ['c', 'v'], ['d', 'i'], ['e', 'z'], ['f', 'i'], ['g', 'u'], ['h', 'x'], ['i', 'k'], ['j', 's'], ['k', 'k'], ['l', 's'], ['m', 'c'], ['n', 's'], ['o', 'x'], ['p', 't'], ['q', 'm'], ['r', 'u'], ['s', 'y'], ['t', 'i'], ['u', 'm'], ['v', 's'], ['w', 't'], ['x', 'n'], ['y', 'd'], ['z', 'm']], 'nhjrkmefldfkjbnjgkmsflsdfvgnjgrfekmdvruwbhnrsjvhmrhcfnrgaxdvzgevjchbg'))
+print(agregar_unidades([15,15,15,15,15,15,15,15,15,15],6,12))
 %OUTPUT
-c47b2e63977f88e2a7270d097b239f0d
+eb2fbe1b2975c67357e02bbccda2433c
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(traducir([['a', 'h'], ['b', 'g'], ['c', 'c'], ['d', 'l'], ['e', 'f'], ['f', 'h'], ['g', 'x'], ['h', 'z'], ['i', 'a'], ['j', 'w'], ['k', 'l'], ['l', 'c'], ['m', 'd'], ['n', 'x'], ['o', 'h'], ['p', 'w'], ['q', 'n'], ['r', 'v'], ['s', 'd'], ['t', 'i'], ['u', 'c'], ['v', 'g'], ['w', 'l'], ['x', 'k'], ['y', 'q'], ['z', 'v']], 'mghvcirjshejngnsbghknjbcdbh'))
+print(agregar_unidades([20,20,20,20,20,20,20,20,20,20,20,20],4,12))
 %OUTPUT
-4def17eeb9943f2660c190de4d53b0bd
+515b8cb63039b9cafec62a932c359606
