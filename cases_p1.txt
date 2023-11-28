@@ -202,9 +202,9 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-Exploramos juntos, descubriendo nuevos horizontes
+descubriendo nuevos horizontes
 %OUTPUT
-ee8bcbbf7bda31ea69630b5348a9fbe5
+425d9afcb61a863f5c591ecc6dd9ea8d
 %NAME
 Case 6
 %TYPE
@@ -220,18 +220,18 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-En la calma, hallamos la sabiduría escondida
+Caminando por senderos desconocidos
 %OUTPUT
-c5ac58e5ed943ecdf0a9a9082cb34c3d
+34013b4c3f23704ea1e2e65c91d621ff
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Caminando por senderos desconocidos, encontramos sorpresas
+encontramos sorpresas
 %OUTPUT
-9bb228e108a4f58de2e79a35035106df
+fb1a446923ce3c8d579fdf727e3fba2a
 %NAME
 Case 9
 %TYPE
