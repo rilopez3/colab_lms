@@ -110,3 +110,93 @@ secreto
 print(crear_tropas(11,11))
 %OUTPUT
 bd666619a4e19027598995210bbbb109
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(11,19))
+%OUTPUT
+3994e4876a5a4cae44bdf963537c3bdd
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(11,5))
+%OUTPUT
+65130c182626852d36427a5ffbc8fc29
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(13,25))
+%OUTPUT
+2f9a9cc33200f9fde0bac1b51a220032
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(14,8))
+%OUTPUT
+dd01a53ae8dd0ec53dbb379cc2c5c37b
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(10,24))
+%OUTPUT
+4d152992e3c1110c506d7e0df63999a2
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(11,5))
+%OUTPUT
+65130c182626852d36427a5ffbc8fc29
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(13,2))
+%OUTPUT
+6fa905b8391c82ae24d8724a5e1b20dc
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(8,29))
+%OUTPUT
+f7a728f03acb1cb54b7d26bfca65d194
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+%CODE
+print(crear_tropas(15,26))
+%OUTPUT
+1d4d5707418d43e3024aa94210688a76
