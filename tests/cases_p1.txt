@@ -6,197 +6,197 @@ Case 1
 publico
 %PRECODE
 %INPUT
-7,auto,camioneta,camion,auto,auto,camion,camioneta,
 %CODE
+print(crear_tropas(5,10))
 %OUTPUT
-[['auto', 3], ['camioneta', 2], ['camion', 2]]
+[10, 10, 10, 10, 10]
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-28,bote,camioneta,moto,bus,bus,bicicleta,bicicleta,camioneta,bus,camioneta,autobus,autobus,camioneta,van,autobus,avion,bicicleta,van,camion,camioneta,moto,camion,bote,bicicleta,van,camioneta,avion,camioneta,
 %CODE
+print(crear_tropas(1,3))
 %OUTPUT
-[['bote', 2], ['camioneta', 7], ['moto', 2], ['bus', 3], ['bicicleta', 4], ['autobus', 3], ['van', 3], ['avion', 2], ['camion', 2]]
+[3]
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-14,van,bote,bus,van,camion,camion,bote,van,bus,auto,camioneta,moto,avion,auto,
 %CODE
+print(crear_tropas(3,7))
 %OUTPUT
-[['van', 3], ['bote', 2], ['bus', 2], ['camion', 2], ['auto', 2], ['camioneta', 1], ['moto', 1], ['avion', 1]]
+[7, 7, 7]
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-15,bicicleta,avion,bicicleta,camion,moto,auto,bus,avion,moto,bus,moto,avion,auto,bicicleta,avion,
 %CODE
+print(crear_tropas(6,7))
 %OUTPUT
-[['bicicleta', 3], ['avion', 4], ['camion', 1], ['moto', 3], ['auto', 2], ['bus', 2]]
+[7, 7, 7, 7, 7, 7]
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-27,camioneta,bote,bote,camion,avion,moto,avion,avion,bus,camioneta,avion,autobus,bus,bicicleta,camioneta,autobus,bote,camioneta,autobus,camion,camion,bicicleta,camioneta,bicicleta,bicicleta,bote,autobus,
 %CODE
+print(crear_tropas(5,4))
 %OUTPUT
-[['camioneta', 5], ['bote', 4], ['camion', 3], ['avion', 4], ['moto', 1], ['bus', 2], ['autobus', 4], ['bicicleta', 4]]
+[4, 4, 4, 4, 4]
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-17,camioneta,camion,camioneta,bicicleta,moto,camion,bus,bote,bicicleta,bote,avion,moto,camioneta,autobus,van,moto,camion,
 %CODE
+print(crear_tropas(11,8))
 %OUTPUT
-[['camioneta', 3], ['camion', 3], ['bicicleta', 2], ['moto', 3], ['bus', 1], ['bote', 2], ['avion', 1], ['autobus', 1], ['van', 1]]
+[8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-27,bus,van,camioneta,bus,bus,camioneta,camion,avion,bus,camioneta,bicicleta,van,bicicleta,camion,camion,bote,auto,bote,auto,autobus,auto,bote,moto,moto,van,autobus,auto,
 %CODE
+print(crear_tropas(2,3))
 %OUTPUT
-[['bus', 4], ['van', 3], ['camioneta', 3], ['camion', 3], ['avion', 1], ['bicicleta', 2], ['bote', 3], ['auto', 4], ['autobus', 2], ['moto', 2]]
+[3, 3]
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-15,avion,moto,avion,camioneta,van,camion,camioneta,bote,autobus,avion,camion,camion,avion,moto,avion,
 %CODE
+print(crear_tropas(5,1))
 %OUTPUT
-[['avion', 5], ['moto', 2], ['camioneta', 2], ['van', 1], ['camion', 3], ['bote', 1], ['autobus', 1]]
+[1, 1, 1, 1, 1]
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-28,moto,autobus,auto,camioneta,bote,moto,auto,bus,van,bote,moto,autobus,autobus,camion,van,bicicleta,auto,autobus,bicicleta,bicicleta,bicicleta,autobus,moto,autobus,camioneta,bicicleta,bicicleta,autobus,
 %CODE
+print(crear_tropas(6,6))
 %OUTPUT
-[['moto', 4], ['autobus', 7], ['auto', 3], ['camioneta', 2], ['bote', 2], ['bus', 1], ['van', 2], ['camion', 1], ['bicicleta', 6]]
+[6, 6, 6, 6, 6, 6]
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-19,camioneta,bicicleta,van,auto,avion,moto,bus,bus,avion,bicicleta,bus,bus,bus,avion,bote,camion,autobus,bicicleta,camioneta,
 %CODE
+print(crear_tropas(8,12))
 %OUTPUT
-[['camioneta', 2], ['bicicleta', 3], ['van', 1], ['auto', 1], ['avion', 3], ['moto', 1], ['bus', 5], ['bote', 1], ['camion', 1], ['autobus', 1]]
+[12, 12, 12, 12, 12, 12, 12, 12]
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-17,bote,auto,camioneta,camion,auto,moto,bicicleta,bus,van,camioneta,autobus,avion,camion,avion,bicicleta,bote,bus,
 %CODE
+print(crear_tropas(11,11))
 %OUTPUT
-e085d4a3148d9abef22109dc645e99e5
+b13efad9a9c7e232261c4535ce1d87b4
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-18,camioneta,auto,camioneta,avion,bicicleta,van,bicicleta,auto,bicicleta,autobus,camioneta,bote,auto,camioneta,camion,autobus,auto,camion,
 %CODE
+print(crear_tropas(11,19))
 %OUTPUT
-830fd4e2c0661155c4462e6585f227fa
+3994e4876a5a4cae44bdf963537c3bdd
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-11,bote,bicicleta,auto,autobus,camioneta,camioneta,van,moto,bote,avion,van,
 %CODE
+print(crear_tropas(11,5))
 %OUTPUT
-2fcf08c836850c38e92641de7436c299
+65130c182626852d36427a5ffbc8fc29
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-27,camioneta,bicicleta,bus,camion,camioneta,avion,bicicleta,bicicleta,autobus,auto,avion,camion,auto,camion,bote,camioneta,bicicleta,bus,bote,van,bicicleta,auto,auto,camioneta,autobus,van,moto,
 %CODE
+print(crear_tropas(13,25))
 %OUTPUT
-0b726fa41444d42d5c0e5b8a74b47db3
+2f9a9cc33200f9fde0bac1b51a220032
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-19,moto,bote,auto,bote,bus,auto,camion,bicicleta,bus,moto,camion,moto,bus,bicicleta,moto,moto,bote,bicicleta,bote,
 %CODE
+print(crear_tropas(14,8))
 %OUTPUT
-a27ce68e515e2f2a371d1f6edc785c3b
+dd01a53ae8dd0ec53dbb379cc2c5c37b
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-24,autobus,avion,bus,van,bus,bicicleta,auto,bicicleta,camioneta,bicicleta,bote,bote,camioneta,camion,moto,auto,auto,van,autobus,camioneta,auto,bus,bote,camioneta,
 %CODE
+print(crear_tropas(10,24))
 %OUTPUT
-04ce37792cca390c63ffd960eec00b59
+4d152992e3c1110c506d7e0df63999a2
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-14,camioneta,van,moto,autobus,avion,bus,camioneta,bote,avion,avion,van,bote,moto,bote,
 %CODE
+print(crear_tropas(11,5))
 %OUTPUT
-822d1cd1f1191aa3104bfd9e411d9ffc
+65130c182626852d36427a5ffbc8fc29
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-13,bus,moto,moto,bicicleta,bus,autobus,camion,moto,auto,avion,moto,auto,camion,
 %CODE
+print(crear_tropas(13,2))
 %OUTPUT
-075667c99a25266f2f5665eb2e835e29
+6fa905b8391c82ae24d8724a5e1b20dc
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-21,avion,camioneta,camioneta,bicicleta,moto,camioneta,avion,bote,camioneta,moto,autobus,auto,camion,avion,bote,bote,auto,camion,camion,avion,van,
 %CODE
+print(crear_tropas(8,29))
 %OUTPUT
-a2c68741dc6dcfc648df0280a53a3967
+f7a728f03acb1cb54b7d26bfca65d194
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-23,moto,van,bicicleta,van,auto,camioneta,bus,camioneta,moto,bote,van,autobus,camioneta,van,avion,bus,bicicleta,avion,moto,bus,autobus,bus,auto,
 %CODE
+print(crear_tropas(15,26))
 %OUTPUT
-f5c9e90e534274e892fef468b637f291
+1d4d5707418d43e3024aa94210688a76
