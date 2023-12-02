@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("0a3b6c"))
+print(proporcion([1,2,3,4,5,6,7,8], 2))
 %OUTPUT
-bbbcccccc
+0.875
 %NAME
 Case 2
 %TYPE
@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("1m0x1i2s1i0x2s1i2p0a1i0z"))
+print(proporcion([5, 16, 12, 29, 21, 9, 22, 17, 15, 8, 20], 16))
 %OUTPUT
-mississippi
+0.545
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("0t1a1r1q1u0m1e1o1z0e2o1l1o1g1i0h1a"))
+print(proporcion([24, 4, 19, 5, 22, 14, 1, 2, 9, 6, 8, 0], 24))
 %OUTPUT
-arqueozoologia
+0.083
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("1h0r1a2l0p1o1w2e0q1n0d0x"))
+print(proporcion([26, 47, 11, 48, 24, 46, 29, 37, 23, 10, 18, 7, 12, 43], 25))
 %OUTPUT
-halloween
+0.5
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("6D7t2N7S2v0l4q5s6C"))
+print(proporcion([1, 42, 39, 3, 5, 6, 14, 8, 18, 2, 25, 17, 45, 34, 20, 11, 15, 48, 7, 22], 5))
 %OUTPUT
-DDDDDDtttttttNNSSSSSSSvvqqqqsssssCCCCCC
+0.85
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("5e2X8E0r8U8H5m9b9W9L6S"))
+print(proporcion([6, 28, 42, 24, 35, 25, 3, 23, 33, 34, 14, 30, 13, 16, 46], 22))
 %OUTPUT
-eeeeeXXEEEEEEEEUUUUUUUUHHHHHHHHmmmmmbbbbbbbbbWWWWWWWWWLLLLLLLLLSSSSSS
+0.667
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("4M8a5P1H3v2q1u2l0U4x8V8w3M7C9x9h0d1k2h"))
+print(proporcion([34, 36, 4, 13, 44, 41, 2, 35, 0, 37, 15, 42, 21, 17, 49, 23, 3], 48))
 %OUTPUT
-MMMMaaaaaaaaPPPPPHvvvqqullxxxxVVVVVVVVwwwwwwwwMMMCCCCCCCxxxxxxxxxhhhhhhhhhkhh
+0.059
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("8W0l7i7f8a2D4u4j7K9C3b2g"))
+print(proporcion([16, 41, 91, 89, 78, 45, 71, 13, 17, 95, 77, 88, 68, 55, 74, 82, 44, 34, 72, 33, 90, 32, 28, 40, 20, 97, 92], 19))
 %OUTPUT
-WWWWWWWWiiiiiiifffffffaaaaaaaaDDuuuujjjjKKKKKKKCCCCCCCCCbbbgg
+0.889
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("0n2T8B0J9M3d6I7L8U7f7y1I9f8b8U7N8U4d"))
+print(proporcion([43, 59, 39, 19, 1, 7, 10, 31, 80, 13, 89, 77, 45, 86, 83, 81, 17, 36, 85, 55, 97, 71, 26, 52, 67, 12], 68))
 %OUTPUT
-TTBBBBBBBBMMMMMMMMMdddIIIIIILLLLLLLUUUUUUUUfffffffyyyyyyyIfffffffffbbbbbbbbUUUUUUUUNNNNNNNUUUUUUUUdddd
+0.346
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(dilata("0x8h6N3h1I6Q6v7A8j0g4S9t8H7g2z9y4l"))
+print(proporcion([90, 52, 17, 0, 78, 86, 23, 3, 56, 67, 20, 99, 28, 50, 92, 37, 43, 47, 96, 65], 63))
 %OUTPUT
-hhhhhhhhNNNNNNhhhIQQQQQQvvvvvvAAAAAAAjjjjjjjjSSSStttttttttHHHHHHHHgggggggzzyyyyyyyyyllll
+0.4
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("8o4t4j5M7v7b"))
+print(proporcion([18, 5, 17, 27, 14, 2, 8, 7, 0, 22, 15, 3], 10))
 %OUTPUT
-144025411a188cfd0b9440038384fba4
+d310cb367d993fb6fb584b198a2fd72c
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("6w9p3h2t5s9T"))
+print(proporcion([17, 19, 24, 26, 18, 16, 12, 10, 8], 15))
 %OUTPUT
-05abba69ebfeecd11c0cfc24a52ad7df
+27df4064836a51dbcd313df8d81e02ed
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("5m3q3K0y9C3d6W5M"))
+print(proporcion([17, 22, 21, 3, 28, 2, 5, 20, 8, 26, 19, 12, 16], 15))
 %OUTPUT
-22355f4eda824e2eae89c0282009b1c8
+1eeccdebf707ed62532d8273fff1aefb
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("3L9P9G7Y9F9F0l5z6x4g"))
+print(proporcion([13, 10, 46, 15, 34, 41, 42, 33, 39, 0, 24, 28, 4, 30, 18, 35, 38, 6, 11], 14))
 %OUTPUT
-71387b8e20bf2a3caac87e9e7ba24611
+3863fb0d64f18d0041fec279bfb87b4f
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("5G8r6H5P9y4F7o8G4n"))
+print(proporcion([0, 44, 10, 25, 17, 28, 12, 21, 19, 11, 2, 30, 36, 8, 38], 1))
 %OUTPUT
-a2c07cfc5900b2f2ad3aa35924239394
+d96bcf4de3a5c88466e6889b171e2647
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("8d5o4A8o7h0F1q6h4Q9R4D2Y"))
+print(proporcion([6, 44, 1, 12, 37, 34, 0, 9, 31, 29, 8, 36, 41, 2, 45, 19, 46], 38))
 %OUTPUT
-8b3fd9ba2ffc37390ede12b13f87129c
+6f76ca2c79c4e30830c6ca182f9a6f79
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("0C8g1M0H7n8p1c2n2P4M6d7u9m8Z9S6z"))
+print(proporcion([35, 16, 42, 41, 15, 40, 47, 30, 43, 2, 29, 48, 45, 1, 19, 8, 27, 44, 9], 43))
 %OUTPUT
-f98cc1b35ac6824c8cb4c2a44b58f882
+cfbafa8c4f70569e99e2b29c07600048
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("5V7Z9k9F9n0v1D9e1L2d1v2X9u9D3G0U0z6Z"))
+print(proporcion([48, 28, 98, 34, 90, 52, 44, 88, 83, 27, 20, 23, 4, 67, 43, 30, 64, 87, 46, 77, 74, 21, 41, 53, 11], 4))
 %OUTPUT
-10f62ba71cdd75d7836d08d3bb47f603
+e4c2e8edac362acab7123654b9e73432
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("6V1X9e2Q1p8D7C6v7N5j6E3a6F0u5y9h4i4I6D"))
+print(proporcion([30, 40, 55, 80, 6, 99, 7, 48, 32, 31, 11, 70, 98, 13, 14, 81, 82, 52, 58, 29, 86, 47, 20, 33, 19, 63, 25, 97, 92, 18], 50))
 %OUTPUT
-bccbf42cc71e6510d05c5f3277883ce0
+e07cefae866008f46547409b6d3655de
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(dilata("2X3G8M0o0L6M9a3c0m1D9v2U5V3G"))
+print(proporcion([4, 59, 24, 30, 55, 35, 23, 82, 83, 57, 1, 2, 16, 49, 36, 78, 19, 61, 94, 92, 56], 55))
 %OUTPUT
-ccbcf05809918ab59a8770164e3ba17f
+9e89f1ca90178f2aba46ef74daf55f2e
