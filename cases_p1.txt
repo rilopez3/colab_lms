@@ -6,74 +6,56 @@ Case 1
 publico
 %PRECODE
 %INPUT
-viernes,11,
+domingo,15,
 %OUTPUT
-futbol
+viaje
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-viernes,14,
+sabado,11,
 %OUTPUT
-tenis
+remo
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-domingo,7,
+sabado,17,
 %OUTPUT
-desayuno
+once
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-jueves,17,
+sabado,11,
 %OUTPUT
-once
+remo
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-domingo,15,
+domingo,11,
 %OUTPUT
-viaje
+ceremonia
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-jueves,17,
+jueves,7,
 %OUTPUT
-once
+desayuno
 %NAME
 Case 7
-%TYPE
-publico
-%PRECODE
-%INPUT
-viernes,10,
-%OUTPUT
-futbol
-%NAME
-Case 8
-%TYPE
-publico
-%PRECODE
-%INPUT
-jueves,11,
-%OUTPUT
-viaje
-%NAME
-Case 9
 %TYPE
 publico
 %PRECODE
@@ -82,101 +64,119 @@ domingo,10,
 %OUTPUT
 ceremonia
 %NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+domingo,10,
+%OUTPUT
+ceremonia
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+jueves,12,
+%OUTPUT
+almuerzo
+%NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-jueves,10,
+sabado,12,
 %OUTPUT
-viaje
+almuerzo
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-domingo,17,
+sabado,15,
 %OUTPUT
-3246a85582036e262538c6bd3088e9df
+cc3446ba7deed3d4e00d2723285fc2f7
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-sabado,15,
+viernes,9,
 %OUTPUT
-1d3e821d533453e8584887543c6c5acf
+7b08b9eb96845b169b713669020f6be4
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-domingo,13,
+viernes,15,
 %OUTPUT
-51f88eb8fbd3ee1d27bd710a6769ad74
+5d9c848c5dfbba7c0113c4974ec42c87
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-domingo,8,
+jueves,10,
 %OUTPUT
-37565dcc5d365fa2dcdac57ebd7b054c
+0408da5eadf5fd8327a2004b6ce574c2
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-jueves,11,
+domingo,17,
 %OUTPUT
-51f88eb8fbd3ee1d27bd710a6769ad74
+e2eff6c2dafd909df8508f891b385d88
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-sabado,17,
+viernes,13,
 %OUTPUT
-3246a85582036e262538c6bd3088e9df
+5d9c848c5dfbba7c0113c4974ec42c87
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-jueves,11,
+domingo,13,
 %OUTPUT
-51f88eb8fbd3ee1d27bd710a6769ad74
+0408da5eadf5fd8327a2004b6ce574c2
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-viernes,10,
+sabado,8,
 %OUTPUT
-31c1ad3d112b19355186740a64e76e03
+97a53ee9f45adfe53c762a72f83f6f43
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-sabado,17,
+sabado,15,
 %OUTPUT
-3246a85582036e262538c6bd3088e9df
+cc3446ba7deed3d4e00d2723285fc2f7
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-viernes,12,
+sabado,7,
 %OUTPUT
-cf8209e10ecd6c2e331d55714e25816a
+328e26f051836843a90e4922e93bace9
