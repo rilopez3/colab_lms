@@ -6,197 +6,177 @@ Case 1
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Santiago', 2], ['Rancagua', 5], ['Talca', 9], ['Chillan', 14], ['Concepcion', 25], ['Temuco', 20]]))
+0.5,
 %OUTPUT
-[['Santiago', 9], ['Rancagua', 20], ['Talca', 32], ['Chillan', 42], ['Concepcion', 56], ['Temuco', 51]]
+1.646
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Rengo', 5], ['Melipilla', 8], ['Colina', 5], ['Punta Arenas', 9], ['Paine', 2], ['Los Ángeles', 10]]))
+-0.17,
 %OUTPUT
-[['Rengo', 20], ['Melipilla', 29], ['Colina', 20], ['Punta Arenas', 32], ['Paine', 9], ['Los Ángeles', 34]]
+0.844
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Curicó', 7], ['Concepción', 10], ['La Serena', 8], ['Chillán', 8], ['Valdivia', 4], ['Talca', 9]]))
+-18.835,
 %OUTPUT
-[['Curicó', 26], ['Concepción', 34], ['La Serena', 29], ['Chillán', 29], ['Valdivia', 17], ['Talca', 32]]
+-954.098
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Puerto Montt', 44], ['Copiapó', 27], ['Villarrica', 30], ['Buin', 14], ['Peñaflor', 41], ['San Vicente', 10], ['Valdivia', 32], ['Talagante', 27], ['Angol', 38], ['Chillán', 21]]))
+29.337,
 %OUTPUT
-[['Puerto Montt', 69], ['Copiapó', 58], ['Villarrica', 61], ['Buin', 42], ['Peñaflor', 68], ['San Vicente', 34], ['Valdivia', 62], ['Talagante', 58], ['Angol', 66], ['Chillán', 52]]
+4668.862
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Coyhaique', 20], ['Puerto Montt', 25], ['Iquique', 12], ['Angol', 17], ['Coquimbo', 37], ['Los Ángeles', 12], ['Ovalle', 49], ['Constitucion', 24], ['Quillota', 19]]))
+11.66,
 %OUTPUT
-[['Coyhaique', 51], ['Puerto Montt', 56], ['Iquique', 38], ['Angol', 47], ['Coquimbo', 66], ['Los Ángeles', 38], ['Ovalle', 72], ['Constitucion', 55], ['Quillota', 50]]
+344.845
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['San Javier', 36], ['Osorno', 23], ['Melipilla', 46], ['Villarrica', 20], ['Quillota', 42], ['Valparaíso', 17]]))
+-15.656,
 %OUTPUT
-[['San Javier', 65], ['Osorno', 54], ['Melipilla', 70], ['Villarrica', 51], ['Quillota', 68], ['Valparaíso', 47]]
+-531.675
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Villarrica', 191], ['Constitucion', 248], ['Arica', 74], ['Valparaíso', 79], ['Quillota', 294], ['Melipilla', 115], ['Buin', 219], ['Iquique', 208], ['Limache', 80], ['Talca', 149], ['San Felipe', 150], ['Chillán', 70], ['Punta Arenas', 271], ['San Antonio', 261], ['Ovalle', 65], ['Cauquenes', 103], ['Calama', 120]]))
+7.259,
 %OUTPUT
-[['Villarrica', 90], ['Constitucion', 92], ['Arica', 79], ['Valparaíso', 80], ['Quillota', 93], ['Melipilla', 85], ['Buin', 92], ['Iquique', 91], ['Limache', 80], ['Talca', 88], ['San Felipe', 88], ['Chillán', 78], ['Punta Arenas', 93], ['San Antonio', 93], ['Ovalle', 77], ['Cauquenes', 84], ['Calama', 86]]
+98.355
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Cauquenes', 92], ['Concepción', 158], ['Puerto Montt', 55], ['Los Ángeles', 184], ['Quillota', 239], ['Antofagasta', 135], ['Chillán', 138], ['Villarrica', 251], ['Angol', 199], ['Rengo', 198]]))
+6.283,
 %OUTPUT
-[['Cauquenes', 82], ['Concepción', 89], ['Puerto Montt', 74], ['Los Ángeles', 90], ['Quillota', 92], ['Antofagasta', 87], ['Chillán', 87], ['Villarrica', 92], ['Angol', 91], ['Rengo', 91]]
+68.359
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Copiapó', 93], ['Melipilla', 125], ['Iquique', 85], ['Ovalle', 201], ['Vallenar', 100], ['Antofagasta', 199], ['Calama', 68], ['Arica', 97], ['Colina', 61], ['San Fernando', 185], ['Coquimbo', 137], ['Puerto Montt', 210], ['Santiago', 65]]))
+23.701,
 %OUTPUT
-[['Copiapó', 83], ['Melipilla', 86], ['Iquique', 81], ['Ovalle', 91], ['Vallenar', 84], ['Antofagasta', 91], ['Calama', 78], ['Arica', 83], ['Colina', 76], ['San Fernando', 90], ['Coquimbo', 87], ['Puerto Montt', 91], ['Santiago', 77]]
+2524.526
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Constitucion', 252], ['San Antonio', 108], ['San Vicente', 137], ['Peñaflor', 207], ['Valdivia', 285], ['Temuco', 69], ['Buin', 154], ['Iquique', 60], ['San Javier', 168], ['Colina', 194], ['Curicó', 95], ['Rengo', 131], ['Paine', 170], ['Concepción', 280], ['Valparaíso', 184], ['Arica', 110], ['La Serena', 208], ['Villarrica', 247]]))
+-13.055,
 %OUTPUT
-[['Constitucion', 92], ['San Antonio', 85], ['San Vicente', 87], ['Peñaflor', 91], ['Valdivia', 93], ['Temuco', 78], ['Buin', 89], ['Iquique', 75], ['San Javier', 89], ['Colina', 91], ['Curicó', 83], ['Rengo', 87], ['Paine', 89], ['Concepción', 93], ['Valparaíso', 90], ['Arica', 85], ['La Serena', 91], ['Villarrica', 92]]
+-297.672
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Limache', 5], ['Coyhaique', 10], ['Osorno', 10], ['Quillota', 6]]))
+24.102,
 %OUTPUT
-04fdff00b8ea27b9834624dc421d90df
+62cdde2508dd0da463b0bd5c0803d098
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Antofagasta', 10], ['Constitucion', 7], ['Limache', 3], ['Santiago', 7], ['Curicó', 9], ['Valdivia', 6]]))
+-29.212,
 %OUTPUT
-0f678725fee150b752f29e94cdd1427f
+6bfefee8b9f66b6991770ab044b4610c
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Peñaflor', 2], ['Angol', 5], ['Curicó', 6], ['Coyhaique', 7]]))
+-18.132,
 %OUTPUT
-01aeb110f15ce60ed2f63bc7536c5077
+f9473d40ffbf7e400f707849312eb28e
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Santiago', 42], ['San Vicente', 20], ['Paine', 44], ['Angol', 39], ['Constitucion', 11], ['Cauquenes', 30], ['Rengo', 43], ['Coyhaique', 12], ['Peñaflor', 43]]))
+7.025,
 %OUTPUT
-8a5ffca10c463e466fe3748f0b9b6798
+e08d1975921619d6fac760be618d701c
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Constitucion', 22], ['Peñaflor', 45], ['Lampa', 15], ['Talagante', 45], ['Iquique', 30], ['Valdivia', 49], ['Linares', 14], ['Ovalle', 38]]))
+11.562,
 %OUTPUT
-383e8c083e15764515edf3738f1c38e6
+77b3cac1bf89b0de018aefc96bcf1a94
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Iquique', 23], ['Linares', 37], ['Antofagasta', 26], ['Lampa', 44], ['Calama', 12], ['Los Ángeles', 47], ['Arica', 20], ['Quillota', 21], ['Talca', 33]]))
+13.033,
 %OUTPUT
-c040596eec6baa5b7fbe51f8877d58f8
+919ffc78392485a1b536c5db92646938
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Temuco', 88], ['Concepción', 188], ['Talca', 86], ['Rancagua', 155], ['Villarrica', 244], ['Buin', 210], ['Los Ángeles', 180], ['Cauquenes', 216], ['San Carlos', 263], ['Antofagasta', 252], ['San Fernando', 78], ['Ovalle', 76], ['Lampa', 204], ['Vallenar', 277], ['Limache', 96], ['San Vicente', 125], ['Talagante', 293]]))
+0.852,
 %OUTPUT
-a127a3acac99cea6501ba6fe17ed6a5a
+d6d5614a31071a22abc266dd045cca1c
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Arica', 287], ['Iquique', 246], ['Ovalle', 58], ['Talagante', 94], ['La Serena', 284], ['Lampa', 225], ['Coyhaique', 151], ['San Vicente', 156], ['Copiapó', 218], ['Rengo', 221]]))
+-24.903,
 %OUTPUT
-a1e6fe9eb35cf40f2ef37f7bd7a5693d
+29f2fd55762e6701a528a55235897b88
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Calama', 218], ['Linares', 193], ['Chillán', 223], ['San Fernando', 260], ['Ovalle', 166], ['Punta Arenas', 65], ['Quillota', 225], ['Coyhaique', 232], ['Talca', 211], ['Peñaflor', 277], ['Arica', 162], ['Villarrica', 78], ['Concepción', 262], ['San Carlos', 289], ['Cauquenes', 155], ['Paine', 274], ['Santiago', 206], ['Melipilla', 94], ['Limache', 163], ['Coquimbo', 68]]))
+-19.859,
 %OUTPUT
-96dcfa31a0305befea16076cda44e69b
+daa1b2cce2fced2a604cd062de5fcded
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-%CODE
-print(afectacion([['Concepción', 71], ['Valdivia', 162], ['La Serena', 92], ['Quillota', 282], ['Talca', 228], ['Osorno', 125], ['San Vicente', 271], ['Iquique', 252], ['Punta Arenas', 66], ['San Javier', 147], ['Ovalle', 130], ['Antofagasta', 73], ['Villarrica', 295]]))
+-9.927,
 %OUTPUT
-5af24aa324b61a17e63fdba4a546e51e
+969b5203df6a36ecc7a9f3a3b584cfe6
