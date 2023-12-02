@@ -1,0 +1,182 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+viernes,11,
+%OUTPUT
+futbol
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+viernes,14,
+%OUTPUT
+tenis
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+domingo,7,
+%OUTPUT
+desayuno
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+jueves,17,
+%OUTPUT
+once
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+domingo,15,
+%OUTPUT
+viaje
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+jueves,17,
+%OUTPUT
+once
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+viernes,10,
+%OUTPUT
+futbol
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+jueves,11,
+%OUTPUT
+viaje
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+domingo,10,
+%OUTPUT
+ceremonia
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+jueves,10,
+%OUTPUT
+viaje
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+domingo,17,
+%OUTPUT
+3246a85582036e262538c6bd3088e9df
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+sabado,15,
+%OUTPUT
+1d3e821d533453e8584887543c6c5acf
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+domingo,13,
+%OUTPUT
+51f88eb8fbd3ee1d27bd710a6769ad74
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+domingo,8,
+%OUTPUT
+37565dcc5d365fa2dcdac57ebd7b054c
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+jueves,11,
+%OUTPUT
+51f88eb8fbd3ee1d27bd710a6769ad74
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+sabado,17,
+%OUTPUT
+3246a85582036e262538c6bd3088e9df
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+jueves,11,
+%OUTPUT
+51f88eb8fbd3ee1d27bd710a6769ad74
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+viernes,10,
+%OUTPUT
+31c1ad3d112b19355186740a64e76e03
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+sabado,17,
+%OUTPUT
+3246a85582036e262538c6bd3088e9df
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+viernes,12,
+%OUTPUT
+cf8209e10ecd6c2e331d55714e25816a
