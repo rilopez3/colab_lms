@@ -1,0 +1,4 @@
+P1,https://raw.githubusercontent.com/rilopez3/colab_lms/examen_2023/cases_p1.txt
+P2,https://raw.githubusercontent.com/rilopez3/colab_lms/examen_2023/cases_p2.txt
+P3,https://raw.githubusercontent.com/rilopez3/colab_lms/examen_2023/cases_p3.txt
+P4,https://raw.githubusercontent.com/rilopez3/colab_lms/examen_2023/cases_p4.txt
