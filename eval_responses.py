@@ -2,7 +2,7 @@
 # LOS ARCHIVOS A EVALUAR DEBEN ESTAR EN EL SIGUIENTE DIRECTORIO
 # ./res/seccion/[ alumno_1.ipynb, alumno_2.ipynb, alumno_3.ipynb ... ]
 global PATH_CASES
-PATH_CASES = 'https://raw.githubusercontent.com/rilopez3/colab_lms/examen_2023/cases_urls.txt'
+PATH_CASES = 'https://raw.githubusercontent.com/rilopez3/colab_lms/examen_recuperativo_2023/cases_urls.txt'
 
 import glob
 from json import load
