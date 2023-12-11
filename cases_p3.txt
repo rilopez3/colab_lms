@@ -53,7 +53,7 @@ print(puntos(['vidrio', 'plastico', 'metal']))
 %NAME
 Case 1
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -63,7 +63,7 @@ d26b80bf6a39b699baaf9d49734bc5cb
 %NAME
 Case 2
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -73,7 +73,7 @@ d26b80bf6a39b699baaf9d49734bc5cb
 %NAME
 Case 3
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -83,7 +83,7 @@ bb494f8299f7bc0a19c470aa5c701eab
 %NAME
 Case 4
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -93,7 +93,7 @@ d26b80bf6a39b699baaf9d49734bc5cb
 %NAME
 Case 5
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -103,7 +103,7 @@ print(puntos(['vidrio']))
 %NAME
 Case 6
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -113,7 +113,7 @@ d26b80bf6a39b699baaf9d49734bc5cb
 %NAME
 Case 7
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -123,7 +123,7 @@ d87c69a9dca20983a883f160e8d4466a
 %NAME
 Case 8
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -133,7 +133,7 @@ d26b80bf6a39b699baaf9d49734bc5cb
 %NAME
 Case 9
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
@@ -143,7 +143,7 @@ bb494f8299f7bc0a19c470aa5c701eab
 %NAME
 Case 10
 %TYPE
-publico
+secreto
 %PRECODE
 %INPUT
 %CODE
